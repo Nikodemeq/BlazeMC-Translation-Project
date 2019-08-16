@@ -603,17 +603,17 @@ Reset-Suit-Helmet: '&eReset your Helmet.'
 Reset-Suit-Chestplate: '&eReset your Chestplate.'
 Reset-Suit-Leggings: '&eReset your Leggings.'
 Reset-Suit-Boots: '&eReset your Boots.'
-Granted-Access-To-Animated-Hat: '&eYou''ve been granted permission to equip {ANIMATED_HAT}&e.'
-Granted-Access-To-Banner: '&eYou''ve been granted permission to equip {BANNER}&e.'
-Granted-Access-To-Cloak: '&eYou''ve been granted permission to equip {CLOAK}&e.'
-Granted-Access-To-Emote: '&eYou''ve been granted permission to equip {EMOTE}&e.'
-Granted-Access-To-Gadget: '&eYou''ve been granted permission to equip {GADGET}&e.'
-Granted-Access-To-Hat: '&eYou''ve been granted permission to equip {HAT}&e.'
-Granted-Access-To-Miniature: '&eYou''ve been granted permission to equip {MINIATURE}&e.'
-Granted-Access-To-Morph: '&eYou''ve been granted permission to equip {MORPH}&e.'
-Granted-Access-To-Particle: '&eYou''ve been granted permission to equip {PARTICLE}&e.'
-Granted-Access-To-Pet: '&eYou''ve been granted permission to equip {PET}&e.'
-Granted-Access-To-Suit: '&eYou''ve been granted permission to equip {SUIT}&e.'
+Granted-Access-To-Animated-Hat: '&eOtrzymales permisje do ekwipowania {ANIMATED_HAT}&e.'
+Granted-Access-To-Banner: '&eOtrzymales permisje do ekwipowania {BANNER}&e.'
+Granted-Access-To-Cloak: '&eOtrzymales permisje do ekwipowania {CLOAK}&e.'
+Granted-Access-To-Emote: '&eOtrzymales permisje do ekwipowania {EMOTE}&e.'
+Granted-Access-To-Gadget: '&eOtrzymales permisje do ekwipowania {GADGET}&e.'
+Granted-Access-To-Hat: '&eOtrzymales permisje do ekwipowania {HAT}&e.'
+Granted-Access-To-Miniature: '&eOtrzymales permisje do ekwipowania {MINIATURE}&e.'
+Granted-Access-To-Morph: '&eOtrzymales permisje do ekwipowania {MORPH}&e.'
+Granted-Access-To-Particle: '&eOtrzymales permisje do ekwipowania {PARTICLE}&e.'
+Granted-Access-To-Pet: '&eOtrzymales permisje do ekwipowania {PET}&e.'
+Granted-Access-To-Suit: '&eOtrzymales permisje do ekwipowania {SUIT}&e.'
 Granted-Access-To-Animated-Hat-For-Player: '&e{PLAYER} is now allowed to use {ANIMATED_HAT}&e.'
 Granted-Access-To-Banner-For-Player: '&e{PLAYER} is now allowed to use {BANNER}&e.'
 Granted-Access-To-Cloak-For-Player: '&e{PLAYER} is now allowed to use {CLOAK}&e.'
@@ -625,17 +625,17 @@ Granted-Access-To-Morph-For-Player: '&e{PLAYER} is now allowed to use {MORPH}&e.
 Granted-Access-To-Particle-For-Player: '&e{PLAYER} is now allowed to use {PARTICLE}&e.'
 Granted-Access-To-Pet-For-Player: '&e{PLAYER} is now allowed to use {PET}&e.'
 Granted-Access-To-Suit-For-Player: '&e{PLAYER} is now allowed to use {SUIT}&e.'
-No-Longer-Have-Access-To-Animated-Hat: '&eYou no longer have access to {ANIMATED_HAT}&e.'
-No-Longer-Have-Access-To-Banner: '&eYou no longer have access to {BANNER}&e.'
-No-Longer-Have-Access-To-Cloak: '&eYou no longer have access to {CLOAK}&e.'
-No-Longer-Have-Access-To-Emote: '&eYou no longer have access to {EMOTE}&e.'
-No-Longer-Have-Access-To-Gadget: '&eYou no longer have access to {GADGET}&e.'
-No-Longer-Have-Access-To-Hat: '&eYou no longer have access to {HAT}&e.'
-No-Longer-Have-Access-To-Miniature: '&eYou no longer have access to {MINIATURE}&e.'
-No-Longer-Have-Access-To-Morph: '&eYou no longer have access to {MORPH}&e.'
-No-Longer-Have-Access-To-Particle: '&eYou no longer have access to {PARTICLE}&e.'
-No-Longer-Have-Access-To-Pet: '&eYou no longer have access to {PET}&e.'
-No-Longer-Have-Access-To-Suit: '&eYou no longer have access to {SUIT}&e.'
+No-Longer-Have-Access-To-Animated-Hat: '&eJuz nie masz uprawnien do {ANIMATED_HAT}&e.'
+No-Longer-Have-Access-To-Banner: '&eJuz nie masz uprawnien do {BANNER}&e.'
+No-Longer-Have-Access-To-Cloak: '&eJuz nie masz uprawnien do {CLOAK}&e.'
+No-Longer-Have-Access-To-Emote: '&eJuz nie masz uprawnien do {EMOTE}&e.'
+No-Longer-Have-Access-To-Gadget: '&eJuz nie masz uprawnien do {GADGET}&e.'
+No-Longer-Have-Access-To-Hat: '&eJuz nie masz uprawnien do {HAT}&e.'
+No-Longer-Have-Access-To-Miniature: '&eJuz nie masz uprawnien do {MINIATURE}&e.'
+No-Longer-Have-Access-To-Morph: '&eJuz nie masz uprawnien do {MORPH}&e.'
+No-Longer-Have-Access-To-Particle: '&eJuz nie masz uprawnien do {PARTICLE}&e.'
+No-Longer-Have-Access-To-Pet: '&eJuz nie masz uprawnien do {PET}&e.'
+No-Longer-Have-Access-To-Suit: '&eJuz nie masz uprawnien do {SUIT}&e.'
 Already-Has-Permission: '&c{PLAYER} already has this permission.'
 Successful-Remove-Permission: '&eSuccessful remove the permission to access &c{TYPE}
   &efrom {PLAYER}&e.'
@@ -788,8 +788,8 @@ Already-Activate-One: '{PREFIX}&cThere''s already have a {GADGET} activate! Plea
   try again later.'
 Gadget-Activated-In-Same-Area: '{PREFIX}&cThere''s a gadget activated in this area!
   Please try at another area.'
-Enabled: '&aEnabled'
-Disabled: '&cDisabled'
+Enabled: '&aWlaczony'
+Disabled: '&cWylaczony'
 Cooldown-Bypass: Cooldown Bypass
 Self-Morph-View: Self Morph View
 Unequip-Cosmetics-Due-To-Low-TPS: '{PREFIX}&cYour cosmetics has been unequipped due
@@ -798,13 +798,13 @@ Disable-Usage-Of-Cosmetics: '{PREFIX}&cSorry for the inconvenience, all cosmetic
   have been disabled due to server lag.'
 Not-Allow-Cosmetics-In-Region: '{PREFIX}&cYou''re not allowed to equip cosmetics in
   this region.'
-Second: Second
-Seconds: Seconds
-Minute: minute
-Minutes: minutes
-Hour: hour
-Hours: hours
-Day: day
-Days: days
-No-Cosmetic-Equipped: none
-No-Recent-Loot-Found: none
+Second: Sekunda
+Seconds: Sekund
+Minute: Minuta
+Minutes: Minut
+Hour: Godzina
+Hours: Godzin
+Day: Dzien
+Days: Dni
+No-Cosmetic-Equipped: Brak
+No-Recent-Loot-Found: Brak
