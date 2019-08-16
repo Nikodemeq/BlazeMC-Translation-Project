@@ -4,13 +4,13 @@ MainMenu:
     Material: DIAMOND_HELMET
     Lore:
     - '&7Collect all the hats and'
-    - '&7wear them while in a lobby.'
+    - '&7wear them in a lobby.'
   Animated Hats:
     Name: '&eAnimated Hats'
     Material: head:5ebfd2396cbabdb42c348bcf41599c87a506a71ef60948c496f95c6cb63141
     Lore:
     - '&7These hats take it a step'
-    - '&7further and move while on'
+    - '&7further and move on'
     - '&7your head.'
   Particles:
     Name: '&eParticles'
@@ -32,7 +32,7 @@ MainMenu:
     Material: PISTON
     Lore:
     - '&7These fun little toys'
-    - '&7can be used while'
+    - '&7can be used'
     - '&7in a lobby.'
   Pets:
     Name: '&ePets'
@@ -63,7 +63,7 @@ MainMenu:
     Material: CUSTOM_MATERIAL_1
     Lore:
     - '&7Unlock all the Banners and'
-    - '&7wear them as hats while in'
+    - '&7wear them as hats in'
     - '&7in a lobby!'
   Emotes:
     Name: '&eEmotes'

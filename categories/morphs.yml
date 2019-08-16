@@ -10,10 +10,7 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Pig. While'
-    - '&7transformed, you can squeal'
-    - '&7by right-clicking the Slimeball'
-    - '&7item in your hotbar.'
+    - '&7Przemien sie w Pig.'
   Cow:
     Name: '&9Cow Przemiana'
     Material: COOKED_BEEF
@@ -25,10 +22,7 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Cow. While'
-    - '&7transformed, you can moo'
-    - '&7by right-clicking the Slimeball'
-    - '&7item in your hotbar.'
+    - '&7Przemien sie w Cow.'
   Enderman:
     Name: '&5Enderman Przemiana'
     Material: ENDER_PEARL
@@ -40,10 +34,7 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Enderman. While'
-    - '&7transformed, you can teleport'
-    - '&7randomly by right-clicking the'
-    - '&7Slimeball item in your hotbar.'
+    - '&7Przemien sie w Enderman.'
   Chicken:
     Name: '&5Chicken Przemiana'
     Material: EGG
@@ -55,10 +46,7 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Chicken. While'
-    - '&7transformed, you can lay eggs'
-    - '&7by right-clicking the Slimeball'
-    - '&7item in your hotbar.'
+    - '&7Przemien sie w Chicken.'
   Spider:
     Name: '&5Spider Przemiana'
     Material: COBWEB
@@ -70,11 +58,7 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Spider. While'
-    - '&7transformed, you can shoot webs'
-    - '&7all around you by right-clicking'
-    - '&7the Slimeball item in your'
-    - '&7hotbar.'
+    - '&7Przemien sie w Spider.'
   Sheep:
     Name: '&5Sheep Przemiana'
     Material: WHITE_WOOL
@@ -86,11 +70,7 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Sheep. While'
-    - '&7transformed, you can activate'
-    - '&7Rainbow Sheep Mode by'
-    - '&7right-clicking the Slimeball item'
-    - '&7in your hotbar.'
+    - '&7Przemien sie w Sheep.'
   Skeleton:
     Name: '&5Skeleton Przemiana'
     Material: BOW
@@ -102,10 +82,7 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Skeleton. While'
-    - '&7transformed, you can shoot arrows'
-    - '&7by right-clicking the Slimeball'
-    - '&7item in your hotbar.'
+    - '&7Przemien sie w Skeleton.'
   Creeper:
     Name: '&6Creeper Przemiana'
     Material: TNT
@@ -117,11 +94,7 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Creeper. While'
-    - '&7transformed, you can explode to'
-    - '&7knock nearby players aways by'
-    - '&7right-clicking the Slimeball'
-    - '&7item in your hotbar.'
+    - '&7Przemien sie w Creeper.'
   Blaze:
     Name: '&6Blaze Przemiana'
     Material: BLAZE_POWDER
@@ -133,10 +106,7 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Blaze. While'
-    - '&7transformed, you can shoot'
-    - '&7fireballs by right-clicking the'
-    - '&7Slimeball item in your hotbar.'
+    - '&7Przemien sie w Blaze.'
   Zombie:
     Name: '&6Zombie Przemiana'
     Material: ROTTEN_FLESH
@@ -148,11 +118,7 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Zombie. While'
-    - '&7transformed, you can infect other'
-    - '&7players and turn them into a'
-    - '&7zombie by right-clicking with'
-    - '&7the Slimeball item in your hotbar.'
+    - '&7Przemien sie w Zombie.'
   Iron Golem:
     Name: '&6Iron Golem Przemiana'
     Material: IRON_BLOCK
@@ -164,11 +130,7 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Iron Golem.'
-    - '&7While transformed, you can vigorously'
-    - '&7hit the ground by'
-    - '&7right-clicking with the Slimeball'
-    - '&7item in your hotbar.'
+    - '&7Przemien sie w Iron Golem.'
   Witch:
     Name: '&6Witch Przemiana'
     Material: POTION:8196
@@ -180,10 +142,7 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Witch. While'
-    - '&7transformed, you can throw special'
-    - '&7potions by right-clicking with the'
-    - '&7Slimeball item in your hotbar.'
+    - '&7Przemien sie w Witch.'
   Snowman:
     Name: '&6Snowman Przemiana'
     Material: SNOWBALL
@@ -195,11 +154,7 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Snowman. While'
-    - '&7transformed, you can throw'
-    - '&7snowballs by right-clicking with'
-    - '&7the Slimeball item in your'
-    - '&7hotbar.'
+    - '&7Przemien sie w Snowman.'
   Guardian:
     Name: '&6Guardian Przemiana'
     Material: PRISMARINE_SHARD
@@ -211,8 +166,4 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Guardian.'
-    - '&7While transformed, you can shoot'
-    - '&7lasers by right-clicking with'
-    - '&7the Slimeball item in your'
-    - '&7hotbar.'
+    - '&7Przemien sie w Guardian.'

@@ -519,7 +519,7 @@ Reset-Buttons:
       Enabled: true
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Cloak:
-    Name: '&cReset Cloak'
+    Name: '&cReset Peleryna'
     Material: RED_STAINED_GLASS
     Show: true
     Lore: ''
@@ -534,20 +534,20 @@ Cooldown-In-Action-Bar:
     Amount-Of-Blocks: 100
   Cooldown-Message: '{NAME} &f{COOLDOWN_BLOCK} &f{TIME_LEFT}s'
 Item-Purchase-Messages:
-  Purchase-Hat: '{PREFIX}&eYou purchased {ITEM}&e.'
-  Purchase-Animated-Hat: '{PREFIX}&eYou purchased {ITEM}&e.'
-  Purchase-Particle: '{PREFIX}&eYou purchased {ITEM}&e.'
-  Purchase-Suit: '{PREFIX}&eYou purchased {ITEM}&e.'
-  Purchase-Gadget: '{PREFIX}&eYou purchased {ITEM}&e.'
-  Purchase-Pet: '{PREFIX}&eYou purchased {ITEM}&e.'
-  Purchase-Miniature: '{PREFIX}&eYou purchased {ITEM}&e.'
-  Purchase-Morph: '{PREFIX}&eYou purchased {ITEM}&e.'
-  Purchase-Banner: '{PREFIX}&eYou purchased {ITEM}&e.'
-  Purchase-Emote: '{PREFIX}&eYou purchased {ITEM}&e.'
-  Purchase-Cloak: '{PREFIX}&eYou purchased {ITEM}&e.'
+  Purchase-Hat: '{PREFIX}&eZakupiles {ITEM}&e.'
+  Purchase-Animated-Hat: '{PREFIX}&eZakupiles {ITEM}&e.'
+  Purchase-Particle: '{PREFIX}&eZakupiles {ITEM}&e.'
+  Purchase-Suit: '{PREFIX}&eZakupiles {ITEM}&e.'
+  Purchase-Gadget: '{PREFIX}&eZakupiles {ITEM}&e.'
+  Purchase-Pet: '{PREFIX}&eZakupiles {ITEM}&e.'
+  Purchase-Miniature: '{PREFIX}&eZakupiles {ITEM}&e.'
+  Purchase-Morph: '{PREFIX}&eZakupiles {ITEM}&e.'
+  Purchase-Banner: '{PREFIX}&eZakupiles {ITEM}&e.'
+  Purchase-Emote: '{PREFIX}&eZakupiles {ITEM}&e.'
+  Purchase-Cloak: '{PREFIX}&eZakupiles {ITEM}&e.'
 Checking-For-Update: '{PREFIX}&rChecking for updates...'
 Cooldown: '{PREFIX}&cYou must wait &b{COOLDOWN}s &cbefore using this!'
-Error: '{PREFIX}&cAn error occurred while performing this operation!'
+Error: '{PREFIX}&cAn error occurred performing this operation!'
 No-Permission: '{PREFIX}&cYou don''t have the required permission {PERMISSION}!'
 World-Disabled: '{PREFIX}&cYou don''t have permission to do that on this world!'
 Scanning-Player-Data-Files: '{PREFIX}&eScanning player data files...'
@@ -770,7 +770,7 @@ Enabled-Random-Mystery-Vault-Animation: '{PREFIX}&eYou &aenabled &bRandom Animat
 Disabled-Random-Mystery-Vault-Animation: '{PREFIX}&eYou &cdisabled &bRandom Animation
   &efor your mystery vault animation.'
 Disabled-Command-While-Cosmetics-Activated: '{PREFIX}&cYou can''t use this command
-  while cosmetics are activated!'
+  cosmetics are activated!'
 Invalid-Type: '{PREFIX}&cThis {TYPE} that you entered is invalid!'
 Type-Is-Not-Enabled: '{PREFIX}&cThis {TYPE} is not enabled!'
 Turn-Off-Bumblebee-Song: '{PREFIX}&cBumblebee song has been turned off!'
