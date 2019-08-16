@@ -1,6 +1,6 @@
 Animated-Hats:
   Siren:
-    Name: '&9Siren Animated Hat'
+    Name: '&9Siren Animowany Kapelusz'
     Mystery Dust: 20
     Rarity: Rare
     Enabled: true
@@ -8,7 +8,7 @@ Animated-Hats:
     Purchasable: true
     Lore: ''
   Traffic Light:
-    Name: '&9Traffic Light Animated Hat'
+    Name: '&9Traffic Light Animowany Kapelusz'
     Mystery Dust: 22
     Rarity: Rare
     Enabled: true
@@ -16,7 +16,7 @@ Animated-Hats:
     Purchasable: true
     Lore: ''
   Sammy The Cookie:
-    Name: '&9Sammy The Cookie Animated Hat'
+    Name: '&9Sammy The Cookie Animowany Kapelusz'
     Mystery Dust: 25
     Rarity: Rare
     Enabled: true
@@ -24,7 +24,7 @@ Animated-Hats:
     Purchasable: true
     Lore: ''
   Chroma Slime:
-    Name: '&9Chroma Slime Animated Hat'
+    Name: '&9Chroma Slime Animowany Kapelusz'
     Mystery Dust: 28
     Rarity: Rare
     Enabled: true
@@ -32,7 +32,7 @@ Animated-Hats:
     Purchasable: true
     Lore: ''
   Color Block:
-    Name: '&9Color Block Animated Hat'
+    Name: '&9Color Block Animowany Kapelusz'
     Mystery Dust: 28
     Rarity: Rare
     Enabled: true
@@ -40,7 +40,7 @@ Animated-Hats:
     Purchasable: true
     Lore: ''
   Joe the Penguin:
-    Name: '&9Joe the Penguin Animated Hat'
+    Name: '&9Joe the Penguin Animowany Kapelusz'
     Mystery Dust: 25
     Rarity: Rare
     Enabled: true
@@ -48,7 +48,7 @@ Animated-Hats:
     Purchasable: true
     Lore: ''
   Comet the Reindeer:
-    Name: '&9Comet the Reindeer Animated Hat'
+    Name: '&9Comet the Reindeer Animowany Kapelusz'
     Mystery Dust: 28
     Rarity: Rare
     Enabled: true
@@ -56,7 +56,7 @@ Animated-Hats:
     Purchasable: true
     Lore: ''
   Broken TV:
-    Name: '&5Broken TV Animated Hat'
+    Name: '&5Broken TV Animowany Kapelusz'
     Mystery Dust: 35
     Rarity: Epic
     Enabled: true

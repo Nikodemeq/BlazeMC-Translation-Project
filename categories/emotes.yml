@@ -1,6 +1,6 @@
 Emotes:
   Smile:
-    Name: '&aSmile Emote'
+    Name: '&aSmile Emotka'
     Cooldown: 10
     Mystery Dust: 10
     Rarity: Common
@@ -16,7 +16,7 @@ Emotes:
     - '&7with this animated Smile'
     - '&7emote!'
   Cool:
-    Name: '&aCool Emote'
+    Name: '&aCool Emotka'
     Cooldown: 10
     Mystery Dust: 12
     Rarity: Common
@@ -32,7 +32,7 @@ Emotes:
     - '&7stuff with this animated'
     - '&7Cool emote!'
   Wink:
-    Name: '&aWink Emote'
+    Name: '&aWink Emotka'
     Cooldown: 10
     Mystery Dust: 12
     Rarity: Common
@@ -48,7 +48,7 @@ Emotes:
     - '&7with this animated Wink'
     - '&7emote!'
   Grin:
-    Name: '&aGrin Emote'
+    Name: '&aGrin Emotka'
     Cooldown: 10
     Mystery Dust: 13
     Rarity: Common
@@ -64,7 +64,7 @@ Emotes:
     - '&7show it than with this'
     - '&7animated Grin emote!'
   Surprised:
-    Name: '&aSurprised Emote'
+    Name: '&aSurprised Emotka'
     Cooldown: 10
     Mystery Dust: 15
     Rarity: Common
@@ -80,7 +80,7 @@ Emotes:
     - '&7this animated Surprised'
     - '&7emote!'
   Cry:
-    Name: '&9Cry Emote'
+    Name: '&9Cry Emotka'
     Cooldown: 10
     Mystery Dust: 25
     Rarity: Rare
@@ -95,7 +95,7 @@ Emotes:
     - '&7with this animated Crying'
     - '&7emote!'
   Sleepy:
-    Name: '&9Sleepy Emote'
+    Name: '&9Sleepy Emotka'
     Cooldown: 10
     Mystery Dust: 20
     Rarity: Rare
@@ -111,7 +111,7 @@ Emotes:
     - '&7asleep with this animated'
     - '&7Sleepy emote!'
   Rage:
-    Name: '&9Rage Emote'
+    Name: '&9Rage Emotka'
     Cooldown: 10
     Mystery Dust: 23
     Rarity: Rare
@@ -126,7 +126,7 @@ Emotes:
     - '&7blood? Let off steam with'
     - '&7this animated Rage Emote!'
   Frown:
-    Name: '&9Frown Emote'
+    Name: '&9Frown Emotka'
     Cooldown: 10
     Mystery Dust: 22
     Rarity: Rare
@@ -141,7 +141,7 @@ Emotes:
     - '&7Let the world know with'
     - '&7this animated Frown Emote!'
   Cheeky:
-    Name: '&9Cheeky Emote'
+    Name: '&9Cheeky Emotka'
     Cooldown: 10
     Mystery Dust: 22
     Rarity: Rare
@@ -157,7 +157,7 @@ Emotes:
     - '&7with this animated Cheeky'
     - '&7Emote!'
   Sun Tan:
-    Name: '&9Sun Tan Emote'
+    Name: '&9Sun Tan Emotka'
     Cooldown: 10
     Mystery Dust: 25
     Rarity: Rare
@@ -174,7 +174,7 @@ Emotes:
     - '&7crispy you are with this'
     - '&7Sun Tan Emote!'
   Heart Eyes:
-    Name: '&9Heart Eye Emote'
+    Name: '&9Heart Eye Emotka'
     Cooldown: 10
     Mystery Dust: 28
     Rarity: Rare
@@ -189,7 +189,7 @@ Emotes:
     - '&7good vibes with the Heart'
     - '&7Eyes Emote!'
   Dizzy:
-    Name: '&9Dizzy Emote'
+    Name: '&9Dizzy Emotka'
     Cooldown: 10
     Mystery Dust: 28
     Rarity: Rare
@@ -205,7 +205,7 @@ Emotes:
     - '&7you feel with the Dizzy'
     - '&7Emote!'
   RIP:
-    Name: '&9RIP Emote'
+    Name: '&9RIP Emotka'
     Cooldown: 10
     Mystery Dust: 28
     Rarity: Rare
@@ -221,7 +221,7 @@ Emotes:
     - '&7opponents with this Rest In'
     - '&7Pepperoni Emote!'
   Relax:
-    Name: '&9Relax Emote'
+    Name: '&9Relax Emotka'
     Cooldown: 10
     Mystery Dust: 28
     Rarity: Rare
@@ -235,7 +235,7 @@ Emotes:
     - '&7Feeling cozy? You surely'
     - '&7will with the Relax Emote!'
   Spicy:
-    Name: '&9Spicy Emote'
+    Name: '&9Spicy Emotka'
     Cooldown: 10
     Mystery Dust: 28
     Rarity: Rare
@@ -250,7 +250,7 @@ Emotes:
     - '&7get to you? Let the rest'
     - '&7know with this Spicy Emote!'
   Deal With It:
-    Name: '&9Deal With It Emote'
+    Name: '&9Deal With It Emotka'
     Cooldown: 10
     Mystery Dust: 28
     Rarity: Rare

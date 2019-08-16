@@ -1,6 +1,6 @@
 Suits:
   Frog:
-    Name: '&6Frog Suit'
+    Name: '&6Frog Strój'
     GUI-Name: Frog Suit
     Enabled: true
     Enabled-Ability: true
@@ -42,7 +42,7 @@ Suits:
         Purchasable: true
         Lore: ''
   Ninja:
-    Name: '&6Ninja Suit'
+    Name: '&6Ninja Strój'
     GUI-Name: Ninja Suit
     Enabled: true
     Cooldown: 0
@@ -85,7 +85,7 @@ Suits:
         Purchasable: true
         Lore: ''
   Speedster:
-    Name: '&6Speedster Suit'
+    Name: '&6Speedster Strój'
     GUI-Name: Speedster Suit
     Enabled: true
     Enabled-Ability: true
@@ -128,7 +128,7 @@ Suits:
         Purchasable: true
         Lore: ''
   Ghostly:
-    Name: '&6Ghostly Skeleton Suit'
+    Name: '&6Ghostly Skeleton Strój'
     GUI-Name: Ghostly Skeleton Suit
     Enabled: true
     Enabled-Ability: true
@@ -170,7 +170,7 @@ Suits:
         Purchasable: true
         Lore: ''
   Disco:
-    Name: '&6Disco Suit'
+    Name: '&6Disco Strój'
     GUI-Name: Disco Suit
     Enabled: true
     Enabled-Ability: true
@@ -212,7 +212,7 @@ Suits:
         Purchasable: true
         Lore: ''
   Mermaid:
-    Name: '&6Mermaid Suit'
+    Name: '&6Mermaid Strój'
     GUI-Name: Mermaid Suit
     Enabled: true
     Enabled-Ability: true
@@ -255,7 +255,7 @@ Suits:
         Purchasable: true
         Lore: ''
   Spooderman:
-    Name: '&6Spooderman Suit'
+    Name: '&6Spooderman Strój'
     GUI-Name: Spooderman Suit
     Enabled: true
     Cooldown: 0
@@ -298,7 +298,7 @@ Suits:
         Purchasable: true
         Lore: ''
   Warrior:
-    Name: '&6Warrior Suit'
+    Name: '&6Warrior Strój'
     GUI-Name: Warrior Suit
     Enabled: true
     Cooldown: 0
@@ -342,7 +342,7 @@ Suits:
         Purchasable: true
         Lore: ''
   Necromancer:
-    Name: '&6Necromancer Suit'
+    Name: '&6Necromancer Strój'
     GUI-Name: Necromancer Suit
     Enabled: true
     Cooldown: 0
@@ -385,7 +385,7 @@ Suits:
         Purchasable: true
         Lore: ''
   Thor:
-    Name: '&6Thor Suit'
+    Name: '&6Thor Strój'
     GUI-Name: Thor Suit
     Enabled: true
     Cooldown: 0
@@ -428,7 +428,7 @@ Suits:
         Purchasable: true
         Lore: ''
   Baker:
-    Name: '&6Baker Suit'
+    Name: '&6Baker Strój'
     GUI-Name: Baker Suit
     Enabled: true
     Cooldown: 0
@@ -472,7 +472,7 @@ Suits:
         Purchasable: true
         Lore: ''
   Bumblebee:
-    Name: '&6Bumblebee Suit'
+    Name: '&6Bumblebee Strój'
     GUI-Name: Bumblebee Suit
     Enabled: true
     Cooldown: 0
@@ -515,7 +515,7 @@ Suits:
         Purchasable: true
         Lore: ''
   Plumber:
-    Name: '&6Plumber Suit'
+    Name: '&6Plumber Strój'
     GUI-Name: Plumber Suit
     Enabled: true
     Cooldown: 0
@@ -557,7 +557,7 @@ Suits:
         Purchasable: true
         Lore: ''
   Ice Walker:
-    Name: '&6Ice Walker Suit'
+    Name: '&6Ice Walker Strój'
     GUI-Name: Ice Walker Suit
     Enabled: true
     Enabled-Ability: true
@@ -600,7 +600,7 @@ Suits:
         Purchasable: true
         Lore: ''
   Vampire:
-    Name: '&6Vampire Suit'
+    Name: '&6Vampire Strój'
     GUI-Name: Vampire Suit
     Enabled: true
     Enabled-Ability: true

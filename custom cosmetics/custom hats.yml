@@ -1,6 +1,6 @@
 Custom-Hats:
   Steve:
-    Name: '&aSteve Hat'
+    Name: '&aSteve Kapelusz'
     Mystery Dust: 12
     Rarity: Common
     Texture: eb7af9e4411217c7de9c60acbd3c3fd6519783332a1b3bc56fbfce90721ef35
@@ -9,7 +9,7 @@ Custom-Hats:
     Purchasable: true
     Lore: ''
   Sponge:
-    Name: '&aSponge Hat'
+    Name: '&aSponge Kapelusz'
     Mystery Dust: 12
     Rarity: Common
     Material: SPONGE

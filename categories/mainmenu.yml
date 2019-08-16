@@ -18,14 +18,14 @@ MainMenu:
     Lore:
     - '&7Make particles around you'
     - '&7while standing in lobbies'
-    - '&7using these cool particle'
+    - '&7using these cool Cząsteczki'
     - '&7effects!'
   Suits:
     Name: '&eSuits'
     Material: GOLDEN_LEGGINGS
     Lore:
     - '&7Collect and wear all the'
-    - '&7pieces from a specific suit'
+    - '&7pieces from a specific Strój'
     - '&7to gain unique effects!'
   Gadgets:
     Name: '&eGadgets'

@@ -1,6 +1,6 @@
 Particles:
   Water Splash:
-    Name: '&aWater Splash Particle'
+    Name: '&aWater Splash Cząsteczki'
     Material: NETHER_STAR
     Mystery Dust: 15
     Rarity: Common
@@ -12,7 +12,7 @@ Particles:
     - '&7Splash particles around'
     - '&7you in lobby.'
   Drip Water:
-    Name: '&9Drip Water Particle'
+    Name: '&9Drip Water Cząsteczki'
     Material: WATER_BUCKET
     Mystery Dust: 25
     Rarity: Rare
@@ -24,7 +24,7 @@ Particles:
     - '&7Water particles around'
     - '&7you in lobby.'
   Drip Lava:
-    Name: '&9Drip Lava Particle'
+    Name: '&9Drip Lava Cząsteczki'
     Material: LAVA_BUCKET
     Mystery Dust: 25
     Rarity: Rare
@@ -36,7 +36,7 @@ Particles:
     - '&7Lava particles around'
     - '&7you in lobby.'
   Crit:
-    Name: '&9Crit Particle'
+    Name: '&9Crit Cząsteczki'
     Material: STONE_SWORD
     Mystery Dust: 22
     Rarity: Rare
@@ -48,7 +48,7 @@ Particles:
     - '&7particles around you'
     - '&7in lobby.'
   Magic Crit:
-    Name: '&9Magic Crit Particle'
+    Name: '&9Magic Crit Cząsteczki'
     Material: POTION:8204
     Mystery Dust: 20
     Rarity: Rare
@@ -60,7 +60,7 @@ Particles:
     - '&7Crit particles around'
     - '&7you in lobby.'
   Spell:
-    Name: '&5Spell Particle'
+    Name: '&5Spell Cząsteczki'
     Material: ENDER_CHEST
     Mystery Dust: 30
     Rarity: Epic
@@ -72,7 +72,7 @@ Particles:
     - '&7particles around you'
     - '&7in lobby.'
   Instant Spell:
-    Name: '&5Instant Spell Particle'
+    Name: '&5Instant Spell Cząsteczki'
     Material: GHAST_TEAR
     Mystery Dust: 32
     Rarity: Epic
@@ -84,7 +84,7 @@ Particles:
     - '&7Spell particles around'
     - '&7you in lobby.'
   Mob Spell:
-    Name: '&5Mob Spell Particle'
+    Name: '&5Mob Spell Cząsteczki'
     Material: EXPERIENCE_BOTTLE
     Mystery Dust: 35
     Rarity: Epic
@@ -96,7 +96,7 @@ Particles:
     - '&7Spell particles around'
     - '&7you in lobby.'
   Witch Spell:
-    Name: '&6Witch Spell Particle'
+    Name: '&6Witch Spell Cząsteczki'
     Material: POTION:8260
     Mystery Dust: 40
     Rarity: Legendary
@@ -108,7 +108,7 @@ Particles:
     - '&7Spell particles around'
     - '&7you in lobby.'
   Angry Villager:
-    Name: '&5Angry Villager Particle'
+    Name: '&5Angry Villager Cząsteczki'
     Material: FIRE_CHARGE
     Mystery Dust: 32
     Rarity: Epic
@@ -120,7 +120,7 @@ Particles:
     - '&7Villager particles around'
     - '&7you in lobby.'
   Happy Villager:
-    Name: '&5Happy Villager Particle'
+    Name: '&5Happy Villager Cząsteczki'
     Material: EMERALD
     Mystery Dust: 35
     Rarity: Epic
@@ -132,7 +132,7 @@ Particles:
     - '&7Villager particles around'
     - '&7you in lobby.'
   Town Aura:
-    Name: '&aTown Aura Particle'
+    Name: '&aTown Aura Cząsteczki'
     Material: MYCELIUM
     Mystery Dust: 18
     Rarity: Common
@@ -144,7 +144,7 @@ Particles:
     - '&7Aura particles around'
     - '&7you in lobby.'
   Note:
-    Name: '&5Note Particle'
+    Name: '&5Note Cząsteczki'
     Material: NOTE_BLOCK
     Mystery Dust: 35
     Rarity: Epic
@@ -156,7 +156,7 @@ Particles:
     - '&7particles around you'
     - '&7in lobby.'
   Portal:
-    Name: '&aPortal Particle'
+    Name: '&aPortal Cząsteczki'
     Material: ENDER_PEARL
     Mystery Dust: 18
     Rarity: Common
@@ -168,7 +168,7 @@ Particles:
     - '&7particles around you'
     - '&7in lobby.'
   Enchantment Table:
-    Name: '&9Enchantment Table Particle'
+    Name: '&9Enchantment Table Cząsteczki'
     Material: ENCHANTING_TABLE
     Mystery Dust: 28
     Rarity: Rare
@@ -180,7 +180,7 @@ Particles:
     - '&7Table particles around'
     - '&7you in lobby.'
   Flame:
-    Name: '&6Flame Particle'
+    Name: '&6Flame Cząsteczki'
     Material: GOLD_NUGGET
     Mystery Dust: 45
     Rarity: Legendary
@@ -192,7 +192,7 @@ Particles:
     - '&7particles around you'
     - '&7in lobby.'
   Redstone:
-    Name: '&6Redstone Particle'
+    Name: '&6Redstone Cząsteczki'
     Material: REDSTONE
     Mystery Dust: 48
     Rarity: Legendary
@@ -204,7 +204,7 @@ Particles:
     - '&7particles around you'
     - '&7in lobby.'
   Heart:
-    Name: '&9Heart Particle'
+    Name: '&9Heart Cząsteczki'
     Material: POPPY
     Mystery Dust: 28
     Rarity: Rare
@@ -216,7 +216,7 @@ Particles:
     - '&7particles around you'
     - '&7in lobby.'
   Fireworks Spark:
-    Name: '&6Fireworks Spark Particle'
+    Name: '&6Fireworks Spark Cząsteczki'
     Material: FIREWORK_ROCKET
     Mystery Dust: 52
     Rarity: Legendary
@@ -228,7 +228,7 @@ Particles:
     - '&7Spark particles around'
     - '&7you in lobby.'
   Smoke:
-    Name: '&aSmoke Particle'
+    Name: '&aSmoke Cząsteczki'
     Material: FIREWORK_STAR
     Mystery Dust: 18
     Rarity: Common
@@ -240,7 +240,7 @@ Particles:
     - '&7particles around you'
     - '&7in lobby.'
   Slime:
-    Name: '&aSlime Particle'
+    Name: '&aSlime Cząsteczki'
     Material: SLIME_BALL
     Mystery Dust: 22
     Rarity: Common
