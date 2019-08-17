@@ -1,19 +1,23 @@
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# TRANSLATION BY BLAZE-MC.PL TEAM
+# This File Progess: 15%
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 MainMenu:
   Hats:
-    Name: '&eHats'
+    Name: '&eKapelusze'
     Material: DIAMOND_HELMET
     Lore:
     - '&7Collect all the hats and'
     - '&7wear them in a lobby.'
   Animated Hats:
-    Name: '&eAnimated Hats'
+    Name: '&eAnimowane Kapelusze'
     Material: head:5ebfd2396cbabdb42c348bcf41599c87a506a71ef60948c496f95c6cb63141
     Lore:
     - '&7These hats take it a step'
     - '&7further and move on'
     - '&7your head.'
   Particles:
-    Name: '&eParticles'
+    Name: '&eCząsteczki'
     Material: BLAZE_POWDER
     Lore:
     - '&7Make particles around you'
@@ -21,35 +25,35 @@ MainMenu:
     - '&7using these cool Cząsteczki'
     - '&7effects!'
   Suits:
-    Name: '&eSuits'
+    Name: '&eStroje'
     Material: GOLDEN_LEGGINGS
     Lore:
     - '&7Collect and wear all the'
     - '&7pieces from a specific Strój'
     - '&7to gain unique effects!'
   Gadgets:
-    Name: '&eGadgets'
+    Name: '&eGadżety'
     Material: PISTON
     Lore:
     - '&7These fun little toys'
     - '&7can be used'
     - '&7in a lobby.'
   Pets:
-    Name: '&ePets'
+    Name: '&eZwierzaki'
     Material: BONE
     Lore:
     - '&7Unlock these pets to have'
     - '&7them follow you around in'
     - '&7lobbies!'
   Miniatures:
-    Name: '&eMiniatures'
+    Name: '&eMiniaturki'
     Material: head:9da39269ef45f825ec61bb4f8aa09bd3cf07996fb6fac338a6e91d6699ae425
     Lore:
     - '&7Unlock these miniatures to'
     - '&7have a little friend follow'
     - '&7you around in lobbies!'
   Morphs:
-    Name: '&eMorphs'
+    Name: '&ePrzemiany'
     Material: ZOMBIE_HEAD
     Lore:
     - '&7The ultimate transformation!'
@@ -59,14 +63,14 @@ MainMenu:
     - '&7unique powers for everyone'
     - '&7else to see!'
   Banners:
-    Name: '&eBanners'
+    Name: '&eSztandary'
     Material: CUSTOM_MATERIAL_1
     Lore:
     - '&7Unlock all the Banners and'
     - '&7wear them as hats in'
     - '&7in a lobby!'
   Emotes:
-    Name: '&eEmotes'
+    Name: '&eEmotki'
     Material: head:60c432cbc490a8af6e9dfeb28095c0a0ec79fff705fb184674d1e743bd05baa
     Lore:
     - '&7Express yourself! Show the'
@@ -74,7 +78,7 @@ MainMenu:
     - '&7with these unique animated'
     - '&7Emotes.'
   Cloaks:
-    Name: '&eCloaks'
+    Name: '&eSkrzydla'
     Material: ENCHANTING_TABLE
     Lore:
     - '&7Made of particles, these'
