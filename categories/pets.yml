@@ -18,7 +18,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Cow'
+        - '&7Rodzaj: &9Cow'
         - ''
         - '&7Click to summon this pet.'
       Baby Cow:
@@ -31,7 +31,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Cow (Baby)'
+        - '&7Rodzaj: &9Cow (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Mushroom Cow:
@@ -44,7 +44,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Mushroom Cow'
+        - '&7Rodzaj: &9Mushroom Cow'
         - ''
         - '&7Click to summon this pet.'
       Baby Mushroom Cow:
@@ -57,7 +57,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Mushroom Cow (Baby)'
+        - '&7Rodzaj: &9Mushroom Cow (Baby)'
         - ''
         - '&7Click to summon this pet.'
   Chicken:
@@ -79,7 +79,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Chicken'
+        - '&7Rodzaj: &9Chicken'
         - ''
         - '&7Click to summon this pet.'
       Baby Chicken:
@@ -92,7 +92,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Chicken (Baby)'
+        - '&7Rodzaj: &9Chicken (Baby)'
         - ''
         - '&7Click to summon this pet.'
   Wolf:
@@ -114,7 +114,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Wolf'
+        - '&7Rodzaj: &9Wolf'
         - ''
         - '&7Click to summon this pet.'
       Baby Wolf:
@@ -127,7 +127,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Wolf (Baby)'
+        - '&7Rodzaj: &9Wolf (Baby)'
         - ''
         - '&7Click to summon this pet.'
   Pig:
@@ -149,7 +149,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Pig'
+        - '&7Rodzaj: &9Pig'
         - ''
         - '&7Click to summon this pet.'
       Baby Pig:
@@ -162,7 +162,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Pig (Baby)'
+        - '&7Rodzaj: &9Pig (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Pig Zombie:
@@ -175,7 +175,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Pig Zombie'
+        - '&7Rodzaj: &9Pig Zombie'
         - ''
         - '&7Click to summon this pet.'
       Baby Pig Zombie:
@@ -188,7 +188,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.5
         Lore:
-        - '&7Type: &9Pig Zombie (Baby)'
+        - '&7Rodzaj: &9Pig Zombie (Baby)'
         - ''
         - '&7Click to summon this pet.'
   Silverfish:
@@ -210,7 +210,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Silverfish'
+        - '&7Rodzaj: &9Silverfish'
         - ''
         - '&7Click to summon this pet.'
   Endermite:
@@ -232,7 +232,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Endermite'
+        - '&7Rodzaj: &9Endermite'
         - ''
         - '&7Click to summon this pet.'
   Zombie:
@@ -254,7 +254,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Zombie'
+        - '&7Rodzaj: &9Zombie'
         - ''
         - '&7Click to summon this pet.'
       Baby Zombie:
@@ -267,7 +267,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.5
         Lore:
-        - '&7Type: &9Zombie (Baby)'
+        - '&7Rodzaj: &9Zombie (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Husk:
@@ -280,7 +280,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Zombie Husk'
+        - '&7Rodzaj: &9Zombie Husk'
         - ''
         - '&7Click to summon this pet.'
       Baby Husk:
@@ -293,7 +293,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.5
         Lore:
-        - '&7Type: &9Zombie Husk (Baby)'
+        - '&7Rodzaj: &9Zombie Husk (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Red Little Helper:
@@ -306,7 +306,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.5
         Lore:
-        - '&7Type: &9Red Little Helper'
+        - '&7Rodzaj: &9Red Little Helper'
         - ''
         - '&7Click to summon this pet.'
       Green Little Helper:
@@ -319,7 +319,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.5
         Lore:
-        - '&7Type: &9Green Little Helper'
+        - '&7Rodzaj: &9Green Little Helper'
         - ''
         - '&7Click to summon this pet.'
   Cat:
@@ -341,7 +341,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Cat: Black'
+        - '&7Rodzaj: &9Cat: Black'
         - ''
         - '&7Click to summon this pet.'
       Baby Black Cat:
@@ -354,7 +354,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Cat: Black (Baby)'
+        - '&7Rodzaj: &9Cat: Black (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Red Cat:
@@ -367,7 +367,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Cat: Red'
+        - '&7Rodzaj: &9Cat: Red'
         - ''
         - '&7Click to summon this pet.'
       Baby Red Cat:
@@ -380,7 +380,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Cat: Red (Baby)'
+        - '&7Rodzaj: &9Cat: Red (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Siamese Cat:
@@ -393,7 +393,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Cat: Siamese'
+        - '&7Rodzaj: &9Cat: Siamese'
         - ''
         - '&7Click to summon this pet.'
       Baby Siamese Cat:
@@ -406,7 +406,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Cat: Siamese (Baby)'
+        - '&7Rodzaj: &9Cat: Siamese (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Wild Ocelot:
@@ -419,7 +419,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Wild Ocelot'
+        - '&7Rodzaj: &9Wild Ocelot'
         - ''
         - '&7Click to summon this pet.'
       Baby Wild Ocelot:
@@ -432,7 +432,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Wild Ocelot (Baby)'
+        - '&7Rodzaj: &9Wild Ocelot (Baby)'
         - ''
         - '&7Click to summon this pet.'
   Rabbit:
@@ -454,7 +454,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.9
         Lore:
-        - '&7Type: &9Rabbit: Black'
+        - '&7Rodzaj: &9Rabbit: Black'
         - ''
         - '&7Click to summon this pet.'
       Baby Black Rabbit:
@@ -467,7 +467,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.9
         Lore:
-        - '&7Type: &9Rabbit: Black (Baby)'
+        - '&7Rodzaj: &9Rabbit: Black (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Black & White Rabbit:
@@ -480,7 +480,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.9
         Lore:
-        - '&7Type: &9Rabbit: Black & White'
+        - '&7Rodzaj: &9Rabbit: Black & White'
         - ''
         - '&7Click to summon this pet.'
       Baby Black & White Rabbit:
@@ -493,7 +493,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.9
         Lore:
-        - '&7Type: &9Rabbit: Black & White (Baby)'
+        - '&7Rodzaj: &9Rabbit: Black & White (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Brown Rabbit:
@@ -506,7 +506,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.9
         Lore:
-        - '&7Type: &9Rabbit: Brown'
+        - '&7Rodzaj: &9Rabbit: Brown'
         - ''
         - '&7Click to summon this pet.'
       Baby Brown Rabbit:
@@ -519,7 +519,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.9
         Lore:
-        - '&7Type: &9Rabbit: Brown (Baby)'
+        - '&7Rodzaj: &9Rabbit: Brown (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Gold Rabbit:
@@ -532,7 +532,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.9
         Lore:
-        - '&7Type: &9Rabbit: Gold'
+        - '&7Rodzaj: &9Rabbit: Gold'
         - ''
         - '&7Click to summon this pet.'
       Baby Gold Rabbit:
@@ -545,7 +545,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.9
         Lore:
-        - '&7Type: &9Rabbit: Gold (Baby)'
+        - '&7Rodzaj: &9Rabbit: Gold (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Salt & Pepper Rabbit:
@@ -558,7 +558,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.9
         Lore:
-        - '&7Type: &9Rabbit: Salt & Pepper'
+        - '&7Rodzaj: &9Rabbit: Salt & Pepper'
         - ''
         - '&7Click to summon this pet.'
       Baby Salt & Pepper Rabbit:
@@ -571,7 +571,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.9
         Lore:
-        - '&7Type: &9Rabbit: Salt & Pepper (Baby)'
+        - '&7Rodzaj: &9Rabbit: Salt & Pepper (Baby)'
         - ''
         - '&7Click to summon this pet.'
       White Rabbit:
@@ -584,7 +584,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.9
         Lore:
-        - '&7Type: &9Rabbit: White'
+        - '&7Rodzaj: &9Rabbit: White'
         - ''
         - '&7Click to summon this pet.'
       Baby White Rabbit:
@@ -597,7 +597,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.9
         Lore:
-        - '&7Type: &9Rabbit: White (Baby)'
+        - '&7Rodzaj: &9Rabbit: White (Baby)'
         - ''
         - '&7Click to summon this pet.'
   Sheep:
@@ -619,7 +619,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Black'
+        - '&7Rodzaj: &9Sheep: Black'
         - ''
         - '&7Click to summon this pet.'
       Baby Black Sheep:
@@ -632,7 +632,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Black (Baby)'
+        - '&7Rodzaj: &9Sheep: Black (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Blue Sheep:
@@ -645,7 +645,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Blue'
+        - '&7Rodzaj: &9Sheep: Blue'
         - ''
         - '&7Click to summon this pet.'
       Baby Blue Sheep:
@@ -658,7 +658,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Blue (Baby)'
+        - '&7Rodzaj: &9Sheep: Blue (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Brown Sheep:
@@ -671,7 +671,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Brown'
+        - '&7Rodzaj: &9Sheep: Brown'
         - ''
         - '&7Click to summon this pet.'
       Baby Brown Sheep:
@@ -684,7 +684,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Brown (Baby)'
+        - '&7Rodzaj: &9Sheep: Brown (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Cyan Sheep:
@@ -697,7 +697,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Cyan'
+        - '&7Rodzaj: &9Sheep: Cyan'
         - ''
         - '&7Click to summon this pet.'
       Baby Cyan Sheep:
@@ -710,7 +710,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Cyan (Baby)'
+        - '&7Rodzaj: &9Sheep: Cyan (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Gray Sheep:
@@ -723,7 +723,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Gray'
+        - '&7Rodzaj: &9Sheep: Gray'
         - ''
         - '&7Click to summon this pet.'
       Baby Gray Sheep:
@@ -736,7 +736,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Gray (Baby)'
+        - '&7Rodzaj: &9Sheep: Gray (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Green Sheep:
@@ -749,7 +749,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Green'
+        - '&7Rodzaj: &9Sheep: Green'
         - ''
         - '&7Click to summon this pet.'
       Baby Green Sheep:
@@ -762,7 +762,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Green (Baby)'
+        - '&7Rodzaj: &9Sheep: Green (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Light Blue Sheep:
@@ -775,7 +775,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Light Blue'
+        - '&7Rodzaj: &9Sheep: Light Blue'
         - ''
         - '&7Click to summon this pet.'
       Baby Light Blue Sheep:
@@ -788,7 +788,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Light Blue (Baby)'
+        - '&7Rodzaj: &9Sheep: Light Blue (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Lime Sheep:
@@ -801,7 +801,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Lime'
+        - '&7Rodzaj: &9Sheep: Lime'
         - ''
         - '&7Click to summon this pet.'
       Baby Lime Sheep:
@@ -814,7 +814,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Lime (Baby)'
+        - '&7Rodzaj: &9Sheep: Lime (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Magenta Sheep:
@@ -827,7 +827,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Magenta'
+        - '&7Rodzaj: &9Sheep: Magenta'
         - ''
         - '&7Click to summon this pet.'
       Baby Magenta Sheep:
@@ -840,7 +840,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Magenta (Baby)'
+        - '&7Rodzaj: &9Sheep: Magenta (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Orange Sheep:
@@ -853,7 +853,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Orange'
+        - '&7Rodzaj: &9Sheep: Orange'
         - ''
         - '&7Click to summon this pet.'
       Baby Orange Sheep:
@@ -866,7 +866,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Orange (Baby)'
+        - '&7Rodzaj: &9Sheep: Orange (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Pink Sheep:
@@ -879,7 +879,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Pink'
+        - '&7Rodzaj: &9Sheep: Pink'
         - ''
         - '&7Click to summon this pet.'
       Baby Pink Sheep:
@@ -892,7 +892,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Pink (Baby)'
+        - '&7Rodzaj: &9Sheep: Pink (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Purple Sheep:
@@ -905,7 +905,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Purple'
+        - '&7Rodzaj: &9Sheep: Purple'
         - ''
         - '&7Click to summon this pet.'
       Baby Purple Sheep:
@@ -918,7 +918,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Purple (Baby)'
+        - '&7Rodzaj: &9Sheep: Purple (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Red Sheep:
@@ -931,7 +931,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Red'
+        - '&7Rodzaj: &9Sheep: Red'
         - ''
         - '&7Click to summon this pet.'
       Baby Red Sheep:
@@ -944,7 +944,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Red (Baby)'
+        - '&7Rodzaj: &9Sheep: Red (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Silver Sheep:
@@ -957,7 +957,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Silver'
+        - '&7Rodzaj: &9Sheep: Silver'
         - ''
         - '&7Click to summon this pet.'
       Baby Silver Sheep:
@@ -970,7 +970,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Silver (Baby)'
+        - '&7Rodzaj: &9Sheep: Silver (Baby)'
         - ''
         - '&7Click to summon this pet.'
       White Sheep:
@@ -983,7 +983,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: White'
+        - '&7Rodzaj: &9Sheep: White'
         - ''
         - '&7Click to summon this pet.'
       Baby White Sheep:
@@ -996,7 +996,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: White (Baby)'
+        - '&7Rodzaj: &9Sheep: White (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Yellow Sheep:
@@ -1009,7 +1009,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Yellow'
+        - '&7Rodzaj: &9Sheep: Yellow'
         - ''
         - '&7Click to summon this pet.'
       Baby Yellow Sheep:
@@ -1022,7 +1022,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Sheep: Yellow (Baby)'
+        - '&7Rodzaj: &9Sheep: Yellow (Baby)'
         - ''
         - '&7Click to summon this pet.'
   Horse:
@@ -1044,7 +1044,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Horse: Black'
+        - '&7Rodzaj: &9Horse: Black'
         - ''
         - '&7Click to summon this pet.'
       Baby Black Horse:
@@ -1057,7 +1057,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Horse: Black (Baby)'
+        - '&7Rodzaj: &9Horse: Black (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Brown Horse:
@@ -1070,7 +1070,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Horse: Brown'
+        - '&7Rodzaj: &9Horse: Brown'
         - ''
         - '&7Click to summon this pet.'
       Baby Brown Horse:
@@ -1083,7 +1083,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Horse: Brown (Baby)'
+        - '&7Rodzaj: &9Horse: Brown (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Chestnut Horse:
@@ -1096,7 +1096,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Horse: Chestnut'
+        - '&7Rodzaj: &9Horse: Chestnut'
         - ''
         - '&7Click to summon this pet.'
       Baby Chestnut Horse:
@@ -1109,7 +1109,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Horse: Chestnut (Baby)'
+        - '&7Rodzaj: &9Horse: Chestnut (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Creamy Horse:
@@ -1122,7 +1122,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Horse: Creamy'
+        - '&7Rodzaj: &9Horse: Creamy'
         - ''
         - '&7Click to summon this pet.'
       Baby Creamy Horse:
@@ -1135,7 +1135,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Horse: Creamy (Baby)'
+        - '&7Rodzaj: &9Horse: Creamy (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Dark Brown Horse:
@@ -1148,7 +1148,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Horse: Dark Brown'
+        - '&7Rodzaj: &9Horse: Dark Brown'
         - ''
         - '&7Click to summon this pet.'
       Baby Dark Brown Horse:
@@ -1161,7 +1161,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Horse: Dark Brown (Baby)'
+        - '&7Rodzaj: &9Horse: Dark Brown (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Gray Horse:
@@ -1174,7 +1174,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Horse: Gray'
+        - '&7Rodzaj: &9Horse: Gray'
         - ''
         - '&7Click to summon this pet.'
       Baby Gray Horse:
@@ -1187,7 +1187,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Horse: Gray (Baby)'
+        - '&7Rodzaj: &9Horse: Gray (Baby)'
         - ''
         - '&7Click to summon this pet.'
       White Horse:
@@ -1200,7 +1200,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Horse: White'
+        - '&7Rodzaj: &9Horse: White'
         - ''
         - '&7Click to summon this pet.'
       Baby White Horse:
@@ -1213,7 +1213,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Horse: White (Baby)'
+        - '&7Rodzaj: &9Horse: White (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Donkey:
@@ -1226,7 +1226,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Donkey'
+        - '&7Rodzaj: &9Donkey'
         - ''
         - '&7Click to summon this pet.'
       Baby Donkey:
@@ -1239,7 +1239,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Donkey (Baby)'
+        - '&7Rodzaj: &9Donkey (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Mule:
@@ -1252,7 +1252,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Mule'
+        - '&7Rodzaj: &9Mule'
         - ''
         - '&7Click to summon this pet.'
       Baby Mule:
@@ -1265,7 +1265,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Mule (Baby)'
+        - '&7Rodzaj: &9Mule (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Skeleton Horse:
@@ -1278,7 +1278,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Skeleton Horse'
+        - '&7Rodzaj: &9Skeleton Horse'
         - ''
         - '&7Click to summon this pet.'
       Baby Skeleton Horse:
@@ -1291,7 +1291,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Skeleton Horse (Baby)'
+        - '&7Rodzaj: &9Skeleton Horse (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Undead Horse:
@@ -1304,7 +1304,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Undead Horse'
+        - '&7Rodzaj: &9Undead Horse'
         - ''
         - '&7Click to summon this pet.'
       Baby Undead Horse:
@@ -1317,7 +1317,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Undead Horse (Baby)'
+        - '&7Rodzaj: &9Undead Horse (Baby)'
         - ''
         - '&7Click to summon this pet.'
   Villager:
@@ -1339,7 +1339,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Villager: Blacksmith'
+        - '&7Rodzaj: &9Villager: Blacksmith'
         - ''
         - '&7Click to summon this pet.'
       Baby Blacksmith Villager:
@@ -1352,7 +1352,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Villager: Blacksmith (Baby)'
+        - '&7Rodzaj: &9Villager: Blacksmith (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Butcher Villager:
@@ -1365,7 +1365,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Villager: Butcher'
+        - '&7Rodzaj: &9Villager: Butcher'
         - ''
         - '&7Click to summon this pet.'
       Baby Butcher Villager:
@@ -1378,7 +1378,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Villager: Butcher (Baby)'
+        - '&7Rodzaj: &9Villager: Butcher (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Farmer Villager:
@@ -1391,7 +1391,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Villager: Farmer'
+        - '&7Rodzaj: &9Villager: Farmer'
         - ''
         - '&7Click to summon this pet.'
       Baby Farmer Villager:
@@ -1404,7 +1404,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Villager: Farmer (Baby)'
+        - '&7Rodzaj: &9Villager: Farmer (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Librarian Villager:
@@ -1417,7 +1417,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Villager: Librarian'
+        - '&7Rodzaj: &9Villager: Librarian'
         - ''
         - '&7Click to summon this pet.'
       Baby Librarian Villager:
@@ -1430,7 +1430,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Villager: Librarian (Baby)'
+        - '&7Rodzaj: &9Villager: Librarian (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Priest Villager:
@@ -1443,7 +1443,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Villager: Priest'
+        - '&7Rodzaj: &9Villager: Priest'
         - ''
         - '&7Click to summon this pet.'
       Baby Priest Villager:
@@ -1456,7 +1456,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Villager: Priest (Baby)'
+        - '&7Rodzaj: &9Villager: Priest (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Zombie Villager:
@@ -1469,7 +1469,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Villager: Zombie'
+        - '&7Rodzaj: &9Villager: Zombie'
         - ''
         - '&7Click to summon this pet.'
       Baby Zombie Villager:
@@ -1482,7 +1482,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.5
         Lore:
-        - '&7Type: &9Villager: Zombie (Baby)'
+        - '&7Rodzaj: &9Villager: Zombie (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Witch:
@@ -1495,7 +1495,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Witch'
+        - '&7Rodzaj: &9Witch'
         - ''
         - '&7Click to summon this pet.'
       Evoker:
@@ -1508,7 +1508,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Evoker'
+        - '&7Rodzaj: &9Evoker'
         - ''
         - '&7Click to summon this pet.'
       Vindicator:
@@ -1521,7 +1521,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Vindicator'
+        - '&7Rodzaj: &9Vindicator'
         - ''
         - '&7Click to summon this pet.'
       Illusioner:
@@ -1534,7 +1534,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Illusioner'
+        - '&7Rodzaj: &9Illusioner'
         - ''
         - '&7Click to summon this pet.'
   Spider:
@@ -1556,7 +1556,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Spider'
+        - '&7Rodzaj: &9Spider'
         - ''
         - '&7Click to summon this pet.'
       Cave Spider:
@@ -1569,7 +1569,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Cave Spider'
+        - '&7Rodzaj: &9Cave Spider'
         - ''
         - '&7Click to summon this pet.'
   Skeleton:
@@ -1591,7 +1591,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Skeleton'
+        - '&7Rodzaj: &9Skeleton'
         - ''
         - '&7Click to summon this pet.'
       Wither Skeleton:
@@ -1604,7 +1604,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Wither Skeleton'
+        - '&7Rodzaj: &9Wither Skeleton'
         - ''
         - '&7Click to summon this pet.'
       Stray Skeleton:
@@ -1617,7 +1617,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Stray Skeleton'
+        - '&7Rodzaj: &9Stray Skeleton'
         - ''
         - '&7Click to summon this pet.'
   Blaze:
@@ -1639,7 +1639,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Blaze'
+        - '&7Rodzaj: &9Blaze'
         - ''
         - '&7Click to summon this pet.'
   Creeper:
@@ -1661,7 +1661,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Creeper'
+        - '&7Rodzaj: &9Creeper'
         - ''
         - '&7Click to summon this pet.'
       Powered Creeper:
@@ -1674,7 +1674,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Type: &9Powered Creeper'
+        - '&7Rodzaj: &9Powered Creeper'
         - ''
         - '&7Click to summon this pet.'
   Golem:
@@ -1696,7 +1696,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Golem'
+        - '&7Rodzaj: &9Golem'
         - ''
         - '&7Click to summon this pet.'
   Snowman:
@@ -1718,7 +1718,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Snowman'
+        - '&7Rodzaj: &9Snowman'
         - ''
         - '&7Click to summon this pet.'
   Polar Bear:
@@ -1740,7 +1740,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Polar Bear'
+        - '&7Rodzaj: &9Polar Bear'
         - ''
         - '&7Click to summon this pet.'
       Baby Polar Bear:
@@ -1753,7 +1753,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.5
         Lore:
-        - '&7Type: &9Polar Bear (Baby)'
+        - '&7Rodzaj: &9Polar Bear (Baby)'
         - ''
         - '&7Click to summon this pet.'
   Llama:
@@ -1775,7 +1775,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Llama: Brown'
+        - '&7Rodzaj: &9Llama: Brown'
         - ''
         - '&7Click to summon this pet.'
       Baby Brown Llama:
@@ -1788,7 +1788,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.5
         Lore:
-        - '&7Type: &9Llama: Brown (Baby)'
+        - '&7Rodzaj: &9Llama: Brown (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Creamy Llama:
@@ -1801,7 +1801,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Llama: Creamy'
+        - '&7Rodzaj: &9Llama: Creamy'
         - ''
         - '&7Click to summon this pet.'
       Baby Creamy Llama:
@@ -1814,7 +1814,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.5
         Lore:
-        - '&7Type: &9Llama: Creamy (Baby)'
+        - '&7Rodzaj: &9Llama: Creamy (Baby)'
         - ''
         - '&7Click to summon this pet.'
       Gray Llama:
@@ -1827,7 +1827,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Llama: Gray'
+        - '&7Rodzaj: &9Llama: Gray'
         - ''
         - '&7Click to summon this pet.'
       Baby Gray Llama:
@@ -1840,7 +1840,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.5
         Lore:
-        - '&7Type: &9Llama: Gray (Baby)'
+        - '&7Rodzaj: &9Llama: Gray (Baby)'
         - ''
         - '&7Click to summon this pet.'
       White Llama:
@@ -1853,7 +1853,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Type: &9Llama: White'
+        - '&7Rodzaj: &9Llama: White'
         - ''
         - '&7Click to summon this pet.'
       Baby White Llama:
@@ -1866,6 +1866,6 @@ Pets:
         Purchasable: true
         Move-Speed: 0.5
         Lore:
-        - '&7Type: &9Llama: White (Baby)'
+        - '&7Rodzaj: &9Llama: White (Baby)'
         - ''
         - '&7Click to summon this pet.'

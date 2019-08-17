@@ -140,7 +140,7 @@ GUI-Menus:
         - '&aCzęste Przedmioty&7: &b3'
         - '&9Rzadkie Przedmioty&7: &b2'
         - '&5Epickie Przedmioty&7: &b1'
-        - '&6Legendary items&7: &b1'
+        - '&6Legendarny items&7: &b1'
         - ''
         - '&7Jakosc: &e✰✰&7✰✰✰'
       3-Star:
@@ -154,7 +154,7 @@ GUI-Menus:
         - '&aCzęste Przedmioty&7: &b2'
         - '&9Rzadkie Przedmioty&7: &b2'
         - '&5Epickie Przedmioty&7: &b2'
-        - '&6Legendary items&7: &b1'
+        - '&6Legendarny items&7: &b1'
         - ''
         - '&7Jakosc: &e✰✰✰&7✰✰'
       4-Star:
@@ -168,7 +168,7 @@ GUI-Menus:
         - '&aCzęste Przedmioty&7: &b1'
         - '&9Rzadkie Przedmioty&7: &b1'
         - '&5Epickie Przedmioty&7: &b2'
-        - '&6Legendary items&7: &b3'
+        - '&6Legendarny items&7: &b3'
         - ''
         - '&7Jakosc: &e✰✰✰✰&7✰'
       5-Star:
@@ -182,7 +182,7 @@ GUI-Menus:
         - '&aCzęste Przedmioty&7: &b0'
         - '&9Rzadkie Przedmioty&7: &b1'
         - '&5Epickie Przedmioty&7: &b2'
-        - '&6Legendary items&7: &b4'
+        - '&6Legendarny items&7: &b4'
         - ''
         - '&7Jakosc: &e✰✰✰✰✰'
   Gift-Inventory-Menu:

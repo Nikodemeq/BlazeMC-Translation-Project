@@ -2,18 +2,18 @@ Mystery-Boxes:
   Holograms:
     Found-Loot:
       Common: '&aCzęsty {LOOT}'
-      Rare: '&9Rare {LOOT}'
-      Epic: '&5Epic {LOOT}'
-      Legendary: '&6Legendary {LOOT}'
+      Rare: '&9Rzadki {LOOT}'
+      Epic: '&5Epicki {LOOT}'
+      Legendary: '&6Legendarny {LOOT}'
     Mystery-Vault:
-      Line-1: '&bMystery Vault'
-      Line-2: '&e&lRight Click'
+      Line-1: '&bTajemniczy Magazyn'
+      Line-2: '&e&lKliknij!'
     Individual-Holograms:
       Enabled: true
       Available-Mystery-Boxes:
-      - '&c{MYSTERY_BOXES} Available'
-      - '&f{MYSTERY_BOXES} Available'
-      Zero-Mystery-Box-Available: '&cNo Box Available'
+      - '&c{MYSTERY_BOXES} Dostepne w magazynie!'
+      - '&f{MYSTERY_BOXES} Dostepne w magazynie!'
+      Zero-Mystery-Box-Available: '&cMagazyn jest pusty!'
   Enabled: true
   Loots-Can-Be-Found:
     Hats: true
@@ -34,8 +34,8 @@ Mystery-Boxes:
     Legendary: 5
   Rarity:
     Common: '&aCzęsty'
-    Rare: '&9Rare'
-    Epic: '&5Epic'
+    Rare: '&9Rzadki'
+    Epic: '&5Epicki'
     Legendary: '&6Legendary'
   Found-Loot:
     Common:
@@ -63,7 +63,7 @@ Mystery-Boxes:
         - '             &b&lOtworzyles pudelko!'
         - ''
         - '  &7Oto twój łup:'
-        - '  &71x &9&lRare {LOOT}'
+        - '  &71x &9&lRzadki {LOOT}'
         - ''
         - '&8&n----------&8[ &6&lTAJEMNICZE PUDEŁKO &8]&n----------'
     Epic:
@@ -77,7 +77,7 @@ Mystery-Boxes:
         - '             &b&lOtworzyles pudelko!'
         - ''
         - '  &7Oto twój łup:'
-        - '  &71x &5&lEpic {LOOT}'
+        - '  &71x &5&lEpicki {LOOT}'
         - ''
         - '&8&n----------&8[ &6&lTAJEMNICZE PUDEŁKO &8]&n----------'
     Legendary:
@@ -91,7 +91,7 @@ Mystery-Boxes:
         - '             &b&lOtworzyles pudelko!'
         - ''
         - '  &7Oto twój łup:'
-        - '  &71x &6&lLegendary {LOOT}'
+        - '  &71x &6&lLegendarny {LOOT}'
         - ''
         - '&8&n----------&8[ &6&lTAJEMNICZE PUDEŁKO &8]&n----------'
   Already-Had-Loot:
@@ -103,8 +103,8 @@ Mystery-Boxes:
       Send-Message:
         Enabled: true
         Message:
-        - '&7You already had &aCzęsty {LOOT} &7so you'
-        - '&7received &a{MYSTERY_DUST} Mystery Dust &7instead.'
+        - '&7Juz posiadasz &aCzęsty {LOOT} &7wiec otrzymales'
+        - '&a{MYSTERY_DUST} Tajemniczego Pyłu&7.'
       Execute-Command:
         Enabled: false
         Command: eco give {PLAYER} 2
@@ -116,8 +116,8 @@ Mystery-Boxes:
       Send-Message:
         Enabled: true
         Message:
-        - '&7You already had &9Rare {LOOT} &7so you'
-        - '&7received &a{MYSTERY_DUST} Mystery Dust &7instead.'
+        - '&7Juz posiadasz &9Rzadki &7wiec otrzymales'
+        - '&a{MYSTERY_DUST} Tajemniczego Pyłu&7.'
       Execute-Command:
         Enabled: false
         Command: eco give {PLAYER} 5
@@ -129,8 +129,8 @@ Mystery-Boxes:
       Send-Message:
         Enabled: true
         Message:
-        - '&7You already had &5Epic {LOOT} &7so you'
-        - '&7received &a{MYSTERY_DUST} Mystery Dust &7instead.'
+        - '&7Juz posiadasz &5Epicki {LOOT} &7wiec otrzymales'
+        - '&a{MYSTERY_DUST} Tajemniczego Pyłu&7.'
       Execute-Command:
         Enabled: false
         Command: eco give {PLAYER} 8
@@ -142,44 +142,44 @@ Mystery-Boxes:
       Send-Message:
         Enabled: true
         Message:
-        - '&7You already had &6Legendary {LOOT} &7so you'
-        - '&7received &a{MYSTERY_DUST} Mystery Dust &7instead.'
+        - '&7Juz posiadasz &6Legendarny {LOOT} &7wiec otrzymales'
+        - '&a{MYSTERY_DUST} Tajemniczego Pyłu&7.'
       Execute-Command:
         Enabled: false
         Command: eco give {PLAYER} 12
   Broadcast:
     Opening-Mystery-Box:
       Enabled: true
-      Message: '&b[Otworzyles pudelko!] &7{PLAYER} &ris opening a Otworzyles pudelko!!'
+      Message: '&b[Tajemnicze Pudełko] &7Gracz &a{PLAYER} &7Otwiera &bTajemnicze Pudelko&7!'
     Found-Loot:
       Common:
         Enabled: true
-        Message: '&b[Otworzyles pudelko!] &7{PLAYER} &rfound a &aCzęsty {LOOT}&r!'
+        Message: '&b[Tajemnicze Pudełko] &7Gracz &a{PLAYER} &7znalazl &aCzęsty {LOOT}!'
       Rare:
         Enabled: true
-        Message: '&b[Otworzyles pudelko!] &7{PLAYER} &rfound a &9Rare {LOOT}&r!'
+        Message: '&b[Tajemnicze Pudełko] &7Gracz &a{PLAYER} &7znalazl &9Rzadki {LOOT}!'
       Epic:
         Enabled: true
-        Message: '&b[Otworzyles pudelko!] &7{PLAYER} &rfound a &5Epic {LOOT}&r!'
+        Message: '&b[Tajemnicze Pudełko] &7Gracz &a{PLAYER} &7znalazl &5Epicki {LOOT}!'
       Legendary:
         Enabled: true
-        Message: '&b[Otworzyles pudelko!] &7{PLAYER} &rfound a &6Legendary {LOOT}&r!'
+        Message: '&b[Tajemnicze Pudełko] &7Gracz &a{PLAYER} &7znalazl &6Legendarny {LOOT}!'
     Found-Mystery-Box:
       One-Star:
         Enabled: true
-        Message: '{PLAYER} &ffound a &e✰&7✰✰✰✰ &fOtworzyles pudelko!!'
+        Message: '&b[Tajemnicze Pudełko] &7Gracz &a{PLAYER} &7znalazl pudelko o wartosci &e✰&7✰✰✰✰&7!'
       Two-Star:
         Enabled: true
-        Message: '{PLAYER} &ffound a &e✰✰&7✰✰✰ &fOtworzyles pudelko!!'
+        Message: '&b[Tajemnicze Pudełko] &7Gracz &a{PLAYER} &7znalazl pudelko o wartosci &e✰✰&7✰✰✰&7!'
       Three-Star:
         Enabled: true
-        Message: '{PLAYER} &ffound a &e✰✰✰&7✰✰ &fOtworzyles pudelko!!'
+        Message: '&b[Tajemnicze Pudełko] &7Gracz &a{PLAYER} &7znalazl pudelko o wartosci &e✰✰✰&7✰✰&7!'
       Four-Star:
         Enabled: true
-        Message: '{PLAYER} &ffound a &e✰✰✰✰&7✰ &fOtworzyles pudelko!!'
+        Message: '&b[Tajemnicze Pudełko] &7Gracz &a{PLAYER} &7znalazl pudelko o wartosci &e✰✰✰✰&7✰&7!'
       Five-Star:
         Enabled: true
-        Message: '{PLAYER} &ffound a &e✰✰✰✰✰ &fOtworzyles pudelko!!'
+        Message: '&b[Tajemnicze Pudełko] &7Gracz &a{PLAYER} &7znalazl pudelko o wartosci &e✰✰✰✰✰&7!'
   Mystery-Boxes-Reward:
     Enabled: true
     Chance-To-Get-Mystery-Box: 60
@@ -194,324 +194,324 @@ Mystery-Boxes:
       Minutes: 60
       Seconds: 0
     Message:
-      One-Star: '&fYou found a &e✰&7✰✰✰✰ &fOtworzyles pudelko!!'
-      Two-Star: '&fYou found a &e✰✰&7✰✰✰ &fOtworzyles pudelko!!'
-      Three-Star: '&fYou found a &e✰✰✰&7✰✰ &fOtworzyles pudelko!!'
-      Four-Star: '&fYou found a &e✰✰✰✰&7✰ &fOtworzyles pudelko!!'
-      Five-Star: '&fYou found a &e✰✰✰✰✰ &fOtworzyles pudelko!!'
+      One-Star: '&b[Tajemnicze Pudełko] &7Znalazles &aTajemnicze Pudelko &7o wartosci &e✰&7✰✰✰✰&7!'
+      Two-Star: '&b[Tajemnicze Pudełko] &7Znalazles &aTajemnicze Pudelko &7o wartosci &e✰✰&7✰✰✰&7!'
+      Three-Star: '&b[Tajemnicze Pudełko] &7Znalazles &aTajemnicze Pudelko &7o wartosci &e✰✰✰&7✰✰&7!'
+      Four-Star: '&b[Tajemnicze Pudełko] &7Znalazles &aTajemnicze Pudelko &7o wartosci &e✰✰✰✰&7✰&7!'
+      Five-Star: '&b[Tajemnicze Pudełko] &7Znalazles &aTajemnicze Pudelko &7o wartosci &e✰✰✰✰✰&7!'
   Types:
     Normal-Mystery-Box:
-      Name: '&aOtworzyles pudelko!'
+      Name: '&aTajemnicze Pudelko!'
       Material: ENDER_CHEST
       Lore:
-        Expiry-Date: '&cExpires in {EXPIRY_DATE}'
-        Never-Expired: '&7This has no expiration date.'
+        Expiry-Date: '&cSpłonie za {EXPIRY_DATE}'
+        Never-Expired: '&cTo pudelko jest nieznisczalne.'
         Quality:
           One-Star:
-          - '&7This box contains one of the following:'
+          - '&7Zawiera przynajmniej jedno z tych:'
           - ''
           - '&aCzęsty {ITEM_ONE}'
           - '&aCzęsty {ITEM_TWO}'
           - '&aCzęsty {ITEM_THREE}'
           - '&aCzęsty {ITEM_FOUR}'
-          - '&9Rare {ITEM_FIVE}'
-          - '&5Epic {ITEM_SIX}'
-          - '&6Legendary {ITEM_SEVEN}'
+          - '&9Rzadki {ITEM_FIVE}'
+          - '&5Epicki {ITEM_SIX}'
+          - '&6Legendarny {ITEM_SEVEN}'
           - ''
-          - '&7Quality: &e✰&7✰✰✰✰'
+          - '&7Wartosc: &e✰&7✰✰✰✰'
           - '{EXPIRY_DATE}'
           - ''
-          - '&eClick to open!'
+          - '&eKliknij aby odpakowac!'
           Two-Star:
-          - '&7This box contains one of the following:'
+          - '&7Zawiera przynajmniej jedno z tych:'
           - ''
           - '&aCzęsty {ITEM_ONE}'
           - '&aCzęsty {ITEM_TWO}'
           - '&aCzęsty {ITEM_THREE}'
-          - '&9Rare {ITEM_FOUR}'
-          - '&9Rare {ITEM_FIVE}'
-          - '&5Epic {ITEM_SIX}'
-          - '&6Legendary {ITEM_SEVEN}'
+          - '&9Rzadki {ITEM_FOUR}'
+          - '&9Rzadki {ITEM_FIVE}'
+          - '&5Epicki {ITEM_SIX}'
+          - '&6Legendarny {ITEM_SEVEN}'
           - ''
-          - '&7Quality: &e✰✰&7✰✰✰'
+          - '&7Wartosc: &e✰✰&7✰✰✰'
           - '{EXPIRY_DATE}'
           - ''
-          - '&eClick to open!'
+          - '&eKliknij aby odpakowac!'
           Three-Star:
-          - '&7This box contains one of the following:'
+          - '&7Zawiera przynajmniej jedno z tych:'
           - ''
           - '&aCzęsty {ITEM_ONE}'
           - '&aCzęsty {ITEM_TWO}'
-          - '&9Rare {ITEM_THREE}'
-          - '&9Rare {ITEM_FOUR}'
-          - '&5Epic {ITEM_FIVE}'
-          - '&5Epic {ITEM_SIX}'
-          - '&6Legendary {ITEM_SEVEN}'
+          - '&9Rzadki {ITEM_THREE}'
+          - '&9Rzadki {ITEM_FOUR}'
+          - '&5Epicki {ITEM_FIVE}'
+          - '&5Epicki {ITEM_SIX}'
+          - '&6Legendarny {ITEM_SEVEN}'
           - ''
-          - '&7Quality: &e✰✰✰&7✰✰'
+          - '&7Wartosc: &e✰✰✰&7✰✰'
           - '{EXPIRY_DATE}'
           - ''
-          - '&eClick to open!'
+          - '&eKliknij aby odpakowac!'
           Four-Star:
-          - '&7This box contains one of the following:'
+          - '&7Zawiera przynajmniej jedno z tych:'
           - ''
           - '&aCzęsty {ITEM_ONE}'
-          - '&9Rare {ITEM_TWO}'
-          - '&5Epic {ITEM_THREE}'
-          - '&5Epic {ITEM_FOUR}'
-          - '&6Legendary {ITEM_FIVE}'
-          - '&6Legendary {ITEM_SIX}'
-          - '&6Legendary {ITEM_SEVEN}'
+          - '&9Rzadki {ITEM_TWO}'
+          - '&5Epicki {ITEM_THREE}'
+          - '&5Epicki {ITEM_FOUR}'
+          - '&6Legendarny {ITEM_FIVE}'
+          - '&6Legendarny {ITEM_SIX}'
+          - '&6Legendarny {ITEM_SEVEN}'
           - ''
-          - '&7Quality: &e✰✰✰✰&7✰'
+          - '&7Wartosc: &e✰✰✰✰&7✰'
           - '{EXPIRY_DATE}'
           - ''
-          - '&eClick to open!'
+          - '&eKliknij aby odpakowac!'
           Five-Star:
-          - '&7This box contains one of the following:'
+          - '&7Zawiera przynajmniej jedno z tych:'
           - ''
-          - '&9Rare {ITEM_ONE}'
-          - '&5Epic {ITEM_TWO}'
-          - '&5Epic {ITEM_THREE}'
-          - '&6Legendary {ITEM_FOUR}'
-          - '&6Legendary {ITEM_FIVE}'
-          - '&6Legendary {ITEM_SIX}'
-          - '&6Legendary {ITEM_SEVEN}'
+          - '&9Rzadki {ITEM_ONE}'
+          - '&5Epicki {ITEM_TWO}'
+          - '&5Epicki {ITEM_THREE}'
+          - '&6Legendarny {ITEM_FOUR}'
+          - '&6Legendarny {ITEM_FIVE}'
+          - '&6Legendarny {ITEM_SIX}'
+          - '&6Legendarny {ITEM_SEVEN}'
           - ''
-          - '&7Quality: &e✰✰✰✰✰'
+          - '&7Wartosc: &e✰✰✰✰✰'
           - '{EXPIRY_DATE}'
           - ''
-          - '&eClick to open!'
+          - '&eKliknij aby odpakowac!'
     Gifted-Mystery-Box:
-      Name: '&dGifted Otworzyles pudelko!'
-      Material: ENDER_CHEST
+      Name: '&dTajemnicze Pudelko (Prezent)!'
+      Material: CHEST
       Lore:
         One-Star:
-        - '&7This box contains one of the following:'
+        - '&7Zawiera przynajmniej jedno z tych:'
         - ''
         - '&aCzęsty {ITEM_ONE}'
         - '&aCzęsty {ITEM_TWO}'
         - '&aCzęsty {ITEM_THREE}'
         - '&aCzęsty {ITEM_FOUR}'
-        - '&9Rare {ITEM_FIVE}'
-        - '&5Epic {ITEM_SIX}'''
-        - '&6Legendary {ITEM_SEVEN}'
+        - '&9Rzadki {ITEM_FIVE}'
+        - '&5Epicki {ITEM_SIX}'''
+        - '&6Legendarny {ITEM_SEVEN}'
         - ''
-        - '&7Quality: &e✰&7✰✰✰✰'
+        - '&7Wartosc: &e✰&7✰✰✰✰'
         - ''
-        - '&7You received this gift from:'
+        - '&7Ten prezent wyslal ci:'
         - '&7{SENDER}'
         - ''
-        - '&eClick to open!'
+        - '&eKliknij aby odpakowac!'
         Two-Star:
-        - '&7This box contains one of the following:'
+        - '&7Zawiera przynajmniej jedno z tych:'
         - ''
         - '&aCzęsty {ITEM_ONE}'
         - '&aCzęsty {ITEM_TWO}'
         - '&aCzęsty {ITEM_THREE}'
-        - '&9Rare {ITEM_FOUR}'
-        - '&9Rare {ITEM_FIVE}'
-        - '&5Epic {ITEM_SIX}'
-        - '&6Legendary {ITEM_SEVEN}'
+        - '&9Rzadki {ITEM_FOUR}'
+        - '&9Rzadki {ITEM_FIVE}'
+        - '&5Epicki {ITEM_SIX}'
+        - '&6Legendarny {ITEM_SEVEN}'
         - ''
-        - '&7Quality: &e✰✰&7✰✰✰'
+        - '&7Wartosc: &e✰✰&7✰✰✰'
         - ''
-        - '&7You received this gift from:'
+        - '&7Ten prezent wyslal ci:'
         - '&7{SENDER}'
         - ''
-        - '&eClick to open!'
+        - '&eKliknij aby odpakowac!'
         Three-Star:
-        - '&7This box contains one of the following:'
+        - '&7Zawiera przynajmniej jedno z tych:'
         - ''
         - '&aCzęsty {ITEM_ONE}'
         - '&aCzęsty {ITEM_TWO}'
-        - '&9Rare {ITEM_THREE}'
-        - '&9Rare {ITEM_FOUR}'
-        - '&5Epic {ITEM_FIVE}'
-        - '&5Epic {ITEM_SIX}'
-        - '&6Legendary {ITEM_SEVEN}'
+        - '&9Rzadki {ITEM_THREE}'
+        - '&9Rzadki {ITEM_FOUR}'
+        - '&5Epicki {ITEM_FIVE}'
+        - '&5Epicki {ITEM_SIX}'
+        - '&6Legendarny {ITEM_SEVEN}'
         - ''
-        - '&7Quality: &e✰✰✰&7✰✰'
+        - '&7Wartosc: &e✰✰✰&7✰✰'
         - ''
-        - '&7You received this gift from:'
+        - '&7Ten prezent wyslal ci:'
         - '&7{SENDER}'
         - ''
-        - '&eClick to open!'
+        - '&eKliknij aby odpakowac!'
         Four-Star:
-        - '&7This box contains one of the following:'
+        - '&7Zawiera przynajmniej jedno z tych:'
         - ''
         - '&aCzęsty {ITEM_ONE}'
-        - '&9Rare {ITEM_TWO}'
-        - '&5Epic {ITEM_THREE}'
-        - '&5Epic {ITEM_FOUR}'
-        - '&6Legendary {ITEM_FIVE}'
-        - '&6Legendary {ITEM_SIX}'
-        - '&6Legendary {ITEM_SEVEN}'
+        - '&9Rzadki {ITEM_TWO}'
+        - '&5Epicki {ITEM_THREE}'
+        - '&5Epicki {ITEM_FOUR}'
+        - '&6Legendarny {ITEM_FIVE}'
+        - '&6Legendarny {ITEM_SIX}'
+        - '&6Legendarny {ITEM_SEVEN}'
         - ''
-        - '&7Quality: &e✰✰✰✰&7✰'
+        - '&7Wartosc: &e✰✰✰✰&7✰'
         - ''
-        - '&7You received this gift from:'
+        - '&7Ten prezent wyslal ci:'
         - '&7{SENDER}'
         - ''
-        - '&eClick to open!'
+        - '&eKliknij aby odpakowac!'
         Five-Star:
-        - '&7This box contains one of the following:'
+        - '&7Zawiera przynajmniej jedno z tych:'
         - ''
-        - '&9Rare {ITEM_ONE}'
-        - '&5Epic {ITEM_TWO}'
-        - '&5Epic {ITEM_THREE}'
-        - '&6Legendary {ITEM_FOUR}'
-        - '&6Legendary {ITEM_FIVE}'
-        - '&6Legendary {ITEM_SIX}'
-        - '&6Legendary {ITEM_SEVEN}'
+        - '&9Rzadki {ITEM_ONE}'
+        - '&5Epicki {ITEM_TWO}'
+        - '&5Epicki {ITEM_THREE}'
+        - '&6Legendarny {ITEM_FOUR}'
+        - '&6Legendarny {ITEM_FIVE}'
+        - '&6Legendarny {ITEM_SIX}'
+        - '&6Legendarny {ITEM_SEVEN}'
         - ''
-        - '&7Quality: &e✰✰✰✰✰'
+        - '&7Wartosc: &e✰✰✰✰✰'
         - ''
-        - '&7You received this gift from:'
+        - '&7Ten prezent wyslal ci:'
         - '&7{SENDER}'
         - ''
-        - '&eClick to open!'
+        - '&eKliknij aby odpakowac!'
     Crafted-Mystery-Box:
       One-Star:
-        Name: '&bCrafted Otworzyles pudelko! #1'
+        Name: '&bTajemnicze Pudelko (Ręcznie Wykonany)! #1'
         Material: ENDER_CHEST
         Lore:
-        - '&7This box contains one of the following:'
+        - '&7Zawiera przynajmniej jedno z tych:'
         - ''
         - '&aCzęsty {ITEM_ONE}'
         - '&aCzęsty {ITEM_TWO}'
         - '&aCzęsty {ITEM_THREE}'
         - '&aCzęsty {ITEM_FOUR}'
-        - '&9Rare {ITEM_FIVE}'
-        - '&5Epic {ITEM_SIX}'
-        - '&6Legendary {ITEM_SEVEN}'
+        - '&9Rzadki {ITEM_FIVE}'
+        - '&5Epicki {ITEM_SIX}'
+        - '&6Legendarny {ITEM_SEVEN}'
         - ''
-        - '&7Quality: &e✰&7✰✰✰✰'
-        - '&bCrafted on {DATE}'
+        - '&7Wartosc: &e✰&7✰✰✰✰'
+        - '&cWytworzone dnia {DATE}'
         - ''
-        - '&eClick to open!'
+        - '&eKliknij aby odpakowac!'
       Two-Star:
-        Name: '&bCrafted Otworzyles pudelko! #2'
+        Name: '&bTajemnicze Pudelko (Ręcznie Wykonany)! #2'
         Material: ENDER_CHEST
         Lore:
-        - '&7This box contains one of the following:'
+        - '&7Zawiera przynajmniej jedno z tych:'
         - ''
         - '&aCzęsty {ITEM_ONE}'
         - '&aCzęsty {ITEM_TWO}'
         - '&aCzęsty {ITEM_THREE}'
-        - '&9Rare {ITEM_FOUR}'
-        - '&9Rare {ITEM_FIVE}'
-        - '&5Epic {ITEM_SIX}'
-        - '&6Legendary {ITEM_SEVEN}'
+        - '&9Rzadki {ITEM_FOUR}'
+        - '&9Rzadki {ITEM_FIVE}'
+        - '&5Epicki {ITEM_SIX}'
+        - '&6Legendarny {ITEM_SEVEN}'
         - ''
-        - '&7Quality: &e✰✰&7✰✰✰'
-        - '&bCrafted on {DATE}'
+        - '&7Wartosc: &e✰✰&7✰✰✰'
+        - '&cWytworzone dnia {DATE}'
         - ''
-        - '&eClick to open!'
+        - '&eKliknij aby odpakowac!'
       Three-Star:
-        Name: '&bCrafted Otworzyles pudelko! #3'
+        Name: '&bTajemnicze Pudelko (Ręcznie Wykonany)! #3'
         Material: ENDER_CHEST
         Lore:
-        - '&7This box contains one of the following:'
+        - '&7Zawiera przynajmniej jedno z tych:'
         - ''
         - '&aCzęsty {ITEM_ONE}'
         - '&aCzęsty {ITEM_TWO}'
-        - '&9Rare {ITEM_THREE}'
-        - '&9Rare {ITEM_FOUR}'
-        - '&5Epic {ITEM_FIVE}'
-        - '&5Epic {ITEM_SIX}'
-        - '&6Legendary {ITEM_SEVEN}'
+        - '&9Rzadki {ITEM_THREE}'
+        - '&9Rzadki {ITEM_FOUR}'
+        - '&5Epicki {ITEM_FIVE}'
+        - '&5Epicki {ITEM_SIX}'
+        - '&6Legendarny {ITEM_SEVEN}'
         - ''
-        - '&7Quality: &e✰✰✰&7✰✰'
-        - '&bCrafted on {DATE}'
+        - '&7Wartosc: &e✰✰✰&7✰✰'
+        - '&cWytworzone dnia {DATE}'
         - ''
-        - '&eClick to open!'
+        - '&eKliknij aby odpakowac!'
       Four-Star:
-        Name: '&bCrafted Otworzyles pudelko! #4'
+        Name: '&bTajemnicze Pudelko (Ręcznie Wykonany)! #4'
         Material: ENDER_CHEST
         Lore:
-        - '&7This box contains one of the following:'
+        - '&7Zawiera przynajmniej jedno z tych:'
         - ''
         - '&aCzęsty {ITEM_ONE}'
-        - '&9Rare {ITEM_TWO}'
-        - '&5Epic {ITEM_THREE}'
-        - '&5Epic {ITEM_FOUR}'
-        - '&6Legendary {ITEM_FIVE}'
-        - '&6Legendary {ITEM_SIX}'
-        - '&6Legendary {ITEM_SEVEN}'
+        - '&9Rzadki {ITEM_TWO}'
+        - '&5Epicki {ITEM_THREE}'
+        - '&5Epicki {ITEM_FOUR}'
+        - '&6Legendarny {ITEM_FIVE}'
+        - '&6Legendarny {ITEM_SIX}'
+        - '&6Legendarny {ITEM_SEVEN}'
         - ''
-        - '&7Quality: &e✰✰✰✰&7✰'
-        - '&bCrafted on {DATE}'
+        - '&7Wartosc: &e✰✰✰✰&7✰'
+        - '&cWytworzone dnia {DATE}'
         - ''
-        - '&eClick to open!'
+        - '&eKliknij aby odpakowac!'
       Five-Star:
-        Name: '&bCrafted Otworzyles pudelko! #5'
+        Name: '&bTajemnicze Pudelko (Ręcznie Wykonany)! #5'
         Material: ENDER_CHEST
         Lore:
-        - '&7This box contains one of the following:'
+        - '&7Zawiera przynajmniej jedno z tych:'
         - ''
-        - '&9Rare {ITEM_ONE}'
-        - '&5Epic {ITEM_TWO}'
-        - '&5Epic {ITEM_THREE}'
-        - '&6Legendary {ITEM_FOUR}'
-        - '&6Legendary {ITEM_FIVE}'
-        - '&6Legendary {ITEM_SIX}'
-        - '&6Legendary {ITEM_SEVEN}'
+        - '&9Rzadki {ITEM_ONE}'
+        - '&5Epicki {ITEM_TWO}'
+        - '&5Epicki {ITEM_THREE}'
+        - '&6Legendarny {ITEM_FOUR}'
+        - '&6Legendarny {ITEM_FIVE}'
+        - '&6Legendarny {ITEM_SIX}'
+        - '&6Legendarny {ITEM_SEVEN}'
         - ''
-        - '&7Quality: &e✰✰✰✰✰'
-        - '&bCrafted on {DATE}'
+        - '&7Wartosc: &e✰✰✰✰✰'
+        - '&cWytworzone dnia {DATE}'
         - ''
-        - '&eClick to open!'
+        - '&eKliknij aby odpakowac!'
   JSON-Messages:
     Found-Mystery-Box:
       One-Star:
-        Name: '&bOtworzyles pudelko!'
+        Name: '&bTajemnicze Pudelko!'
         Lore:
-        - '&7Rarity: &e✰&7✰✰✰✰'
-        - '&7You can find &bOtworzyles pudelko! &7by'
-        - '&7playing on the server.'
+        - '&7Rzadkosc: &e✰&7✰✰✰✰'
+        - '&7Mozesz znalesc &bTajemnicze Pudelka'
+        - '&7grajac na serwerze.'
       Two-Star:
-        Name: '&bOtworzyles pudelko!'
+        Name: '&bTajemnicze Pudelko!'
         Lore:
-        - '&7Rarity: &e✰✰&7✰✰✰'
-        - '&7You can find &bOtworzyles pudelko! &7by'
-        - '&7playing on the server.'
+        - '&7Rzadkosc: &e✰✰&7✰✰✰'
+        - '&7Mozesz znalesc &bTajemnicze Pudelka'
+        - '&7grajac na serwerze.'
       Three-Star:
-        Name: '&bOtworzyles pudelko!'
+        Name: '&bTajemnicze Pudelko!'
         Lore:
-        - '&7Rarity: &e✰✰✰&7✰✰'
-        - '&7You can find &bOtworzyles pudelko! &7by'
-        - '&7playing on the server.'
+        - '&7Rzadkosc: &e✰✰✰&7✰✰'
+        - '&7Mozesz znalesc &bTajemnicze Pudelka'
+        - '&7grajac na serwerze.'
       Four-Star:
-        Name: '&bOtworzyles pudelko!'
+        Name: '&bTajemnicze Pudelko!'
         Lore:
-        - '&7Rarity: &e✰✰✰✰&7✰'
-        - '&7You can find &bOtworzyles pudelko! &7by'
-        - '&7playing on the server.'
+        - '&7Rzadkosc: &e✰✰✰✰&7✰'
+        - '&7Mozesz znalesc &bTajemnicze Pudelka'
+        - '&7grajac na serwerze.'
       Five-Star:
-        Name: '&bOtworzyles pudelko!'
+        Name: '&bTajemnicze Pudelko!'
         Lore:
-        - '&7Rarity: &e✰✰✰✰✰'
-        - '&7You can find &bOtworzyles pudelko! &7by'
-        - '&7playing on the server.'
+        - '&7Rzadkosc: &e✰✰✰✰✰'
+        - '&7Mozesz znalesc &bTajemnicze Pudelka'
+        - '&7grajac na serwerze.'
     Found-Loot:
       Common:
         Name: '&aCzęsty {LOOT}'
         Lore:
-        - '&7Type: {CATEGORY}'
-        - '&7Rarity: &aCzęsty'
+        - '&7Rodzaj: {CATEGORY}'
+        - '&7Rzadkosc: &aCzęsty'
       Rare:
-        Name: '&9Rare {LOOT}'
+        Name: '&9Rzadki {LOOT}'
         Lore:
-        - '&7Type: {CATEGORY}'
-        - '&7Rarity: &9Rare'
+        - '&7Rodzaj: {CATEGORY}'
+        - '&7Rzadkosc: &9Rare'
       Epic:
-        Name: '&5Epic {LOOT}'
+        Name: '&5Epicki {LOOT}'
         Lore:
-        - '&7Type: {CATEGORY}'
-        - '&7Rarity: &5Epic'
+        - '&7Rodzaj: {CATEGORY}'
+        - '&7Rzadkosc: &5Epic'
       Legendary:
-        Name: '&6Legendary {LOOT}'
+        Name: '&6Legendarny {LOOT}'
         Lore:
-        - '&7Type: {CATEGORY}'
-        - '&7Rarity: &6Legendary'
+        - '&7Rodzaj: {CATEGORY}'
+        - '&7Rzadkosc: &6Legendary'
