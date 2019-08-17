@@ -113,10 +113,10 @@ GUI-Menus:
         - '&7Pozwala na otworzenie'
         - '&7wszystkich pudelek jednoczesnie!'
   Mystery-Box-Crafting-Menu:
-    GUI-Name: Mystery Box Crafting
+    GUI-Name: Otworzyles pudelko! Crafting
     Items:
       1-Star:
-        Name: '&bMystery Box #1'
+        Name: '&bOtworzyles pudelko! #1'
         Material: ENDER_CHEST
         Price: 100
         Lore:
@@ -130,7 +130,7 @@ GUI-Menus:
         - ''
         - '&7Jakosc: &e✰&7✰✰✰✰'
       2-Star:
-        Name: '&bMystery Box #2'
+        Name: '&bOtworzyles pudelko! #2'
         Material: ENDER_CHEST
         Price: 200
         Lore:
@@ -144,7 +144,7 @@ GUI-Menus:
         - ''
         - '&7Jakosc: &e✰✰&7✰✰✰'
       3-Star:
-        Name: '&bMystery Box #3'
+        Name: '&bOtworzyles pudelko! #3'
         Material: ENDER_CHEST
         Price: 300
         Lore:
@@ -158,7 +158,7 @@ GUI-Menus:
         - ''
         - '&7Jakosc: &e✰✰✰&7✰✰'
       4-Star:
-        Name: '&bMystery Box #4'
+        Name: '&bOtworzyles pudelko! #4'
         Material: ENDER_CHEST
         Price: 400
         Lore:
@@ -172,7 +172,7 @@ GUI-Menus:
         - ''
         - '&7Jakosc: &e✰✰✰✰&7✰'
       5-Star:
-        Name: '&bMystery Box #5'
+        Name: '&bOtworzyles pudelko! #5'
         Material: ENDER_CHEST
         Price: 550
         Lore:
@@ -412,14 +412,14 @@ Items:
       Enabled: true
       Sound: ENTITY_ENDERMAN_TELEPORT
   Multiple-Boxes-Loot-Book:
-  - '       &1&lMYSTERY BOX'
+  - '       &1&lOtworzyles pudelko!'
   - ''
   - '&0You found the'
   - '&0following loot in your'
-  - '&0Mystery Boxes:'
+  - '&0Otworzyles pudelko!es:'
   - '&9&l+{MYSTERY_DUST} Mystery Dust'
   - ''
-  - '&9&l{MYSTERY_BOXES_OPENED} &0Mystery Boxes opened'
+  - '&9&l{MYSTERY_BOXES_OPENED} &0Otworzyles pudelko!es opened'
   - ''
   - ''
   - '&0Go to the next page to'
@@ -705,8 +705,8 @@ Pay-MysteryDust-To-Self: '{PREFIX}&cYou can''t pay mystery dust to yourself!'
 Gave-Mystery-Boxes: '{PREFIX}&eYou''ve successfully gave &b{MYSTERY_BOXES} mystery
   boxes &eto &b{PLAYER}&e.'
 Gave-Mystery-Boxes-To-All-Players: '{PREFIX}&eYou''ve successfully gave &b{MYSTERY_BOXES}
-  mystery boxes &eto &b{ONLINE} &eplayer(s).'
-Received-Mystery-Boxes: '{PREFIX}&eYou''ve received &b{MYSTERY_BOXES} mystery boxes
+  Otworzyles pudelko!es &eto &b{ONLINE} &eplayer(s).'
+Received-Mystery-Boxes: '{PREFIX}&eYou''ve received &b{MYSTERY_BOXES} Otworzyles pudelko!es
   &efrom &b{PLAYER}&e.'
 Added-Mystery-Vault: '{PREFIX}&aSuccessful create Mystery Vault &f''{NAME}''&a.'
 Redefined-Mystery-Vault: '{PREFIX}&aThe location of mystery vault &f''{NAME}'' &ahas
@@ -725,22 +725,22 @@ Open-Mystery-Vault-At-A-Time: '{PREFIX}&cOnly one player can use the Mystery Vau
   at a time!'
 Can-Only-Open-One-Mystery-Box: '{PREFIX}&cWait for this box to finish opening first!'
 Purchase-Cancelled: '{PREFIX}&cPurchase cancelled!'
-Mystery-Boxes-Are-Disabled: '{PREFIX}&cMystery Boxes are disabled!'
+Mystery-Boxes-Are-Disabled: '{PREFIX}&cOtworzyles pudelko!es are disabled!'
 Crafted-Mystery-Box: '&aYou crafted &b{NAME}&a.'
 Gave-Mystery-Gifts: '{PREFIX}&eYou''ve successfully gave &b{GIFTS} &eTajemniczy prezent
   packs&e to &r{PLAYER}&e.'
 Received-Mystery-Gifts: '{PREFIX}&eYou''ve received &b{GIFTS} &eTajemniczy prezent packs&e
   from &r{PLAYER}&e.'
-Send-A-Gift-To-Player: '&aYou send a gift contaning &b5 Mystery Boxes &ato &r{PLAYER}&a!'
+Send-A-Gift-To-Player: '&aYou send a gift contaning &b5 Otworzyles pudelko!es &ato &r{PLAYER}&a!'
 Received-Gift: '&aYou received a gift from &r{PLAYER}&a! Visit a &bMystery Vault &ato
   open it!'
-Mystery-Box-Was-Expired: '{PREFIX}&cThis mystery box was expired. Please open your
-  mystery box before it''s expired.'
-Check-Mystery-Boxes: '&e{PLAYER} have &b{MYSTERY_BOXES} &eMystery Boxes.'
+Mystery-Box-Was-Expired: '{PREFIX}&cThis Otworzyles pudelko! was expired. Please open your
+  Otworzyles pudelko! before it''s expired.'
+Check-Mystery-Boxes: '&e{PLAYER} have &b{MYSTERY_BOXES} &eOtworzyles pudelko!es.'
 Select-Mystery-Vault-Animation: '&eWybrales &b{ANIMATION} &efor your mystery vault
   animation.'
-Not-Enough-Mystery-Boxes: '&cYou do not have enough mystery boxes can be opened.'
-Counting-Mystery-Boxes: '&cCounting Mystery Boxes...'
+Not-Enough-Mystery-Boxes: '&cYou do not have enough Otworzyles pudelko!es can be opened.'
+Counting-Mystery-Boxes: '&cCounting Otworzyles pudelko!es...'
 No-Permission-To-Open-One-Star-Box: '{PREFIX}&cNie posiadasz permisji do tego pudelka!'
 No-Permission-To-Open-Two-Star-Box: '{PREFIX}&cNie posiadasz permisji do tego pudelka!'
 No-Permission-To-Open-Three-Star-Box: '{PREFIX}&cNie posiadasz permisji do tego pudelka!'

@@ -55,7 +55,7 @@ Settings:
   Enabled-Mob-Disguise-Damage: false
   # Auto equip cosmetic after player purchased.
   Auto-Equip-After-Purchase: true
-  # Auto equip cosmetic when player found loot from mystery box.
+  # Auto equip cosmetic when player found loot from Otworzyles pudelko!.
   Auto-Equip-On-Loot-Found: true
   # Set to true will shows particle effect to everyone,
   # otherwise will only show to the player itself.

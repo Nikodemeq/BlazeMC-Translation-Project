@@ -1,7 +1,7 @@
 Mystery-Boxes:
   Holograms:
     Found-Loot:
-      Common: '&aCommon {LOOT}'
+      Common: '&aCzęsty {LOOT}'
       Rare: '&9Rare {LOOT}'
       Epic: '&5Epic {LOOT}'
       Legendary: '&6Legendary {LOOT}'
@@ -33,7 +33,7 @@ Mystery-Boxes:
     Epic: 10
     Legendary: 5
   Rarity:
-    Common: '&aCommon'
+    Common: '&aCzęsty'
     Rare: '&9Rare'
     Epic: '&5Epic'
     Legendary: '&6Legendary'
@@ -45,13 +45,13 @@ Mystery-Boxes:
       Send-Message:
         Enabled: true
         Message:
-        - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-        - '             &b&lMystery Box'
+        - '&8&n----------&8[ &6&lTAJEMNICZE PUDEŁKO &8]&n----------'
+        - '             &b&lOtworzyles pudelko!'
         - ''
-        - '  &7You found loot!'
-        - '  &71x &a&lCommon {LOOT}'
+        - '  &7Oto twój łup:'
+        - '  &71x &a&lCzęsty {LOOT}'
         - ''
-        - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+        - '&8&n----------&8[ &6&lTAJEMNICZE PUDEŁKO &8]&n----------'
     Rare:
       Play-Sound:
         Enabled: true
@@ -59,13 +59,13 @@ Mystery-Boxes:
       Send-Message:
         Enabled: true
         Message:
-        - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-        - '             &b&lMystery Box'
+        - '&8&n----------&8[ &6&lTAJEMNICZE PUDEŁKO &8]&n----------'
+        - '             &b&lOtworzyles pudelko!'
         - ''
-        - '  &7You found loot!'
+        - '  &7Oto twój łup:'
         - '  &71x &9&lRare {LOOT}'
         - ''
-        - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+        - '&8&n----------&8[ &6&lTAJEMNICZE PUDEŁKO &8]&n----------'
     Epic:
       Play-Sound:
         Enabled: true
@@ -73,13 +73,13 @@ Mystery-Boxes:
       Send-Message:
         Enabled: true
         Message:
-        - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-        - '             &b&lMystery Box'
+        - '&8&n----------&8[ &6&lTAJEMNICZE PUDEŁKO &8]&n----------'
+        - '             &b&lOtworzyles pudelko!'
         - ''
-        - '  &7You found loot!'
+        - '  &7Oto twój łup:'
         - '  &71x &5&lEpic {LOOT}'
         - ''
-        - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+        - '&8&n----------&8[ &6&lTAJEMNICZE PUDEŁKO &8]&n----------'
     Legendary:
       Play-Sound:
         Enabled: true
@@ -87,13 +87,13 @@ Mystery-Boxes:
       Send-Message:
         Enabled: true
         Message:
-        - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-        - '             &b&lMystery Box'
+        - '&8&n----------&8[ &6&lTAJEMNICZE PUDEŁKO &8]&n----------'
+        - '             &b&lOtworzyles pudelko!'
         - ''
-        - '  &7You found loot!'
+        - '  &7Oto twój łup:'
         - '  &71x &6&lLegendary {LOOT}'
         - ''
-        - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+        - '&8&n----------&8[ &6&lTAJEMNICZE PUDEŁKO &8]&n----------'
   Already-Had-Loot:
     Common:
       Give-Mystery-Dust:
@@ -103,7 +103,7 @@ Mystery-Boxes:
       Send-Message:
         Enabled: true
         Message:
-        - '&7You already had &aCommon {LOOT} &7so you'
+        - '&7You already had &aCzęsty {LOOT} &7so you'
         - '&7received &a{MYSTERY_DUST} Mystery Dust &7instead.'
       Execute-Command:
         Enabled: false
@@ -150,36 +150,36 @@ Mystery-Boxes:
   Broadcast:
     Opening-Mystery-Box:
       Enabled: true
-      Message: '&b[Mystery Box] &7{PLAYER} &ris opening a Mystery Box!'
+      Message: '&b[Otworzyles pudelko!] &7{PLAYER} &ris opening a Otworzyles pudelko!!'
     Found-Loot:
       Common:
         Enabled: true
-        Message: '&b[Mystery Box] &7{PLAYER} &rfound a &aCommon {LOOT}&r!'
+        Message: '&b[Otworzyles pudelko!] &7{PLAYER} &rfound a &aCzęsty {LOOT}&r!'
       Rare:
         Enabled: true
-        Message: '&b[Mystery Box] &7{PLAYER} &rfound a &9Rare {LOOT}&r!'
+        Message: '&b[Otworzyles pudelko!] &7{PLAYER} &rfound a &9Rare {LOOT}&r!'
       Epic:
         Enabled: true
-        Message: '&b[Mystery Box] &7{PLAYER} &rfound a &5Epic {LOOT}&r!'
+        Message: '&b[Otworzyles pudelko!] &7{PLAYER} &rfound a &5Epic {LOOT}&r!'
       Legendary:
         Enabled: true
-        Message: '&b[Mystery Box] &7{PLAYER} &rfound a &6Legendary {LOOT}&r!'
+        Message: '&b[Otworzyles pudelko!] &7{PLAYER} &rfound a &6Legendary {LOOT}&r!'
     Found-Mystery-Box:
       One-Star:
         Enabled: true
-        Message: '{PLAYER} &ffound a &e✰&7✰✰✰✰ &fMystery Box!'
+        Message: '{PLAYER} &ffound a &e✰&7✰✰✰✰ &fOtworzyles pudelko!!'
       Two-Star:
         Enabled: true
-        Message: '{PLAYER} &ffound a &e✰✰&7✰✰✰ &fMystery Box!'
+        Message: '{PLAYER} &ffound a &e✰✰&7✰✰✰ &fOtworzyles pudelko!!'
       Three-Star:
         Enabled: true
-        Message: '{PLAYER} &ffound a &e✰✰✰&7✰✰ &fMystery Box!'
+        Message: '{PLAYER} &ffound a &e✰✰✰&7✰✰ &fOtworzyles pudelko!!'
       Four-Star:
         Enabled: true
-        Message: '{PLAYER} &ffound a &e✰✰✰✰&7✰ &fMystery Box!'
+        Message: '{PLAYER} &ffound a &e✰✰✰✰&7✰ &fOtworzyles pudelko!!'
       Five-Star:
         Enabled: true
-        Message: '{PLAYER} &ffound a &e✰✰✰✰✰ &fMystery Box!'
+        Message: '{PLAYER} &ffound a &e✰✰✰✰✰ &fOtworzyles pudelko!!'
   Mystery-Boxes-Reward:
     Enabled: true
     Chance-To-Get-Mystery-Box: 60
@@ -194,14 +194,14 @@ Mystery-Boxes:
       Minutes: 60
       Seconds: 0
     Message:
-      One-Star: '&fYou found a &e✰&7✰✰✰✰ &fMystery Box!'
-      Two-Star: '&fYou found a &e✰✰&7✰✰✰ &fMystery Box!'
-      Three-Star: '&fYou found a &e✰✰✰&7✰✰ &fMystery Box!'
-      Four-Star: '&fYou found a &e✰✰✰✰&7✰ &fMystery Box!'
-      Five-Star: '&fYou found a &e✰✰✰✰✰ &fMystery Box!'
+      One-Star: '&fYou found a &e✰&7✰✰✰✰ &fOtworzyles pudelko!!'
+      Two-Star: '&fYou found a &e✰✰&7✰✰✰ &fOtworzyles pudelko!!'
+      Three-Star: '&fYou found a &e✰✰✰&7✰✰ &fOtworzyles pudelko!!'
+      Four-Star: '&fYou found a &e✰✰✰✰&7✰ &fOtworzyles pudelko!!'
+      Five-Star: '&fYou found a &e✰✰✰✰✰ &fOtworzyles pudelko!!'
   Types:
     Normal-Mystery-Box:
-      Name: '&aMystery Box'
+      Name: '&aOtworzyles pudelko!'
       Material: ENDER_CHEST
       Lore:
         Expiry-Date: '&cExpires in {EXPIRY_DATE}'
@@ -210,10 +210,10 @@ Mystery-Boxes:
           One-Star:
           - '&7This box contains one of the following:'
           - ''
-          - '&aCommon {ITEM_ONE}'
-          - '&aCommon {ITEM_TWO}'
-          - '&aCommon {ITEM_THREE}'
-          - '&aCommon {ITEM_FOUR}'
+          - '&aCzęsty {ITEM_ONE}'
+          - '&aCzęsty {ITEM_TWO}'
+          - '&aCzęsty {ITEM_THREE}'
+          - '&aCzęsty {ITEM_FOUR}'
           - '&9Rare {ITEM_FIVE}'
           - '&5Epic {ITEM_SIX}'
           - '&6Legendary {ITEM_SEVEN}'
@@ -225,9 +225,9 @@ Mystery-Boxes:
           Two-Star:
           - '&7This box contains one of the following:'
           - ''
-          - '&aCommon {ITEM_ONE}'
-          - '&aCommon {ITEM_TWO}'
-          - '&aCommon {ITEM_THREE}'
+          - '&aCzęsty {ITEM_ONE}'
+          - '&aCzęsty {ITEM_TWO}'
+          - '&aCzęsty {ITEM_THREE}'
           - '&9Rare {ITEM_FOUR}'
           - '&9Rare {ITEM_FIVE}'
           - '&5Epic {ITEM_SIX}'
@@ -240,8 +240,8 @@ Mystery-Boxes:
           Three-Star:
           - '&7This box contains one of the following:'
           - ''
-          - '&aCommon {ITEM_ONE}'
-          - '&aCommon {ITEM_TWO}'
+          - '&aCzęsty {ITEM_ONE}'
+          - '&aCzęsty {ITEM_TWO}'
           - '&9Rare {ITEM_THREE}'
           - '&9Rare {ITEM_FOUR}'
           - '&5Epic {ITEM_FIVE}'
@@ -255,7 +255,7 @@ Mystery-Boxes:
           Four-Star:
           - '&7This box contains one of the following:'
           - ''
-          - '&aCommon {ITEM_ONE}'
+          - '&aCzęsty {ITEM_ONE}'
           - '&9Rare {ITEM_TWO}'
           - '&5Epic {ITEM_THREE}'
           - '&5Epic {ITEM_FOUR}'
@@ -283,16 +283,16 @@ Mystery-Boxes:
           - ''
           - '&eClick to open!'
     Gifted-Mystery-Box:
-      Name: '&dGifted Mystery Box'
+      Name: '&dGifted Otworzyles pudelko!'
       Material: ENDER_CHEST
       Lore:
         One-Star:
         - '&7This box contains one of the following:'
         - ''
-        - '&aCommon {ITEM_ONE}'
-        - '&aCommon {ITEM_TWO}'
-        - '&aCommon {ITEM_THREE}'
-        - '&aCommon {ITEM_FOUR}'
+        - '&aCzęsty {ITEM_ONE}'
+        - '&aCzęsty {ITEM_TWO}'
+        - '&aCzęsty {ITEM_THREE}'
+        - '&aCzęsty {ITEM_FOUR}'
         - '&9Rare {ITEM_FIVE}'
         - '&5Epic {ITEM_SIX}'''
         - '&6Legendary {ITEM_SEVEN}'
@@ -306,9 +306,9 @@ Mystery-Boxes:
         Two-Star:
         - '&7This box contains one of the following:'
         - ''
-        - '&aCommon {ITEM_ONE}'
-        - '&aCommon {ITEM_TWO}'
-        - '&aCommon {ITEM_THREE}'
+        - '&aCzęsty {ITEM_ONE}'
+        - '&aCzęsty {ITEM_TWO}'
+        - '&aCzęsty {ITEM_THREE}'
         - '&9Rare {ITEM_FOUR}'
         - '&9Rare {ITEM_FIVE}'
         - '&5Epic {ITEM_SIX}'
@@ -323,8 +323,8 @@ Mystery-Boxes:
         Three-Star:
         - '&7This box contains one of the following:'
         - ''
-        - '&aCommon {ITEM_ONE}'
-        - '&aCommon {ITEM_TWO}'
+        - '&aCzęsty {ITEM_ONE}'
+        - '&aCzęsty {ITEM_TWO}'
         - '&9Rare {ITEM_THREE}'
         - '&9Rare {ITEM_FOUR}'
         - '&5Epic {ITEM_FIVE}'
@@ -340,7 +340,7 @@ Mystery-Boxes:
         Four-Star:
         - '&7This box contains one of the following:'
         - ''
-        - '&aCommon {ITEM_ONE}'
+        - '&aCzęsty {ITEM_ONE}'
         - '&9Rare {ITEM_TWO}'
         - '&5Epic {ITEM_THREE}'
         - '&5Epic {ITEM_FOUR}'
@@ -373,15 +373,15 @@ Mystery-Boxes:
         - '&eClick to open!'
     Crafted-Mystery-Box:
       One-Star:
-        Name: '&bCrafted Mystery Box #1'
+        Name: '&bCrafted Otworzyles pudelko! #1'
         Material: ENDER_CHEST
         Lore:
         - '&7This box contains one of the following:'
         - ''
-        - '&aCommon {ITEM_ONE}'
-        - '&aCommon {ITEM_TWO}'
-        - '&aCommon {ITEM_THREE}'
-        - '&aCommon {ITEM_FOUR}'
+        - '&aCzęsty {ITEM_ONE}'
+        - '&aCzęsty {ITEM_TWO}'
+        - '&aCzęsty {ITEM_THREE}'
+        - '&aCzęsty {ITEM_FOUR}'
         - '&9Rare {ITEM_FIVE}'
         - '&5Epic {ITEM_SIX}'
         - '&6Legendary {ITEM_SEVEN}'
@@ -391,14 +391,14 @@ Mystery-Boxes:
         - ''
         - '&eClick to open!'
       Two-Star:
-        Name: '&bCrafted Mystery Box #2'
+        Name: '&bCrafted Otworzyles pudelko! #2'
         Material: ENDER_CHEST
         Lore:
         - '&7This box contains one of the following:'
         - ''
-        - '&aCommon {ITEM_ONE}'
-        - '&aCommon {ITEM_TWO}'
-        - '&aCommon {ITEM_THREE}'
+        - '&aCzęsty {ITEM_ONE}'
+        - '&aCzęsty {ITEM_TWO}'
+        - '&aCzęsty {ITEM_THREE}'
         - '&9Rare {ITEM_FOUR}'
         - '&9Rare {ITEM_FIVE}'
         - '&5Epic {ITEM_SIX}'
@@ -409,13 +409,13 @@ Mystery-Boxes:
         - ''
         - '&eClick to open!'
       Three-Star:
-        Name: '&bCrafted Mystery Box #3'
+        Name: '&bCrafted Otworzyles pudelko! #3'
         Material: ENDER_CHEST
         Lore:
         - '&7This box contains one of the following:'
         - ''
-        - '&aCommon {ITEM_ONE}'
-        - '&aCommon {ITEM_TWO}'
+        - '&aCzęsty {ITEM_ONE}'
+        - '&aCzęsty {ITEM_TWO}'
         - '&9Rare {ITEM_THREE}'
         - '&9Rare {ITEM_FOUR}'
         - '&5Epic {ITEM_FIVE}'
@@ -427,12 +427,12 @@ Mystery-Boxes:
         - ''
         - '&eClick to open!'
       Four-Star:
-        Name: '&bCrafted Mystery Box #4'
+        Name: '&bCrafted Otworzyles pudelko! #4'
         Material: ENDER_CHEST
         Lore:
         - '&7This box contains one of the following:'
         - ''
-        - '&aCommon {ITEM_ONE}'
+        - '&aCzęsty {ITEM_ONE}'
         - '&9Rare {ITEM_TWO}'
         - '&5Epic {ITEM_THREE}'
         - '&5Epic {ITEM_FOUR}'
@@ -445,7 +445,7 @@ Mystery-Boxes:
         - ''
         - '&eClick to open!'
       Five-Star:
-        Name: '&bCrafted Mystery Box #5'
+        Name: '&bCrafted Otworzyles pudelko! #5'
         Material: ENDER_CHEST
         Lore:
         - '&7This box contains one of the following:'
@@ -465,41 +465,41 @@ Mystery-Boxes:
   JSON-Messages:
     Found-Mystery-Box:
       One-Star:
-        Name: '&bMystery Box'
+        Name: '&bOtworzyles pudelko!'
         Lore:
         - '&7Rarity: &e✰&7✰✰✰✰'
-        - '&7You can find &bMystery Box &7by'
+        - '&7You can find &bOtworzyles pudelko! &7by'
         - '&7playing on the server.'
       Two-Star:
-        Name: '&bMystery Box'
+        Name: '&bOtworzyles pudelko!'
         Lore:
         - '&7Rarity: &e✰✰&7✰✰✰'
-        - '&7You can find &bMystery Box &7by'
+        - '&7You can find &bOtworzyles pudelko! &7by'
         - '&7playing on the server.'
       Three-Star:
-        Name: '&bMystery Box'
+        Name: '&bOtworzyles pudelko!'
         Lore:
         - '&7Rarity: &e✰✰✰&7✰✰'
-        - '&7You can find &bMystery Box &7by'
+        - '&7You can find &bOtworzyles pudelko! &7by'
         - '&7playing on the server.'
       Four-Star:
-        Name: '&bMystery Box'
+        Name: '&bOtworzyles pudelko!'
         Lore:
         - '&7Rarity: &e✰✰✰✰&7✰'
-        - '&7You can find &bMystery Box &7by'
+        - '&7You can find &bOtworzyles pudelko! &7by'
         - '&7playing on the server.'
       Five-Star:
-        Name: '&bMystery Box'
+        Name: '&bOtworzyles pudelko!'
         Lore:
         - '&7Rarity: &e✰✰✰✰✰'
-        - '&7You can find &bMystery Box &7by'
+        - '&7You can find &bOtworzyles pudelko! &7by'
         - '&7playing on the server.'
     Found-Loot:
       Common:
-        Name: '&aCommon {LOOT}'
+        Name: '&aCzęsty {LOOT}'
         Lore:
         - '&7Type: {CATEGORY}'
-        - '&7Rarity: &aCommon'
+        - '&7Rarity: &aCzęsty'
       Rare:
         Name: '&9Rare {LOOT}'
         Lore:
