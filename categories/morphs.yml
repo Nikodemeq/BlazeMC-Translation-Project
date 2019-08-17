@@ -4,7 +4,7 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Morphs:
   Pig:
-    Name: '&9Pig Przemiana'
+    Name: '&9Swinia Przemiana'
     Material: COOKED_PORKCHOP
     Cooldown: 10
     Mystery Dust: 25
@@ -16,7 +16,7 @@ Morphs:
     Lore:
     - '&7Przemien sie w Pig.'
   Cow:
-    Name: '&9Cow Przemiana'
+    Name: '&9Krowa Przemiana'
     Material: COOKED_BEEF
     Cooldown: 10
     Mystery Dust: 20

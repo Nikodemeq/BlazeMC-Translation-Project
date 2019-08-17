@@ -1032,7 +1032,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Pig Zombie:
-    Name: '&9Pig Zombie Kapelusz'
+    Name: '&9Swinia Zombie Kapelusz'
     Mystery Dust: 18
     Rarity: Rare
     Enabled: true
@@ -1064,7 +1064,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Mushroom Cow:
-    Name: '&aMushroom Cow Kapelusz'
+    Name: '&aKrowa Grzybowa Kapelusz'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true

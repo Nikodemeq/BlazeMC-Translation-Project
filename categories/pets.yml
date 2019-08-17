@@ -18,11 +18,11 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Cow'
+        - '&7Rodzaj: &9Krowa'
         - ''
         - '&7Click to summon this pet.'
       Baby Cow:
-        Name: '&9Cow (Baby)'
+        Name: '&9Krowa (Dziecko)'
         Material: WHEAT
         Mystery Dust: 30
         Rarity: Rare
@@ -31,11 +31,11 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Cow (Baby)'
+        - '&7Rodzaj: &9Krowa (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Mushroom Cow:
-        Name: '&5Mushroom Cow'
+        Name: '&5Krowa Grzybowa'
         Material: RED_MUSHROOM
         Mystery Dust: 50
         Rarity: Epic
@@ -44,11 +44,11 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Mushroom Cow'
+        - '&7Rodzaj: &9Krowa Grzybowa'
         - ''
         - '&7Click to summon this pet.'
       Baby Mushroom Cow:
-        Name: '&6Mushroom Cow (Baby)'
+        Name: '&6Krowa Grzybowa (Dziecko)'
         Material: MUSHROOM_STEW
         Mystery Dust: 90
         Rarity: Legendary
@@ -57,7 +57,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Mushroom Cow (Baby)'
+        - '&7Rodzaj: &9Krowa Grzybowa (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
   Chicken:
@@ -83,7 +83,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Chicken:
-        Name: '&9Chicken (Baby)'
+        Name: '&9Chicken (Dziecko)'
         Material: WHEAT_SEEDS
         Mystery Dust: 30
         Rarity: Rare
@@ -92,7 +92,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Chicken (Baby)'
+        - '&7Rodzaj: &9Chicken (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
   Wolf:
@@ -118,7 +118,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Wolf:
-        Name: '&9Wolf (Baby)'
+        Name: '&9Wolf (Dziecko)'
         Material: BONE_MEAL
         Mystery Dust: 30
         Rarity: Rare
@@ -127,7 +127,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Wolf (Baby)'
+        - '&7Rodzaj: &9Wolf (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
   Pig:
@@ -149,11 +149,11 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Pig'
+        - '&7Rodzaj: &9Swinia'
         - ''
         - '&7Click to summon this pet.'
       Baby Pig:
-        Name: '&9Pig (Baby)'
+        Name: '&9Swinia (Dziecko)'
         Material: CARROT
         Mystery Dust: 30
         Rarity: Rare
@@ -162,7 +162,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Pig (Baby)'
+        - '&7Rodzaj: &9Swinia (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Pig Zombie:
@@ -175,11 +175,11 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Rodzaj: &9Pig Zombie'
+        - '&7Rodzaj: &9Swinia Zombie'
         - ''
         - '&7Click to summon this pet.'
       Baby Pig Zombie:
-        Name: '&6Pig Zombie (Baby)'
+        Name: '&6Pig Zombie (Dziecko)'
         Material: GOLD_NUGGET
         Mystery Dust: 85
         Rarity: Legendary
@@ -188,7 +188,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.5
         Lore:
-        - '&7Rodzaj: &9Pig Zombie (Baby)'
+        - '&7Rodzaj: &9Swinia Zombie (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
   Silverfish:
@@ -258,7 +258,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Zombie:
-        Name: '&9Zombie (Baby)'
+        Name: '&9Zombie (Dziecko)'
         Material: POTATO
         Mystery Dust: 50
         Rarity: Rare
@@ -267,7 +267,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.5
         Lore:
-        - '&7Rodzaj: &9Zombie (Baby)'
+        - '&7Rodzaj: &9Zombie (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Husk:
@@ -284,7 +284,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Husk:
-        Name: '&5Zombie Husk (Baby)'
+        Name: '&5Zombie Husk (Dziecko)'
         Material: head:d674c63c8db5f4ca628d69a3b1f8a36e29d8fd775e1a6bdb6cabb4be4db121
         Mystery Dust: 60
         Rarity: Epic
@@ -293,7 +293,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.5
         Lore:
-        - '&7Rodzaj: &9Zombie Husk (Baby)'
+        - '&7Rodzaj: &9Zombie Husk (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Red Little Helper:
@@ -345,7 +345,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Black Cat:
-        Name: '&9Cat: Black (Baby)'
+        Name: '&9Cat: Black (Dziecko)'
         Material: BLACK_CARPET
         Mystery Dust: 30
         Rarity: Rare
@@ -354,7 +354,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Cat: Black (Baby)'
+        - '&7Rodzaj: &9Cat: Black (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Red Cat:
@@ -371,7 +371,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Red Cat:
-        Name: '&9Cat: Red (Baby)'
+        Name: '&9Cat: Red (Dziecko)'
         Material: RED_CARPET
         Mystery Dust: 30
         Rarity: Rare
@@ -380,7 +380,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Cat: Red (Baby)'
+        - '&7Rodzaj: &9Cat: Red (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Siamese Cat:
@@ -397,7 +397,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Siamese Cat:
-        Name: '&9Cat: Siamese (Baby)'
+        Name: '&9Cat: Siamese (Dziecko)'
         Material: GRAY_CARPET
         Mystery Dust: 30
         Rarity: Rare
@@ -406,7 +406,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Cat: Siamese (Baby)'
+        - '&7Rodzaj: &9Cat: Siamese (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Wild Ocelot:
@@ -423,7 +423,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Wild Ocelot:
-        Name: '&5Wild Ocelot (Baby)'
+        Name: '&5Wild Ocelot (Dziecko)'
         Material: ORANGE_CARPET
         Mystery Dust: 35
         Rarity: Epic
@@ -432,7 +432,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Wild Ocelot (Baby)'
+        - '&7Rodzaj: &9Wild Ocelot (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
   Rabbit:
@@ -458,7 +458,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Black Rabbit:
-        Name: '&5Rabbit: Black (Baby)'
+        Name: '&5Rabbit: Black (Dziecko)'
         Material: CARROT
         Mystery Dust: 28
         Rarity: Epic
@@ -467,7 +467,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.9
         Lore:
-        - '&7Rodzaj: &9Rabbit: Black (Baby)'
+        - '&7Rodzaj: &9Rabbit: Black (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Black & White Rabbit:
@@ -484,7 +484,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Black & White Rabbit:
-        Name: '&6Rabbit: Black & White (Baby)'
+        Name: '&6Rabbit: Black & White (Dziecko)'
         Material: CARROT
         Mystery Dust: 51
         Rarity: Legendary
@@ -493,7 +493,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.9
         Lore:
-        - '&7Rodzaj: &9Rabbit: Black & White (Baby)'
+        - '&7Rodzaj: &9Rabbit: Black & White (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Brown Rabbit:
@@ -510,7 +510,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Brown Rabbit:
-        Name: '&5Rabbit: Brown (Baby)'
+        Name: '&5Rabbit: Brown (Dziecko)'
         Material: CARROT
         Mystery Dust: 28
         Rarity: Epic
@@ -519,7 +519,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.9
         Lore:
-        - '&7Rodzaj: &9Rabbit: Brown (Baby)'
+        - '&7Rodzaj: &9Rabbit: Brown (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Gold Rabbit:
@@ -536,7 +536,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Gold Rabbit:
-        Name: '&6Rabbit: Gold (Baby)'
+        Name: '&6Rabbit: Gold (Dziecko)'
         Material: CARROT
         Mystery Dust: 51
         Rarity: Legendary
@@ -545,7 +545,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.9
         Lore:
-        - '&7Rodzaj: &9Rabbit: Gold (Baby)'
+        - '&7Rodzaj: &9Rabbit: Gold (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Salt & Pepper Rabbit:
@@ -562,7 +562,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Salt & Pepper Rabbit:
-        Name: '&6Rabbit: Salt & Pepper (Baby)'
+        Name: '&6Rabbit: Salt & Pepper (Dziecko)'
         Material: CARROT
         Mystery Dust: 51
         Rarity: Legendary
@@ -571,7 +571,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.9
         Lore:
-        - '&7Rodzaj: &9Rabbit: Salt & Pepper (Baby)'
+        - '&7Rodzaj: &9Rabbit: Salt & Pepper (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       White Rabbit:
@@ -588,7 +588,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby White Rabbit:
-        Name: '&5Rabbit: White (Baby)'
+        Name: '&5Rabbit: White (Dziecko)'
         Material: CARROT
         Mystery Dust: 28
         Rarity: Epic
@@ -597,7 +597,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.9
         Lore:
-        - '&7Rodzaj: &9Rabbit: White (Baby)'
+        - '&7Rodzaj: &9Rabbit: White (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
   Sheep:
@@ -623,7 +623,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Black Sheep:
-        Name: '&6Sheep: Black (Baby)'
+        Name: '&6Sheep: Black (Dziecko)'
         Material: BLACK_WOOL
         Mystery Dust: 75
         Rarity: Legendary
@@ -632,7 +632,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Sheep: Black (Baby)'
+        - '&7Rodzaj: &9Sheep: Black (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Blue Sheep:
@@ -649,7 +649,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Blue Sheep:
-        Name: '&5Sheep: Blue (Baby)'
+        Name: '&5Sheep: Blue (Dziecko)'
         Material: BLUE_WOOL
         Mystery Dust: 55
         Rarity: Epic
@@ -658,7 +658,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Sheep: Blue (Baby)'
+        - '&7Rodzaj: &9Sheep: Blue (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Brown Sheep:
@@ -675,7 +675,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Brown Sheep:
-        Name: '&9Sheep: Brown (Baby)'
+        Name: '&9Sheep: Brown (Dziecko)'
         Material: BROWN_WOOL
         Mystery Dust: 30
         Rarity: Rare
@@ -684,7 +684,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Sheep: Brown (Baby)'
+        - '&7Rodzaj: &9Sheep: Brown (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Cyan Sheep:
@@ -701,7 +701,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Cyan Sheep:
-        Name: '&5Sheep: Cyan (Baby)'
+        Name: '&5Sheep: Cyan (Dziecko)'
         Material: CYAN_WOOL
         Mystery Dust: 55
         Rarity: Epic
@@ -710,7 +710,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Sheep: Cyan (Baby)'
+        - '&7Rodzaj: &9Sheep: Cyan (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Gray Sheep:
@@ -727,7 +727,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Gray Sheep:
-        Name: '&9Sheep: Gray (Baby)'
+        Name: '&9Sheep: Gray (Dziecko)'
         Material: GRAY_WOOL
         Mystery Dust: 30
         Rarity: Rare
@@ -736,7 +736,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Sheep: Gray (Baby)'
+        - '&7Rodzaj: &9Sheep: Gray (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Green Sheep:
@@ -753,7 +753,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Green Sheep:
-        Name: '&5Sheep: Green (Baby)'
+        Name: '&5Sheep: Green (Dziecko)'
         Material: GREEN_WOOL
         Mystery Dust: 55
         Rarity: Epic
@@ -762,7 +762,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Sheep: Green (Baby)'
+        - '&7Rodzaj: &9Sheep: Green (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Light Blue Sheep:
@@ -779,7 +779,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Light Blue Sheep:
-        Name: '&5Sheep: Light Blue (Baby)'
+        Name: '&5Sheep: Light Blue (Dziecko)'
         Material: LIGHT_BLUE_WOOL
         Mystery Dust: 55
         Rarity: Epic
@@ -788,7 +788,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Sheep: Light Blue (Baby)'
+        - '&7Rodzaj: &9Sheep: Light Blue (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Lime Sheep:
@@ -805,7 +805,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Lime Sheep:
-        Name: '&5Sheep: Lime (Baby)'
+        Name: '&5Sheep: Lime (Dziecko)'
         Material: LIME_WOOL
         Mystery Dust: 55
         Rarity: Epic
@@ -814,7 +814,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Sheep: Lime (Baby)'
+        - '&7Rodzaj: &9Sheep: Lime (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Magenta Sheep:
@@ -831,7 +831,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Magenta Sheep:
-        Name: '&5Sheep: Magenta (Baby)'
+        Name: '&5Sheep: Magenta (Dziecko)'
         Material: MAGENTA_WOOL
         Mystery Dust: 55
         Rarity: Epic
@@ -840,7 +840,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Sheep: Magenta (Baby)'
+        - '&7Rodzaj: &9Sheep: Magenta (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Orange Sheep:
@@ -857,7 +857,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Orange Sheep:
-        Name: '&5Sheep: Orange (Baby)'
+        Name: '&5Sheep: Orange (Dziecko)'
         Material: ORANGE_WOOL
         Mystery Dust: 55
         Rarity: Epic
@@ -866,7 +866,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Sheep: Orange (Baby)'
+        - '&7Rodzaj: &9Sheep: Orange (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Pink Sheep:
@@ -883,7 +883,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Pink Sheep:
-        Name: '&6Sheep: Pink (Baby)'
+        Name: '&6Sheep: Pink (Dziecko)'
         Material: PINK_WOOL
         Mystery Dust: 75
         Rarity: Legendary
@@ -892,7 +892,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Sheep: Pink (Baby)'
+        - '&7Rodzaj: &9Sheep: Pink (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Purple Sheep:
@@ -909,7 +909,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Purple Sheep:
-        Name: '&5Sheep: Purple (Baby)'
+        Name: '&5Sheep: Purple (Dziecko)'
         Material: PURPLE_WOOL
         Mystery Dust: 75
         Rarity: Epic
@@ -918,7 +918,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Sheep: Purple (Baby)'
+        - '&7Rodzaj: &9Sheep: Purple (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Red Sheep:
@@ -935,7 +935,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Red Sheep:
-        Name: '&5Sheep: Red (Baby)'
+        Name: '&5Sheep: Red (Dziecko)'
         Material: RED_WOOL
         Mystery Dust: 55
         Rarity: Epic
@@ -944,7 +944,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Sheep: Red (Baby)'
+        - '&7Rodzaj: &9Sheep: Red (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Silver Sheep:
@@ -961,7 +961,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Silver Sheep:
-        Name: '&9Sheep: Silver (Baby)'
+        Name: '&9Sheep: Silver (Dziecko)'
         Material: LIGHT_GRAY_WOOL
         Mystery Dust: 30
         Rarity: Rare
@@ -970,7 +970,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Sheep: Silver (Baby)'
+        - '&7Rodzaj: &9Sheep: Silver (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       White Sheep:
@@ -987,7 +987,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby White Sheep:
-        Name: '&9Sheep: White (Baby)'
+        Name: '&9Sheep: White (Dziecko)'
         Material: WHITE_WOOL
         Mystery Dust: 30
         Rarity: Rare
@@ -996,7 +996,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Sheep: White (Baby)'
+        - '&7Rodzaj: &9Sheep: White (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Yellow Sheep:
@@ -1013,7 +1013,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Yellow Sheep:
-        Name: '&5Sheep: Yellow (Baby)'
+        Name: '&5Sheep: Yellow (Dziecko)'
         Material: YELLOW_WOOL
         Mystery Dust: 55
         Rarity: Epic
@@ -1022,7 +1022,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Sheep: Yellow (Baby)'
+        - '&7Rodzaj: &9Sheep: Yellow (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
   Horse:
@@ -1048,7 +1048,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Black Horse:
-        Name: '&6Horse: Black (Baby)'
+        Name: '&6Horse: Black (Dziecko)'
         Material: CHARCOAL
         Mystery Dust: 60
         Rarity: Legendary
@@ -1057,7 +1057,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Rodzaj: &9Horse: Black (Baby)'
+        - '&7Rodzaj: &9Horse: Black (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Brown Horse:
@@ -1074,7 +1074,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Brown Horse:
-        Name: '&9Horse: Brown (Baby)'
+        Name: '&9Horse: Brown (Dziecko)'
         Material: COCOA_BEANS
         Mystery Dust: 30
         Rarity: Rare
@@ -1083,7 +1083,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Rodzaj: &9Horse: Brown (Baby)'
+        - '&7Rodzaj: &9Horse: Brown (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Chestnut Horse:
@@ -1100,7 +1100,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Chestnut Horse:
-        Name: '&5Horse: Chestnut (Baby)'
+        Name: '&5Horse: Chestnut (Dziecko)'
         Material: PUMPKIN_SEEDS
         Mystery Dust: 55
         Rarity: Epic
@@ -1109,7 +1109,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Rodzaj: &9Horse: Chestnut (Baby)'
+        - '&7Rodzaj: &9Horse: Chestnut (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Creamy Horse:
@@ -1126,7 +1126,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Creamy Horse:
-        Name: '&5Horse: Creamy (Baby)'
+        Name: '&5Horse: Creamy (Dziecko)'
         Material: SUGAR
         Mystery Dust: 55
         Rarity: Epic
@@ -1135,7 +1135,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Rodzaj: &9Horse: Creamy (Baby)'
+        - '&7Rodzaj: &9Horse: Creamy (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Dark Brown Horse:
@@ -1152,7 +1152,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Dark Brown Horse:
-        Name: '&5Horse: Dark Brown (Baby)'
+        Name: '&5Horse: Dark Brown (Dziecko)'
         Material: DARK_OAK_PLANKS
         Mystery Dust: 55
         Rarity: Epic
@@ -1161,7 +1161,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Rodzaj: &9Horse: Dark Brown (Baby)'
+        - '&7Rodzaj: &9Horse: Dark Brown (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Gray Horse:
@@ -1178,7 +1178,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Gray Horse:
-        Name: '&5Horse: Gray (Baby)'
+        Name: '&5Horse: Gray (Dziecko)'
         Material: GRAY_DYE
         Mystery Dust: 55
         Rarity: Epic
@@ -1187,7 +1187,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Rodzaj: &9Horse: Gray (Baby)'
+        - '&7Rodzaj: &9Horse: Gray (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       White Horse:
@@ -1204,7 +1204,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby White Horse:
-        Name: '&6Horse: White (Baby)'
+        Name: '&6Horse: White (Dziecko)'
         Material: DIORITE
         Mystery Dust: 60
         Rarity: Legendary
@@ -1213,7 +1213,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Rodzaj: &9Horse: White (Baby)'
+        - '&7Rodzaj: &9Horse: White (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Donkey:
@@ -1230,7 +1230,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Donkey:
-        Name: '&5Donkey (Baby)'
+        Name: '&5Donkey (Dziecko)'
         Material: CARROT
         Mystery Dust: 40
         Rarity: Epic
@@ -1239,7 +1239,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Rodzaj: &9Donkey (Baby)'
+        - '&7Rodzaj: &9Donkey (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Mule:
@@ -1256,7 +1256,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Mule:
-        Name: '&5Mule (Baby)'
+        Name: '&5Mule (Dziecko)'
         Material: MUTTON
         Mystery Dust: 35
         Rarity: Epic
@@ -1265,7 +1265,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Mule (Baby)'
+        - '&7Rodzaj: &9Mule (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Skeleton Horse:
@@ -1282,7 +1282,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Skeleton Horse:
-        Name: '&6Skeleton Horse (Baby)'
+        Name: '&6Skeleton Horse (Dziecko)'
         Material: BONE_MEAL
         Mystery Dust: 85
         Rarity: Legendary
@@ -1291,7 +1291,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Rodzaj: &9Skeleton Horse (Baby)'
+        - '&7Rodzaj: &9Skeleton Horse (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Undead Horse:
@@ -1308,7 +1308,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Undead Horse:
-        Name: '&6Undead Horse (Baby)'
+        Name: '&6Undead Horse (Dziecko)'
         Material: DEAD_BUSH
         Mystery Dust: 85
         Rarity: Legendary
@@ -1317,7 +1317,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.6
         Lore:
-        - '&7Rodzaj: &9Undead Horse (Baby)'
+        - '&7Rodzaj: &9Undead Horse (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
   Villager:
@@ -1343,7 +1343,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Blacksmith Villager:
-        Name: '&5Villager: Blacksmith (Baby)'
+        Name: '&5Villager: Blacksmith (Dziecko)'
         Material: IRON_INGOT
         Mystery Dust: 55
         Rarity: Epic
@@ -1352,7 +1352,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Villager: Blacksmith (Baby)'
+        - '&7Rodzaj: &9Villager: Blacksmith (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Butcher Villager:
@@ -1369,7 +1369,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Butcher Villager:
-        Name: '&5Villager: Butcher (Baby)'
+        Name: '&5Villager: Butcher (Dziecko)'
         Material: WOODEN_AXE
         Mystery Dust: 55
         Rarity: Epic
@@ -1378,7 +1378,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Villager: Butcher (Baby)'
+        - '&7Rodzaj: &9Villager: Butcher (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Farmer Villager:
@@ -1395,7 +1395,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Farmer Villager:
-        Name: '&5Villager: Farmer (Baby)'
+        Name: '&5Villager: Farmer (Dziecko)'
         Material: WOODEN_HOE
         Mystery Dust: 55
         Rarity: Epic
@@ -1404,7 +1404,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Villager: Farmer (Baby)'
+        - '&7Rodzaj: &9Villager: Farmer (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Librarian Villager:
@@ -1421,7 +1421,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Librarian Villager:
-        Name: '&5Villager: Librarian (Baby)'
+        Name: '&5Villager: Librarian (Dziecko)'
         Material: BOOK
         Mystery Dust: 55
         Rarity: Epic
@@ -1430,7 +1430,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Villager: Librarian (Baby)'
+        - '&7Rodzaj: &9Villager: Librarian (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Priest Villager:
@@ -1447,7 +1447,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Priest Villager:
-        Name: '&5Villager: Priest (Baby)'
+        Name: '&5Villager: Priest (Dziecko)'
         Material: MAP
         Mystery Dust: 55
         Rarity: Epic
@@ -1456,7 +1456,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Rodzaj: &9Villager: Priest (Baby)'
+        - '&7Rodzaj: &9Villager: Priest (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Zombie Villager:
@@ -1473,7 +1473,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Zombie Villager:
-        Name: '&6Villager: Zombie (Baby)'
+        Name: '&6Villager: Zombie (Dziecko)'
         Material: GOLDEN_HELMET
         Mystery Dust: 75
         Rarity: Legendary
@@ -1482,7 +1482,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.5
         Lore:
-        - '&7Rodzaj: &9Villager: Zombie (Baby)'
+        - '&7Rodzaj: &9Villager: Zombie (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Witch:
@@ -1744,7 +1744,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Polar Bear:
-        Name: '&6Polar Bear (Baby)'
+        Name: '&6Polar Bear (Dziecko)'
         Material: head:bab178f5cdd750f0e356860aa5539153eb2abec1e146ca57c65d25a5df8fdfe
         Mystery Dust: 75
         Rarity: Legendary
@@ -1753,7 +1753,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.5
         Lore:
-        - '&7Rodzaj: &9Polar Bear (Baby)'
+        - '&7Rodzaj: &9Polar Bear (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
   Llama:
@@ -1779,7 +1779,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Brown Llama:
-        Name: '&6Llama: Brown (Baby)'
+        Name: '&6Llama: Brown (Dziecko)'
         Material: head:c2b1ecff77ffe3b503c30a548eb23a1a08fa26fd67cdff389855d74921368
         Mystery Dust: 80
         Rarity: Legendary
@@ -1788,7 +1788,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.5
         Lore:
-        - '&7Rodzaj: &9Llama: Brown (Baby)'
+        - '&7Rodzaj: &9Llama: Brown (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Creamy Llama:
@@ -1805,7 +1805,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Creamy Llama:
-        Name: '&6Llama: Creamy (Baby)'
+        Name: '&6Llama: Creamy (Dziecko)'
         Material: head:80899acfebf947a0effc4022deb080543f7e389116bd4964c2c227ffa34a3375
         Mystery Dust: 75
         Rarity: Legendary
@@ -1814,7 +1814,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.5
         Lore:
-        - '&7Rodzaj: &9Llama: Creamy (Baby)'
+        - '&7Rodzaj: &9Llama: Creamy (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       Gray Llama:
@@ -1831,7 +1831,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby Gray Llama:
-        Name: '&6Llama: Gray (Baby)'
+        Name: '&6Llama: Gray (Dziecko)'
         Material: head:cf24e56fd9ffd7133da6d1f3e2f455952b1da462686f753c597ee82299a
         Mystery Dust: 75
         Rarity: Legendary
@@ -1840,7 +1840,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.5
         Lore:
-        - '&7Rodzaj: &9Llama: Gray (Baby)'
+        - '&7Rodzaj: &9Llama: Gray (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
       White Llama:
@@ -1857,7 +1857,7 @@ Pets:
         - ''
         - '&7Click to summon this pet.'
       Baby White Llama:
-        Name: '&6Llama: White (Baby)'
+        Name: '&6Llama: White (Dziecko)'
         Material: head:83d9b5915912ffc2b85761d6adcb428a812f9b83ff634e331162ce46c99e9
         Mystery Dust: 75
         Rarity: Legendary
@@ -1866,6 +1866,6 @@ Pets:
         Purchasable: true
         Move-Speed: 0.5
         Lore:
-        - '&7Rodzaj: &9Llama: White (Baby)'
+        - '&7Rodzaj: &9Llama: White (Dziecko)'
         - ''
         - '&7Click to summon this pet.'
