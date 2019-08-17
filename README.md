@@ -1,2 +1,2 @@
-# gmenu-translate
+# GMenu-Polish-Locale
 Polish language for GadgetsMenu
