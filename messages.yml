@@ -431,7 +431,7 @@ Items:
   - ''
 Reset-Buttons:
   Reset-Cosmetics:
-    Name: '&cReset Cosmetics'
+    Name: '&cZresetuj Cosmetics'
     Material: RED_STAINED_GLASS
     Show: true
     Lore: ''
@@ -439,7 +439,7 @@ Reset-Buttons:
       Enabled: true
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Hat:
-    Name: '&cReset Kapelusz'
+    Name: '&cZresetuj Kapelusz'
     Material: RED_STAINED_GLASS
     Show: true
     Lore: ''
@@ -447,7 +447,7 @@ Reset-Buttons:
       Enabled: true
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Animated-Hat:
-    Name: '&cReset Animowany Kapelusz'
+    Name: '&cZresetuj Animowany Kapelusz'
     Material: RED_STAINED_GLASS
     Show: true
     Lore: ''
@@ -455,7 +455,7 @@ Reset-Buttons:
       Enabled: true
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Particle:
-    Name: '&cReset Cząsteczki'
+    Name: '&cZresetuj Cząsteczki'
     Material: RED_STAINED_GLASS
     Show: true
     Lore: ''
@@ -463,7 +463,7 @@ Reset-Buttons:
       Enabled: true
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Suit:
-    Name: '&cReset Strój'
+    Name: '&cZresetuj Strój'
     Material: RED_STAINED_GLASS
     Show: true
     Lore: ''
@@ -471,7 +471,7 @@ Reset-Buttons:
       Enabled: true
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Gadget:
-    Name: '&cReset Gadget'
+    Name: '&cZresetuj Gadget'
     Material: RED_STAINED_GLASS
     Show: true
     Lore: ''
@@ -479,7 +479,7 @@ Reset-Buttons:
       Enabled: true
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Pet:
-    Name: '&cReset Pet'
+    Name: '&cZresetuj Pet'
     Material: RED_STAINED_GLASS
     Show: true
     Lore: ''
@@ -487,7 +487,7 @@ Reset-Buttons:
       Enabled: true
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Miniature:
-    Name: '&cReset Miniaturka'
+    Name: '&cZresetuj Miniaturka'
     Material: RED_STAINED_GLASS
     Show: true
     Lore: ''
@@ -495,7 +495,7 @@ Reset-Buttons:
       Enabled: true
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Morph:
-    Name: '&cReset Przemiana'
+    Name: '&cZresetuj Przemiana'
     Material: RED_STAINED_GLASS
     Show: true
     Lore: ''
@@ -503,7 +503,7 @@ Reset-Buttons:
       Enabled: true
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Banner:
-    Name: '&cReset Baner'
+    Name: '&cZresetuj Sztandar'
     Material: RED_STAINED_GLASS
     Show: true
     Lore: ''
@@ -511,7 +511,7 @@ Reset-Buttons:
       Enabled: true
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Emote:
-    Name: '&cReset Emotka'
+    Name: '&cZresetuj Emotka'
     Material: RED_STAINED_GLASS
     Show: true
     Lore: ''
@@ -519,7 +519,7 @@ Reset-Buttons:
       Enabled: true
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Cloak:
-    Name: '&cReset Peleryna'
+    Name: '&cZresetuj Peleryna'
     Material: RED_STAINED_GLASS
     Show: true
     Lore: ''
@@ -587,22 +587,22 @@ Select-Morph: '&eYou are now morphed as a {MORPH}&e.'
 Select-Particle: '&eWybrales {PARTICLE}&e.'
 Select-Pet: '&eSpawned your {PET} &epet.'
 Select-Suit: '&eWybrales {SUIT}&e.'
-Reset-Cosmetics: '&eReset active Cosmetics.'
-Reset-Animated-Hat: '&eReset your animated Hat.'
-Reset-Banner: '&eReset your Banner.'
-Reset-Cloak: '&eReset your Cloak.'
-Reset-Emote: '&eReset your Emote.'
-Reset-Gadget: '&eReset your Gadget.'
-Reset-Hat: '&eReset your Hat.'
+Reset-Cosmetics: '&eZresetuj active Cosmetics.'
+Reset-Animated-Hat: '&eZresetuj your animated Hat.'
+Reset-Banner: '&eZresetuj your Banner.'
+Reset-Cloak: '&eZresetuj your Cloak.'
+Reset-Emote: '&eZresetuj your Emote.'
+Reset-Gadget: '&eZresetuj your Gadget.'
+Reset-Hat: '&eZresetuj your Hat.'
 Reset-Miniature: '&eDespawned your miniature.'
-Reset-Morph: '&eReset your Morph.'
-Reset-Particle: '&eReset your Particle.'
+Reset-Morph: '&eZresetuj your Morph.'
+Reset-Particle: '&eZresetuj your Particle.'
 Reset-Pet: '&eDespawned your Pet.'
-Reset-Suit: '&eReset your Suit.'
-Reset-Suit-Helmet: '&eReset your Helmet.'
-Reset-Suit-Chestplate: '&eReset your Chestplate.'
-Reset-Suit-Leggings: '&eReset your Leggings.'
-Reset-Suit-Boots: '&eReset your Boots.'
+Reset-Suit: '&eZresetuj your Suit.'
+Reset-Suit-Helmet: '&eZresetuj your Helmet.'
+Reset-Suit-Chestplate: '&eZresetuj your Chestplate.'
+Reset-Suit-Leggings: '&eZresetuj your Leggings.'
+Reset-Suit-Boots: '&eZresetuj your Boots.'
 Granted-Access-To-Animated-Hat: '&eOtrzymales permisje do ekwipowania {ANIMATED_HAT}&e.'
 Granted-Access-To-Banner: '&eOtrzymales permisje do ekwipowania {BANNER}&e.'
 Granted-Access-To-Cloak: '&eOtrzymales permisje do ekwipowania {CLOAK}&e.'

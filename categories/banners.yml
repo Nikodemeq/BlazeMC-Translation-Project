@@ -1,6 +1,6 @@
 Banners:
   Snow Bunny:
-    Name: '&5Snow Bunny Baner'
+    Name: '&5Snow Bunny Sztandar'
     Mystery Dust: 15
     Rarity: Epic
     Enabled: true
@@ -8,7 +8,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Reindeer:
-    Name: '&5Reindeer Baner'
+    Name: '&5Reindeer Sztandar'
     Mystery Dust: 20
     Rarity: Epic
     Enabled: true
@@ -16,7 +16,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Holiday Tree:
-    Name: '&5Holiday Tree Baner'
+    Name: '&5Holiday Tree Sztandar'
     Mystery Dust: 20
     Rarity: Epic
     Enabled: true
@@ -24,7 +24,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Santa:
-    Name: '&5Santa Baner'
+    Name: '&5Santa Sztandar'
     Mystery Dust: 25
     Rarity: Epic
     Enabled: true
@@ -32,7 +32,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Holiday Wreath:
-    Name: '&5Holiday Wreath Baner'
+    Name: '&5Holiday Wreath Sztandar'
     Mystery Dust: 28
     Rarity: Epic
     Enabled: true
@@ -40,7 +40,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Heart:
-    Name: '&5Heart Baner'
+    Name: '&5Heart Sztandar'
     Mystery Dust: 30
     Rarity: Epic
     Enabled: true
@@ -48,7 +48,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Guitar:
-    Name: '&5Guitar Baner'
+    Name: '&5Guitar Sztandar'
     Mystery Dust: 25
     Rarity: Epic
     Enabled: true
@@ -56,7 +56,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Dino:
-    Name: '&5Dino Baner'
+    Name: '&5Dino Sztandar'
     Mystery Dust: 40
     Rarity: Epic
     Enabled: true
@@ -64,7 +64,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Redpool:
-    Name: '&5Redpool Baner'
+    Name: '&5Redpool Sztandar'
     Mystery Dust: 42
     Rarity: Epic
     Enabled: true
@@ -72,7 +72,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Pengu:
-    Name: '&5Pengu Baner'
+    Name: '&5Pengu Sztandar'
     Mystery Dust: 50
     Rarity: Epic
     Enabled: true
@@ -80,7 +80,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Pug:
-    Name: '&5Pug Baner'
+    Name: '&5Pug Sztandar'
     Mystery Dust: 48
     Rarity: Epic
     Enabled: true
@@ -88,7 +88,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Tryhard:
-    Name: '&5Tryhard Baner'
+    Name: '&5Tryhard Sztandar'
     Mystery Dust: 48
     Rarity: Epic
     Enabled: true
@@ -96,7 +96,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Pumpkin:
-    Name: '&5Pumpkin Baner'
+    Name: '&5Pumpkin Sztandar'
     Mystery Dust: 50
     Rarity: Epic
     Enabled: true
@@ -104,7 +104,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Crown:
-    Name: '&5Crown Baner'
+    Name: '&5Crown Sztandar'
     Mystery Dust: 48
     Rarity: Epic
     Enabled: true
@@ -112,7 +112,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Fire Creeper:
-    Name: '&5Fire Creeper Baner'
+    Name: '&5Fire Creeper Sztandar'
     Mystery Dust: 48
     Rarity: Epic
     Enabled: true
@@ -120,7 +120,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Portal:
-    Name: '&6Portal Baner'
+    Name: '&6Portal Sztandar'
     Mystery Dust: 60
     Rarity: Legendary
     Enabled: true
@@ -128,7 +128,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Rainbow Wall:
-    Name: '&6Rainbow Wall Baner'
+    Name: '&6Rainbow Wall Sztandar'
     Mystery Dust: 62
     Rarity: Legendary
     Enabled: true
@@ -136,7 +136,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Skull King:
-    Name: '&6Skull King Baner'
+    Name: '&6Skull King Sztandar'
     Mystery Dust: 65
     Rarity: Legendary
     Enabled: true
@@ -144,7 +144,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Devourer:
-    Name: '&6Devourer Baner'
+    Name: '&6Devourer Sztandar'
     Mystery Dust: 68
     Rarity: Legendary
     Enabled: true
