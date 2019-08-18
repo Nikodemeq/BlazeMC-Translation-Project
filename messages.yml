@@ -330,7 +330,7 @@ Items:
     Show-In-Lore: true
     Lore:
     - ''
-    - '&7Odblokowane: &c{HASPERMISSION}/{SIZE} &8(&c{PERCENTAGE}%)'
+    - '&7Odblokowane: &c{HASPERMISSION}/{SIZE} &8(&c{PERCENTAGE}%&8)'
     - ''
     - '&eKliknij aby sprawdzic!'
   Settings:

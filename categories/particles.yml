@@ -8,9 +8,9 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Water'
-    - '&7Splash particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietlaj cząsteczki Water'
+    - '&7Splash dookoła ciebie'
+    - '&7na lobby.'
   Drip Water:
     Name: '&9Drip Water Cząsteczki'
     Material: WATER_BUCKET
@@ -20,9 +20,9 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Drip'
-    - '&7Water particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietlaj cząsteczki Drip'
+    - '&7Water dookoła ciebie'
+    - '&7na lobby.'
   Drip Lava:
     Name: '&9Drip Lava Cząsteczki'
     Material: LAVA_BUCKET
@@ -32,9 +32,9 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Drip'
-    - '&7Lava particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietlaj cząsteczki Drip'
+    - '&7Lava dookoła ciebie'
+    - '&7na lobby.'
   Crit:
     Name: '&9Crit Cząsteczki'
     Material: STONE_SWORD
@@ -44,8 +44,8 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Crit'
-    - '&7particles around you'
+    - '&7Wyswietlaj cząsteczki Crit'
+    - '&7dookoła ciebie you'
     - '&7in lobby.'
   Magic Crit:
     Name: '&9Magic Crit Cząsteczki'
@@ -56,9 +56,9 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Magic'
-    - '&7Crit particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietlaj cząsteczki Magic'
+    - '&7Crit dookoła ciebie'
+    - '&7na lobby.'
   Spell:
     Name: '&5Spell Cząsteczki'
     Material: ENDER_CHEST
@@ -68,8 +68,8 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Spell'
-    - '&7particles around you'
+    - '&7Wyswietlaj cząsteczki Spell'
+    - '&7dookoła ciebie you'
     - '&7in lobby.'
   Instant Spell:
     Name: '&5Instant Spell Cząsteczki'
@@ -80,9 +80,9 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Instant'
-    - '&7Spell particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietlaj cząsteczki Instant'
+    - '&7Spell dookoła ciebie'
+    - '&7na lobby.'
   Mob Spell:
     Name: '&5Mob Spell Cząsteczki'
     Material: EXPERIENCE_BOTTLE
@@ -92,9 +92,9 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Mob'
-    - '&7Spell particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietlaj cząsteczki Mob'
+    - '&7Spell dookoła ciebie'
+    - '&7na lobby.'
   Witch Spell:
     Name: '&6Witch Spell Cząsteczki'
     Material: POTION:8260
@@ -104,9 +104,9 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Witch'
-    - '&7Spell particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietlaj cząsteczki Witch'
+    - '&7Spell dookoła ciebie'
+    - '&7na lobby.'
   Angry Villager:
     Name: '&5Angry Villager Cząsteczki'
     Material: FIRE_CHARGE
@@ -116,9 +116,9 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Angry'
-    - '&7Villager particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietlaj cząsteczki Angry'
+    - '&7Villager dookoła ciebie'
+    - '&7na lobby.'
   Happy Villager:
     Name: '&5Happy Villager Cząsteczki'
     Material: EMERALD
@@ -128,9 +128,9 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Happy'
-    - '&7Villager particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietlaj cząsteczki Happy'
+    - '&7Villager dookoła ciebie'
+    - '&7na lobby.'
   Town Aura:
     Name: '&aTown Aura Cząsteczki'
     Material: MYCELIUM
@@ -140,9 +140,9 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Town'
-    - '&7Aura particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietlaj cząsteczki Town'
+    - '&7Aura dookoła ciebie'
+    - '&7na lobby.'
   Note:
     Name: '&5Note Cząsteczki'
     Material: NOTE_BLOCK
@@ -152,8 +152,8 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Note'
-    - '&7particles around you'
+    - '&7Wyswietlaj cząsteczki Note'
+    - '&7dookoła ciebie you'
     - '&7in lobby.'
   Portal:
     Name: '&aPortal Cząsteczki'
@@ -164,8 +164,8 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Portal'
-    - '&7particles around you'
+    - '&7Wyswietlaj cząsteczki Portal'
+    - '&7dookoła ciebie you'
     - '&7in lobby.'
   Enchantment Table:
     Name: '&9Enchantment Table Cząsteczki'
@@ -176,9 +176,9 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Enchantment'
-    - '&7Table particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietlaj cząsteczki Enchantment'
+    - '&7Table dookoła ciebie'
+    - '&7na lobby.'
   Flame:
     Name: '&6Flame Cząsteczki'
     Material: GOLD_NUGGET
@@ -188,8 +188,8 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Flame'
-    - '&7particles around you'
+    - '&7Wyswietlaj cząsteczki Flame'
+    - '&7dookoła ciebie you'
     - '&7in lobby.'
   Redstone:
     Name: '&6Redstone Cząsteczki'
@@ -200,8 +200,8 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Redstone'
-    - '&7particles around you'
+    - '&7Wyswietlaj cząsteczki Redstone'
+    - '&7dookoła ciebie you'
     - '&7in lobby.'
   Heart:
     Name: '&9Heart Cząsteczki'
@@ -212,8 +212,8 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Heart'
-    - '&7particles around you'
+    - '&7Wyswietlaj cząsteczki Heart'
+    - '&7dookoła ciebie you'
     - '&7in lobby.'
   Fireworks Spark:
     Name: '&6Fireworks Spark Cząsteczki'
@@ -224,9 +224,9 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Fireworks'
-    - '&7Spark particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietlaj cząsteczki Fireworks'
+    - '&7Spark dookoła ciebie'
+    - '&7na lobby.'
   Smoke:
     Name: '&aSmoke Cząsteczki'
     Material: FIREWORK_STAR
@@ -236,8 +236,8 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Smoke'
-    - '&7particles around you'
+    - '&7Wyswietlaj cząsteczki Smoke'
+    - '&7dookoła ciebie you'
     - '&7in lobby.'
   Slime:
     Name: '&aSlime Cząsteczki'
@@ -248,6 +248,6 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom slime'
-    - '&7particles around you'
+    - '&7Wyswietlaj cząsteczki slime'
+    - '&7dookoła ciebie you'
     - '&7in lobby.'
