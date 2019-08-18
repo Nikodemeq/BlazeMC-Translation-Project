@@ -10,32 +10,32 @@ Suits:
     - '&7Browse dank memes from far above'
     - '&7when you equip this Frog Suit.'
     - ''
-    - '&7Full Set Ability: Super high'
+    - '&7Umiejętność całego zestawu: Super high'
     - '&7jump.'
     Equipments:
       Frog Helmet:
-        Name: '&6Frog Suit Helmet'
+        Name: '&6Frog Strój Hełm'
         Mystery Dust: 80
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Frog Chestplate:
-        Name: '&5Frog Suit Chestplate'
+        Name: '&5Frog Strój Napierśnik'
         Mystery Dust: 32
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Frog Leggings:
-        Name: '&9Frog Suit Leggings'
+        Name: '&9Frog Strój Spodnie'
         Mystery Dust: 18
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Frog Boots:
-        Name: '&aFrog Suit Boots'
+        Name: '&aFrog Strój Buty'
         Mystery Dust: 7
         Rarity: Common
         CanBeFound: true
@@ -53,32 +53,32 @@ Suits:
     - '&7your favourite lobby with this'
     - '&7Ninja Suit.'
     - ''
-    - '&7Full Set Ability: Click to throw'
+    - '&7Umiejętność całego zestawu: Click to throw'
     - '&7a Ninja Shuriken!'
     Equipments:
       Ninja Helmet:
-        Name: '&6Ninja Suit Helmet'
+        Name: '&6Ninja Strój Hełm'
         Mystery Dust: 80
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Ninja Chestplate:
-        Name: '&5Ninja Suit Chestplate'
+        Name: '&5Ninja Strój Napierśnik'
         Mystery Dust: 35
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Ninja Leggings:
-        Name: '&9Ninja Suit Leggings'
+        Name: '&9Ninja Strój Spodnie'
         Mystery Dust: 20
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Ninja Boots:
-        Name: '&aNinja Suit Boots'
+        Name: '&aNinja Strój Buty'
         Mystery Dust: 10
         Rarity: Common
         CanBeFound: true
@@ -96,32 +96,32 @@ Suits:
     - '&7when you''re wearing this'
     - '&7Speedster Suit!'
     - ''
-    - '&7Full Set Ability: Sprint to run'
+    - '&7Umiejętność całego zestawu: Sprint to run'
     - '&7extremely fast.'
     Equipments:
       Speedster Helmet:
-        Name: '&6Speedster Suit Helmet'
+        Name: '&6Speedster Strój Hełm'
         Mystery Dust: 80
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Speedster Chestplate:
-        Name: '&5Speedster Suit Chestplate'
+        Name: '&5Speedster Strój Napierśnik'
         Mystery Dust: 25
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Speedster Leggings:
-        Name: '&9Speedster Suit Leggings'
+        Name: '&9Speedster Strój Spodnie'
         Mystery Dust: 13
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Speedster Boots:
-        Name: '&aSpeedster Suit Boots'
+        Name: '&aSpeedster Strój Buty'
         Mystery Dust: 5
         Rarity: Common
         CanBeFound: true
@@ -138,32 +138,32 @@ Suits:
     - '&7equip this spooky scary Ghostly'
     - '&7Skeleton Suit!'
     - ''
-    - '&7Full Set Ability: Makes the'
+    - '&7Umiejętność całego zestawu: Makes the'
     - '&7wearer invisible under the suit!'
     Equipments:
       Ghostly Helmet:
-        Name: '&6Ghostly Skeleton Suit Helmet'
+        Name: '&6Ghostly Skeleton Strój Hełm'
         Mystery Dust: 80
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Ghostly Chestplate:
-        Name: '&5Ghostly Skeleton Suit Chestplate'
+        Name: '&5Ghostly Skeleton Strój Napierśnik'
         Mystery Dust: 25
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Ghostly Leggings:
-        Name: '&9Ghostly Skeleton Suit Leggings'
+        Name: '&9Ghostly Skeleton Strój Spodnie'
         Mystery Dust: 13
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Ghostly Boots:
-        Name: '&aGhostly Skeleton Suit Boots'
+        Name: '&aGhostly Skeleton Strój Buty'
         Mystery Dust: 5
         Rarity: Common
         CanBeFound: true
@@ -180,32 +180,32 @@ Suits:
     - '&7dance movement - bring back'
     - '&7boogle with this Disco Suit!'
     - ''
-    - '&7Full Set Ability: Changes colors'
+    - '&7Umiejętność całego zestawu: Changes colors'
     - '&7when equipped!'
     Equipments:
       Disco Helmet:
-        Name: '&6Disco Suit Helmet'
+        Name: '&6Disco Strój Hełm'
         Mystery Dust: 80
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Disco Chestplate:
-        Name: '&5Disco Suit Chestplate'
+        Name: '&5Disco Strój Napierśnik'
         Mystery Dust: 25
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Disco Leggings:
-        Name: '&9Disco Suit Leggings'
+        Name: '&9Disco Strój Spodnie'
         Mystery Dust: 13
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Disco Boots:
-        Name: '&aDisco Suit Boots'
+        Name: '&aDisco Strój Buty'
         Mystery Dust: 5
         Rarity: Common
         CanBeFound: true
@@ -222,33 +222,33 @@ Suits:
     - '&7it''s wetter! Head under the sea'
     - '&7with this Mermaid Suit!'
     - ''
-    - '&7Full Set Ability: Transform into'
+    - '&7Umiejętność całego zestawu: Transform into'
     - '&7a beautiful Squid when under'
     - '&7water.'
     Equipments:
       Mermaid Helmet:
-        Name: '&6Mermaid Suit Helmet'
+        Name: '&6Mermaid Strój Hełm'
         Mystery Dust: 70
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Mermaid Chestplate:
-        Name: '&5Mermaid Suit Chestplate'
+        Name: '&5Mermaid Strój Napierśnik'
         Mystery Dust: 30
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Mermaid Leggings:
-        Name: '&9Mermaid Suit Leggings'
+        Name: '&9Mermaid Strój Spodnie'
         Mystery Dust: 16
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Mermaid Boots:
-        Name: '&aMermaid Suit Boots'
+        Name: '&aMermaid Strój Buty'
         Mystery Dust: 6
         Rarity: Common
         CanBeFound: true
@@ -266,32 +266,32 @@ Suits:
     - '&7responsibility. Save the day with'
     - '&7this Spooderman Suit.'
     - ''
-    - '&7Full Set Ability: Click to swing'
+    - '&7Umiejętność całego zestawu: Click to swing'
     - '&7around lobbies!'
     Equipments:
       Spooderman Helmet:
-        Name: '&6Spooderman Suit Helmet'
+        Name: '&6Spooderman Strój Hełm'
         Mystery Dust: 75
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Spooderman Chestplate:
-        Name: '&5Spooderman Suit Chestplate'
+        Name: '&5Spooderman Strój Napierśnik'
         Mystery Dust: 33
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Spooderman Leggings:
-        Name: '&9Spooderman Suit Leggings'
+        Name: '&9Spooderman Strój Spodnie'
         Mystery Dust: 17
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Spooderman Boots:
-        Name: '&aSpooderman Suit Boots'
+        Name: '&aSpooderman Strój Buty'
         Mystery Dust: 8
         Rarity: Common
         CanBeFound: true
@@ -309,33 +309,33 @@ Suits:
     - '&7honour, resilience, and'
     - '&7butt-kicking special abilities!'
     - ''
-    - '&7Full Set Ability: Left click and'
+    - '&7Umiejętność całego zestawu: Left click and'
     - '&7look down to Ground Slam. or'
     - '&7look ahead to Seismic Wave.'
     Equipments:
       Warrior Helmet:
-        Name: '&6Warrior Suit Helmet'
+        Name: '&6Warrior Strój Hełm'
         Mystery Dust: 75
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Warrior Chestplate:
-        Name: '&5Warrior Suit Chestplate'
+        Name: '&5Warrior Strój Napierśnik'
         Mystery Dust: 30
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Warrior Leggings:
-        Name: '&9Warrior Suit Leggings'
+        Name: '&9Warrior Strój Spodnie'
         Mystery Dust: 16
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Warrior Boots:
-        Name: '&aWarrior Suit Boots'
+        Name: '&aWarrior Strój Buty'
         Mystery Dust: 6
         Rarity: Common
         CanBeFound: true
@@ -353,32 +353,32 @@ Suits:
     - '&7bring back the dead with this'
     - '&7Necromancer Suit!'
     - ''
-    - '&7Full Set Ability: Click to raise'
+    - '&7Umiejętność całego zestawu: Click to raise'
     - '&7the dead.'
     Equipments:
       Necromancer Helmet:
-        Name: '&6Necromancer Suit Helmet'
+        Name: '&6Necromancer Strój Hełm'
         Mystery Dust: 80
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Necromancer Chestplate:
-        Name: '&5Necromancer Suit Chestplate'
+        Name: '&5Necromancer Strój Napierśnik'
         Mystery Dust: 35
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Necromancer Leggings:
-        Name: '&9Necromancer Suit Leggings'
+        Name: '&9Necromancer Strój Spodnie'
         Mystery Dust: 20
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Necromancer Boots:
-        Name: '&aNecromancer Suit Boots'
+        Name: '&aNecromancer Strój Buty'
         Mystery Dust: 10
         Rarity: Common
         CanBeFound: true
@@ -396,32 +396,32 @@ Suits:
     - '&7Wield the power of the God of'
     - '&7Thunder with this Thor Suit.'
     - ''
-    - '&7Full Set Ability: Click to'
+    - '&7Umiejętność całego zestawu: Click to'
     - '&7strike lightning.'
     Equipments:
       Thor Helmet:
-        Name: '&6Thor Suit Helmet'
+        Name: '&6Thor Strój Hełm'
         Mystery Dust: 70
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Thor Chestplate:
-        Name: '&5Thor Suit Chestplate'
+        Name: '&5Thor Strój Napierśnik'
         Mystery Dust: 25
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Thor Leggings:
-        Name: '&9Thor Suit Leggings'
+        Name: '&9Thor Strój Spodnie'
         Mystery Dust: 13
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Thor Boots:
-        Name: '&aThor Suit Boots'
+        Name: '&aThor Strój Buty'
         Mystery Dust: 5
         Rarity: Common
         CanBeFound: true
@@ -439,33 +439,33 @@ Suits:
     - '&7man who can bake a million'
     - '&7cookies!'
     - ''
-    - '&7Full Set Ability: Click to'
+    - '&7Umiejętność całego zestawu: Click to'
     - '&7deliver baked goods around the'
     - '&7lobby.'
     Equipments:
       Baker Helmet:
-        Name: '&6Baker Suit Helmet'
+        Name: '&6Baker Strój Hełm'
         Mystery Dust: 70
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Baker Chestplate:
-        Name: '&5Baker Suit Chestplate'
+        Name: '&5Baker Strój Napierśnik'
         Mystery Dust: 25
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Baker Leggings:
-        Name: '&9Baker Suit Leggings'
+        Name: '&9Baker Strój Spodnie'
         Mystery Dust: 13
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Baker Boots:
-        Name: '&aBaker Suit Boots'
+        Name: '&aBaker Strój Buty'
         Mystery Dust: 5
         Rarity: Common
         CanBeFound: true
@@ -482,33 +482,33 @@ Suits:
     - '&7We aren''t sure what all the buzz'
     - '&7is about this suit.'
     - ''
-    - '&7Full Set Ability: This Suit will'
+    - '&7Umiejętność całego zestawu: This Strój will'
     - '&7play a classical song when you'
     - '&7fly or left click!'
     Equipments:
       Bumblebee Helmet:
-        Name: '&6Bumblebee Suit Helmet'
+        Name: '&6Bumblebee Strój Hełm'
         Mystery Dust: 70
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Bumblebee Chestplate:
-        Name: '&5Bumblebee Suit Chestplate'
+        Name: '&5Bumblebee Strój Napierśnik'
         Mystery Dust: 25
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Bumblebee Leggings:
-        Name: '&9Bumblebee Suit Leggings'
+        Name: '&9Bumblebee Strój Spodnie'
         Mystery Dust: 13
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Bumblebee Boots:
-        Name: '&aBumblebee Suit Boots'
+        Name: '&aBumblebee Strój Buty'
         Mystery Dust: 5
         Rarity: Common
         CanBeFound: true
@@ -525,32 +525,32 @@ Suits:
     - '&7We''re sorry, your Princess is in'
     - '&7another lobby!'
     - ''
-    - '&7Full Set Ability: Click to throw'
+    - '&7Umiejętność całego zestawu: Click to throw'
     - '&7fireballs!'
     Equipments:
       Plumber Helmet:
-        Name: '&6Plumber Suit Helmet'
+        Name: '&6Plumber Strój Hełm'
         Mystery Dust: 73
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Plumber Chestplate:
-        Name: '&5Plumber Suit Chestplate'
+        Name: '&5Plumber Strój Napierśnik'
         Mystery Dust: 32
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Plumber Leggings:
-        Name: '&9Plumber Suit Leggings'
+        Name: '&9Plumber Strój Spodnie'
         Mystery Dust: 18
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Plumber Boots:
-        Name: '&aPlumber Suit Boots'
+        Name: '&aPlumber Strój Buty'
         Mystery Dust: 7
         Rarity: Common
         CanBeFound: true
@@ -567,33 +567,33 @@ Suits:
     - '&7snow man... and don''t tell her'
     - '&7to "Let it go!".'
     - ''
-    - '&7Full Set Ability: Absorb heat'
+    - '&7Umiejętność całego zestawu: Absorb heat'
     - '&7and chill the world around you'
     - '&7by walking.'
     Equipments:
       Ice Walker Helmet:
-        Name: '&6Ice Walker Suit Helmet'
+        Name: '&6Ice Walker Strój Hełm'
         Mystery Dust: 70
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Ice Walker Chestplate:
-        Name: '&5Ice Walker Suit Chestplate'
+        Name: '&5Ice Walker Strój Napierśnik'
         Mystery Dust: 25
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Ice Walker Leggings:
-        Name: '&9Ice Walker Suit Leggings'
+        Name: '&9Ice Walker Strój Spodnie'
         Mystery Dust: 13
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Ice Walker Boots:
-        Name: '&aIce Walker Suit Boots'
+        Name: '&aIce Walker Strój Buty'
         Mystery Dust: 5
         Rarity: Common
         CanBeFound: true
@@ -610,32 +610,32 @@ Suits:
     - '&7blood-craving villain with this'
     - '&7Vampire Suit!'
     - ''
-    - '&7Full Set Ability: Transform into'
+    - '&7Umiejętność całego zestawu: Transform into'
     - '&7a bat when you fly.'
     Equipments:
       Vampire Helmet:
-        Name: '&6Vampire Suit Helmet'
+        Name: '&6Vampire Strój Hełm'
         Mystery Dust: 74
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Vampire Chestplate:
-        Name: '&5Vampire Suit Chestplate'
+        Name: '&5Vampire Strój Napierśnik'
         Mystery Dust: 34
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Vampire Leggings:
-        Name: '&9Vampire Suit Leggings'
+        Name: '&9Vampire Strój Spodnie'
         Mystery Dust: 18
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Vampire Boots:
-        Name: '&aVampire Suit Boots'
+        Name: '&aVampire Strój Buty'
         Mystery Dust: 7
         Rarity: Common
         CanBeFound: true
