@@ -1,19 +1,19 @@
-Prefix: '&6» &c'
+Prefix: '&6» &c&l'
 GUI-Menus:
   Main: Main
-  Hats: Hats
-  Animated Hats: Animated Hats
-  Particles: Particles
-  Suits: Suits
-  Gadgets: Gadgets
-  Pets: Pets
-  Miniatures: Miniatures
+  Hats: Czapki
+  Animated Hats: Animowane Czapki
+  Particles: Czasteczki
+  Suits: Garnitury
+  Gadgets: Zabawki
+  Pets: Zwierzeta
+  Miniatures: Miniatury
   Morphs: Morphs
-  Banners: Banners
-  Emotes: Emotes
-  Cloaks: Cloaks
+  Banners: &c&lBanery
+  Emotes: Emotki
+  Cloaks: Peleryny
   Purchase-Menu:
-    GUI-Name: Confirm Purchase
+    GUI-Name: Potwierdz Zakup
     Items:
       Confirm:
         Name: '&aPotwierdz'
@@ -24,7 +24,7 @@ GUI-Menus:
         Material: RED_TERRACOTTA
         Lore: ''
   Confirm-Open-Mystery-Box-Menu:
-    GUI-Name: Confirm Open
+    GUI-Name: Potwierdz Otwarcie
     Items:
       Open:
         Name: '&aOtwórz'
