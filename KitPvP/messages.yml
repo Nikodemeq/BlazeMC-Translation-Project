@@ -34,18 +34,18 @@ Inventories:
   Trails-Inventory: '&5&nEfekty Strzal:'
   Map-Vote: '&c&nGlosowanie na mape&e:'
 Messages:
-  No-Permission: You dont have permission to do this!
-  No-Console: Only players may use this command!
-  Plugin-Reload-Kick-Message: The plugin has been reloaded, due to that you have been forced to leave!
-  Unknown-Command: Unknown command! use /kb for a list of commands!
-  Command-Disabled: This command has been disabled!
-  Unknown-Map: Couldn't find a map with that name!
-  Player-Join-Map: You have joined the map &b%map%&7!
-  Not-In-A-Game: You are not in the game to do this!
-  No-Available-Maps: There are no maps loaded yet!
-  Map-Deleted-Send-To-Another-Map: The map you were on was deleted! due to that you have been sended to another map!
-  Map-Deleted-Kick: The map you were on was deleted! and there are no other maps for you to join!
-  Player-Receive-KitUnlocker: You have received &d%amount% &7Kitunlockers!
+  No-Permission: Nie masz permisji!
+  No-Console: pojebalo sie cos
+  Plugin-Reload-Kick-Message: Z powodu aktualizacji zostales wyrzucony
+  Unknown-Command: Nie ma takiej komendy
+  Command-Disabled: Ta komenda nie jest dozwolona w grze!
+  Unknown-Map: Nie ma takiej mapy!
+  Player-Join-Map: Dolaczono do gry na mapie &b%map%&7!
+  Not-In-A-Game: Nie jestes w grze!
+  No-Available-Maps: Brak map!
+  Map-Deleted-Send-To-Another-Map: Mapa zostala skasowana! Przeniesiono cie do wolnej mapy.
+  Map-Deleted-Kick: Nie ma zadnych wolnych map!
+  Player-Receive-KitUnlocker: Otrzymales &d%amount% &7Skrzynki!
   Player-Leave: You have left the game!
   Map-Switch: The map has been switched to &d%map%
   Map-Switch-Count-Down: The map will switch to the next one after &b%time% &7seconds!
