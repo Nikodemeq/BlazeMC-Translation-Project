@@ -22,17 +22,17 @@ Scoreboard:
   team1: Druzyna 1
   team2: Druzyna 2
 Inventories:
-  Kits: '&9Kits &8Middle click to Reorder'
-  Selling: '&cAre you sure about selling?'
-  Reorder: '&9Kits &cReorder'
-  Queue: '&9Select targeted queues'
-  Kit-Unlocker: '&d&kA &4&nUnlocking a kit &d&kA'
-  Kit-Preview: '&cKit preview: &9'
-  Achievements-Inventory: '&cAchievements'
-  Profile-Inventory: '&4Profile'
-  Stats-Inventory: '&4Stats'
-  Trails-Inventory: '&5&nTrails:'
-  Map-Vote: '&c&nMap vote:'
+  Kits: '&9Twoja Szafka'
+  Selling: '&cCzy napewno chcesz sprzedac?'
+  Reorder: '&9Zmienianie ulozenia szafki'
+  Queue: '&9Wybierz kolejki których szukasz'
+  Kit-Unlocker: '&d&kA &4&nOdblokowywanie zestawu &d&kA'
+  Kit-Preview: '&cPodglad zestawu: &9'
+  Achievements-Inventory: '&cOsiagniecia'
+  Profile-Inventory: '&4Profil'
+  Stats-Inventory: '&4Statystyki'
+  Trails-Inventory: '&5&nEfekty Strzal:'
+  Map-Vote: '&c&nGlosowanie na mape&e:'
 Messages:
   No-Permission: You dont have permission to do this!
   No-Console: Only players may use this command!
@@ -134,11 +134,7 @@ Messages:
   Player-Blink: '&b%player% &chas blinked to you!'
   Trail-Select: 'You have selected the trail: %trail%'
 Player-Death-By-Player:
-- '&c%player% &7has been killed by &a%killer%&7!'
-- '&c%player% &7was brutally murdered by &a%killer%&7!'
-- '&c%player% &7weapon couldn''t stand against &a%killer%&7!'
-- '&a%killer% &7gave a helping hand in &c%player% &7death!'
-- '&a%killer% &7couldn''t resist killing &c%player%&7!'
+- '&c%player% &7zostal zabity przez &a%killer%&7!'
 Player-Death-By-Falldamage: '&c%player% &7fell to his death!'
 Player-Death-By-Lava: '&c%player% &7thought he can swim in lava!'
 Player-Death-By-Fire: '&c%player% &7burned to death!'
