@@ -2,36 +2,153 @@
 # Changing a rank name while players have that rank will cause errors!
 
 Ranks:
-  Newbie:
+  Ziemia:
     Required-Exp: 0
-    Commands-Excuted-When-Rank-Reached: []
-  Starter:
-    Required-Exp: 25
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 100
+    - kb kitunlocker give %player% 2
+  Piasek:
+    Required-Exp: 1
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 50
+    - kb kitunlocker give %player% 1
+  Nasionko:
+    Required-Exp: 100
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 200
+    - kb kitunlocker give %player% 2
+  Sadzonka:
+    Required-Exp: 150
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 150
+    - kb kitunlocker give %player% 1
+  Drewno:
+    Required-Exp: 250
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 30
+    - kb kitunlocker give %player% 2
+  Dioryt:
+    Required-Exp: 500
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 150
+    - kb kitunlocker give %player% 1
+  Kamień:
+    Required-Exp: 550
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 100
+    - kb kitunlocker give %player% 2
+  Węgiel:
+    Required-Exp: 700
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 200
+    - kb kitunlocker give %player% 1
+  Złoże Żelaza:
+    Required-Exp: 1000
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 500
+    - kb kitunlocker give %player% 2
+  Sztabki Żelaza:
+    Required-Exp: 1200
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 300
+    - kb kitunlocker give %player% 1
+  Kilof z Żelaza:
+    Required-Exp: 1500
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 200
+    - kb kitunlocker give %player% 2
+  Narzędzia z Żelaza:
+    Required-Exp: 1700
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 400
+    - kb kitunlocker give %player% 1
+  Napierśnik z Żelaza:
+    Required-Exp: 1850
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 300
+    - kb kitunlocker give %player% 2
+  Złoto:
+    Required-Exp: 2000
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 100
+    - kb kitunlocker give %player% 1
+  Diamenty:
+    Required-Exp: 2500
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 5
+  Kilof z Diamentów:
+    Required-Exp: 2800
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 700
+    - kb kitunlocker give %player% 2
+  Zbroja z Żelaza:
+    Required-Exp: 2950
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 300
+    - kb kitunlocker give %player% 2
+  Obsydian:
+    Required-Exp: 3000
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 600
+    - kb kitunlocker give %player% 3
+  Miecz z Diamentów:
+    Required-Exp: 3200
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 200
+    - kb kitunlocker give %player% 2
+  Napierśnik z Diamentów:
+    Required-Exp: 3650
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 400
+    - kb kitunlocker give %player% 1
+  Kwartz:
+    Required-Exp: 3950
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 500
     - kb kitunlocker give %player% 1
-  Survivor:
-    Required-Exp: 75
+  Magiczne Narzędzia:
+    Required-Exp: 4250
     Commands-Excuted-When-Rank-Reached:
-    - kb coins add %player% 750
-    - kb kitunlocker give %player% 1
-  Pro:
-    Required-Exp: 150
+    - kb coins add %player% 1500
+    - kb kitunlocker give %player% 4
+  Zbroja z Diamentów:
+    Required-Exp: 4500
     Commands-Excuted-When-Rank-Reached:
-    - kb coins add %player% 1000
-    - kb kitunlocker give %player% 1
-  Legend:
-    Required-Exp: 300
+    - kb coins add %player% 800
+    - kb kitunlocker give %player% 4
+  Oko Endermana:
+    Required-Exp: 4800
     Commands-Excuted-When-Rank-Reached:
-    - kb coins add %player% 2000
-    - kb kitunlocker give %player% 1
-  Immortal:
-    Required-Exp: 600
+    - kb coins add %player% 500
+    - kb kitunlocker give %player% 3
+  Magiczna Zbroja:
+    Required-Exp: 5000
     Commands-Excuted-When-Rank-Reached:
-    - kb coins add %player% 4000
-    - kb kitunlocker give %player% 1
-  God:
-    Required-Exp: 1200
+    - kb coins add %player% 1800
+    - kb kitunlocker give %player% 4
+  Pałki ognika:
+    Required-Exp: 5500
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 500
+    - kb kitunlocker give %player% 2
+  Oko kresu:
+    Required-Exp: 6000
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2400
+    - kb kitunlocker give %player% 3
+  Podróż w Koniec:
+    Required-Exp: 6969
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 5000
+    - kb kitunlocker give %player% 6
+  Śmierć w Endzie:
+    Required-Exp: 7420
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 20
+  Rage Quit:
+    Required-Exp: 8000
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins remove %player% 50000
     - kb kitunlocker give %player% 1
