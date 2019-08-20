@@ -51,20 +51,20 @@ Messages:
   Map-Switch-Count-Down: Mapa zmieni sie za &b%time% &7sekund!
   Player-Already-In-Map: You are already in this map!
   Player-Earn-Exp: '&d+%exp% Exp'
-  Player-Kill: You have contributed in &6%percentage%% &7of the damage dealt to &e%player% &7and received &b%coins% &7Monet!
-  Player-Death-Message: You have been killed by &a%killer%&7!
-  Player-Suicide-Message: You have killed your self!
-  Player-Stat-Modification-Through-Command: Your %stat% have been modified to %amount%!
-  Join-Denied: You must have nothing in hand to join!
-  Already-Unlocked-All-Kits: You have already unlocked all kits!
-  Player-Open-KitUnlocker: You have opened a Kit Unlocker!
-  Player-Win-Kit: You have won the kit &d%kit%&7, Congratulations!
-  Player-Select-Kit: You have selected the kit &a%kit%
-  Player-Purchase-Kit: You have purchased the kit &b%kit% &7for &a%price% &7Monet!
-  Not-Enough-Coins: You dont have enough coins to do this!
-  Cant-Use-Commands: You may only use kitbattle commands!
-  Cant-Use-Character: You cant use the character &d% &7in your message!
-  Player-Rank-Up: '&aCongratulations! &7you have ranked up to the rank &b%rank%'
+  Player-Kill: Zadales &6%percentage%% &7obrazen &e%player% &7i otrzymales &b%coins% &7Monet!
+  Player-Death-Message: Zostales zabity przez &a%killer%&7!
+  Player-Suicide-Message: Zabiles sam siebie XD!
+  Player-Stat-Modification-Through-Command: Zmieniono statystyke %stat% -> %amount%!
+  Join-Denied: Nie mozesz nic trzymac!
+  Already-Unlocked-All-Kits: Wow, juz wszystko odblokowales!
+  Player-Open-KitUnlocker: Rozpoczeto otwieranie!
+  Player-Win-Kit: Wygrales zestaw &d%kit%&7!
+  Player-Select-Kit: Wybrales zestaw &a%kit%
+  Player-Purchase-Kit: Zakupiles zestaw &b%kit% &7za &a%price% &7Monet!
+  Not-Enough-Coins: Nie stac cie!
+  Cant-Use-Commands: Tej komendy nie mozesz tutaj uzyc!
+  Cant-Use-Character: Nie mozesz uzyc znaku &d%&7!
+  Player-Rank-Up: '&aRanga w Górę! &7Awansowales do &b%rank%'
   Player-Rank-Up-Public-Message: '&a%player% &7has ranked up to a &b%rank%'
   Player-Derank-Public-Message: '&a%player% &7has been deranked to &c%rank%'
   Player-Use-Ability: You have used your umiejetnosci!

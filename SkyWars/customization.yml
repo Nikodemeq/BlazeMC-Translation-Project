@@ -11,7 +11,7 @@ Messages:
   Already-In-Game: You are already in the game!
   Not-In-Game: You are not in the game!
   Not-In-Lobby: You must be in the lobby to do this!
-  Coins-Update: Your coins have been updated!
+  Coins-Update: Your Monety have been updated!
   Modifier-Update: Your modifier has been updated!
   Party-Must-Be-Leader: You must be the party leader to do this!
   Party-Player-Not-Available: Party member &b%member% &7is not available currently!
@@ -20,9 +20,9 @@ Messages:
   Invalid-Mystery-Box: The mystery box has invalid settings!
   Tracking-Player: '&eTracking the player: %target%'
   Invalid-Entity: Invalid entity type.
-  Player-Kill: You have killed &e%target% &7and received &d%coins% &7coins and &d%exp% &7exp!
+  Player-Kill: You have killed &e%target% &7and received &d%Monety% &7Monety and &d%exp% &7exp!
   Invalid-Item: Invalid item!
-  Not-Enough-Coins: You dont have enough coins to do this!
+  Not-Enough-Coins: You dont have enough Monety to do this!
   Not-Enough-Space: You dont have enough inventory space to do this!
   Item-Purchase: You have &asuccessfully &7purchased the item!
   Item-Select: 'You have selected the item: &a%item%'
@@ -65,7 +65,7 @@ Messages:
   Arena-Borders-Leave: '&cYou can not leave the arena borders!'
   Arena-Borders-Outside: '&cYou are outside the arena borders!'
   Arena-Finish: '&aCongratulations! &7you have won the game!'
-  Arena-Finish-Prize: You have received &d%coins% &7coins for winning!
+  Arena-Finish-Prize: You have received &d%Monety% &7Monety for winning!
   Team-Player-Eliminate: '&e%player% &7has been eliminated from your team! &d(%teamsize%/%maxteamsize%)!'
   Party-Player-Leave: You have left the party!
   Party-Player-Leave-Alert: '&c%player% &7has left the party!'
@@ -205,7 +205,7 @@ Lores:
   Item: '&5 - &d%item%'
   No-Items: '&dNONE'
   Permission-Needed: '&cRequires Permission'
-  Selling: '&cSold for &e%coins% &ccoin(s)!'
+  Selling: '&cSold for &e%Monety% &ccoin(s)!'
   Lines: '&b&m-------------'
   Players: '&ePlayers: &b%players%&e/&b%maxplayers%'
   Teams: '&eTeams: &b%teams%&e/&b%maxteams%'
