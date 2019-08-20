@@ -1,2 +1,2 @@
-# GMenu-Polish-Locale
-Polish language for GadgetsMenu
+# BlazeMC Translation Project
+Tłumaczenie serwera BlazeMC na język Polski.
