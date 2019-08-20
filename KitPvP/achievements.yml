@@ -1,0 +1,248 @@
+Achievements:
+  kills:
+    '10':
+      description: Get 10 kills!
+      prize-description: Earn 50 coins!
+      executed-command: kb coins add %player% 50
+    '50':
+      description: Get 50 kills!
+      prize-description: Earn 250 coins!
+      executed-command: kb coins add %player% 250
+    '100':
+      description: Get 100 kills!
+      prize-description: Earn 500 coins!
+      executed-command: kb coins add %player% 500
+    '200':
+      description: Get 200 kills!
+      prize-description: Earn 1000 coins!
+      executed-command: kb coins add %player% 1000
+    '300':
+      description: Get 300 kills!
+      prize-description: Earn 1500 coins!
+      executed-command: kb coins add %player% 1500
+    '400':
+      description: Get 400 kills!
+      prize-description: Earn 2000 coins!
+      executed-command: kb coins add %player% 2000
+    '500':
+      description: Get 500 kills!
+      prize-description: Earn 2500 coins!
+      executed-command: kb coins add %player% 2500
+    '600':
+      description: Get 600 kills!
+      prize-description: Earn 3000 coins!
+      executed-command: kb coins add %player% 3000
+    '700':
+      description: Get 700 kills!
+      prize-description: Earn 3500 coins!
+      executed-command: kb coins add %player% 3500
+    '800':
+      description: Get 800 kills!
+      prize-description: Earn 4000 coins!
+      executed-command: kb coins add %player% 4000
+    '900':
+      description: Get 900 kills!
+      prize-description: Earn 4500 coins!
+      executed-command: kb coins add %player% 4500
+    '1000':
+      description: Get 1000 kills!
+      prize-description: Earn 5000 coins!
+      executed-command: kb coins add %player% 5000
+  projectiles_hit:
+    '5':
+      description: Hit 5 projectile!
+      prize-description: Earn 50 coins!
+      executed-command: kb coins add %player% 50
+    '20':
+      description: Hit 20 projectile!
+      prize-description: Earn 200 coins!
+      executed-command: kb coins add %player% 200
+    '50':
+      description: Hit 50 projectile!
+      prize-description: Earn 500 coins!
+      executed-command: kb coins add %player% 500
+    '100':
+      description: Hit 100 projectile!
+      prize-description: Earn 1000 coins!
+      executed-command: kb coins add %player% 1000
+    '200':
+      description: Hit 200 projectile!
+      prize-description: Earn 2000 coins!
+      executed-command: kb coins add %player% 2000
+    '300':
+      description: Hit 300 projectile!
+      prize-description: Earn 3000 coins!
+      executed-command: kb coins add %player% 3000
+    '400':
+      description: Hit 400 projectile!
+      prize-description: Earn 4000 coins!
+      executed-command: kb coins add %player% 4000
+    '500':
+      description: Hit 500 projectile!
+      prize-description: Earn 5000 coins!
+      executed-command: kb coins add %player% 5000
+  tournaments_won:
+    '1':
+      description: Win 1 tournament(s)!
+      prize-description: Earn 100 coins!
+      executed-command: kb coins add %player% 100
+    '3':
+      description: Win 3 tournament(s)!
+      prize-description: Earn 300 coins!
+      executed-command: kb coins add %player% 300
+    '5':
+      description: Win 5 tournament(s)!
+      prize-description: Earn 500 coins!
+      executed-command: kb coins add %player% 500
+    '10':
+      description: Win 10 tournament(s)!
+      prize-description: Earn 1000 coins!
+      executed-command: kb coins add %player% 1000
+    '20':
+      description: Win 20 tournament(s)!
+      prize-description: Earn 2000 coins!
+      executed-command: kb coins add %player% 2000
+    '50':
+      description: Win 50 tournament(s)!
+      prize-description: Earn 5000 coins!
+      executed-command: kb coins add %player% 5000
+    '100':
+      description: Win 100 tournament(s)!
+      prize-description: Earn 10000 coins!
+      executed-command: kb coins add %player% 10000
+  challenges_won:
+    '1':
+      description: Win 1 challenge(s)!
+      prize-description: Earn 100 coins!
+      executed-command: kb coins add %player% 100
+    '5':
+      description: Win 5 challenge(s)!
+      prize-description: Earn 500 coins!
+      executed-command: kb coins add %player% 500
+    '20':
+      description: Win 20 challenge(s)!
+      prize-description: Earn 2000 coins!
+      executed-command: kb coins add %player% 2000
+    '50':
+      description: Win 50 challenge(s)!
+      prize-description: Earn 5000 coins!
+      executed-command: kb coins add %player% 5000
+    '100':
+      description: Win 100 challenge(s)!
+      prize-description: Earn 10000 coins!
+      executed-command: kb coins add %player% 10000
+    '150':
+      description: Win 150 challenge(s)!
+      prize-description: Earn 15000 coins!
+      executed-command: kb coins add %player% 15000
+    '200':
+      description: Win 200 challenge(s)!
+      prize-description: Earn 20000 coins!
+      executed-command: kb coins add %player% 20000
+    '250':
+      description: Win 250 challenge(s)!
+      prize-description: Earn 25000 coins!
+      executed-command: kb coins add %player% 25000
+    '300':
+      description: Win 300 challenge(s)!
+      prize-description: Earn 30000 coins!
+      executed-command: kb coins add %player% 30000
+  abilities_used:
+    '5':
+      description: Use an ability 5 times!
+      prize-description: Earn 25 coins!
+      executed-command: kb coins add %player% 25
+    '50':
+      description: Use an ability 50 times!
+      prize-description: Earn 250 coins!
+      executed-command: kb coins add %player% 250
+    '100':
+      description: Use an ability 100 times!
+      prize-description: Earn 500 coins!
+      executed-command: kb coins add %player% 500
+    '200':
+      description: Use an ability 200 times!
+      prize-description: Earn 1000 coins!
+      executed-command: kb coins add %player% 1000
+    '300':
+      description: Use an ability 300 times!
+      prize-description: Earn 1500 coins!
+      executed-command: kb coins add %player% 1500
+    '400':
+      description: Use an ability 400 times!
+      prize-description: Earn 2000 coins!
+      executed-command: kb coins add %player% 2000
+    '500':
+      description: Use an ability 500 times!
+      prize-description: Earn 2500 coins!
+      executed-command: kb coins add %player% 2500
+    '750':
+      description: Use an ability 750 times!
+      prize-description: Earn 3750 coins!
+      executed-command: kb coins add %player% 3750
+    '1000':
+      description: Use an ability 1000 times!
+      prize-description: Earn 5000 coins!
+      executed-command: kb coins add %player% 5000
+  soups_eaten:
+    '10':
+      description: Eat 10 soups!
+      prize-description: Earn 20 coins!
+      executed-command: kb coins add %player% 20
+    '100':
+      description: Eat 100 soups!
+      prize-description: Earn 200 coins!
+      executed-command: kb coins add %player% 200
+    '500':
+      description: Eat 500 soups!
+      prize-description: Earn 1000 coins!
+      executed-command: kb coins add %player% 1000
+    '1000':
+      description: Eat 1000 soups!
+      prize-description: Earn 2000 coins!
+      executed-command: kb coins add %player% 2000
+    '1500':
+      description: Eat 1500 soups!
+      prize-description: Earn 3000 coins!
+      executed-command: kb coins add %player% 3000
+    '2000':
+      description: Eat 2000 soups!
+      prize-description: Earn 4000 coins!
+      executed-command: kb coins add %player% 4000
+    '3000':
+      description: Eat 3000 soups!
+      prize-description: Earn 6000 coins!
+      executed-command: kb coins add %player% 6000
+    '4000':
+      description: Eat 4000 soups!
+      prize-description: Earn 8000 coins!
+      executed-command: kb coins add %player% 8000
+    '5000':
+      description: Eat 5000 soups!
+      prize-description: Earn 10000 coins!
+      executed-command: kb coins add %player% 10000
+  killstreaks_earned:
+    '5':
+      description: Earn 5 killstreaks!
+      prize-description: Earn 50 coins!
+      executed-command: kb coins add %player% 50
+    '10':
+      description: Earn 10 killstreaks!
+      prize-description: Earn 100 coins!
+      executed-command: kb coins add %player% 100
+    '20':
+      description: Earn 20 killstreaks!
+      prize-description: Earn 200 coins!
+      executed-command: kb coins add %player% 200
+    '50':
+      description: Earn 50 killstreaks!
+      prize-description: Earn 500 coins!
+      executed-command: kb coins add %player% 500
+    '100':
+      description: Earn 100 killstreaks!
+      prize-description: Earn 1000 coins!
+      executed-command: kb coins add %player% 1000
+    '200':
+      description: Earn 200 killstreaks!
+      prize-description: Earn 2000 coins!
+      executed-command: kb coins add %player% 2000

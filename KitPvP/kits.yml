@@ -1,0 +1,2159 @@
+# For a list of Materials you can use visit this website https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+# For a list of enchantments you can use visit this website https://hub.spigotmc.org/javadocs/spigot/org/bukkit/enchantments/Enchantment.html
+# For a list of potions you can use visit this website https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/potion/PotionEffectType.html
+# List of colors you can use as a dye: BLACK, AQUA, BLUE, FUCHSIA, GRAY, GREEN, LIME, MAROON, NAVY, OLIVE, ORANGE, PURPLE, RED, SILVER, TEAL, WHITE, YELLOW
+# Default kits are designed for the option 'Purchaseable-Kits-Are-Permanent' to be true, if you changed it to false you probably wanna change the prices
+# And make some over powered kits and what not, because they can be used once per purchase! 
+# To create new kits just copy other kits format and try understanding the format!
+# Setting 'Require-Permission' to true will make the kit require a permission!
+# Permission for any kit is kitbattle.kits.<Kit>
+# For POTIONS, if your server is below 1.9 then use  POTION:DURABILITY to make potions like POTION:16421, otherwise you should use the form
+# POTION/SPLASH_POTION/LINGERING_POTION:POTION_TYPE:EXTENDED:UPGRADED
+# Example of the form -> 'SPLASH_POTION:INSTANT_DAMAGE:false:true : 1'
+
+Kits:
+  Pvp:
+    Enabled: true
+    Require-Permission: false
+    Item: DIAMOND_SWORD
+    Price: 0
+    Armor:
+      Helmet: 'IRON_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&bA very basic but strong kit!'
+  Archer:
+    Enabled: true
+    Require-Permission: false
+    Item: BOW
+    Price: 100
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1'
+      Chestplate: 'LEATHER_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'BOW : 1 : enchant:ARROW_DAMAGE:1'
+    - 'ARROW : 64'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&bStart with a sword and a strong bow'
+    - '&band a stack of arrows'
+  Ninja:
+    Enabled: true
+    Require-Permission: false
+    Item: NETHER_STAR
+    Price: 200
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : dye:BLACK'
+      Chestplate: 'CHAINMAIL_CHESTPLATE : 1'
+      Leggings: 'CHAINMAIL_LEGGINGS : 1'
+      Boots: 'DIAMOND_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities: []
+    Potion-Effects:
+    - 'SPEED : 999999 : 2'
+    Description:
+    - '&bStart with a diamond sword'
+    - '&band week armor'
+    - '&bAnd infinite speed 2 potion'
+  Tank:
+    Enabled: true
+    Require-Permission: false
+    Item: DIAMOND_CHESTPLATE
+    Price: 400
+    Armor:
+      Helmet: 'DIAMOND_HELMET : 1'
+      Chestplate: 'DIAMOND_CHESTPLATE : 1'
+      Leggings: 'DIAMOND_LEGGINGS : 1'
+      Boots: 'DIAMOND_BOOTS : 1'
+    Items:
+    - 'IRON_SWORD : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities: []
+    Potion-Effects:
+    - 'SLOW : 999999 : 2'
+    Description:
+    - '&bStart with diamond armor'
+    - '&band an iron sword'
+    - '&bbut a slowness effect'
+  Pyro:
+    Enabled: true
+    Require-Permission: false
+    Item: FLINT_AND_STEEL
+    Price: 500
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : enchant:PROTECTION_FIRE:5'
+      Chestplate: 'IRON_CHESTPLATE : 1 : enchant:PROTECTION_FIRE:5'
+      Leggings: 'LEATHER_LEGGINGS : 1 : enchant:PROTECTION_FIRE:5'
+      Boots: 'IRON_BOOTS : 1 : enchant:PROTECTION_FIRE:5'
+    Items:
+    - 'IRON_SWORD : 1 : enchant:FIRE_ASPECT:1'
+    - 'BOW : 1 : enchant:ARROW_FIRE:1'
+    - 'ARROW : 64'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&bStart with a fiery sword'
+    - '&band a fiery bow'
+    - '&band fire protection armor'
+  Assassin:
+    Enabled: true
+    Require-Permission: false
+    Item: GOLD_SWORD
+    Price: 600
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : dye:RED'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'LEATHER_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'GOLD_SWORD:32 : 1 : enchant:DAMAGE_ALL:22'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&bGet an&b extra almost insta kill sword'
+    - '&bthat only has 1 use per life'
+  Zombie:
+    Enabled: true
+    Require-Permission: false
+    Item: SKULL_ITEM:2
+    Price: 1000
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : dye:GREEN'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'CHAINMAIL_LEGGINGS : 1'
+      Boots: 'LEATHER_BOOTS : 1 : dye:GREEN'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities: []
+    Potion-Effects:
+    - 'HEALTH_BOOST : 999999 : 5'
+    Description:
+    - '&bStart with extra bar of hearts'
+  Kangaroo:
+    Enabled: true
+    Require-Permission: false
+    Item: FIREWORK
+    Price: 800
+    Armor:
+      Helmet: 'IRON_HELMET : 1'
+      Chestplate: 'LEATHER_CHESTPLATE : 1 : dye:YELLOW'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'DIAMOND_BOOTS : 1 : enchant:PROTECTION_FALL:5'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'FIREWORK : 1 : name:&cKangaroo rocket'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Kangaroo
+    Potion-Effects: []
+    Description:
+    - '&bGet a rocket that will launch you'
+    - '&bin the way you are looking!'
+    - '&bAnd its almost anti fall kit!'
+    - '&bTip: Shifting will boost you'
+    - '&bForward!'
+  Hades:
+    Enabled: true
+    Require-Permission: false
+    Item: BONE
+    Price: 1200
+    Armor:
+      Helmet: 'IRON_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'LEATHER_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'BONE : 1 : name:&cSummoning bone'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Hades
+    Potion-Effects: []
+    Description:
+    - '&bGet a bone that will summon'
+    - '&bDogs that will fight for you!'
+  Switcher:
+    Enabled: true
+    Require-Permission: false
+    Item: SNOW_BALL
+    Price: 600
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : dye:WHITE'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'SNOW_BALL : 16 : name:&cSwitch!'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Switcher
+    Potion-Effects: []
+    Description:
+    - '&bThrow a snowball at someone'
+    - '&bTo swap your locations!'
+  Thor:
+    Enabled: true
+    Require-Permission: false
+    Item: WOOD_AXE
+    Price: 900
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'WOOD_AXE : 1 : name:&cAlmighty axe!'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Thor
+    Potion-Effects: []
+    Description:
+    - '&bGet an axe that will'
+    - '&bStrike lightning on nearby enemies!'
+  Stomper:
+    Enabled: true
+    Require-Permission: false
+    Item: FEATHER
+    Price: 500
+    Armor:
+      Helmet: 'IRON_HELMET : 1'
+      Chestplate: 'LEATHER_CHESTPLATE : 1 : dye:RED'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Stomper
+    Potion-Effects: []
+    Description:
+    - '&bJump on someone from a height'
+    - '&bTo deal some damage!'
+    - '&bThe higher you are the more'
+    - '&bDamage you will deal'
+    - '&bBut if the target is shifting'
+    - '&bYou wont deal as much damage!'
+    - '&bYou also have a MAX fall damage'
+    - '&bSo you wont die from falling'
+  Ghost:
+    Enabled: true
+    Require-Permission: false
+    Item: POTION:INVISIBILITY:false:false
+    Price: 400
+    Armor:
+      Helmet: ''
+      Chestplate: ''
+      Leggings: ''
+      Boots: ''
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:1'
+    - ''
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities: []
+    Potion-Effects:
+    - 'INVISIBILITY : 999999 : 1'
+    Description:
+    - '&bBe invisible with a potion effect'
+    - '&bUnfortunately, you wont have armor'
+    - '&bTo be fully invisible!'
+  Miner:
+    Enabled: true
+    Require-Permission: false
+    Item: LEATHER_HELMET
+    Price: 700
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : dye:YELLOW'
+      Chestplate: 'LEATHER_CHESTPLATE : 1 : dye:YELLOW'
+      Leggings: 'LEATHER_LEGGINGS : 1 : dye:YELLOW'
+      Boots: 'LEATHER_BOOTS : 1 : dye:YELLOW'
+    Items:
+    - 'STONE_SWORD : 1 : enchant:DURABILITY:3'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities: []
+    Potion-Effects:
+    - 'INCREASE_DAMAGE : 999999 : 1'
+    - 'SPEED : 999999 : 1'
+    - 'NIGHT_VISION : 999999 : 1'
+    Description:
+    - '&bMining for hours has really taught'
+    - '&bYou to be strong and fast and can see'
+    - '&bIn darkness'
+    - '&bToo bad you actually never found any goods'
+  Spiderman:
+    Enabled: true
+    Require-Permission: false
+    Item: WEB
+    Price: 1000
+    Armor:
+      Helmet: 'IRON_HELMET : 1'
+      Chestplate: 'LEATHER_CHESTPLATE : 1 : dye:BLUE'
+      Leggings: 'DIAMOND_LEGGINGS : 1'
+      Boots: 'DIAMOND_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'WEB : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Spiderman
+    Potion-Effects: []
+    Description:
+    - '&bThrow snowballs at your target'
+    - '&bTo put them in a web for'
+    - '&bFew seconds!'
+  Prisoner:
+    Enabled: true
+    Require-Permission: false
+    Item: LAVA_BUCKET
+    Price: 2000
+    Armor:
+      Helmet: 'DIAMOND_HELMET : 1'
+      Chestplate: 'LEATHER_CHESTPLATE : 1 : dye:RED'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'DISPENSER : 1 : name:&4Prison'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Prisoner
+    Potion-Effects: []
+    Description:
+    - '&bShoot a snowball and send'
+    - '&bThose murderers to the LAVA jail'
+  Climber:
+    Enabled: true
+    Require-Permission: false
+    Item: TRIPWIRE_HOOK
+    Price: 350
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : dye:YELLOW'
+      Chestplate: 'CHAINMAIL_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'BOW : 1 : enchant:ARROW_INFINITE:1'
+    - 'ARROW : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Climber
+    Potion-Effects: []
+    Description:
+    - '&bUse your bow to summon'
+    - '&bA magical chicken that will carry you'
+  Dragon:
+    Enabled: true
+    Require-Permission: false
+    Item: FIREBALL
+    Price: 1000
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : dye:RED'
+      Chestplate: 'DIAMOND_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'LEATHER_BOOTS : 1 : dye:RED'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'FIREBALL : 1 : name:&cFlames'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Dragon
+    Potion-Effects:
+    - 'FIRE_RESISTANCE : 999999 : 1'
+    Description:
+    - '&bBreathe fire!'
+    - '&bAnd be immune for fire damage'
+  Suicidal:
+    Enabled: true
+    Require-Permission: false
+    Item: TNT
+    Price: 250
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : dye:RED'
+      Chestplate: 'LEATHER_CHESTPLATE : 1 : dye:RED'
+      Leggings: 'LEATHER_LEGGINGS : 1 : dye:RED'
+      Boots: 'LEATHER_BOOTS : 1 : dye:RED'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'REDSTONE_TORCH_ON : 1 : name:&cSuicide!'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Suicidal
+    Potion-Effects:
+    - 'SPEED : 999999 : 1'
+    Description:
+    - '&bUse your torch to active'
+    - '&bThe tnt inside you and'
+    - '&bBlow up along nearby enemies'
+  Phantom:
+    Enabled: true
+    Require-Permission: false
+    Item: BOOK
+    Price: 800
+    Armor:
+      Helmet: 'IRON_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'BOOK : 1 : name:&cFly!'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Phantom
+    Potion-Effects: []
+    Description:
+    - '&bUse your magical book to have the'
+    - '&bAbility of flying for few seconds'
+  Timelord:
+    Enabled: true
+    Require-Permission: false
+    Item: WATCH
+    Price: 900
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : dye:BLACK'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'LEATHER_BOOTS : 1 : dye:BLACK'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'WATCH : 1 : name:&cFreeze!'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Timelord
+    Potion-Effects: []
+    Description:
+    - '&bUse your magical clock to'
+    - '&bPrevent players around you'
+    - '&bFrom moving'
+  Fisherman:
+    Enabled: true
+    Require-Permission: false
+    Item: FISHING_ROD
+    Price: 900
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'LEATHER_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:1'
+    - 'FISHING_ROD : 1 : enchant:DURABILITY:2'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Fisherman
+    Potion-Effects: []
+    Description:
+    - '&bGet a fishing rod that'
+    - '&bAllows you to teleport caught'
+    - '&bEntities to you'
+  Vanilla:
+    Enabled: true
+    Require-Permission: false
+    Item: SPLASH_POTION:INSTANT_HEAL:false:true
+    Price: 200
+    Armor:
+      Helmet: 'IRON_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:1'
+    - 'SPLASH_POTION:REGEN:false:false : 1'
+    - 'SPLASH_POTION:SPEED:true:false : 1'
+    - 'SPLASH_POTION:POISON:false:false : 1'
+    - 'SPLASH_POTION:SLOWNESS:false:false : 1'
+    - 'SPLASH_POTION:INSTANT_DAMAGE:false:false : 1'
+    - 'SPLASH_POTION:INSTANT_DAMAGE:false:false : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    - 'SPLASH_POTION:INSTANT_HEAL:false:true : 1'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&bGet some really good'
+    - '&bSplash potions! but instead of soup'
+    - '&bYou have instant heal 2 splash potions'
+  Burrower:
+    Enabled: true
+    Require-Permission: false
+    Item: BRICK
+    Price: 450
+    Armor:
+      Helmet: 'IRON_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'BRICK : 1 : name:&cPanic room'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Burrower
+    Potion-Effects: []
+    Description:
+    - '&bGet a brick that will'
+    - '&bBuild a panic room for you'
+    - '&bYou will be safe in there'
+  Zen:
+    Enabled: true
+    Require-Permission: false
+    Item: SLIME_BALL
+    Price: 500
+    Armor:
+      Helmet: 'IRON_HELMET : 1'
+      Chestplate: 'CHAINMAIL_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'SLIME_BALL : 1 : name:&cTeleporter'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Zen
+    Potion-Effects: []
+    Description:
+    - '&bGet a slime ball that will'
+    - '&bTeleport you to the nearest'
+    - '&bEnemy!'
+  Viking:
+    Enabled: true
+    Require-Permission: false
+    Item: DIAMOND_AXE
+    Price: 300
+    Armor:
+      Helmet: 'IRON_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_AXE : 1 : enchant:DAMAGE_ALL:1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&bA basic kit with a diamond axe'
+    - '&bInstead of a diamond sword'
+  Viper:
+    Enabled: true
+    Require-Permission: false
+    Item: EYE_OF_ENDER
+    Price: 600
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : dye:GREEN'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Viper
+    Potion-Effects: []
+    Description:
+    - '&bHave a chance of biting'
+    - '&bYour enemy while fighting'
+    - '&bWhich gives them a poison effect'
+  Monk:
+    Enabled: true
+    Require-Permission: false
+    Item: BLAZE_ROD
+    Price: 700
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : dye:YELLOW'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'BLAZE_ROD : 1 : name:&cRight click a player to use!'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Monk
+    Potion-Effects: []
+    Description:
+    - '&bGet a magical rod that will'
+    - '&bSwap the item in the target hand'
+    - '&bWith a random item in their hotbar!'
+  Dracula:
+    Enabled: true
+    Require-Permission: false
+    Item: REDSTONE
+    Price: 1300
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : dye:RED'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'LEATHER_LEGGINGS : 1 : dye:RED'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:1 : name:&4Blood sucker'
+    - 'REDSTONE : 1 : name:&cRight click to activate'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Dracula
+    Potion-Effects: []
+    Description:
+    - '&bGet a sword that sucks the blood'
+    - '&bOf your enemies and have the ability'
+    - '&bTo suck enemies potion effects'
+    - '&bBut your blood can only handle'
+    - '&bThese effects for few seconds!'
+  Hulk:
+    Enabled: true
+    Require-Permission: false
+    Item: PISTON_STICKY_BASE
+    Price: 900
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : dye:GREEN'
+      Chestplate: 'DIAMOND_CHESTPLATE : 1'
+      Leggings: 'CHAINMAIL_LEGGINGS : 1'
+      Boots: 'LEATHER_BOOTS : 1 : dye:GREEN'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'PISTON_STICKY_BASE : 1 : name:&cSmash!'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Hulk
+    Potion-Effects: []
+    Description:
+    - '&bSmash the ground and release your'
+    - '&bAnger! Causing blocks and players'
+    - '&bTo fly away'
+  Cactus:
+    Enabled: true
+    Require-Permission: false
+    Item: CACTUS
+    Price: 700
+    Armor:
+      Helmet: 'IRON_HELMET : 1 : enchant:THORNS:2'
+      Chestplate: 'IRON_CHESTPLATE : 1 : enchant:THORNS:2'
+      Leggings: 'LEATHER_LEGGINGS : 1 : enchant:THORNS:2'
+      Boots: 'LEATHER_BOOTS : 1 : enchant:THORNS:2'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&bGet thorns armor!'
+  Rider:
+    Enabled: true
+    Require-Permission: false
+    Item: DIAMOND_BARDING
+    Price: 400
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'DIAMOND_BARDING : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Rider
+    Potion-Effects: []
+    Description:
+    - '&bSummon a horse that you can ride!'
+  Summoner:
+    Enabled: true
+    Require-Permission: false
+    Item: IRON_BLOCK
+    Price: 600
+    Armor:
+      Helmet: 'IRON_HELMET : 1'
+      Chestplate: 'CHAINMAIL_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'IRON_BLOCK : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Summoner
+    Potion-Effects: []
+    Description:
+    - '&bSummon an iron golem that will'
+    - '&bAttack any one attacks him'
+  Souper:
+    Enabled: true
+    Require-Permission: false
+    Item: CHEST
+    Price: 500
+    Armor:
+      Helmet: 'IRON_HELMET : 1'
+      Chestplate: 'CHAINMAIL_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'CHEST : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Souper
+    Potion-Effects: []
+    Description:
+    - '&bAutomatically refill your hotbar with available soup!'
+  Bane:
+    Enabled: true
+    Require-Permission: false
+    Item: GOLD_HOE
+    Price: 500
+    Armor:
+      Helmet: 'GOLD_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'GOLD_HOE : 1 : name:&5Curse'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Bane
+    Potion-Effects: []
+    Description:
+    - '&bCurse someone to give them blindness,'
+    - '&bslowness, and weakness!'
+    - '&bbut you are unable to damage them'
+    - '&bmuch during this curse'
+  Sunder:
+    Enabled: true
+    Require-Permission: false
+    Item: BEACON
+    Price: 500
+    Armor:
+      Helmet: 'CHAINMAIL_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'CHAINMAIL_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'BEACON : 1 : name:&4Swap'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Sunder
+    Potion-Effects: []
+    Description:
+    - '&bSwap your health with the targets health!'
+  Centaur:
+    Enabled: true
+    Require-Permission: false
+    Item: SULPHUR
+    Price: 500
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : dye:RED'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'DIAMOND_LEGGINGS : 1'
+      Boots: 'CHAINMAIL_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'SULPHUR : 1 : name:&cStrike'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities:
+    - Centaur
+    Potion-Effects: []
+    Description:
+    - '&bDeal massive area damage that'
+    - '&beven damages you, if the targets'
+    - '&bsurvive though they get a regen effect'
+  Blinker:
+    Enabled: true
+    Require-Permission: false
+    Item: GHAST_TEAR
+    Price: 500
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : dye:YELLOW : enchant:PROTECTION_EXPLOSIONS:1'
+      Chestplate: 'IRON_CHESTPLATE : 1 : enchant:PROTECTION_EXPLOSIONS:1'
+      Leggings: 'IRON_LEGGINGS : 1 : enchant:PROTECTION_EXPLOSIONS:1'
+      Boots: 'DIAMOND_BOOTS : 1 : enchant:PROTECTION_EXPLOSIONS:1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'BOW : 1 : enchant:ARROW_INFINITE:1 : name:&6Blink'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'ARROW : 1'
+    Abilities:
+    - Blinker
+    Potion-Effects: []
+    Description:
+    - '&bTeleport to targets that have been'
+    - '&bhit with your arrows and release a tnt'
+    - '&bupon them! The arrows themselves deal'
+    - '&ba very low damage though!'
+  Pvp+:
+    Enabled: true
+    Require-Permission: false
+    Item: DIAMOND_SWORD
+    Price: 750
+    Armor:
+      Helmet: 'IRON_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:2'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&bA very basic but strong kit!'
+    - '&a+ Increased sword sharpness'
+    Upgraded-Version-Of: Pvp
+  Pvp++:
+    Enabled: true
+    Require-Permission: false
+    Item: DIAMOND_SWORD
+    Price: 1000
+    Armor:
+      Helmet: 'IRON_HELMET : 1 : enchant:PROTECTION_ENVIRONMENTAL:2'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:2'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    - 'MUSHROOM_SOUP : 1'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&bA very basic but strong kit!'
+    - '&a+ Increased sword sharpness'
+    - '&a+ Increased armor protection'
+    Upgraded-Version-Of: Pvp+

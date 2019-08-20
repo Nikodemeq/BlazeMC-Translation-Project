@@ -1,0 +1,37 @@
+# Ranks go in order, so the first rank would be the default rank!
+# Changing a rank name while players have that rank will cause errors!
+
+Ranks:
+  Newbie:
+    Required-Exp: 0
+    Commands-Excuted-When-Rank-Reached: []
+  Starter:
+    Required-Exp: 25
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 500
+    - kb kitunlocker give %player% 1
+  Survivor:
+    Required-Exp: 75
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 750
+    - kb kitunlocker give %player% 1
+  Pro:
+    Required-Exp: 150
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 1000
+    - kb kitunlocker give %player% 1
+  Legend:
+    Required-Exp: 300
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 1
+  Immortal:
+    Required-Exp: 600
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 4000
+    - kb kitunlocker give %player% 1
+  God:
+    Required-Exp: 1200
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 5000
+    - kb kitunlocker give %player% 1
