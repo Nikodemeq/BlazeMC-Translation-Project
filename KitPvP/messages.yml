@@ -1,8 +1,6 @@
-# All messages supports color codes!
-
-prefix: '&3[&bKitBattle&3] &7'
+prefix: '&6[&eKitPvP&6] &7'
 Scoreboard:
-  title: '&e&l&nKitBattle'
+  title: '&e&l&nBlazeMC&r &e&l7NKitPvP'
   content:
   - '&6&m-----------'
   - '&6Stats'
@@ -53,7 +51,7 @@ Messages:
   Map-Switch-Count-Down: The map will switch to the next one after &b%time% &7seconds!
   Player-Already-In-Map: You are already in this map!
   Player-Earn-Exp: '&d+%exp% Exp'
-  Player-Kill: You have contributed in &6%percentage%% &7of the damage dealt to &e%player% &7and received &b%coins% &7coins!
+  Player-Kill: You have contributed in &6%percentage%% &7of the damage dealt to &e%player% &7and received &b%coins% &7Monet!
   Player-Death-Message: You have been killed by &a%killer%&7!
   Player-Suicide-Message: You have killed your self!
   Player-Stat-Modification-Through-Command: Your %stat% have been modified to %amount%!
@@ -62,7 +60,7 @@ Messages:
   Player-Open-KitUnlocker: You have opened a Kit Unlocker!
   Player-Win-Kit: You have won the kit &d%kit%&7, Congratulations!
   Player-Select-Kit: You have selected the kit &a%kit%
-  Player-Purchase-Kit: You have purchased the kit &b%kit% &7for &a%price% &7coins!
+  Player-Purchase-Kit: You have purchased the kit &b%kit% &7for &a%price% &7Monet!
   Not-Enough-Coins: You dont have enough coins to do this!
   Cant-Use-Commands: You may only use kitbattle commands!
   Cant-Use-Character: You cant use the character &d% &7in your message!
@@ -75,9 +73,9 @@ Messages:
   Prisoner-No-Space: There is not enough space above the target!
   Must-Have-Selected-Kit: You dont have a kit selected to do that!
   Player-Reset-Kit: You have unselected the kit &d%kit%
-  Player-Get-Killstreak-Self-Message: You have got a killstreak of &d%kills% &7kills!
+  Player-Get-Killstreak-Self-Message: You have got a killstreak of &d%kills% &7zabójstw!
   Player-Get-Killstreak-Announcement: '&b%player% &7has gotten a killstreak of &d%kills%
-    &7kills!'
+    &7zabójstw!'
   Phantom-Fly-Time-Left: You have &d%seconds% &7seconds left until your flight ends
   Phantom-Not-Hacking: '&d%player%''s &7is not flying hacking! its a part of their
     kit!'
