@@ -933,7 +933,7 @@ Kits:
       Boots: 'LEATHER_BOOTS : 1 : dye:RED'
     Items:
     - 'DIAMOND_SWORD : 1'
-    - 'FIREBALL : 1 : name:&cFlames'
+    - 'FIREBALL : 1 : name:&cMoc ognia!'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
@@ -973,8 +973,8 @@ Kits:
     Potion-Effects:
     - 'FIRE_RESISTANCE : 999999 : 1'
     Description:
-    - '&bBreathe fire!'
-    - '&bAnd be immune for fire damage'
+    - '&bMozesz podpalac innych!'
+    - '&bJestes tez odporny na ogien!'
   Suicidal:
     Enabled: true
     Require-Permission: false
@@ -987,7 +987,7 @@ Kits:
       Boots: 'LEATHER_BOOTS : 1 : dye:RED'
     Items:
     - 'DIAMOND_SWORD : 1'
-    - 'REDSTONE_TORCH_ON : 1 : name:&cSuicide!'
+    - 'REDSTONE_TORCH_ON : 1 : name:&cCreeper, aw man!'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
@@ -1027,9 +1027,8 @@ Kits:
     Potion-Effects:
     - 'SPEED : 999999 : 1'
     Description:
-    - '&bUse your torch to active'
-    - '&bThe tnt inside you and'
-    - '&bBlow up along nearby enemies'
+    - '&bUzyj pochodni aby'
+    - '&bWysadzic siebie i innych!'
   Phantom:
     Enabled: true
     Require-Permission: false
@@ -1042,7 +1041,7 @@ Kits:
       Boots: 'IRON_BOOTS : 1'
     Items:
     - 'DIAMOND_SWORD : 1'
-    - 'BOOK : 1 : name:&cFly!'
+    - 'BOOK : 1 : name:&cLatanie!!'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
@@ -1081,8 +1080,8 @@ Kits:
     - Phantom
     Potion-Effects: []
     Description:
-    - '&bUse your magical book to have the'
-    - '&bAbility of flying for few seconds'
+    - '&bPosiadasz umiejetnosc latania!'
+    - '&bUwazaj, masz tylko 5 sekund!'
   Timelord:
     Enabled: true
     Require-Permission: false
@@ -1095,7 +1094,7 @@ Kits:
       Boots: 'LEATHER_BOOTS : 1 : dye:BLACK'
     Items:
     - 'DIAMOND_SWORD : 1'
-    - 'WATCH : 1 : name:&cFreeze!'
+    - 'WATCH : 1 : name:&cMaszyna Czasu!'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
@@ -1134,9 +1133,10 @@ Kits:
     - Timelord
     Potion-Effects: []
     Description:
-    - '&bUse your magical clock to'
-    - '&bPrevent players around you'
-    - '&bFrom moving'
+    - '&bZatrzymaj czas!'
+    - '&bW ten sposób zamrozisz graczy'
+    - '&bdookola ciebie!'
+    - '&bPoczuj sie jak Thanos (?)'
   Fisherman:
     Enabled: true
     Require-Permission: false
@@ -1188,9 +1188,9 @@ Kits:
     - Fisherman
     Potion-Effects: []
     Description:
-    - '&bGet a fishing rod that'
-    - '&bAllows you to teleport caught'
-    - '&bEntities to you'
+    - '&bMarzyles zeby zostac wedkarzem?'
+    - '&bZamiast lowic ryby, bedziesz'
+    - '&blowil i przyciagal graczy! (XD)'
   Vanilla:
     Enabled: true
     Require-Permission: false
@@ -1241,9 +1241,8 @@ Kits:
     Abilities: []
     Potion-Effects: []
     Description:
-    - '&bGet some really good'
-    - '&bSplash potions! but instead of soup'
-    - '&bYou have instant heal 2 splash potions'
+    - '&bZnudzily ci sie zupki?'
+    - '&bOto zestaw z miksturami!'
   Burrower:
     Enabled: true
     Require-Permission: false
@@ -1256,7 +1255,7 @@ Kits:
       Boots: 'IRON_BOOTS : 1'
     Items:
     - 'DIAMOND_SWORD : 1'
-    - 'BRICK : 1 : name:&cPanic room'
+    - 'BRICK : 1 : name:&cZbuduj Pokój'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
@@ -1295,9 +1294,9 @@ Kits:
     - Burrower
     Potion-Effects: []
     Description:
-    - '&bGet a brick that will'
-    - '&bBuild a panic room for you'
-    - '&bYou will be safe in there'
+    - '&bMozesz szybko zbudowac pokój dookola ciebie
+    - '&bw powietrzu, aby byc bezpiecznym,'
+    - '&bi zregenerowac zycie!'
   Zen:
     Enabled: true
     Require-Permission: false
@@ -1310,7 +1309,7 @@ Kits:
       Boots: 'IRON_BOOTS : 1'
     Items:
     - 'DIAMOND_SWORD : 1'
-    - 'SLIME_BALL : 1 : name:&cTeleporter'
+    - 'SLIME_BALL : 1 : name:&cTeleportacja!'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
@@ -1349,9 +1348,8 @@ Kits:
     - Zen
     Potion-Effects: []
     Description:
-    - '&bGet a slime ball that will'
-    - '&bTeleport you to the nearest'
-    - '&bEnemy!'
+    - '&bPrzeteleportuj sie do
+    - '&bnajblizszego gracza!'
   Viking:
     Enabled: true
     Require-Permission: false
@@ -1402,8 +1400,8 @@ Kits:
     Abilities: []
     Potion-Effects: []
     Description:
-    - '&bA basic kit with a diamond axe'
-    - '&bInstead of a diamond sword'
+    - '&bKlasyczny zestaw,'
+    - '&bz mocną siekierą zamiast miecza.'
   Viper:
     Enabled: true
     Require-Permission: false
@@ -1455,9 +1453,8 @@ Kits:
     - Viper
     Potion-Effects: []
     Description:
-    - '&bHave a chance of biting'
-    - '&bYour enemy while fighting'
-    - '&bWhich gives them a poison effect'
+    - '&bPosiadasz szanse, ze twoj atak'
+    - '&bzatruje przeciwnika!'
   Monk:
     Enabled: true
     Require-Permission: false
@@ -1470,7 +1467,7 @@ Kits:
       Boots: 'IRON_BOOTS : 1'
     Items:
     - 'DIAMOND_SWORD : 1'
-    - 'BLAZE_ROD : 1 : name:&cRight click a player to use!'
+    - 'BLAZE_ROD : 1 : name:&cUzyj na graczu!'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
@@ -1509,9 +1506,9 @@ Kits:
     - Monk
     Potion-Effects: []
     Description:
-    - '&bGet a magical rod that will'
-    - '&bSwap the item in the target hand'
-    - '&bWith a random item in their hotbar!'
+    - '&bUzyj mocy która zamieni
+    - '&bprzedmiot który trzyma przeciwnik'
+    - '&bna zupelnie losową!'
   Dracula:
     Enabled: true
     Require-Permission: false
@@ -1523,8 +1520,8 @@ Kits:
       Leggings: 'LEATHER_LEGGINGS : 1 : dye:RED'
       Boots: 'IRON_BOOTS : 1'
     Items:
-    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:1 : name:&4Blood sucker'
-    - 'REDSTONE : 1 : name:&cRight click to activate'
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:1'
+    - 'REDSTONE : 1 : name:&cKliknij aby aktywowac'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
@@ -1563,11 +1560,9 @@ Kits:
     - Dracula
     Potion-Effects: []
     Description:
-    - '&bGet a sword that sucks the blood'
-    - '&bOf your enemies and have the ability'
-    - '&bTo suck enemies potion effects'
-    - '&bBut your blood can only handle'
-    - '&bThese effects for few sekund!'
+    - '&bUzyj mocy, aby przejac'
+    - '&befekty mikstur przeciwnika!'
+    - '&bDziala tylko na kilka sekund!'
   Hulk:
     Enabled: true
     Require-Permission: false
@@ -1580,7 +1575,7 @@ Kits:
       Boots: 'LEATHER_BOOTS : 1 : dye:GREEN'
     Items:
     - 'DIAMOND_SWORD : 1'
-    - 'PISTON_STICKY_BASE : 1 : name:&cSmash!'
+    - 'PISTON_STICKY_BASE : 1 : name:&cBum!'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
@@ -1619,9 +1614,8 @@ Kits:
     - Hulk
     Potion-Effects: []
     Description:
-    - '&bSmash the ground and release your'
-    - '&bAnger! Causing blocks and players'
-    - '&bTo fly away'
+    - '&bPokaz swoją wscieklosc!!'
+    - '&bWyrzucaj bloki i graczy w powietrze!'
   Cactus:
     Enabled: true
     Require-Permission: false
@@ -1672,7 +1666,7 @@ Kits:
     Abilities: []
     Potion-Effects: []
     Description:
-    - '&bGet thorns armor!'
+    - '&bTwoja zbroja zadaje innym obrazenia!'
   Rider:
     Enabled: true
     Require-Permission: false
@@ -1724,7 +1718,7 @@ Kits:
     - Rider
     Potion-Effects: []
     Description:
-    - '&bSummon a horse that you can ride!'
+    - '&bMozesz jezdzic na koniu!'
   Summoner:
     Enabled: true
     Require-Permission: false
@@ -1776,8 +1770,8 @@ Kits:
     - Summoner
     Potion-Effects: []
     Description:
-    - '&bSummon an iron golem that will'
-    - '&bAttack any one attacks him'
+    - '&bPrzywolaj zelaznego golema,'
+    - '&bktóry atakuje kazdego!'
   Souper:
     Enabled: true
     Require-Permission: false
@@ -1829,7 +1823,7 @@ Kits:
     - Souper
     Potion-Effects: []
     Description:
-    - '&bAutomatically refill your hotbar with available soup!'
+    - '&bWypelnij swój ekwipunek zupkami!'
   Bane:
     Enabled: true
     Require-Permission: false
@@ -1842,7 +1836,7 @@ Kits:
       Boots: 'IRON_BOOTS : 1'
     Items:
     - 'DIAMOND_SWORD : 1'
-    - 'GOLD_HOE : 1 : name:&5Curse'
+    - 'GOLD_HOE : 1 : name:&5Spowolnij!'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
@@ -1881,10 +1875,8 @@ Kits:
     - Bane
     Potion-Effects: []
     Description:
-    - '&bCurse someone to give them blindness,'
-    - '&bslowness, and weakness!'
-    - '&bbut you are unable to damage them'
-    - '&bmuch during this curse'
+    - '&bUzyj, aby nadac komus'
+    - '&bspowolnienie i oslepienie!'
   Sunder:
     Enabled: true
     Require-Permission: false
@@ -1897,7 +1889,7 @@ Kits:
       Boots: 'CHAINMAIL_BOOTS : 1'
     Items:
     - 'DIAMOND_SWORD : 1'
-    - 'BEACON : 1 : name:&4Swap'
+    - 'BEACON : 1 : name:&4Zamiana'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
@@ -1936,7 +1928,7 @@ Kits:
     - Sunder
     Potion-Effects: []
     Description:
-    - '&bSwap your health with the targets health!'
+    - '&bPodmien swoje zycie z kims innym!'
   Centaur:
     Enabled: true
     Require-Permission: false
@@ -1949,7 +1941,7 @@ Kits:
       Boots: 'CHAINMAIL_BOOTS : 1'
     Items:
     - 'DIAMOND_SWORD : 1'
-    - 'SULPHUR : 1 : name:&cStrike'
+    - 'SULPHUR : 1 : name:&cAtak!'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
@@ -1988,9 +1980,7 @@ Kits:
     - Centaur
     Potion-Effects: []
     Description:
-    - '&bDeal massive area damage that'
-    - '&beven damages you, if the targets'
-    - '&bsurvive though they get a regen effect'
+    - '&bZadaj ogromne obrazenia!'
   Blinker:
     Enabled: true
     Require-Permission: false
@@ -2003,7 +1993,7 @@ Kits:
       Boots: 'DIAMOND_BOOTS : 1 : enchant:PROTECTION_EXPLOSIONS:1'
     Items:
     - 'DIAMOND_SWORD : 1'
-    - 'BOW : 1 : enchant:ARROW_INFINITE:1 : name:&6Blink'
+    - 'BOW : 1 : enchant:ARROW_INFINITE:1 : name:&6Oslepiacz!'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
@@ -2042,10 +2032,8 @@ Kits:
     - Blinker
     Potion-Effects: []
     Description:
-    - '&bTeleport to targets that have been'
-    - '&bhit with your arrows and release a tnt'
-    - '&bupon them! The arrows themselves deal'
-    - '&ba very low damage though!'
+    - '&bTeleportuj gracza do twoich strzal'
+    - '&boraz go wysadź!'
   Pvp+:
     Enabled: true
     Require-Permission: false
