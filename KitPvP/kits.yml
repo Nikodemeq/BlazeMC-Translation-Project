@@ -818,7 +818,7 @@ Kits:
     Description:
     - '&bThrow snowballs at your target'
     - '&bTo put them in a web for'
-    - '&bFew seconds!'
+    - '&bFew sekund!'
   Prisoner:
     Enabled: true
     Require-Permission: false
@@ -1571,7 +1571,7 @@ Kits:
     - '&bOf your enemies and have the ability'
     - '&bTo suck enemies potion effects'
     - '&bBut your blood can only handle'
-    - '&bThese effects for few seconds!'
+    - '&bThese effects for few sekund!'
   Hulk:
     Enabled: true
     Require-Permission: false

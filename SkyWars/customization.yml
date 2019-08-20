@@ -51,10 +51,10 @@ Messages:
   Player-Leave-Arena: '&e%player% &7has left the game! &d(%players%/%maxplayers%)!'
   Player-Leave-Team: '&e%player% &7has left your team! &d(%teamsize%/%maxteamsize%)!'
   Countdown-Cancel: Countdown has been cancelled due to insufficient amount of players!
-  Arena-Starting-Countdown: The arena is starting in &b%seconds% &7seconds!
-  Arena-Starting-Countdown-Shortening: The countdown timer has been skipped to &b%seconds% &7seconds!
+  Arena-Starting-Countdown: The arena is starting in &b%seconds% &7sekund!
+  Arena-Starting-Countdown-Shortening: The countdown timer has been skipped to &b%seconds% &7sekund!
   Arena-Start: The game has begun!
-  Killstreak-Award: '&a&lYou have received the &e&l%killstreak% &a&lplayer killstreak
+  Killstreak-Award: '&a&lYou have received the &e&l%sekund!% &a&lplayer sekund!
     awards!'
   Leave-Arena-Error: Only the leader of the party can do this!
   Block-Break-Below-Team: '&cYou can not break the block below your team!'
@@ -73,7 +73,7 @@ Messages:
   Party-Join: '&e%player% &7has joined the party!'
   Party-Not-Invited: You are not invited to this party!
   Party-Invite-Send: '&e%player% &7has sent an invitation to &a%target%'
-  Party-Invite-Receive: You have been invited to &b%leader%&7 party! this invitation will expire in &d%seconds% &7seconds!
+  Party-Invite-Receive: You have been invited to &b%leader%&7 party! this invitation will expire in &d%seconds% &7sekund!
   Party-Invitation-Expire: Party invitation has expired!
   Party-Player-Kick: You have been kicked!
   Party-Player-Kick-Alert: '&e%leader% &7has kicked &c%player%'
@@ -81,7 +81,7 @@ Messages:
   Invalid-Arena: Invalid arena.
   Spectator-Tip: As a spectator, you can left click air or right click a block to access the &a&nspectator gui!
   Player-Move: You moved! Task &ccancelled!
-  Player-Movement-Disabled: Do not move for &d%seconds% &7seconds!
+  Player-Movement-Disabled: Do not move for &d%seconds% &7sekund!
   Arrow-Hit: '&e%player% &7is now on &c%health% %heart%&e!'
   Item-Owned: '&cYou have already purchased this item!'
   Reload-Kick: Plugin has been reloaded! due to that you have been kicked
@@ -191,7 +191,7 @@ TitleManager:
   Start: '&cGame has begun!'
   Finish: '&aCongratulations!'
   Player-Spectate: '&cYou are now spectating!'
-  Killstreak: '&cYou have a killstreak of &b%killstreak%'
+  Killstreak: '&cYou have a sekund! of &b%sekund!%'
 Lores:
   Description: '&eDescription:'
   Rarity: '&eRarity: %rarity%'

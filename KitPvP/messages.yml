@@ -4,7 +4,7 @@ Scoreboard:
   content:
   - '&6&m-----------'
   - '&6Statystyki'
-  - '&eSeria Zabójstw: &f%killstreak%'
+  - '&eSeria Zabójstw: &f%sekund!%'
   - '&eZabójstwa: &f%kills%'
   - '&eSmierci: &f%deaths%'
   - '&eMonety: &f%coins%'
@@ -46,9 +46,9 @@ Messages:
   Map-Deleted-Send-To-Another-Map: Mapa zostala skasowana! Przeniesiono cie do wolnej mapy.
   Map-Deleted-Kick: Nie ma zadnych wolnych map!
   Player-Receive-KitUnlocker: Otrzymales &d%amount% &7Skrzynki!
-  Player-Leave: You have left the game!
-  Map-Switch: The map has been switched to &d%map%
-  Map-Switch-Count-Down: The map will switch to the next one after &b%time% &7seconds!
+  Player-Leave: Powrociles do lobby!
+  Map-Switch: Mapa zmieniona na &d%map%
+  Map-Switch-Count-Down: Mapa zmieni sie za &b%time% &7sekund!
   Player-Already-In-Map: You are already in this map!
   Player-Earn-Exp: '&d+%exp% Exp'
   Player-Kill: You have contributed in &6%percentage%% &7of the damage dealt to &e%player% &7and received &b%coins% &7Monet!
@@ -67,14 +67,14 @@ Messages:
   Player-Rank-Up: '&aCongratulations! &7you have ranked up to the rank &b%rank%'
   Player-Rank-Up-Public-Message: '&a%player% &7has ranked up to a &b%rank%'
   Player-Derank-Public-Message: '&a%player% &7has been deranked to &c%rank%'
-  Player-Use-Ability: You have used your ability!
+  Player-Use-Ability: You have used your umiejetnosci!
   Still-On-Cooldown: You have to wait &d%time% &7seconds until you can use your ability again!
   Use-Ability-Deny: You can only use your ability on people who selected a kit!
   Prisoner-No-Space: There is not enough space above the target!
   Must-Have-Selected-Kit: You dont have a kit selected to do that!
   Player-Reset-Kit: You have unselected the kit &d%kit%
-  Player-Get-Killstreak-Self-Message: You have got a killstreak of &d%kills% &7zabójstw!
-  Player-Get-Killstreak-Announcement: '&b%player% &7has gotten a killstreak of &d%kills%
+  Player-Get-Killstreak-Self-Message: You have got a sekund! of &d%kills% &7zabójstw!
+  Player-Get-Killstreak-Announcement: '&b%player% &7has gotten a sekund! of &d%kills%
     &7zabójstw!'
   Phantom-Fly-Time-Left: You have &d%seconds% &7seconds left until your flight ends
   Phantom-Not-Hacking: '&d%player%''s &7is not flying hacking! its a part of their
@@ -82,7 +82,7 @@ Messages:
   Burrower-No-Space: You dont have enough space above you!
   Zen-No-Players-Found: Couldn't find any available players to teleport to!
   Dracula-Suck-Warning: '&cYour potion effects have been sucked by a dracula! They
-    will be returned in &e%seconds% &csecond!'
+    will be returned in &e%seconds% &csekund!'
   Dracula-Receive-Effect: '&aYou have received the &e&n%effect% &aeffect!'
   No-Inventory-Space: You don't have enough space in your inventory!
   Load-Stats-Failure-MySql: You have been kicked out of the server due to a failure in loading your stats because the mysql connection is null!
@@ -90,7 +90,7 @@ Messages:
   No-Permission-For-Kit: You dont have permission for this kit!
   Player-Not-Found: Couldn't find a player with that name!
   Kit-Already-Unlocked: '&cYou already have this kit unlocked!'
-  Movement-Not-Allowed: Do not move for &d%seconds% &7seconds!
+  Movement-Not-Allowed: Do not move for &d%seconds% &7sekund!
   Movement-Occur: You moved! Task &ccancelled
   Spectator-Mode-Not-Supported: '&cSpectator mode is not supported on this server
     minecraft version!'
@@ -102,7 +102,7 @@ Messages:
   No-Available-Spawnpoint: There is no available spawnpoint for this map!
   Map-Disabled: The map you are trying to join is disabled!
   Ability-Use-Deny: '&cYou can not use your ability here!'
-  Tournament-Countdown: '&6&lA tournament is about to begin in %seconds% seconds!'
+  Tournament-Countdown: '&6&lA tournament is about to begin in %seconds% sekund!'
   Tournament-Cancel-Due-To-Players: '&c&lTournament has been cancelled due to the
     low amount of players!'
   Tournament-Cancel-Due-To-Maps: '&c&lTournament has been cancelled because there
@@ -111,17 +111,17 @@ Messages:
     remain!'
   Tournament-Player-Win: '&a&l%player% HAS WON THE TOURNAMENT!'
   Tournament-Start: '&b&lThe tournament has started in the map %map%!'
-  Grace-Warning: '&7Grace period is ending in &b%seconds% &7seconds!'
+  Grace-Warning: '&7Grace period is ending in &b%seconds% &7sekund!'
   Grace-End: '&c&lGrace period ended! Kill your opponents to win!'
-  Tournament-End-Warning: '&6Tournament is ending in &B%seconds% &6seconds!'
+  Tournament-End-Warning: '&6Tournament is ending in &B%seconds% &6sekund!'
   Tournament-Player-Eliminated: '&6%player% has been eliminated! &b%remaining% &7player(s)
     remain!'
   No-Upgrades: You do not have any upgrades available
-  Cooldown-Remove: You no longer have a cooldown on your ability!
+  Cooldown-Remove: You no longer have a cooldown on your umiejetnosci!
   Team-Color-Notification: You are on the %team% team!
-  Challenge-End-Warning: '&6The challenge is ending in &B%seconds% &6seconds!'
+  Challenge-End-Warning: '&6The challenge is ending in &B%seconds% &6sekund!'
   Challenge-Player-Killed: '&cYou have &a%lives% &clive(s) left! &aYou are protected
-    for the next %seconds% seconds!'
+    for the next %seconds% sekund!'
   Challenge-Player-Eliminated: '%player% &bhas been eliminated! (%teamsize%&6/&b%maxteamsize%)'
   Challenge-Player-Leave: '%player% &bhas left the challenge! (%teamsize%&6/&b%maxteamsize%)'
   Challenge-Player-Win: '&a&lCongratulations! you have won the challenge'
