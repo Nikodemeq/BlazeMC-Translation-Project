@@ -3,24 +3,24 @@ Scoreboard:
   title: '&e&l&nBlazeMC&r &e&l7NKitPvP'
   content:
   - '&6&m-----------'
-  - '&6Stats'
-  - '&eKillstreak: &f%killstreak%'
-  - '&eKills: &f%kills%'
-  - '&eDeaths: &f%deaths%'
-  - '&eCoins: &f%coins%'
+  - '&6Statystyki'
+  - '&eSeria Zabójstw: &f%killstreak%'
+  - '&eZabójstwa: &f%kills%'
+  - '&eSmierci: &f%deaths%'
+  - '&eMonety: &f%coins%'
   - ' '
   - '&2Ranking'
-  - '&aRank: &f%player_rank%'
+  - '&aRanga: &f%player_rank%'
   - '&aExp: &f%player_exp%/%player_next_rank_exp%'
   - ' '
-  - '&dMap: &f%map%'
-  - '&dKit: &f%selected_kit%'
+  - '&dMapka: &f%map%'
+  - '&dZestaw: &f%selected_kit%'
   - '&6&m-----------'
-  challenge-title: Challenge
-  map: Challenge
-  players: Players
-  team1: Team 1
-  team2: Team 2
+  challenge-title: Wyzwanie
+  map: Wyzwanie
+  players: Graczy
+  team1: Druzyna 1
+  team2: Druzyna 2
 Inventories:
   Kits: '&9Kits &8Middle click to Reorder'
   Selling: '&cAre you sure about selling?'
