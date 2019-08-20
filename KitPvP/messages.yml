@@ -67,76 +67,66 @@ Messages:
   Player-Rank-Up: '&aRanga w Górę! &7Awansowales do &b%rank%'
   Player-Rank-Up-Public-Message: '&a%player% &7has ranked up to a &b%rank%'
   Player-Derank-Public-Message: '&a%player% &7has been deranked to &c%rank%'
-  Player-Use-Ability: You have used your umiejetnosci!
-  Still-On-Cooldown: You have to wait &d%time% &7seconds until you can use your ability again!
-  Use-Ability-Deny: You can only use your ability on people who selected a kit!
-  Prisoner-No-Space: There is not enough space above the target!
-  Must-Have-Selected-Kit: You dont have a kit selected to do that!
-  Player-Reset-Kit: You have unselected the kit &d%kit%
-  Player-Get-Killstreak-Self-Message: You have got a sekund! of &d%kills% &7zabójstw!
-  Player-Get-Killstreak-Announcement: '&b%player% &7has gotten a sekund! of &d%kills%
-    &7zabójstw!'
-  Phantom-Fly-Time-Left: You have &d%seconds% &7seconds left until your flight ends
-  Phantom-Not-Hacking: '&d%player%''s &7is not flying hacking! its a part of their
-    kit!'
-  Burrower-No-Space: You dont have enough space above you!
-  Zen-No-Players-Found: Couldn't find any available players to teleport to!
-  Dracula-Suck-Warning: '&cYour potion effects have been sucked by a dracula! They
-    will be returned in &e%seconds% &csekund!'
-  Dracula-Receive-Effect: '&aYou have received the &e&n%effect% &aeffect!'
-  No-Inventory-Space: You don't have enough space in your inventory!
+  Player-Use-Ability: Uzyles umiejetnosci!
+  Still-On-Cooldown: Poczekaj &d%time% &7sekund aby tego uzyc!
+  Use-Ability-Deny: Nie mozesz uzyc umiejetnosci na komus kto nie wybral zestawu!
+  Prisoner-No-Space: Nie ma miejsca nad tym graczem!
+  Must-Have-Selected-Kit: Nie wybrales zestawu!
+  Player-Reset-Kit: Anulowales zestaw &d%kit%
+  Player-Get-Killstreak-Self-Message: &aKillstreak! &d%kills% &7zabójstw!
+  Player-Get-Killstreak-Announcement: '&b%player% &7posiada setre &d%kills% &7zabójstw!'
+  Phantom-Fly-Time-Left: Za &d%seconds% &7skonczy sie twoja moc latania!
+  Phantom-Not-Hacking: '&d%player%''s &7aktywowal moc latania!'
+  Burrower-No-Space: Nie ma miejsca nad toba!
+  Zen-No-Players-Found: Nie ma w poblizu graczy!
+  Dracula-Suck-Warning: '&cDracula zabrala twoje efekty! Dostaniesz je za &e%seconds% &csekund!'
+  Dracula-Receive-Effect: '&aOtrzymales efekt &e&n%effect%&a!'
+  No-Inventory-Space: Nie masz miejsca w ekwipunku
   Load-Stats-Failure-MySql: You have been kicked out of the server due to a failure in loading your stats because the mysql connection is null!
-  Kit-Disabled: This kit has been disabled!
-  No-Permission-For-Kit: You dont have permission for this kit!
-  Player-Not-Found: Couldn't find a player with that name!
-  Kit-Already-Unlocked: '&cYou already have this kit unlocked!'
-  Movement-Not-Allowed: Do not move for &d%seconds% &7sekund!
-  Movement-Occur: You moved! Task &ccancelled
-  Spectator-Mode-Not-Supported: '&cSpectator mode is not supported on this server
-    minecraft version!'
-  Spectator-Mode-Enable: You have &aentered &7spectator mode!
-  Spectator-Mode-Disable: You have &cleft &7spectator mode!
-  Already-Selected-Kit: You have already selected a kit!
-  Unknown-Kit: Could not find a kit with that name!
-  Kit-Select-Deny: You do not own this kit!
-  No-Available-Spawnpoint: There is no available spawnpoint for this map!
-  Map-Disabled: The map you are trying to join is disabled!
-  Ability-Use-Deny: '&cYou can not use your ability here!'
-  Tournament-Countdown: '&6&lA tournament is about to begin in %seconds% sekund!'
-  Tournament-Cancel-Due-To-Players: '&c&lTournament has been cancelled due to the
-    low amount of players!'
-  Tournament-Cancel-Due-To-Maps: '&c&lTournament has been cancelled because there
-    is no available maps!'
-  Tournament-Player-Leave: '&c%player% &ehas left the tournament! &b%remaining% &eplayers
-    remain!'
-  Tournament-Player-Win: '&a&l%player% HAS WON THE TOURNAMENT!'
-  Tournament-Start: '&b&lThe tournament has started in the map %map%!'
-  Grace-Warning: '&7Grace period is ending in &b%seconds% &7sekund!'
-  Grace-End: '&c&lGrace period ended! Kill your opponents to win!'
-  Tournament-End-Warning: '&6Tournament is ending in &B%seconds% &6sekund!'
-  Tournament-Player-Eliminated: '&6%player% has been eliminated! &b%remaining% &7player(s)
-    remain!'
-  No-Upgrades: You do not have any upgrades available
-  Cooldown-Remove: You no longer have a cooldown on your umiejetnosci!
-  Team-Color-Notification: You are on the %team% team!
-  Challenge-End-Warning: '&6The challenge is ending in &B%seconds% &6sekund!'
-  Challenge-Player-Killed: '&cYou have &a%lives% &clive(s) left! &aYou are protected
-    for the next %seconds% sekund!'
-  Challenge-Player-Eliminated: '%player% &bhas been eliminated! (%teamsize%&6/&b%maxteamsize%)'
-  Challenge-Player-Leave: '%player% &bhas left the challenge! (%teamsize%&6/&b%maxteamsize%)'
-  Challenge-Player-Win: '&a&lCongratulations! you have won the challenge'
-  Deaathsreak-Receive: '&e%player% &cis now receiving a buff for his deathstreak of
-    &6%deathstreak% &cdeaths!'
-  Deathstreak-End: '&e%player% &chas ended his deathstreak and lost his buff!'
-  Bane-Curse: '&cYou have been cursed by &b%player%!'
-  Sunder-Swap: '&cYour health has been swapped by &b%player%!'
-  Centaur-Strike: '&cYou have been crushed by &b%player%!'
-  Player-Blink: '&b%player% &chas blinked to you!'
-  Trail-Select: 'You have selected the trail: %trail%'
+  Kit-Disabled: Ten zestaw jest wylaczony!
+  No-Permission-For-Kit: Ten zestaw jest tylko dla VIP!
+  Player-Not-Found: Nie ma takiego gracza!
+  Kit-Already-Unlocked: '&cJuz posiadasz ten zestaw!'
+  Movement-Not-Allowed: Nie ruszaj sie przez &d%seconds% &7sekund!
+  Movement-Occur: Poruszyles sie! Teleportacja &canulowana
+  Spectator-Mode-Not-Supported: '&c???!'
+  Spectator-Mode-Enable: Tryb obserwatora &aktywowany!
+  Spectator-Mode-Disable: Tryb obserwatora &cwylaczony!
+  Already-Selected-Kit: Juz wybrales ten zestaw!
+  Unknown-Kit: Nie ma takiego zestawu!
+  Kit-Select-Deny: Nie posiadasz tego zestawu!
+  No-Available-Spawnpoint: Ta mapa wymaga konfiguracji!
+  Map-Disabled: Mapa jest w trakcie prac technicznych!
+  Ability-Use-Deny: '&cNie mozesz uzyc umiejetnosci w tym miejscu!'
+  Tournament-Countdown: '&6Turniej rozpoczyna sie za %seconds% sekund!'
+  Tournament-Cancel-Due-To-Players: '&cTurniej zostal anulowany, zbyt malo uczestników!'
+  Tournament-Cancel-Due-To-Maps: '&cTurniej anulowany, z powodu braku wolnych map!'
+  Tournament-Player-Leave: '&c%player% &eopuscil turniej! &b%remaining% &egraczy pozostalo!'
+  Tournament-Player-Win: '&a&l%player% WYGRAL TURNIEJ! Gratulacje!'
+  Tournament-Start: '&bTurniej rozpoczal sie na mapie %map%!'
+  Grace-Warning: '&7PvP zostanie wlaczone za &b%seconds% &7sekund!'
+  Grace-End: '&cPvP wlaczone! Walka!'
+  Tournament-End-Warning: '&6Turniej konczy sie za &b%seconds% &6sekund!'
+  Tournament-Player-Eliminated: '&6%player% wyeliminowany! &b%remaining% &7graczy przy zyciu!'
+  No-Upgrades: Nie posiadasz zadnych dostepnych ulepszen!
+  Cooldown-Remove: Juz mozesz uzyc swojej umiejetnosci!
+  Team-Color-Notification: Jestes w druzynie %team%!
+  Challenge-End-Warning: '&6Wyzwanie konczy sie za &b%seconds% &6sekund!'
+  Challenge-Player-Killed: '&cZostalo ci &a%lives% &cżyć! &aPosiadasz ochrone na %seconds% sekund!'
+  Challenge-Player-Eliminated: '%player% &bzostal wyeliminowany! (%teamsize%&6/&b%maxteamsize%)'
+  Challenge-Player-Leave: '%player% &bopuscil wyzwanie! (%teamsize%&6/&b%maxteamsize%)'
+  Challenge-Player-Win: '&a&lGratulacje! Wygrales wyzwanie!'
+  Deaathsreak-Receive: '&e%player% &cotrzymuje efekty za serie &6%deathstreak% &csmierci!'
+  Deathstreak-End: '&e%player% &cw koncu kogos zabil i stracil efekt serii smierci!'
+  Bane-Curse: '&cZostales nawiedzony przez &b%player%!'
+  Sunder-Swap: '&cTwoje zycie zostalo zamienione z &b%player%!'
+  Centaur-Strike: '&cZostales zmiażdżony przez &b%player%!'
+  Player-Blink: '&b%player% &coslepil cie!'
+  Trail-Select: 'Wybrales efekty: %trail%'
 Player-Death-By-Player:
 - '&c%player% &7zostal zabity przez &a%killer%&7!'
-Player-Death-By-Falldamage: '&c%player% &7fell to his death!'
-Player-Death-By-Lava: '&c%player% &7thought he can swim in lava!'
-Player-Death-By-Fire: '&c%player% &7burned to death!'
-Player-Death-By-Explosion: '&c%player% &7was exploded into million pieces!'
-Player-Death-By-Unknown: '&c%player% &7has been killed by an &bUnknown Object!'
+Player-Death-By-Falldamage: '&c%player% &7spadl z wysokosci!'
+Player-Death-By-Lava: '&c%player% &7plywal w lawie!'
+Player-Death-By-Fire: '&c%player% &7spalil sie na wegiel!'
+Player-Death-By-Explosion: '&c%player% &7postanowil byc creeperem i sie wysadzic!'
+Player-Death-By-Unknown: '&c%player% &7zostal zabity przez &0&l&k|||&4&l &bHEROBRINE! &0&l&k|||'
