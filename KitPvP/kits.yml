@@ -62,7 +62,7 @@ Kits:
     Abilities: []
     Potion-Effects: []
     Description:
-    - '&bA very basic but strong kit!'
+    - '&bTwój pierwszy zestaw, otrzymany w prezencie!'
   Archer:
     Enabled: true
     Require-Permission: false
@@ -2100,8 +2100,8 @@ Kits:
     Abilities: []
     Potion-Effects: []
     Description:
-    - '&bA very basic but strong kit!'
-    - '&a+ Increased sword sharpness'
+    - '&bTwój pierwszy zestaw, otrzymany w prezencie!'
+    - '&a+ Sharpness 2 do miecza'
     Upgraded-Version-Of: Pvp
   Pvp++:
     Enabled: true
@@ -2109,8 +2109,8 @@ Kits:
     Item: DIAMOND_SWORD
     Price: 1000
     Armor:
-      Helmet: 'IRON_HELMET : 1 : enchant:PROTECTION_ENVIRONMENTAL:2'
-      Chestplate: 'IRON_CHESTPLATE : 1'
+      Helmet: 'IRON_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:2'
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
@@ -2153,7 +2153,7 @@ Kits:
     Abilities: []
     Potion-Effects: []
     Description:
-    - '&bA very basic but strong kit!'
-    - '&a+ Increased sword sharpness'
-    - '&a+ Increased armor protection'
+    - '&bTwój pierwszy zestaw, otrzymany w prezencie!'
+    - '&a+ Sharpness 2 do miecza'
+    - '&a+ Protection 2 do napierśnika'
     Upgraded-Version-Of: Pvp+
