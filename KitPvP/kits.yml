@@ -113,8 +113,8 @@ Kits:
     Abilities: []
     Potion-Effects: []
     Description:
-    - '&bStart with a sword and a strong bow'
-    - '&band a stack of arrows'
+    - '&bTen zestaw posiada lekki miecz,'
+    - '&boraz mocny łuk i strzały!'
   Ninja:
     Enabled: true
     Require-Permission: false
@@ -166,9 +166,9 @@ Kits:
     Potion-Effects:
     - 'SPEED : 999999 : 2'
     Description:
-    - '&bStart with a diamond sword'
-    - '&band week armor'
-    - '&bAnd infinite speed 2 potion'
+    - '&bDiamentowy miecz,'
+    - '&boraz lekka zbroja.'
+    - '&bNinja otrzymuje super szybkosc II!'
   Tank:
     Enabled: true
     Require-Permission: false
@@ -220,9 +220,9 @@ Kits:
     Potion-Effects:
     - 'SLOW : 999999 : 2'
     Description:
-    - '&bStart with diamond armor'
-    - '&band an iron sword'
-    - '&bbut a slowness effect'
+    - '&bZelazny miecz, lecz'
+    - '&bciezka diamentowa zbroja,'
+    - '&bsprawia ze jestes wolniejszy!'
   Pyro:
     Enabled: true
     Require-Permission: false
@@ -273,9 +273,9 @@ Kits:
     Abilities: []
     Potion-Effects: []
     Description:
-    - '&bStart with a fiery sword'
-    - '&band a fiery bow'
-    - '&band fire protection armor'
+    - '&bMiecz, oraz luk,'
+    - '&bpodpalajace przeciwnikóW!'
+    - '&bZbroja czyni cie odpornym na ogien.'
   Assassin:
     Enabled: true
     Require-Permission: false
@@ -326,8 +326,9 @@ Kits:
     Abilities: []
     Potion-Effects: []
     Description:
-    - '&bGet an&b extra almost insta kill sword'
-    - '&bthat only has 1 use per life'
+    - '&bPosiada dodatkowy miecz, ktory'
+    - '&bzabija za pierwszym uderzeniem.'
+    - '&bOstroznie! Miecz ma tylko 1 uzycie!'
   Zombie:
     Enabled: true
     Require-Permission: false
@@ -379,7 +380,7 @@ Kits:
     Potion-Effects:
     - 'HEALTH_BOOST : 999999 : 5'
     Description:
-    - '&bStart with extra bar of hearts'
+    - '&bPosiadasz dodatkowe paski zycia!'
   Kangaroo:
     Enabled: true
     Require-Permission: false
@@ -392,7 +393,7 @@ Kits:
       Boots: 'DIAMOND_BOOTS : 1 : enchant:PROTECTION_FALL:5'
     Items:
     - 'DIAMOND_SWORD : 1'
-    - 'FIREWORK : 1 : name:&cKangaroo rocket'
+    - 'FIREWORK : 1 : name:&cRakieta Wystrzalu'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
@@ -431,11 +432,11 @@ Kits:
     - Kangaroo
     Potion-Effects: []
     Description:
-    - '&bGet a rocket that will launch you'
-    - '&bin the way you are looking!'
-    - '&bAnd its almost anti fall kit!'
-    - '&bTip: Shifting will boost you'
-    - '&bForward!'
+    - '&bSpecjalna rakieta,'
+    - '&bktóra wystrzeli cie w'
+    - '&bkierunku którym patrzysz!'
+    - '&bCiekawostka: Trzymajac shift,'
+    - '&bzostaniesz wystrzelony do przodu!'
   Hades:
     Enabled: true
     Require-Permission: false
@@ -448,7 +449,7 @@ Kits:
       Boots: 'LEATHER_BOOTS : 1'
     Items:
     - 'DIAMOND_SWORD : 1'
-    - 'BONE : 1 : name:&cSummoning bone'
+    - 'BONE : 1 : name:&cKosc Hadesa'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
@@ -487,8 +488,8 @@ Kits:
     - Hades
     Potion-Effects: []
     Description:
-    - '&bGet a bone that will summon'
-    - '&bDogs that will fight for you!'
+    - '&bPrzywolaj psy, które'
+    - '&bpomoga ci w walce!'
   Switcher:
     Enabled: true
     Require-Permission: false
@@ -501,7 +502,7 @@ Kits:
       Boots: 'IRON_BOOTS : 1'
     Items:
     - 'DIAMOND_SWORD : 1'
-    - 'SNOW_BALL : 16 : name:&cSwitch!'
+    - 'SNOW_BALL : 16 : name:&cZamiana!'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
@@ -540,8 +541,8 @@ Kits:
     - Switcher
     Potion-Effects: []
     Description:
-    - '&bThrow a snowball at someone'
-    - '&bTo swap your locations!'
+    - '&bRrzucaj sniezką która,'
+    - '&bzamieni twoja lokalizacje z innym graczem!'
   Thor:
     Enabled: true
     Require-Permission: false
@@ -554,7 +555,7 @@ Kits:
       Boots: 'IRON_BOOTS : 1'
     Items:
     - 'DIAMOND_SWORD : 1'
-    - 'WOOD_AXE : 1 : name:&cAlmighty axe!'
+    - 'WOOD_AXE : 1 : name:&cMłot thora!'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
@@ -593,8 +594,8 @@ Kits:
     - Thor
     Potion-Effects: []
     Description:
-    - '&bGet an axe that will'
-    - '&bStrike lightning on nearby enemies!'
+    - '&bOtrzymal młot którym,'
+    - '&bmozesz przywolac pioruny na przeciwnika!'
   Stomper:
     Enabled: true
     Require-Permission: false
@@ -646,14 +647,10 @@ Kits:
     - Stomper
     Potion-Effects: []
     Description:
-    - '&bJump on someone from a height'
-    - '&bTo deal some damage!'
-    - '&bThe higher you are the more'
-    - '&bDamage you will deal'
-    - '&bBut if the target is shifting'
-    - '&bYou wont deal as much damage!'
-    - '&bYou also have a MAX fall damage'
-    - '&bSo you wont die from falling'
+    - '&bSkocz na kogos z wysokosci,'
+    - '&bAby zadac mu obrazenia!'
+    - '&bIm wyzej skoczysz, tym wiecej'
+    - '&bobrazen zadajesz!'
   Ghost:
     Enabled: true
     Require-Permission: false
@@ -705,9 +702,9 @@ Kits:
     Potion-Effects:
     - 'INVISIBILITY : 999999 : 1'
     Description:
-    - '&bBe invisible with a potion effect'
-    - '&bUnfortunately, you wont have armor'
-    - '&bTo be fully invisible!'
+    - '&bJestes niewidzialny!'
+    - '&bNie posiadasz zbroi,'
+    - '&bmusisz atakowac z ukrycia!'
   Miner:
     Enabled: true
     Require-Permission: false
@@ -761,10 +758,9 @@ Kits:
     - 'SPEED : 999999 : 1'
     - 'NIGHT_VISION : 999999 : 1'
     Description:
-    - '&bMining for hours has really taught'
-    - '&bYou to be strong and fast and can see'
-    - '&bIn darkness'
-    - '&bToo bad you actually never found any goods'
+    - '&bPosiadasz dodatkowe efekty!'
+    - '&bTakie jak: Sila I,'
+    - 'oraz szybkosc!'
   Spiderman:
     Enabled: true
     Require-Permission: false
@@ -816,9 +812,8 @@ Kits:
     - Spiderman
     Potion-Effects: []
     Description:
-    - '&bThrow snowballs at your target'
-    - '&bTo put them in a web for'
-    - '&bFew sekund!'
+    - '&bUzyj umiejetnosci, aby'
+    - '&brzucic pajeczyny na kogos!'
   Prisoner:
     Enabled: true
     Require-Permission: false
@@ -831,7 +826,7 @@ Kits:
       Boots: 'IRON_BOOTS : 1'
     Items:
     - 'DIAMOND_SWORD : 1'
-    - 'DISPENSER : 1 : name:&4Prison'
+    - 'DISPENSER : 1 : name:&4Rzuc aby uwiezic!'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
     - 'MUSHROOM_SOUP : 1'
@@ -870,8 +865,9 @@ Kits:
     - Prisoner
     Potion-Effects: []
     Description:
-    - '&bShoot a snowball and send'
-    - '&bThose murderers to the LAVA jail'
+    - '&bUzyj umiejetnosci,'
+    - '&baby zamknac kogos w wiezieniu...'
+    - '&bz lawą w srodku!'
   Climber:
     Enabled: true
     Require-Permission: false
@@ -923,8 +919,8 @@ Kits:
     - Climber
     Potion-Effects: []
     Description:
-    - '&bUse your bow to summon'
-    - '&bA magical chicken that will carry you'
+    - '&bUzyj magicznego luku, aby'
+    - '&bprzywolac kurcazka!'
   Dragon:
     Enabled: true
     Require-Permission: false
