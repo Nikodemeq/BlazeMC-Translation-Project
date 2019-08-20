@@ -34,73 +34,73 @@ Achievements:
       executed-command: sw coins add %player% 10000
   wins:
     '1':
-      description: Win 1 game(s)!
+      description: Wygraj 1 game(s)!
       prize-description: Earn 100 coins!
       executed-command: sw coins add %player% 100
     '5':
-      description: Win 5 game(s)!
+      description: Wygraj 5 game(s)!
       prize-description: Earn 500 coins!
       executed-command: sw coins add %player% 500
     '10':
-      description: Win 10 game(s)!
+      description: Wygraj 10 game(s)!
       prize-description: Earn 1000 coins!
       executed-command: sw coins add %player% 1000
     '20':
-      description: Win 20 game(s)!
+      description: Wygraj 20 game(s)!
       prize-description: Earn 2000 coins!
       executed-command: sw coins add %player% 2000
     '50':
-      description: Win 50 game(s)!
+      description: Wygraj 50 game(s)!
       prize-description: Earn 5000 coins!
       executed-command: sw coins add %player% 5000
     '100':
-      description: Win 100 game(s)!
+      description: Wygraj 100 game(s)!
       prize-description: Earn 10000 coins!
       executed-command: sw coins add %player% 10000
   projectiles_launched:
     '50':
-      description: Launch 50 projectile!
+      description: Launch 50 strzal!
       prize-description: Earn 50 coins!
       executed-command: sw coins add %player% 50
     '100':
-      description: Launch 100 projectile!
+      description: Launch 100 strzal!
       prize-description: Earn 100 coins!
       executed-command: sw coins add %player% 100
     '500':
-      description: Launch 500 projectile!
+      description: Launch 500 strzal!
       prize-description: Earn 500 coins!
       executed-command: sw coins add %player% 500
     '1000':
-      description: Launch 1000 projectile!
+      description: Launch 1000 strzal!
       prize-description: Earn 1000 coins!
       executed-command: sw coins add %player% 1000
     '3000':
-      description: Launch 3000 projectile!
+      description: Launch 3000 strzal!
       prize-description: Earn 3000 coins!
       executed-command: sw coins add %player% 3000
   projectiles_hit:
     '25':
-      description: Hit 25 projectile!
+      description: Wystrzel 25 strzal!
       prize-description: Earn 50 coins!
       executed-command: sw coins add %player% 50
     '50':
-      description: Hit 50 projectile!
+      description: Wystrzel 50 strzal!
       prize-description: Earn 100 coins!
       executed-command: sw coins add %player% 100
     '100':
-      description: Hit 100 projectile!
+      description: Wystrzel 100 strzal!
       prize-description: Earn 200 coins!
       executed-command: sw coins add %player% 200
     '250':
-      description: Hit 250 projectile!
+      description: Wystrzel 250 strzal!
       prize-description: Earn 500 coins!
       executed-command: sw coins add %player% 500
     '500':
-      description: Hit 500 projectile!
+      description: Wystrzel 500 strzal!
       prize-description: Earn 1000 coins!
       executed-command: sw coins add %player% 1000
     '1000':
-      description: Hit 1000 projectile!
+      description: Wystrzel 1000 strzal!
       prize-description: Earn 2000 coins!
       executed-command: sw coins add %player% 2000
   player_rank:
