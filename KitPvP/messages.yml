@@ -73,7 +73,7 @@ Messages:
   Prisoner-No-Space: Nie ma miejsca nad tym graczem!
   Must-Have-Selected-Kit: Nie wybrales zestawu!
   Player-Reset-Kit: Anulowales zestaw &d%kit%
-  Player-Get-Killstreak-Self-Message: &aKillstreak! &d%kills% &7zabójstw!
+  Player-Get-Killstreak-Self-Message: '&aKillstreak! &d%kills% &7zabójstw!'
   Player-Get-Killstreak-Announcement: '&b%player% &7posiada setre &d%kills% &7zabójstw!'
   Phantom-Fly-Time-Left: Za &d%seconds% &7skonczy sie twoja moc latania!
   Phantom-Not-Hacking: '&d%player%''s &7aktywowal moc latania!'
