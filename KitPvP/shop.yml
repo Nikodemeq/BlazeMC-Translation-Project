@@ -1,39 +1,39 @@
 Shops:
   '&cList #1':
-    '10': Prisoner
-    '11': Burrower
-    '12': Dracula
-    '13': Kangaroo
-    '14': Switcher
-    '15': Dragon
+    '10': Wiezien
+    '11': Budowniczy
+    '12': Wampir
+    '13': Kangur
+    '14': Zmieniacz
+    '15': Smko
     '16': Spiderman
-    '19': Assassin
-    '20': Rider
-    '21': Miner
-    '22': Stomper
-    '23': Ghost
+    '19': Asasyn
+    '20': Jezdziec
+    '21': Gornik
+    '22': Skoczek
+    '23': Duch
     '24': Zombie
-    '25': Cactus
-    '28': Bane
-    '29': Summoner
-    '30': Tank
+    '25': Kaktus
+    '28': Zmora
+    '29': Przywolywacz
+    '30': Czolg
     '31': Hades
-    '32': Viking
-    '33': Blinker
+    '32': Wiking
+    '33': Oslepiacz
     '34': Thor
     '37': Zen
-    '38': Sunder
-    '39': Climber
-    '40': Monk
+    '38': Rozdzielacz
+    '39': Alpinista
+    '40': Mnich
     '41': Centaur
-    '42': Phantom
-    '43': Pyro
+    '42': Fantom
+    '43': Piroman
   '&cList #2':
-    '10': Suicidal
-    '11': Souper
+    '10': Creeper
+    '11': Kucharz
     '12': Ninja
-    '13': Archer
+    '13': Lucznik
     '14': Timelord
-    '15': Viper
-    '16': Fisherman
+    '15': Zmija
+    '16': Rybak
     '19': Hulk
