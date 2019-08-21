@@ -1402,7 +1402,7 @@ Kits:
     Description:
     - '&bKlasyczny zestaw,'
     - '&bz mocną siekierą zamiast miecza.'
-  Zmieniacz:
+  Zmija:
     Enabled: true
     Require-Permission: false
     Item: EYE_OF_ENDER
@@ -1506,7 +1506,7 @@ Kits:
     - Monk
     Potion-Effects: []
     Description:
-    - '&bUzyj mocy która zamieni
+    - '&bUzyj mocy która zamieni'
     - '&bprzedmiot który trzyma przeciwnik'
     - '&bna zupelnie losową!'
   Wampir:
