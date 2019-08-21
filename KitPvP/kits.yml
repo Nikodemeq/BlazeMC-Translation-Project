@@ -654,7 +654,7 @@ Kits:
   Duch:
     Enabled: true
     Require-Permission: false
-    Item: POTION:INVISIBILITY:false:false
+    Item: STICK
     Price: 400
     Armor:
       Helmet: ''
