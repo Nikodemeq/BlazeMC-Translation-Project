@@ -4,7 +4,7 @@ Scoreboard:
   content:
   - '&6&m-----------'
   - '&6Statystyki'
-  - '&eSeria Zabójstw: &f%sekund!%'
+  - '&eSeria Zabójstw: &f%killstreak%'
   - '&eZabójstwa: &f%kills%'
   - '&eSmierci: &f%deaths%'
   - '&eMonety: &f%coins%'
