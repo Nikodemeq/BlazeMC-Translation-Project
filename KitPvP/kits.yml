@@ -63,7 +63,7 @@ Kits:
     Potion-Effects: []
     Description:
     - '&bTwój pierwszy zestaw, otrzymany w prezencie!'
-  Archer:
+  Lucznik:
     Enabled: true
     Require-Permission: false
     Item: BOW
@@ -169,7 +169,7 @@ Kits:
     - '&bDiamentowy miecz,'
     - '&boraz lekka zbroja.'
     - '&bNinja otrzymuje super szybkosc II!'
-  Tank:
+  Czolg:
     Enabled: true
     Require-Permission: false
     Item: DIAMOND_CHESTPLATE
@@ -223,7 +223,7 @@ Kits:
     - '&bZelazny miecz, lecz'
     - '&bciezka diamentowa zbroja,'
     - '&bsprawia ze jestes wolniejszy!'
-  Pyro:
+  Piroman:
     Enabled: true
     Require-Permission: false
     Item: FLINT_AND_STEEL
@@ -276,7 +276,7 @@ Kits:
     - '&bMiecz, oraz luk,'
     - '&bpodpalajace przeciwnikóW!'
     - '&bZbroja czyni cie odpornym na ogien.'
-  Assassin:
+  Asasyn:
     Enabled: true
     Require-Permission: false
     Item: GOLD_SWORD
@@ -381,7 +381,7 @@ Kits:
     - 'HEALTH_BOOST : 999999 : 5'
     Description:
     - '&bPosiadasz dodatkowe paski zycia!'
-  Kangaroo:
+  Kangur:
     Enabled: true
     Require-Permission: false
     Item: FIREWORK
@@ -490,7 +490,7 @@ Kits:
     Description:
     - '&bPrzywolaj psy, które'
     - '&bpomoga ci w walce!'
-  Switcher:
+  Zmieniacz:
     Enabled: true
     Require-Permission: false
     Item: SNOW_BALL
@@ -596,7 +596,7 @@ Kits:
     Description:
     - '&bOtrzymal młot którym,'
     - '&bmozesz przywolac pioruny na przeciwnika!'
-  Stomper:
+  Skoczek:
     Enabled: true
     Require-Permission: false
     Item: FEATHER
@@ -651,7 +651,7 @@ Kits:
     - '&bAby zadac mu obrazenia!'
     - '&bIm wyzej skoczysz, tym wiecej'
     - '&bobrazen zadajesz!'
-  Ghost:
+  Duch:
     Enabled: true
     Require-Permission: false
     Item: POTION:INVISIBILITY:false:false
@@ -705,7 +705,7 @@ Kits:
     - '&bJestes niewidzialny!'
     - '&bNie posiadasz zbroi,'
     - '&bmusisz atakowac z ukrycia!'
-  Miner:
+  Gornik:
     Enabled: true
     Require-Permission: false
     Item: LEATHER_HELMET
@@ -814,7 +814,7 @@ Kits:
     Description:
     - '&bUzyj umiejetnosci, aby'
     - '&brzucic pajeczyny na kogos!'
-  Prisoner:
+  Wiezien:
     Enabled: true
     Require-Permission: false
     Item: LAVA_BUCKET
@@ -868,7 +868,7 @@ Kits:
     - '&bUzyj umiejetnosci,'
     - '&baby zamknac kogos w wiezieniu...'
     - '&bz lawą w srodku!'
-  Climber:
+  Alpinista:
     Enabled: true
     Require-Permission: false
     Item: TRIPWIRE_HOOK
@@ -921,7 +921,7 @@ Kits:
     Description:
     - '&bUzyj magicznego luku, aby'
     - '&bprzywolac kurcazka!'
-  Dragon:
+  Smok:
     Enabled: true
     Require-Permission: false
     Item: FIREBALL
@@ -975,7 +975,7 @@ Kits:
     Description:
     - '&bMozesz podpalac innych!'
     - '&bJestes tez odporny na ogien!'
-  Suicidal:
+  Creeper:
     Enabled: true
     Require-Permission: false
     Item: TNT
@@ -1029,7 +1029,7 @@ Kits:
     Description:
     - '&bUzyj pochodni aby'
     - '&bWysadzic siebie i innych!'
-  Phantom:
+  Fantom:
     Enabled: true
     Require-Permission: false
     Item: BOOK
@@ -1137,7 +1137,7 @@ Kits:
     - '&bW ten sposób zamrozisz graczy'
     - '&bdookola ciebie!'
     - '&bPoczuj sie jak Thanos (?)'
-  Fisherman:
+  Rybak:
     Enabled: true
     Require-Permission: false
     Item: FISHING_ROD
@@ -1191,7 +1191,7 @@ Kits:
     - '&bMarzyles zeby zostac wedkarzem?'
     - '&bZamiast lowic ryby, bedziesz'
     - '&blowil i przyciagal graczy! (XD)'
-  Vanilla:
+  Alchemik:
     Enabled: true
     Require-Permission: false
     Item: SPLASH_POTION:INSTANT_HEAL:false:true
@@ -1243,7 +1243,7 @@ Kits:
     Description:
     - '&bZnudzily ci sie zupki?'
     - '&bOto zestaw z miksturami!'
-  Burrower:
+  Budowniczy:
     Enabled: true
     Require-Permission: false
     Item: BRICK
@@ -1350,7 +1350,7 @@ Kits:
     Description:
     - '&bPrzeteleportuj sie do
     - '&bnajblizszego gracza!'
-  Viking:
+  Wiking:
     Enabled: true
     Require-Permission: false
     Item: DIAMOND_AXE
@@ -1402,7 +1402,7 @@ Kits:
     Description:
     - '&bKlasyczny zestaw,'
     - '&bz mocną siekierą zamiast miecza.'
-  Viper:
+  Zmieniacz:
     Enabled: true
     Require-Permission: false
     Item: EYE_OF_ENDER
@@ -1455,7 +1455,7 @@ Kits:
     Description:
     - '&bPosiadasz szanse, ze twoj atak'
     - '&bzatruje przeciwnika!'
-  Monk:
+  Mnich:
     Enabled: true
     Require-Permission: false
     Item: BLAZE_ROD
@@ -1509,7 +1509,7 @@ Kits:
     - '&bUzyj mocy która zamieni
     - '&bprzedmiot który trzyma przeciwnik'
     - '&bna zupelnie losową!'
-  Dracula:
+  Wampir:
     Enabled: true
     Require-Permission: false
     Item: REDSTONE
@@ -1616,7 +1616,7 @@ Kits:
     Description:
     - '&bPokaz swoją wscieklosc!!'
     - '&bWyrzucaj bloki i graczy w powietrze!'
-  Cactus:
+  Kaktus:
     Enabled: true
     Require-Permission: false
     Item: CACTUS
@@ -1667,7 +1667,7 @@ Kits:
     Potion-Effects: []
     Description:
     - '&bTwoja zbroja zadaje innym obrazenia!'
-  Rider:
+  Jezdziec:
     Enabled: true
     Require-Permission: false
     Item: DIAMOND_BARDING
@@ -1719,7 +1719,7 @@ Kits:
     Potion-Effects: []
     Description:
     - '&bMozesz jezdzic na koniu!'
-  Summoner:
+  Przywolywacz:
     Enabled: true
     Require-Permission: false
     Item: IRON_BLOCK
@@ -1772,7 +1772,7 @@ Kits:
     Description:
     - '&bPrzywolaj zelaznego golema,'
     - '&bktóry atakuje kazdego!'
-  Souper:
+  Kucharz:
     Enabled: true
     Require-Permission: false
     Item: CHEST
@@ -1824,7 +1824,7 @@ Kits:
     Potion-Effects: []
     Description:
     - '&bWypelnij swój ekwipunek zupkami!'
-  Bane:
+  Zmora:
     Enabled: true
     Require-Permission: false
     Item: GOLD_HOE
@@ -1877,7 +1877,7 @@ Kits:
     Description:
     - '&bUzyj, aby nadac komus'
     - '&bspowolnienie i oslepienie!'
-  Sunder:
+  Rozdzielacz:
     Enabled: true
     Require-Permission: false
     Item: BEACON
@@ -1981,7 +1981,7 @@ Kits:
     Potion-Effects: []
     Description:
     - '&bZadaj ogromne obrazenia!'
-  Blinker:
+  Oslepiacz:
     Enabled: true
     Require-Permission: false
     Item: GHAST_TEAR
