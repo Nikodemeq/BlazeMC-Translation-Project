@@ -1194,7 +1194,7 @@ Kits:
   Alchemik:
     Enabled: true
     Require-Permission: false
-    Item: SPLASH_POTION:INSTANT_HEAL:false:true
+    Item: POTION:16386
     Price: 200
     Armor:
       Helmet: 'IRON_HELMET : 1'
