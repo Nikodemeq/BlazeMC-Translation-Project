@@ -1348,7 +1348,7 @@ Kits:
     - Zen
     Potion-Effects: []
     Description:
-    - '&bPrzeteleportuj sie do
+    - '&bPrzeteleportuj sie do'
     - '&bnajblizszego gracza!'
   Wiking:
     Enabled: true
