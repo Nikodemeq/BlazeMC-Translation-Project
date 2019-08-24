@@ -813,7 +813,7 @@ Kits:
     Description:
     - '&cDrugi poziom ulepszania klasy Lucznik,'
     - '&aPosiada dodatkowo &6Diamentowy helm :o oraz ulepszenie klaty na ochrone 3 + Ulepszenie luku na moc 3 '
-      Upgraded-Version-Of: Lucznik+
+   Upgraded-Version-Of: Lucznik+
        Lucznik+++:
     Enabled: true
     Require-Permission: false
@@ -833,5 +833,5 @@ Kits:
     Description:
     - '&7Maxymalne Ulepszenie Klasy Lucznik ,'
     - '&cZ tymi przedmiotami staniesz sie &2Roobin Hoodem!'
-      Upgraded-Version-Of: Lucznik++
+    Upgraded-Version-Of: Lucznik++
 
