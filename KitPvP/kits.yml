@@ -756,7 +756,7 @@ Kits:
     - '&a+ Sharpness 2 do miecza'
     - '&a+ Protection 2 do napierśnika'
     Upgraded-Version-Of: Pvp+
-    Pvp+++:
+  Pvp+++:
       Require-Permission: false
     Item: DIAMOND_SWORD
     Price: 5000
@@ -774,7 +774,7 @@ Kits:
     - '&a+ Sharpness 3 do miecza'
     - '&a+ Protection 3 do napierśnika + Diamentowe Buty'
     Upgraded-Version-Of: Pvp++
-      Lucznik+:
+  Lucznik+:
     Enabled: true
     Require-Permission: false
     Item: BOW
@@ -793,8 +793,8 @@ Kits:
     Description:
     - '&7Ten zestaw posiada lekki miecz,'
     - '&7oraz mocny łuk i strzały!'
-      Upgraded-Version-Of: Lucznik
- Lucznik++:
+    Upgraded-Version-Of: Lucznik
+  Lucznik++:
     Enabled: true
     Require-Permission: false
     Item: BOW
@@ -813,25 +813,5 @@ Kits:
     Description:
     - '&cDrugi poziom ulepszania klasy Lucznik,'
     - '&aPosiada dodatkowo &6Diamentowy helm :o oraz ulepszenie klaty na ochrone 3 + Ulepszenie luku na moc 3 '
-   Upgraded-Version-Of: Lucznik+
-       Lucznik+++:
-    Enabled: true
-    Require-Permission: false
-    Item: BOW
-    Price: 7500
-    Armor:
-      Helmet: 'DIAMOND_HELMET : 1'
-      Chestplate: 'IRON_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:2'
-      Leggings: 'IRON_LEGGINGS : 1'
-      Boots: 'IRON_BOOTS : 1'
-    Items:
-    - 'DIAMOND_SWORD : 1'
-    - 'BOW : 1 : enchant:ARROW_DAMAGE:4'
-    - 'ARROW : 100'
-    Abilities: []
-    Potion-Effects: []
-    Description:
-    - '&7Maxymalne Ulepszenie Klasy Lucznik ,'
-    - '&cZ tymi przedmiotami staniesz sie &2Roobin Hoodem!'
-    Upgraded-Version-Of: Lucznik++
+    Upgraded-Version-Of: Lucznik+
 
