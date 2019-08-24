@@ -756,3 +756,22 @@ Kits:
     - '&a+ Sharpness 2 do miecza'
     - '&a+ Protection 2 do napierśnika'
     Upgraded-Version-Of: Pvp+
+    Pvp+++:
+      Require-Permission: false
+    Item: DIAMOND_SWORD
+    Price: 5000
+    Armor:
+      Helmet: 'IRON_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:2'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'DIAMOND_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:3'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&7Twój pierwszy zestaw, otrzymany w prezencie!'
+    - '&a+ Sharpness 3 do miecza'
+    - '&a+ Protection 3 do napierśnika + Diamentowe Buty'
+    Upgraded-Version-Of: Pvp++
+    
