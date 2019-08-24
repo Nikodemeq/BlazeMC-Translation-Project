@@ -49,7 +49,7 @@ Messages:
   Player-Leave: Powrociles do lobby!
   Map-Switch: Mapa zmieniona na &d%map%
   Map-Switch-Count-Down: Mapa zmieni sie za &b%time% &7sekund!
-  Player-Already-In-Map: You are already in this map!
+  Player-Already-In-Map: Juz jestes na tej mapie!
   Player-Earn-Exp: '&d+%exp% Exp'
   Player-Kill: Zadales &6%percentage%% &7obrazen &e%player% &7i otrzymales &b%coins% &7Monet!
   Player-Death-Message: Zostales zabity przez &a%killer%&7!
@@ -65,8 +65,8 @@ Messages:
   Cant-Use-Commands: Tej komendy nie mozesz tutaj uzyc!
   Cant-Use-Character: Nie mozesz uzyc znaku &d%&7!
   Player-Rank-Up: '&aRanga w Górę! &7Awansowales do &b%rank%'
-  Player-Rank-Up-Public-Message: '&a%player% &7has ranked up to a &b%rank%'
-  Player-Derank-Public-Message: '&a%player% &7has been deranked to &c%rank%'
+  Player-Rank-Up-Public-Message: '&a%player% &7awansowal do &b%rank%'
+  Player-Derank-Public-Message: '&a%player% &7zostal zdegradowany do &c%rank%'
   Player-Use-Ability: Uzyles umiejetnosci!
   Still-On-Cooldown: Poczekaj &d%time% &7sekund aby tego uzyc!
   Use-Ability-Deny: Nie mozesz uzyc umiejetnosci na komus kto nie wybral zestawu!
@@ -82,7 +82,7 @@ Messages:
   Dracula-Suck-Warning: '&cDracula zabrala twoje efekty! Dostaniesz je za &e%seconds% &csekund!'
   Dracula-Receive-Effect: '&aOtrzymales efekt &e&n%effect%&a!'
   No-Inventory-Space: Nie masz miejsca w ekwipunku
-  Load-Stats-Failure-MySql: You have been kicked out of the server due to a failure in loading your stats because the mysql connection is null!
+  Load-Stats-Failure-MySql: Zostales wyrzucony z powodu nieladowania statystyk poniewaz nie polaczono z MYSQL!
   Kit-Disabled: Ten zestaw jest wylaczony!
   No-Permission-For-Kit: Ten zestaw jest tylko dla VIP!
   Player-Not-Found: Nie ma takiego gracza!
