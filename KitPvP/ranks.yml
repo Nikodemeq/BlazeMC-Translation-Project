@@ -1,148 +1,148 @@
-# Ranks go in order, so the first rank would be the default rank!
-# Changing a rank name while players have that rank will cause errors!
+# Rangi do KitPvP #rusekh oraz PolskiStevek
+# Cos tam pierdolili ze jak zmieniasz to moga wystapic nulle oraz errory xD
 
 Ranks:
-  Ziemia:
+  Nierankingowy:
     Required-Exp: 0
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 100
     - kb kitunlocker give %player% 2
-  Piasek:
+  Zelazo I:
     Required-Exp: 1
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 50
     - kb kitunlocker give %player% 1
-  Nasionko:
+  Zelazo II:
     Required-Exp: 100
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 200
     - kb kitunlocker give %player% 2
-  Sadzonka:
+  Zelazo III:
     Required-Exp: 150
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 150
     - kb kitunlocker give %player% 1
-  Drewno:
+  Zelazo IV:
     Required-Exp: 250
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 30
     - kb kitunlocker give %player% 2
-  Dioryt:
+  Zelazna Elita:
     Required-Exp: 500
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 150
     - kb kitunlocker give %player% 1
-  Kamień:
+  Zelazny Elitarny Mistrz:
     Required-Exp: 550
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 100
     - kb kitunlocker give %player% 2
-  Węgiel:
+  Zloto I:
     Required-Exp: 700
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 200
     - kb kitunlocker give %player% 1
-  Złoże Żelaza:
+  Zloto II:
     Required-Exp: 1000
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 500
     - kb kitunlocker give %player% 2
-  Sztabki Żelaza:
+  Zloto III:
     Required-Exp: 1200
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 300
     - kb kitunlocker give %player% 1
-  Kilof z Żelaza:
+  Mistrzowski zloty laur:
     Required-Exp: 1500
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 200
     - kb kitunlocker give %player% 2
-  Narzędzia z Żelaza:
+  Mistrzowski obronca I:
     Required-Exp: 1700
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 400
     - kb kitunlocker give %player% 1
-  Napierśnik z Żelaza:
+  Mistrzowski obronca II:
     Required-Exp: 1850
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 300
     - kb kitunlocker give %player% 2
-  Złoto:
+  Elitarny mistrzowski obronca:
     Required-Exp: 2000
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 100
     - kb kitunlocker give %player% 1
-  Diamenty:
+  Wybitny mistrzowski obronca:
     Required-Exp: 2500
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 2000
     - kb kitunlocker give %player% 5
-  Kilof z Diamentów:
+  Legendarny orzel:
     Required-Exp: 2800
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 700
     - kb kitunlocker give %player% 2
-  Zbroja z Żelaza:
+  Mistrzowski legendarny orzel:
     Required-Exp: 2950
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 300
     - kb kitunlocker give %player% 2
-  Obsydian:
+  Mistrzowska pierwsza klasa:
     Required-Exp: 3000
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 600
     - kb kitunlocker give %player% 3
-  Miecz z Diamentów:
+  Elita swiatowa:
     Required-Exp: 3200
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 200
     - kb kitunlocker give %player% 2
-  Napierśnik z Diamentów:
+  Obsydian I:
     Required-Exp: 3650
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 400
     - kb kitunlocker give %player% 1
-  Kwartz:
+  Obsydian II:
     Required-Exp: 3950
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 500
     - kb kitunlocker give %player% 1
-  Magiczne Narzędzia:
+  Obsydian III:
     Required-Exp: 4250
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 1500
     - kb kitunlocker give %player% 4
-  Zbroja z Diamentów:
+  Obsydian IV:
     Required-Exp: 4500
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 800
     - kb kitunlocker give %player% 4
-  Oko Endermana:
+  Obsydian V:
     Required-Exp: 4800
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 500
     - kb kitunlocker give %player% 3
-  Magiczna Zbroja:
+  Bedrock I:
     Required-Exp: 5000
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 1800
     - kb kitunlocker give %player% 4
-  Pałki ognika:
+  Bedrock II:
     Required-Exp: 5500
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 500
     - kb kitunlocker give %player% 2
-  Oko kresu:
+  Bedrock III:
     Required-Exp: 6000
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 2400
     - kb kitunlocker give %player% 3
-  Podróż w Koniec:
+  Bedrock IV:
     Required-Exp: 6969
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 5000
     - kb kitunlocker give %player% 6
-  Śmierć w Endzie:
+  Bedrock V:
     Required-Exp: 7420
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 2000
