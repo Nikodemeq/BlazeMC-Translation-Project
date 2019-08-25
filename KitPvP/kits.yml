@@ -874,3 +874,38 @@ Kits:
     - '&7Szybkosc trzy.'
     - '&7Lekkkie Ulepszenie Pancerzu w tej wersji!'
      Upgraded-Version-Of: Ninja++
+ Czolg+:
+    Enabled: true
+    Require-Permission: false
+    Item: DIAMOND_CHESTPLATE
+    Price: 10000
+    Armor:
+      Helmet: 'DIAMOND_HELMET : 1'
+      Chestplate: 'DIAMOND_CHESTPLATE : 1'
+      Leggings: 'DIAMOND_LEGGINGS : 1'
+      Boots: 'DIAMOND_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    Abilities: []
+    Potion-Effects:
+    - 'SLOW : 999999 : 2'
+    Description:
+    - '&7Zelazny miecz, lecz'
+    - '&7ciezka diamentowa zbroja,'
+    - '&7sprawia ze jestes wolniejszy!'
+     Upgraded-Version-Of: Czolg
+     Palma:
+     Enabled: true
+    Require-Permission: false
+    Item: JUNGLE_SAPLING
+    Price: 1500
+    Armor:
+      Helmet: 'DIAMOND_HELMET : 1'
+      Chestplate: 'GOLD_CHESTPLATE : 1'
+      Leggings: 'DIAMOND_LEGGINGS : 1'
+      Boots: 'DIAMOND_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1: enchant:DAMAGE_ALL:2''
+    Description:
+    - '&A&LNajlepsza klasa na serwerze'
+     
