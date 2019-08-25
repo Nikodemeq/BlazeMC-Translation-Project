@@ -360,6 +360,30 @@ Kits:
     Description:
     - '&7Mozesz podpalac innych!'
     - '&7Jestes tez odporny na ogien!'
+  Smok+:
+    Enabled: true
+    Require-Permission: false
+    Item: FIREBALL
+    Price: 1000
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : dye:RED'
+      Chestplate: 'DIAMOND_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:2'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'LEATHER_BOOTS : 1 : dye:RED'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:1'
+    - 'FIREBALL : 1 : name:&cMoc ognia!'
+    Abilities:
+    - Dragon
+    Potion-Effects:
+    - 'FIRE_RESISTANCE : 999999 : 1'
+    Description:
+    - '&7Mozesz podpalac innych!'
+    - '&7Jestes tez odporny na ogien!'
+    - ''
+    - '&a+ Sharpness I do miecza'
+    - '&a+ Protection I do klaty'
+    Upgraded-Version-Of: Smok
   Creeper:
     Enabled: true
     Require-Permission: false
@@ -460,6 +484,29 @@ Kits:
     - '&7Mozesz szybko zbudowac pokój dookola ciebie'
     - '&7w powietrzu, aby byc bezpiecznym,'
     - '&7i zregenerowac zycie!'
+  Budowniczy+:
+    Enabled: true
+    Require-Permission: false
+    Item: BRICK
+    Price: 550
+    Armor:
+      Helmet: 'DIAMOND_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'DIAMOND_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'BRICK : 1 : name:&cZbuduj Pokój'
+    Abilities:
+    - Burrower
+    Potion-Effects: []
+    Description:
+    - '&7Mozesz szybko zbudowac pokój dookola ciebie'
+    - '&7w powietrzu, aby byc bezpiecznym,'
+    - '&7i zregenerowac zycie!'
+    - '&7'
+    - '&a+ Diamentowy Helm + Buty'
+    Upgraded-Version-Of: Budowniczy
   Zen:
     Enabled: true
     Require-Permission: false
@@ -757,9 +804,10 @@ Kits:
     - '&a+ Protection 2 do napierśnika'
     Upgraded-Version-Of: Pvp+
   Pvp+++:
+    Enabled: true
     Require-Permission: false
     Item: DIAMOND_SWORD
-    Price: 5000
+    Price: 2000
     Armor:
       Helmet: 'IRON_HELMET : 1'
       Chestplate: 'IRON_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:2'
@@ -772,8 +820,30 @@ Kits:
     Description:
     - '&7Twój pierwszy zestaw, otrzymany w prezencie!'
     - '&a+ Sharpness 3 do miecza'
-    - '&a+ Protection 3 do napierśnika + Diamentowe Buty'
+    - '&a+ Protection 3 do napierśnika'
+    - '&a+ Diamentowe Buty'
     Upgraded-Version-Of: Pvp++
+  PvP Master:
+    Enabled: true
+    Require-Permission: false
+    Item: DIAMOND_SWORD
+    Price: 3500
+    Armor:
+      Helmet: 'DIAMOND_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:2'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'DIAMOND_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:3'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&7Twój pierwszy zestaw, otrzymany w prezencie!'
+    - '&a+ Sharpness 3 do miecza'
+    - '&a+ Protection 3 do napierśnika'
+    - '&a+ Diamentowe Buty'
+    - '&a+ Diamentowy Helm'
+    Upgraded-Version-Of: Pvp+++
   Lucznik+:
     Enabled: true
     Require-Permission: false
