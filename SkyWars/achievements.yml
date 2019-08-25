@@ -218,6 +218,6 @@ Achievements:
       prize-description: Nagroda 2500 Monet!
       executed-command: sw coins add %player% 2500
     '20':
-      description: Złów 20 ryb!
+      description: Złów 20 ryb !
       prize-description: Nagroda 5000 Monet!
       executed-command: sw coins add %player% 5000
