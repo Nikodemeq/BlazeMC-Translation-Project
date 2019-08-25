@@ -820,7 +820,7 @@ Kits:
     Item: NETHER_STAR
     Price: 1500
     Armor:
-      Helmet: 'IRON_HELMET :'
+      Helmet: 'IRON_HELMET : 1'
       Chestplate: 'CHAINMAIL_CHESTPLATE : 1'
       Leggings: 'CHAINMAIL_LEGGINGS : 1'
       Boots: 'DIAMOND_BOOTS : 1'
@@ -897,7 +897,7 @@ Kits:
   Palma:
     Enabled: true
     Require-Permission: false
-    Item: JUNGLE_SAPLING
+    Item: SAPLING:3
     Price: 1500
     Armor:
       Helmet: 'DIAMOND_HELMET : 1'
