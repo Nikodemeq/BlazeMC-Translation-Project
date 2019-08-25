@@ -626,10 +626,10 @@ Kits:
     Item: CACTUS
     Price: 700
     Armor:
-      Helmet: 'IRON_HELMET : 1 : enchant:THORNS:2'
-      Chestplate: 'IRON_CHESTPLATE : 1 : enchant:THORNS:2'
-      Leggings: 'LEATHER_LEGGINGS : 1 : enchant:THORNS:2'
-      Boots: 'LEATHER_BOOTS : 1 : enchant:THORNS:2'
+      Helmet: 'IRON_HELMET : 1 : enchant:THORNS:5'
+      Chestplate: 'IRON_CHESTPLATE : 1 : enchant:THORNS:5'
+      Leggings: 'LEATHER_LEGGINGS : 1 : enchant:THORNS:5'
+      Boots: 'LEATHER_BOOTS : 1 : enchant:THORNS:5'
     Items:
     - 'DIAMOND_SWORD : 1'
     Abilities: []
