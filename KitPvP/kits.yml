@@ -930,7 +930,7 @@ Kits:
     Item: NETHER_STAR
     Price: 8500
     Armor:
-      Helmet: 'IRON_HELMET : 1 :'
+      Helmet: 'IRON_HELMET : 1'
       Chestplate: 'DIAMOND_CHESTPLATE : 1'
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'DIAMOND_BOOTS : 1'
