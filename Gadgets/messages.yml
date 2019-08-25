@@ -354,56 +354,56 @@ Items:
   Morph-Slimeball:
     Name: '&aAktywuj moc przemiany'
   Self-Morph-View:
-    Name: '&eSelf Morph View'
+    Name: '&eWidok Samokształtowania'
     Material: ENDER_EYE
     Show: true
     Lore:
     - '&7Status: {STATUS}'
     - ''
-    - '&eClick to toggle self morph view.'
+    - '&eKliknij, aby przełączyć widok samodzielnego przekształcania.'
   Rename-Pet:
-    Name: '&eName Your Pet'
+    Name: '&eNazwij Swojego Zwierzaka'
     Material: NAME_TAG
     Show: true
     Lore:
-    - '&7Rename your pet by typing it out in chat.'
+    - '&7Zmień nazwę swojego zwierzaka, wpisując go na chat.'
   Pages:
     Name: ' &r(Page {CURRENT_PAGE}/{MAX_PAGES})'
   Enough-Mystery-Dust:
     Lore:
     - ''
-    - '&eClick to craft for &b{MYSTERY_DUST} &eMystery Dust!'
+    - '&eKliknij, aby stworzyć &b{MYSTERY_DUST} &eTajemniczy Pył!'
     Play-Sound:
       Enabled: true
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Not-Enough-Mystery-Dust:
     Lore:
     - ''
-    - '&cClick to craft for &b{MYSTERY_DUST} &cMystery Dust!'
-    - '&cYou need &b{SURPLUS_MYSTERY_DUST} &cmore mystery dust!'
+    - '&cKliknij, aby stworzyć &b{MYSTERY_DUST} &cTajemniczy Pył!'
+    - '&cPotrzebujesz &b{SURPLUS_MYSTERY_DUST} &cWięcej Tajemniczego Pyłu!'
     Play-Sound:
       Enabled: true
       Sound: ENTITY_ENDERMAN_TELEPORT
   Enough-Mystery-Dust-To-Craft-Mystery-Box:
     Lore:
     - ''
-    - '&7Cost: &a{COST} &7Mystery Dust'
-    - '&aClick to craft!'
+    - '&7Koszt: &a{COST} &7Tajemniczy Pył'
+    - '&aKliknij, aby stworzyć!'
     Play-Sound:
       Enabled: true
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Not-Enough-Mystery-Dust-To-Craft-Mystery-Box:
     Lore:
     - ''
-    - '&7Cost: &a{COST} &7Mystery Dust'
-    - '&cNot enough Mystery Dust!'
+    - '&7Koszt: &a{COST} &7Tajemniczy pył'
+    - '&cNie masz wystarczająco Tajemniczego Pyłu!'
     Play-Sound:
       Enabled: true
       Sound: ENTITY_ENDERMAN_TELEPORT
   Item-Unpurchasable:
     Lore:
     - ''
-    - '&cCan''t be crafted with mystery dust.'
+    - '&cNie da się go wytworzyć za pomocą Tajemniczego Pyłu.'
     Play-Sound:
       Enabled: true
       Sound: ENTITY_ENDERMAN_TELEPORT
@@ -414,16 +414,16 @@ Items:
   Multiple-Boxes-Loot-Book:
   - '       &1&lOtworzyles pudelko!'
   - ''
-  - '&0You found the'
-  - '&0following loot in your'
+  - '&0Znalazłeś'
+  - '&0Po zdobyciu łupów'
   - '&0Otworzyles pudelko!es:'
-  - '&9&l+{MYSTERY_DUST} Mystery Dust'
+  - '&9&l+{MYSTERY_DUST} Tajemniczy Pył'
   - ''
-  - '&9&l{MYSTERY_BOXES_OPENED} &0Otworzyles pudelko!es opened'
+  - '&9&l{MYSTERY_BOXES_OPENED} &0Otworzonych pudełek'
   - ''
   - ''
-  - '&0Go to the next page to'
-  - '&0see all the items'
+  - '&0Przejdź do następnej strony'
+  - '&0Zobacz wszystkie przedmioty'
   Settings-Status:
   - '&e&l{SETTING}'
   - ''
@@ -431,7 +431,7 @@ Items:
   - ''
 Reset-Buttons:
   Reset-Cosmetics:
-    Name: '&cZresetuj Cosmetics'
+    Name: '&cZresetuj Kosmetyki'
     Material: RED_STAINED_GLASS
     Show: true
     Lore: ''
