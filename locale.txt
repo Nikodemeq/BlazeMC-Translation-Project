@@ -109,152 +109,152 @@ Enable FAIL - Database Patch                    || Database Patching failed, plu
 Enable FAIL - GeoDB Write                       || Something went wrong saving the downloaded GeoLite2 Geolocation database
 Enable FAIL - WebServer (Proxy)                 || WebServer did not initialize!
 Enable FAIL - Wrong Database Type               || ${0} is not a supported Database
-HTML - ACTIVITY_INDEX                           || Activity Index
-HTML - ALL                                      || ALL
-HTML - ALL_TIME_PEAK                            || All Time Peak
-HTML - AVERAGE_PING                             || Average Ping
+HTML - ACTIVITY_INDEX                           || Indeks Aktywnosci
+HTML - ALL                                      || Wszystko
+HTML - ALL_TIME_PEAK                            || Caly czas
+HTML - AVERAGE_PING                             || Sredni ping
 HTML - AVG                                      || AVG
-HTML - BANNED                                   || Banned
-HTML - BEST_PING                                || Best Ping
-HTML - CALENDAR                                 || CALENDAR
-HTML - CALENDAR_TEXT                            ||  Calendar
-HTML - CHUNKS                                   || Chunks
-HTML - COMMAND                                  ||  Command
-HTML - COMMNAND_USAGE                           || Command Usage
-HTML - CONNECTION_INFORMATION                   || Connection Information
-HTML - COUNTRY                                  || Country
-HTML - CURRENT_PLAYERBASE                       || Current Playerbase
+HTML - BANNED                                   || Bany
+HTML - BEST_PING                                || Najlepszy bind
+HTML - CALENDAR                                 || Kalendarz
+HTML - CALENDAR_TEXT                            ||  Kalendarz
+HTML - CHUNKS                                   || Chunki
+HTML - COMMAND                                  ||  Komedny
+HTML - COMMNAND_USAGE                           || Uzycie komendy
+HTML - CONNECTION_INFORMATION                   || Informacje o polaczeniu
+HTML - COUNTRY                                  || Kraj
+HTML - CURRENT_PLAYERBASE                       || Aktualna baza graczy
 HTML - DATABASE_NOT_OPEN                        || Database is not open, check db status with /plan info
-HTML - DEATHS                                   || Deaths
-HTML - DISK_SPACE                               || DISK SPACE
-HTML - ENTITIES                                 || Entities
-HTML - ERROR                                    || Authentication failed due to error
-HTML - FAVORITE_SERVER                          || Favorite Server
-HTML - FREE_DISK_SPACE                          || Free Disk Space
-HTML - GEOLOCATION                              || Geolocation
-HTML - GEOLOCATION_TEXT                         || Geolocation
-HTML - HEALTH_ESTIMATE                          || Health Estimate
-HTML - INDEX_ACTIVE                             || Active
-HTML - INDEX_INACTIVE                           || Inactive
-HTML - INDEX_IRREGULAR                          || Irregular
-HTML - INDEX_REGULAR                            || Regular
-HTML - INDEX_VERY_ACTIVE                        || Very Active
-HTML - IP_ADDRESS                               || IP-address
-HTML - KILLED                                   || Killed
-HTML - KILLED_BY                                || Killed by
-HTML - LAST_24_HOURS                            || LAST 24 HOURS
-HTML - LAST_30_DAYS                             || LAST 30 DAYS
-HTML - LAST_30_DAYS_TEXT                        || Last 30 Days
-HTML - LAST_7_DAYS                              || LAST 7 DAYS
-HTML - LAST_CONNECTED                           || Last Connected
+HTML - DEATHS                                   || Smierci
+HTML - DISK_SPACE                               || Miejsca na dysku
+HTML - ENTITIES                                 || Podmioty
+HTML - ERROR                                    || Uwierzytelnianie sie nie powiodlo
+HTML - FAVORITE_SERVER                          || Ulubiony serwer
+HTML - FREE_DISK_SPACE                          || Wolnego miejsca na dysku
+HTML - GEOLOCATION                              || Geolokacja
+HTML - GEOLOCATION_TEXT                         || Geolokacja
+HTML - HEALTH_ESTIMATE                          || Ocena zdrowia
+HTML - INDEX_ACTIVE                             || Aktywny
+HTML - INDEX_INACTIVE                           || Nieaktywny
+HTML - INDEX_IRREGULAR                          || Nieregularny
+HTML - INDEX_REGULAR                            || Regularny
+HTML - INDEX_VERY_ACTIVE                        || Bardzo aktywny
+HTML - IP_ADDRESS                               || IP typa
+HTML - KILLED                                   || Zabity
+HTML - KILLED_BY                                || Zabity przez
+HTML - LAST_24_HOURS                            || OSTATNIE 24 GODZINY
+HTML - LAST_30_DAYS                             || OSTATNIE 30 DNI
+HTML - LAST_30_DAYS_TEXT                        || OSTATNIE 30 DNI
+HTML - LAST_7_DAYS                              || OSTATNIE 7 DNI
+HTML - LAST_CONNECTED                           || Ostatnie polaczenie
 HTML - LAST_PEAK                                || Last Peak
-HTML - LAST_SEEN                                || LAST SEEN
-HTML - LAST_SEEN_TEXT                           || Last Seen
-HTML - LOADED_CHUNKS                            || Loaded Chunks
-HTML - LOADED_ENTITIES                          || Loaded Entities
-HTML - LOCAL_MACHINE                            || Local Machine
-HTML - LONGEST                                  || Longest
-HTML - LOW_TPS_SPIKES                           || Low TPS Spikes
+HTML - LAST_SEEN                                || Ostatnio widziany
+HTML - LAST_SEEN_TEXT                           || Ostatnio widziany
+HTML - LOADED_CHUNKS                            || Zaladowane Chunki
+HTML - LOADED_ENTITIES                          || Zaladowane podmioty
+HTML - LOCAL_MACHINE                            || Lokalna maszyna
+HTML - LONGEST                                  || Najdluzsze
+HTML - LOW_TPS_SPIKES                           || Niskie skoki TPS
 HTML - MOB_CAUSED_DEATHS                        || Mob caused Deaths
 HTML - MOB_KDR                                  || Mob KDR
-HTML - MOB_KILLS                                || Mob Kills
-HTML - MOST_RECENT_SESSIONS                     || Most Recent Sessions
-HTML - NAME                                     ||  Name
-HTML - NAV_COMMAND_USAGE                        || Command Usage
-HTML - NAV_GEOLOCATIONS                         || Geolocations
-HTML - NAV_INFORMATION                          || Information
-HTML - NAV_NETWORK_PLAYERS                      || Network Players
-HTML - NAV_ONLINE_ACTIVITY                      || Online Activity
-HTML - NAV_OVERVIEW                             || Overview
+HTML - MOB_KILLS                                || Zabitych mobow
+HTML - MOST_RECENT_SESSIONS                     || Najnowsze sesje
+HTML - NAME                                     ||  Nick
+HTML - NAV_COMMAND_USAGE                        || Uyzcie komendy
+HTML - NAV_GEOLOCATIONS                         || Geolokacje
+HTML - NAV_INFORMATION                          || Informacje
+HTML - NAV_NETWORK_PLAYERS                      || Gracze w sieci
+HTML - NAV_ONLINE_ACTIVITY                      || Akywnosc na serwerze
+HTML - NAV_OVERVIEW                             || Przeglad
 HTML - NAV_PERFORMANCE                          || Performance
-HTML - NAV_PLAYERS                              || Players
-HTML - NAV_PLUGINS                              || Plugins
-HTML - NAV_SESSIONS                             || Sessions
-HTML - NAV_SEVER_HEALTH                         || Server Health
-HTML - NETWORK                                  || Network
-HTML - NETWORK_INFORMATION                      || NETWORK INFORMATION
-HTML - NEW                                      || NEW
-HTML - NEW_CALENDAR                             || New:
-HTML - NEW_PLAYERS_TEXT                         || New Players
-HTML - NEW_RETENTION                            || New Player Retention
-HTML - NEW_TEXT                                 || New
-HTML - NICKNAME                                 || Nickname
-HTML - NO_KILLS                                 || No Kills
-HTML - NO_PLAYER_CAUSED_DEATHS                  || No Player caused Deaths
+HTML - NAV_PLAYERS                              || Gracze
+HTML - NAV_PLUGINS                              || Nieautorskie pluginy
+HTML - NAV_SESSIONS                             || Sesje
+HTML - NAV_SEVER_HEALTH                         || Zdrowie serwera
+HTML - NETWORK                                  || Siec
+HTML - NETWORK_INFORMATION                      || Informacje o sieci
+HTML - NEW                                      || Nowy
+HTML - NEW_CALENDAR                             || Nowy:
+HTML - NEW_PLAYERS_TEXT                         || Nowy gracz
+HTML - NEW_RETENTION                            || Utrzymanie nowego gracza
+HTML - NEW_TEXT                                 || Nowy
+HTML - NICKNAME                                 || Nick
+HTML - NO_KILLS                                 || Brak Zabic
+HTML - NO_PLAYER_CAUSED_DEATHS                  || Zaden gracz nie spowodowal smierci
 HTML - OFFLINE                                  ||  Offline
 HTML - ONLINE                                   ||  Online
-HTML - ONLINE_ACTIVITY                          || ONLINE ACTIVITY
+HTML - ONLINE_ACTIVITY                          || Dzialalnosc Online
 HTML - OPERATOR                                 || Operator
-HTML - OVERVIEW                                 || OVERVIEW
+HTML - OVERVIEW                                 || PRZEGLAD
 HTML - PER_DAY                                  || / Day
-HTML - PLAYER_CAUSED_DEATHS                     || Player caused Deaths
-HTML - PLAYER_KILLS                             || Player Kills
-HTML - PLAYER_LIST                              || Player List
-HTML - PLAYERBASE_DEVELOPMENT                   || Playerbase Development
-HTML - PLAYERS                                  || PLAYERS
-HTML - PLAYERS_ONLINE                           || PLAYERS ONLINE
-HTML - PLAYERS_ONLINE_TEXT                      || Players Online
-HTML - PLAYERS_TEXT                             || Players
-HTML - PLAYTIME                                 || Playtime
-HTML - PLEASE_WAIT                              || Please wait...
-HTML - PREDICETED_RETENTION                     || Predicted Retention
+HTML - PLAYER_CAUSED_DEATHS                     || Gracz spowodowal smierc
+HTML - PLAYER_KILLS                             || Zabicia gracza
+HTML - PLAYER_LIST                              || Lista graczy
+HTML - PLAYERBASE_DEVELOPMENT                   || Rozwoj bazy graczy
+HTML - PLAYERS                                  || Gracze
+HTML - PLAYERS_ONLINE                           || Gracze Online
+HTML - PLAYERS_ONLINE_TEXT                      || Gracze Online
+HTML - PLAYERS_TEXT                             || Gracze
+HTML - PLAYTIME                                 || Przegrany czas
+HTML - PLEASE_WAIT                              || Musisz czekac kurwo...
+HTML - PREDICETED_RETENTION                     || Przewidywane zatrzymanie
 HTML - PUNCH_CARD                               || Punchcard
 HTML - PUNCHCARD                                || PUNCHCARD
-HTML - RECENT_LOGINS                            || RECENT LOGINS
-HTML - REGISTERED                               || REGISTERED
-HTML - REGISTERED_TEXT                          || Registered
-HTML - REGULAR                                  || REGULAR
-HTML - SEEN_NICKNAMES                           || Seen Nicknames
-HTML - SERVER                                   || Server
-HTML - SERVER_ANALYSIS                          || Server Analysis
-HTML - SERVER_HEALTH_ESTIMATE                   || Server Health Estimate
-HTML - SERVER_INFORMATION                       || SERVER INFORMATION
-HTML - SERVER_PREFERENCE                        || Server Preference
-HTML - SERVERS                                  || Servers
-HTML - SESSION                                  || Session
-HTML - SESSION_ENDED                            || Session Ended
-HTML - SESSION_LENGTH                           || Session Lenght
-HTML - SESSION_MEDIAN                           || Session Median
-HTML - SESSIONS                                 || Sessions
-HTML - TIME                                     ||  Time
-HTML - TIMES_KICKED                             || Times Kicked
-HTML - TIMES_USED                               || Times Used
-HTML - TOTAL_ACTIVE_TEXT                        || Total Active
-HTML - TOTAL_AFK                                || Total AFK
-HTML - TOTAL_PLAYERS                            || Total Players
-HTML - TOTAL_PLAYTIME                           || Total Playtime
-HTML - UNIQUE                                   || UNIQUE
-HTML - UNIQUE_CALENDAR                          || Unique:
-HTML - UNIQUE_PLAYERS                           || UNIQUE PLAYERS
-HTML - UNIQUE_PLAYERS_TEXT                      || Unique Players
-HTML - UNIQUE_TEXT                              || Unique
-HTML - USAGE                                    ||  Usage
-HTML - USED_COMMANDS                            || Used Commands
-HTML - USER_AND_PASS_NOT_SPECIFIED              || User and Password not specified
-HTML - USER_DOES_NOT_EXIST                      || User does not exist
+HTML - RECENT_LOGINS                            || Ostatnie logowania
+HTML - REGISTERED                               || ZAREJESTROWANY
+HTML - REGISTERED_TEXT                          || Zarejestrowany
+HTML - REGULAR                                  || REGULARNY
+HTML - SEEN_NICKNAMES                           || Widoczne pseudonimy
+HTML - SERVER                                   || Serwer
+HTML - SERVER_ANALYSIS                          || Analiza serwera
+HTML - SERVER_HEALTH_ESTIMATE                   || Oszacowanie kondycji serwera
+HTML - SERVER_INFORMATION                       || INFORMACJE O SERWERZE
+HTML - SERVER_PREFERENCE                        || Preferencje serwera
+HTML - SERVERS                                  || Serwery
+HTML - SESSION                                  || Sesja
+HTML - SESSION_ENDED                            || Sesja sie zakonczyla pizdo
+HTML - SESSION_LENGTH                           || Dlugosc sesji
+HTML - SESSION_MEDIAN                           || Sesja Median
+HTML - SESSIONS                                 || Sesje
+HTML - TIME                                     ||  Czas
+HTML - TIMES_KICKED                             || Czas kicka
+HTML - TIMES_USED                               || Czas uzyty
+HTML - TOTAL_ACTIVE_TEXT                        || Calkowita aktywnosc
+HTML - TOTAL_AFK                                || Calkowity czas AFK
+HTML - TOTAL_PLAYERS                            || Max graczy
+HTML - TOTAL_PLAYTIME                           || Calkowity czas gry
+HTML - UNIQUE                                   || Wyjatkowy
+HTML - UNIQUE_CALENDAR                          || Wyjatkowy:
+HTML - UNIQUE_PLAYERS                           || WYJATKOWI GRACZE
+HTML - UNIQUE_PLAYERS_TEXT                      || Wyjatkowi gracze
+HTML - UNIQUE_TEXT                              || Wyjatkowy
+HTML - USAGE                                    ||  Uzycie
+HTML - USED_COMMANDS                            || Uzyl komend
+HTML - USER_AND_PASS_NOT_SPECIFIED              || Uzytkownik i haslo nie zostaly okreslone
+HTML - USER_DOES_NOT_EXIST                      || Ten gracz nie istnieje
 HTML - USER_INFORMATION                         || USER INFORMATION
-HTML - USER_PASS_MISMATCH                       || User and Password did not match
-HTML - WITH                                     || <th>With
-HTML - WORLD                                    ||  World
-HTML - WORLD_LOAD                               || WORLD LOAD
-HTML - WORLD_PLAYTIME                           || World Playtime
-HTML - WORST_PING                               || Worst Ping
-HTML ERRORS - ACCESS_DENIED_403                 || Access Denied
-HTML ERRORS - ANALYSIS_REFRESH                  || Analysis is being refreshed..
-HTML ERRORS - ANALYSIS_REFRESH_LONG             || Analysis is being run, refresh the page after a few seconds..
+HTML - USER_PASS_MISMATCH                       || Uzytkownik i haslo nie pasuje zjebie
+HTML - WITH                                     || <th>Z
+HTML - WORLD                                    ||  Swiat
+HTML - WORLD_LOAD                               || ZALADOWANY SWIAT
+HTML - WORLD_PLAYTIME                           || Przegrany czas na swiecie
+HTML - WORST_PING                               || Najgorszy ping
+HTML ERRORS - ACCESS_DENIED_403                 || ZABLOKOWANO PEDALE HYHY!	
+HTML ERRORS - ANALYSIS_REFRESH                  || Analiza jest odswiezana.
+HTML ERRORS - ANALYSIS_REFRESH_LONG             || Trwa analiza odswiez strone po kilku sekundach!
 HTML ERRORS - AUTH_FAIL_TIPS_401                || - Ensure you have registered a user with <b>/plan register</b><br>- Check that the username and password are correct<br>- Username and password are case-sensitive<br><br>If you have forgotten your password, ask a staff member to delete your old user and re-register.
-HTML ERRORS - AUTHENTICATION_FAILED_401         || Authentication Failed.
-HTML ERRORS - FORBIDDEN_403                     || Forbidden
-HTML ERRORS - INSPECT_REFRESH                   || Player page request is being processed..
-HTML ERRORS - INSPECT_REFRESH_LONG              || Page will refresh automatically..
-HTML ERRORS - NO_SERVERS_404                    || No Servers online to perform the request.
-HTML ERRORS - NOT_FOUND_404                     || Not Found
-HTML ERRORS - NOT_PLAYED_404                    || Player has not played on this server.
-HTML ERRORS - PAGE_NOT_FOUND_404                || Page does not exist.
-HTML ERRORS - PLUGIN_TAB_REFRESH                || Calculating...
-HTML ERRORS - UNAUTHORIZED_401                  || Unauthorized
-HTML ERRORS - UNKNOWN_PAGE_404                  || Make sure you're accessing a link given by a command, Examples:</p><p>/player/PlayerName<br>/server/ServerName</p>
-HTML ERRORS - UUID_404                          || Player UUID was not found in the database.
+HTML ERRORS - AUTHENTICATION_FAILED_401         || Uwierzytelnianie nie powiodlo sie
+HTML ERRORS - FORBIDDEN_403                     || Zakazaned
+HTML ERRORS - INSPECT_REFRESH                   || Zadanie strony gracza jest przetwarzane
+HTML ERRORS - INSPECT_REFRESH_LONG              || Strona odswiezy sie automatycznie debilu...
+HTML ERRORS - NO_SERVERS_404                    || Brak serwerow online wykonujacych zadanie.
+HTML ERRORS - NOT_FOUND_404                     || Nie znalazlem zjebie xD
+HTML ERRORS - NOT_PLAYED_404                    || Ten gracz nigdy tu nie gral XD!
+HTML ERRORS - PAGE_NOT_FOUND_404                || Ta strona nie istnieje
+HTML ERRORS - PLUGIN_TAB_REFRESH                || Obliczanie...
+HTML ERRORS - UNAUTHORIZED_401                  || Nie zautoryzowano
+HTML ERRORS - UNKNOWN_PAGE_404                  || Upewnij sie ze masz dostep do linku podanego przez polecenie, Przyklady:</p><p>/player/PlayerName<br>/server/ServerName</p>
+HTML ERRORS - UUID_404                          || UUID gracza nie zostalo znalezione w bazie danych
 In Depth Help - /plan ?                         || > §2Main Command\  Access to subcommands and help\  §2/plan §fList subcommands\  §2/plan <subcommand> ? §fIn depth help
 In Depth Help - /plan analyze ?                 || > §2Analysis Command\  Refreshes server page and displays link to the web page.
 In Depth Help - /plan inspect ?                 || > §2Inspect Command\  Refreshes player page and displays link to the web page.
@@ -281,42 +281,42 @@ In Depth Help - /plan web ?                     || < §2Web User Manage Command.
 In Depth Help - /plan web register ?            || > §2Register Subcommand\  Registers a new Web User.\  Registering a user for another player requires plan.webmanage permission.\  Passwords are hashed with PBKDF2 (64,000 iterations of SHA1) using a cryptographically-random salt.
 In Depth Help - /planbungee disable ?           || > §2Disable Command\  Runs Plan onDisable on Proxy.\  Plugin can be enabled with /planbungee reload afterwards.\  §bDoes not support swapping jar on the fly
 In Depth Help - /planbungee setup ?             || > §2Set-up toggle Command\  Toggles set-up mode on Proxy.\  Safeguard against unauthorized MySQL snooping with another server.
-Manage - Confirm Overwrite                      || Data in ${0} will be overwritten!
-Manage - Confirm Removal                        || Data in ${0} will be removed!
-Manage - Fail                                   || > §cSomething went wrong: ${0}
-Manage - Fail File not found                    || > §cNo File found at ${0}
-Manage - Fail Incorrect Database                || > §c'${0}' is not a supported database.
-Manage - Fail No Exporter                       || §eExporter '${0}' doesn't exist
-Manage - Fail No Importer                       || §eImporter '${0}' doesn't exist
+Manage - Confirm Overwrite                      || Dane w ${0} zostana zastapione!
+Manage - Confirm Removal                        || Dane w ${0} zostana usuniete!
+Manage - Fail                                   || > §cCoś poszło nie tak: ${0}
+Manage - Fail File not found                    || > §cNie znaleziono pliku w ${0}
+Manage - Fail Incorrect Database                || > §c„$ {0}” nie jest obslugiwana baza danych.
+Manage - Fail No Exporter                       || §eEksporter „${0}” nie istnieje
+Manage - Fail No Importer                       || §eImporter „${0}” nie istnieje
 Manage - Fail No Server                         || No server found with given parameters.
-Manage - Fail Same Database                     || > §cCan not operate on to and from the same database!
-Manage - Fail Same server                       || Can not mark this server as uninstalled (You are on it)
-Manage - Fail, Confirmation                     || > §cAdd '-a' argument to confirm execution: ${0}
-Manage - Fail, Connection Exception             || §eFail reason: 
-Manage - Fail, No Servers                       || §cNo Servers found in the database.
-Manage - Fail, Old version                      || §eFail reason: Older Plan version on receiving server
-Manage - Fail, Unauthorized                     || §eFail reason: Unauthorized. Server might be using different database.
-Manage - Fail, Unexpected Exception             || §eOdd Exception: ${0}
-Manage - List Importers                         || Importers: 
-Manage - Notify External Url                    || §eNon-local address, check that port is open
-Manage - Remind HotSwap                         || §eRemember to swap to the new database (/plan m hotswap ${0}) & reload the plugin.
-Manage - Start                                  || > §2Processing data..
-Manage - Success                                || > §aSuccess!
-Negative                                        || No
-Positive                                        || Yes
-Today                                           || 'Today'
-Unknown                                         || Unknown
-Version - DEV                                   ||  This is a DEV release.
-Version - Latest                                || You're using the latest version.
-Version - New                                   || New Release (${0}) is available ${1}
-Version - New (old)                             || New Version is available at ${0}
-Version FAIL - Read info (old)                  || Failed to check newest version number
-Version FAIL - Read versions.txt                || Version information could not be loaded from Github/versions.txt
+Manage - Fail Same Database                     || > §cNie mozna operowac na tej samej bazie danych iz niej!
+Manage - Fail Same server                       || Nie mozna oznaczyc tego serwera jako odinstalowanego (jestes na nim)
+Manage - Fail, Confirmation                     || > §cDodaj argument „-a”, aby potwierdzic wykonanie: ${0}
+Manage - Fail, Connection Exception             || §ePrzyczyna niepowodzenia: 
+Manage - Fail, No Servers                       || §cNie znaleziono serwerow w bazie danych.
+Manage - Fail, Old version                      || §ePrzyczyna niepowodzenia: starsza wersja planu na serwerze odbierajacym
+Manage - Fail, Unauthorized                     || §ePrzyczyna niepowodzenia: nieautoryzowany. Serwer moze uzywać innej bazy danych.
+Manage - Fail, Unexpected Exception             || §eDziwny wyjatek: ${0}
+Manage - List Importers                         || Importerzy: 
+Manage - Notify External Url                    || §eAdres nie lokalny, sprawdz czy port jest otwarty
+Manage - Remind HotSwap                         || §ePamietaj aby zamienic na nowa baze danych (/plan m hotswap ${0}) & reload the plugin.
+Manage - Start                                  || > §2Przetwarzanie danych..
+Manage - Success                                || > §aSukces!
+Negative                                        || Nie
+Positive                                        || Tak
+Today                                           || 'Dzisiaj'
+Unknown                                         || Nieznany
+Version - DEV                                   ||  To jest wersja DEV.
+Version - Latest                                || Używasz najnowszej wersji.
+Version - New                                   || Nowa wersja (${0}) jest dostepna {1}
+Version - New (old)                             || Nowa wersja jest dostepna za ${0}
+Version FAIL - Read info (old)                  || Nie udalo sie sprawdzic najnowszego numeru wersji
+Version FAIL - Read versions.txt                || Nie mozna zaladowac informacji o wersji z Github/version.txt
 Web User Listing                                ||   §2${0} §7: §f${1}
-WebServer - Notify HTTP                         || WebServer: No Certificate -> Using HTTP-server for Visualization.
-WebServer - Notify HTTP User Auth               || WebServer: User Authorization Disabled! (Not secure over HTTP)
-WebServer - Notify no Cert file                 || WebServer: Certificate KeyStore File not Found: ${0}
-WebServer FAIL - Port Bind                      || WebServer was not initialized successfully. Is the port (${0}) in use?
-WebServer FAIL - SSL Context                    || WebServer: SSL Context Initialization Failed.
-WebServer FAIL - Store Load                     || WebServer: SSL Certificate loading Failed.
+WebServer - Notify HTTP                         || WebServer: Brak certyfikatu -> Korzystanie z serwera HTTP do wizualizacji.
+WebServer - Notify HTTP User Auth               || WebServer: Autoryzacja uzytkownika wylaczona! (Niezabezpieczony przez HTTP)
+WebServer - Notify no Cert file                 || WebServer: Nie znaleziono pliku magazynu kluczy certyfikatu: ${0}
+WebServer FAIL - Port Bind                      || WebServer nie zostal pomyslnie zainicjowany. Czy port (${0}) jest w uzyciu?
+WebServer FAIL - SSL Context                    || WebServer: Inicjalizacja kontekstu SSL nie powiodla sie.
+WebServer FAIL - Store Load                     || WebServer: Ladowanie certyfikatu SSL nie powiodlo sie.
 Yesterday                                       || 'Yesterday'
