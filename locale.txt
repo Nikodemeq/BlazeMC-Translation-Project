@@ -109,152 +109,137 @@ Enable FAIL - Database Patch                    || Database Patching failed, plu
 Enable FAIL - GeoDB Write                       || Something went wrong saving the downloaded GeoLite2 Geolocation database
 Enable FAIL - WebServer (Proxy)                 || WebServer did not initialize!
 Enable FAIL - Wrong Database Type               || ${0} is not a supported Database
-HTML - ACTIVITY_INDEX                           || Indeks aktywnosci
-HTML - ALL                                      || Wszystko
+HTML - ACTIVITY_INDEX                           || Aktywny indeks
+HTML - ALL                                      || ALL
 HTML - ALL_TIME_PEAK                            || All Time Peak
-HTML - AVERAGE_PING                             || Wysoki Ping
+HTML - AVERAGE_PING                             || Average Ping
 HTML - AVG                                      || AVG
-HTML - BANNED                                   || Zbanowany
-HTML - BEST_PING                                || Najlepszy ping
-HTML - CALENDAR                                 || KALENDARZ
-HTML - CALENDAR_TEXT                            ||  Kalendarz
+HTML - BANNED                                   || Banned
+HTML - BEST_PING                                || Best Ping
+HTML - CALENDAR                                 || CALENDAR
+HTML - CALENDAR_TEXT                            ||  Calendar
 HTML - CHUNKS                                   || Chunki
 HTML - COMMAND                                  ||  Komendy
-HTML - COMMNAND_USAGE                           || Uzycie komendy
-HTML - CONNECTION_INFORMATION                   || Informacje o polaczeniu
-HTML - COUNTRY                                  || Kraj
-HTML - CURRENT_PLAYERBASE                       || Aktualna baza graczy
-HTML - DATABASE_NOT_OPEN                        || Baza danych nie jest otwarta, sprawdz status db za pomocą /plan info
-HTML - DEATHS                                   || Smierci
-HTML - DISK_SPACE                               || Miejsca na dysku
-HTML - ENTITIES                                 || Podmioty
-HTML - ERROR                                    || Uwierzytelnianie nie powiodlo się z powodu bledu
-HTML - FAVORITE_SERVER                          || najlepszy serwer
-HTML - FREE_DISK_SPACE                          || Wolne miejsce na dysku
-HTML - GEOLOCATION                              || Geolokacja
-HTML - GEOLOCATION_TEXT                         || Geolokacja
-HTML - HEALTH_ESTIMATE                          || Ocena zdrowia
-HTML - INDEX_ACTIVE                             || Aktywny
-HTML - INDEX_INACTIVE                           || Nieaktywny
-HTML - INDEX_IRREGULAR                          || Nieregularny
-HTML - INDEX_REGULAR                            || Regularny
-HTML - INDEX_VERY_ACTIVE                        || Bardzo aktywny
-HTML - IP_ADDRESS                               || IP typa
-HTML - KILLED                                   || Zabity
-HTML - KILLED_BY                                || Zabity przez
-HTML - LAST_24_HOURS                            || OSTATNIE 24 GODZINY
-HTML - LAST_30_DAYS                             || OSTATNIE 30 DNI
-HTML - LAST_30_DAYS_TEXT                        || OSTATNIE 30 DNI
-HTML - LAST_7_DAYS                              || OSTATNIE 7 DNI
-HTML - LAST_CONNECTED                           || Ostantie polaczenie
+HTML - COMMNAND_USAGE                           || Command Usage
+HTML - CONNECTION_INFORMATION                   || Connection Information
+HTML - COUNTRY                                  || Country
+HTML - CURRENT_PLAYERBASE                       || Current Playerbase
+HTML - DATABASE_NOT_OPEN                        || Database is not open, check db status with /plan info
+HTML - DEATHS                                   || Deaths
+HTML - DISK_SPACE                               || DISK SPACE
+HTML - ENTITIES                                 || Entities
+HTML - ERROR                                    || Authentication failed due to error
+HTML - FAVORITE_SERVER                          || Favorite Server
+HTML - FREE_DISK_SPACE                          || Free Disk Space
+HTML - GEOLOCATION                              || Geolocation
+HTML - GEOLOCATION_TEXT                         || Geolocation
+HTML - HEALTH_ESTIMATE                          || Health Estimate
+HTML - INDEX_ACTIVE                             || Active
+HTML - INDEX_INACTIVE                           || Inactive
+HTML - INDEX_IRREGULAR                          || Irregular
+HTML - INDEX_REGULAR                            || Regular
+HTML - INDEX_VERY_ACTIVE                        || Very Active
+HTML - IP_ADDRESS                               || IP-address
+HTML - KILLED                                   || Killed
+HTML - KILLED_BY                                || Killed by
+HTML - LAST_24_HOURS                            || LAST 24 HOURS
+HTML - LAST_30_DAYS                             || LAST 30 DAYS
+HTML - LAST_30_DAYS_TEXT                        || Last 30 Days
+HTML - LAST_7_DAYS                              || LAST 7 DAYS
+HTML - LAST_CONNECTED                           || Last Connected
 HTML - LAST_PEAK                                || Last Peak
-HTML - LAST_SEEN                                || OSTATNIO WIDZIANY
-HTML - LAST_SEEN_TEXT                           || Ostatnio widzany
+HTML - LAST_SEEN                                || LAST SEEN
+HTML - LAST_SEEN_TEXT                           || Last Seen
 HTML - LOADED_CHUNKS                            || Zaladowane chunki
 HTML - LOADED_ENTITIES                          || Zaladowane podmioty
 HTML - LOCAL_MACHINE                            || Lokalna maszyna
-HTML - LONGEST                                  || Najdluzsze
-HTML - LOW_TPS_SPIKES                           || Niskie skoki TPS
-HTML - MOB_CAUSED_DEATHS                        || Mob zabil
+HTML - LONGEST                                  || Longest
+HTML - LOW_TPS_SPIKES                           || Najmniejsze TPS
+HTML - MOB_CAUSED_DEATHS                        || Mob caused Deaths
 HTML - MOB_KDR                                  || Mob KDR
-HTML - MOB_KILLS                                || Zabite moby
-HTML - MOST_RECENT_SESSIONS                     || Najnowsze sesje
+HTML - MOB_KILLS                                || Mob Kills
+HTML - MOST_RECENT_SESSIONS                     || Most Recent Sessions
 HTML - NAME                                     ||  Nazwa
-HTML - NAV_COMMAND_USAGE                        || Uzycie komendy
-HTML - NAV_GEOLOCATIONS                         || Geolokacje
-HTML - NAV_INFORMATION                          || Informacje
-HTML - NAV_NETWORK_PLAYERS                      || Gracze w sieci
-HTML - NAV_ONLINE_ACTIVITY                      || Aktywnosc online
-HTML - NAV_OVERVIEW                             || Przeglad
-HTML - NAV_PERFORMANCE                          || Wystep
-HTML - NAV_PLAYERS                              || Gracze
-HTML - NAV_PLUGINS                              || Pluginy
-HTML - NAV_SESSIONS                             || Sesje
-HTML - NAV_SEVER_HEALTH                         || Zycie serwera
-HTML - NETWORK                                  || Siec
-HTML - NETWORK_INFORMATION                      || INFORMACJE O SIECI
-HTML - NEW                                      || NOWY
-HTML - NEW_CALENDAR                             || Nowy:
-HTML - NEW_PLAYERS_TEXT                         || Nowi Gracze
-HTML - NEW_RETENTION                            || Utrzymanie nowego gracza
-HTML - NEW_TEXT                                 || Nowy
-HTML - NICKNAME                                 || Nick
-HTML - NO_KILLS                                 || Nikogo nie zabil
-HTML - NO_PLAYER_CAUSED_DEATHS                  || Nie zdedal
+HTML - NAV_COMMAND_USAGE                        || Command Usage
+HTML - NAV_GEOLOCATIONS                         || Geolocations
+HTML - NAV_INFORMATION                          || Information
+HTML - NAV_NETWORK_PLAYERS                      || Network Players
+HTML - NAV_ONLINE_ACTIVITY                      || Online Activity
+HTML - NAV_OVERVIEW                             || Overview
+HTML - NAV_PERFORMANCE                          || Performance
+HTML - NAV_PLAYERS                              || Players
+HTML - NAV_PLUGINS                              || Plugins
+HTML - NAV_SESSIONS                             || Sessions
+HTML - NAV_SEVER_HEALTH                         || Server Health
+HTML - NETWORK                                  || Network
+HTML - NETWORK_INFORMATION                      || NETWORK INFORMATION
+HTML - NEW                                      || NEW
+HTML - NEW_CALENDAR                             || New:
+HTML - NEW_PLAYERS_TEXT                         || New Players
+HTML - NEW_RETENTION                            || New Player Retention
+HTML - NEW_TEXT                                 || New
+HTML - NICKNAME                                 || Nickname
+HTML - NO_KILLS                                 || No Kills
+HTML - NO_PLAYER_CAUSED_DEATHS                  || No Player caused Deaths
 HTML - OFFLINE                                  ||  Offline
 HTML - ONLINE                                   ||  Online
-HTML - ONLINE_ACTIVITY                          || AKTYWNOSC W NECIE
+HTML - ONLINE_ACTIVITY                          || ONLINE ACTIVITY
 HTML - OPERATOR                                 || Operator
-HTML - OVERVIEW                                 || Przeglad
+HTML - OVERVIEW                                 || OVERVIEW
 HTML - PER_DAY                                  || / Day
-HTML - PLAYER_CAUSED_DEATHS                     || Gracz zginal
-HTML - PLAYER_KILLS                             || Graczy zabici
-HTML - PLAYER_LIST                              || Lista graczy
-HTML - PLAYERBASE_DEVELOPMENT                   || Rozwoj bazy danych
-HTML - PLAYERS                                  || GRACZY
-HTML - PLAYERS_ONLINE                           || GRACZY ONLINE
-HTML - PLAYERS_ONLINE_TEXT                      || GRACZY ONLINE
-HTML - PLAYERS_TEXT                             || Graczy
-HTML - PLAYTIME                                 || Zagrany czas
+HTML - PLAYER_CAUSED_DEATHS                     || Player caused Deaths
+HTML - PLAYER_KILLS                             || Player Kills
+HTML - PLAYER_LIST                              || Player List
+HTML - PLAYERBASE_DEVELOPMENT                   || Playerbase Development
+HTML - PLAYERS                                  || PLAYERS
+HTML - PLAYERS_ONLINE                           || PLAYERS ONLINE
+HTML - PLAYERS_ONLINE_TEXT                      || Players Online
+HTML - PLAYERS_TEXT                             || Players
+HTML - PLAYTIME                                 || Playtime
 HTML - PLEASE_WAIT                              || Prosze czekac...
-HTML - PREDICETED_RETENTION                     || Przewidywane zatrzymanie
+HTML - PREDICETED_RETENTION                     || Predicted Retention
 HTML - PUNCH_CARD                               || Punchcard
 HTML - PUNCHCARD                                || PUNCHCARD
-HTML - RECENT_LOGINS                            || OSTATNIE LOGOWANIA
-HTML - REGISTERED                               || ZAREJSTROWANY
-HTML - REGISTERED_TEXT                          || Zarejestrowany
-HTML - REGULAR                                  || Regularny
-HTML - SEEN_NICKNAMES                           || Widoczne pseudonimy
-HTML - SERVER                                   || Serwer
-HTML - SERVER_ANALYSIS                          || Analiza serwera
-HTML - SERVER_HEALTH_ESTIMATE                   || Oszacowanie kondycji serwera
-HTML - SERVER_INFORMATION                       || INFORMACJE O SERWERZE
-HTML - SERVER_PREFERENCE                        || Preferencje serwera
-HTML - SERVERS                                  || Serwery
-HTML - SESSION                                  || Sesja
-HTML - SESSION_ENDED                            || Sesja skonczona
-HTML - SESSION_LENGTH                           || Dlugosc sesji
-HTML - SESSION_MEDIAN                           || Sesja Median
-HTML - SESSIONS                                 || Sesje
-HTML - TIME                                     ||  Czas
-HTML - TIMES_KICKED                             || Czas kicka
-HTML - TIMES_USED                               || Czas uzywania
-HTML - TOTAL_ACTIVE_TEXT                        || Calkowicie online
-HTML - TOTAL_AFK                                || Calkowity czas AFK
-HTML - TOTAL_PLAYERS                            || Calkowici graczy
-HTML - TOTAL_PLAYTIME                           || Calkowity czas gry
-HTML - UNIQUE                                   || Wyjatkowy
-HTML - UNIQUE_CALENDAR                          || Wyjatkowy:
-HTML - UNIQUE_PLAYERS                           || WYJATKOWI Gracze
-HTML - UNIQUE_PLAYERS_TEXT                      || Wyjatkowi gracze
-HTML - UNIQUE_TEXT                              || Wyjatkowy
-HTML - USAGE                                    ||  Uzycie
-HTML - USED_COMMANDS                            || Uzycia komendy
-HTML - USER_AND_PASS_NOT_SPECIFIED              || Uzytkownik i haslo nie zostaly okreslone
-HTML - USER_DOES_NOT_EXIST                      || Uzytkownik nie istnieje
-HTML - USER_INFORMATION                         || UZYTKOWNIK INFO
-HTML - USER_PASS_MISMATCH                       || Uzytkownik i haslo nie pasuja
-HTML - WITH                                     || <th>Z
-HTML - WORLD                                    ||  Swiat
-HTML - WORLD_LOAD                               || Swiat zaladonwany
-HTML - WORLD_PLAYTIME                           || Czas przegrany na swiecie
-HTML - WORST_PING                               || Najgorszy ping
-HTML ERRORS - ACCESS_DENIED_403                 || nie masz dostepu
-HTML ERRORS - ANALYSIS_REFRESH                  || Analysis is being refreshed..
-HTML ERRORS - ANALYSIS_REFRESH_LONG             || Analysis is being run, refresh the page after a few seconds..
-HTML ERRORS - AUTH_FAIL_TIPS_401                || - Ensure you have registered a user with <b>/plan register</b><br>- Check that the username and password are correct<br>- Username and password are case-sensitive<br><br>If you have forgotten your password, ask a staff member to delete your old user and re-register.
-HTML ERRORS - AUTHENTICATION_FAILED_401         || Authentication Failed.
-HTML ERRORS - FORBIDDEN_403                     || Forbidden
-HTML ERRORS - INSPECT_REFRESH                   || Player page request is being processed..
-HTML ERRORS - INSPECT_REFRESH_LONG              || Page will refresh automatically..
-HTML ERRORS - NO_SERVERS_404                    || No Servers online to perform the request.
-HTML ERRORS - NOT_FOUND_404                     || Not Found
-HTML ERRORS - NOT_PLAYED_404                    || Player has not played on this server.
-HTML ERRORS - PAGE_NOT_FOUND_404                || Page does not exist.
-HTML ERRORS - PLUGIN_TAB_REFRESH                || Calculating...
-HTML ERRORS - UNAUTHORIZED_401                  || Unauthorized
-HTML ERRORS - UNKNOWN_PAGE_404                  || Make sure you're accessing a link given by a command, Examples:</p><p>/player/PlayerName<br>/server/ServerName</p>
-HTML ERRORS - UUID_404                          || Player UUID was not found in the database.
+HTML - RECENT_LOGINS                            || RECENT LOGINS
+HTML - REGISTERED                               || REGISTERED
+HTML - REGISTERED_TEXT                          || Registered
+HTML - REGULAR                                  || REGULAR
+HTML - SEEN_NICKNAMES                           || Seen Nicknames
+HTML - SERVER                                   || Server
+HTML - SERVER_ANALYSIS                          || Server Analysis
+HTML - SERVER_HEALTH_ESTIMATE                   || Server Health Estimate
+HTML - SERVER_INFORMATION                       || SERVER INFORMATION
+HTML - SERVER_PREFERENCE                        || Server Preference
+HTML - SERVERS                                  || Servers
+HTML - SESSION                                  || Session
+HTML - SESSION_ENDED                            || Session Ended
+HTML - SESSION_LENGTH                           || Session Lenght
+HTML - SESSION_MEDIAN                           || Session Median
+HTML - SESSIONS                                 || Sessions
+HTML - TIME                                     ||  Time
+HTML - TIMES_KICKED                             || Times Kicked
+HTML - TIMES_USED                               || Times Used
+HTML - TOTAL_ACTIVE_TEXT                        || Total Active
+HTML - TOTAL_AFK                                || Total AFK
+HTML - TOTAL_PLAYERS                            || Total Players
+HTML - TOTAL_PLAYTIME                           || Total Playtime
+HTML - UNIQUE                                   || UNIQUE
+HTML - UNIQUE_CALENDAR                          || Unique:
+HTML - UNIQUE_PLAYERS                           || UNIQUE PLAYERS
+HTML - UNIQUE_PLAYERS_TEXT                      || Unique Players
+HTML - UNIQUE_TEXT                              || Unique
+HTML - USAGE                                    ||  Usage
+HTML - USED_COMMANDS                            || Used Commands
+HTML - USER_AND_PASS_NOT_SPECIFIED              || User and Password not specified
+HTML - USER_DOES_NOT_EXIST                      || User does not exist
+HTML - USER_INFORMATION                         || USER INFORMATION
+HTML - USER_PASS_MISMATCH                       || User and Password did not match
+HTML - WITH                                     || <th>With
+HTML - WORLD                                    ||  World
+HTML - WORLD_LOAD                               || WORLD LOAD
+HTML - WORLD_PLAYTIME                           || World Playtime
+HTML - WORST_PING                               || Worst Ping
+HTML ERRORS - ACCESS_DENIED_403                 || Access Denied
 In Depth Help - /plan ?                         || > §2Main Command\  Access to subcommands and help\  §2/plan §fList subcommands\  §2/plan <subcommand> ? §fIn depth help
 In Depth Help - /plan analyze ?                 || > §2Analysis Command\  Refreshes server page and displays link to the web page.
 In Depth Help - /plan inspect ?                 || > §2Inspect Command\  Refreshes player page and displays link to the web page.
