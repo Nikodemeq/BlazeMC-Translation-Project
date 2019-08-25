@@ -32,7 +32,7 @@ Ranks:
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 150
     - kb kitunlocker give %player% 1
-  Zel. Elitarny Mistrz:
+  Zel Elitarny Mistrz:
     Required-Exp: 550
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 100
@@ -52,7 +52,7 @@ Ranks:
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 300
     - kb kitunlocker give %player% 1
-  Mistrz. zloty laur:
+  Mistrz zloty laur:
     Required-Exp: 1500
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 200
@@ -67,12 +67,12 @@ Ranks:
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 300
     - kb kitunlocker give %player% 2
-  Elitarny Mistrz. obronca:
+  Elitarny Mistrz obronca:
     Required-Exp: 2000
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 100
     - kb kitunlocker give %player% 1
-  Wybitny Mistrz. obronca:
+  Wybitny Mistrz obronca:
     Required-Exp: 2500
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 2000
@@ -82,12 +82,12 @@ Ranks:
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 700
     - kb kitunlocker give %player% 2
-  Mistrz. Legendarny orzel:
+  Mistrz Legendarny orzel:
     Required-Exp: 2950
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 300
     - kb kitunlocker give %player% 2
-  Mistrz. pierwsza klasa:
+  Mistrz pierwsza klasa:
     Required-Exp: 3000
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 600
