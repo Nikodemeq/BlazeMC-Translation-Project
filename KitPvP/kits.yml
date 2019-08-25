@@ -874,7 +874,7 @@ Kits:
     - '&7Szybkosc trzy.'
     - '&7Lekkkie Ulepszenie Pancerzu w tej wersji!'
     Upgraded-Version-Of: Ninja++
- Czolg+:
+  Czolg+:
     Enabled: true
     Require-Permission: false
     Item: DIAMOND_CHESTPLATE
