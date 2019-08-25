@@ -873,7 +873,7 @@ Kits:
     - '&7DIAMENTOWY MIECZYK,'
     - '&7Szybkosc trzy.'
     - '&7Lekkkie Ulepszenie Pancerzu w tej wersji!'
-     Upgraded-Version-Of: Ninja++
+    Upgraded-Version-Of: Ninja++
  Czolg+:
     Enabled: true
     Require-Permission: false
@@ -893,9 +893,9 @@ Kits:
     - '&7Zelazny miecz, lecz'
     - '&7ciezka diamentowa zbroja,'
     - '&7sprawia ze jestes wolniejszy!'
-     Upgraded-Version-Of: Czolg
-     Palma:
-     Enabled: true
+    Upgraded-Version-Of: Czolg
+  Palma:
+    Enabled: true
     Require-Permission: false
     Item: JUNGLE_SAPLING
     Price: 1500
