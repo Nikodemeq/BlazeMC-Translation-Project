@@ -833,8 +833,8 @@ Kits:
     - '&7Diamentowy miecz,'
     - '&7oraz lekka zbroja.'
     - '&7Lekkkie Ulepszenie Pancerzu w tej wersji!'
-     Upgraded-Version-Of: Ninja
-      Ninja++:
+    Upgraded-Version-Of: Ninja
+  Ninja++:
     Enabled: true
     Require-Permission: false
     Item: NETHER_STAR
