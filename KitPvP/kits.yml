@@ -757,7 +757,7 @@ Kits:
     - '&a+ Protection 2 do napierśnika'
     Upgraded-Version-Of: Pvp+
   Pvp+++:
-      Require-Permission: false
+    Require-Permission: false
     Item: DIAMOND_SWORD
     Price: 5000
     Armor:
