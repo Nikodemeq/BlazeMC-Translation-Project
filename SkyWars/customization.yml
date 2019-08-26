@@ -1,7 +1,7 @@
 # In death messages, you can add a new death detection message if you want to!
 # Here is a list of death causes https://hub.spigotmc.org/javadocs/spigot/org/bukkit/event/entity/EntityDamageEvent.DamageCause.html
 
-prefix: '&8[&6Skywars&8] '
+prefix: '&8[&6Skywars&8]&7 '
 Messages:
   No-Permission: Nie masz na to pozwolenia!
   Unknown-Command: Nie ma takiej komendy. użyj /sw, aby wyświetlić listę komend.
