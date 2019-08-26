@@ -273,7 +273,7 @@ Kits:
       Leggings: ''
       Boots: ''
     Items:
-    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:1'
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:5'
     - ''
     Abilities: []
     Potion-Effects:
@@ -348,7 +348,7 @@ Kits:
     Item: TRIPWIRE_HOOK
     Price: 350
     Armor:
-      Helmet: 'LEATHER_HELMET : 1 : dye:YELLOW'
+      Helmet: 'IRON_HELMET : 1 : dye:YELLOW'
       Chestplate: 'CHAINMAIL_CHESTPLATE : 1'
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
@@ -361,7 +361,7 @@ Kits:
     Potion-Effects: []
     Description:
     - '&7Uzyj magicznego luku, aby'
-    - '&7przywolac kurcazka!'
+    - '&7przywolac kurczaka!'
   Smok:
     Enabled: true
     Require-Permission: false
@@ -732,7 +732,7 @@ Kits:
     Description:
     - '&7Uzyj, aby nadac komus'
     - '&7spowolnienie i oslepienie!'
-  Rozdzielacz:
+  UNO REVERSE:
     Enabled: true
     Require-Permission: false
     Item: BEACON
@@ -744,7 +744,7 @@ Kits:
       Boots: 'CHAINMAIL_BOOTS : 1'
     Items:
     - 'DIAMOND_SWORD : 1'
-    - 'BEACON : 1 : name:&4Zamiana'
+    - 'BEACON : 1 : name:&4UNO REVERSE CARD'
     Abilities:
     - Sunder
     Potion-Effects: []
