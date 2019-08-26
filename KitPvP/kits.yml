@@ -984,7 +984,7 @@ Kits:
   rusekh:
     Enabled: true
     Require-Permission: false
-    Item: HEAD
+    Item: SKULL
     Price: 10000
     Armor:
       Helmet: 'DIAMOND_HELMET : 1 enchant:PROTECTION:1'
