@@ -124,28 +124,6 @@ Kits:
     - '&7Posiada dodatkowy miecz, ktory'
     - '&7zabija za pierwszym uderzeniem.'
     - '&7Ostroznie! Miecz ma tylko 1 uzycie!'
-  Asasyn Zabójca:
-    Enabled: true
-    Require-Permission: false
-    Item: GOLD_SWORD
-    Price: 3600
-    Armor:
-      Helmet: 'LEATHER_HELMET : 1 : dye:ORANGE'
-      Chestplate: 'LEATHER_CHESTPLATE : 1 : dye:ORANGE'
-      Leggings: 'LEATHER_LEGGINGS : 1 : dye:ORANGE'
-      Boots: 'LEATHER_BOOTS : 1 : dye:ORANGE'
-    Items:
-    - 'SWORD_SWORD : 1'
-    - 'GOLD_SWORD:32 : 1 : enchant:DAMAGE_ALL:999'
-    Abilities: []
-    Potion-Effects: []
-    Description:
-    - '&7Posiada dodatkowy miecz, ktory'
-    - '&7zabija za pierwszym uderzeniem.'
-    - '&7Ostroznie! Miecz ma tylko 1 uzycie!'
-    - ''
-    - '&a+ Miecz zabijający na hita!'
-    Upgraded-Version-Of: Asasyn
   Zombie:
     Enabled: true
     Require-Permission: false
@@ -1009,12 +987,12 @@ Kits:
     Item: HEAD
     Price: 10000
     Armor:
-      Helmet: 'DIAMOND_HELMET : 1 enchant:PROTECTION:10'
-      Chestplate: 'DIAMOND_CHESTPLATE : 1 enchant:PROTECTION:10'
-      Leggings: 'DIAMOND_LEGGINGS : 1 : enchant:PROTECTION:10'
-      Boots: 'DIAMOND_BOOTS : 1 : enchant:FATHER_FALLING:10'
+      Helmet: 'DIAMOND_HELMET : 1 enchant:PROTECTION:1'
+      Chestplate: 'DIAMOND_CHESTPLATE : 1 enchant:PROTECTION:1'
+      Leggings: 'DIAMOND_LEGGINGS : 1 : enchant:PROTECTION:1'
+      Boots: 'DIAMOND_BOOTS : 1 : enchant:FATHER_FALLING:1'
     Items:
-    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:5'
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:3'
     Abilities: []
     Potion-Effects:
     - 'FIRE_RESISTANCE : 999999 : 2'
