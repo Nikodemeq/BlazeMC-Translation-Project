@@ -1,7 +1,7 @@
 # In death messages, you can add a new death detection message if you want to!
 # Here is a list of death causes https://hub.spigotmc.org/javadocs/spigot/org/bukkit/event/entity/EntityDamageEvent.DamageCause.html
 
-prefix: '&7[&bSkywars&7] '
+prefix: '&7[&6Skywars&7] '
 Messages:
   No-Permission: You dont have the permission to do this!
   Unknown-Command: Unknown command! use /sw for a list of commands
@@ -116,22 +116,19 @@ Scoreboard:
     Arena: '&b> Arena:'
     Next-Event: '&b> Next event:'
 Lobby-Scoreboard:
-  Title: '&b&lSKYWARS'
+  Title: '&6&lSKYWARS'
   Content:
   - '&6&m-----------'
-  - '&b> Kills/Deaths'
-  - '%kills%/%deaths%'
-  - '&b> Coins:'
-  - '%coins%'
-  - '&b> Wins:'
-  - '%wins%'
+  - '&6Statystyki'
+  - '&eZabójstwa &f%kills%'
+  - '&eŚmierci: &f%deaths%'
+  - '&eMonety: &f%coins%'
+  - '&eWygrane: &f%wins%'
   - ' '
-  - '&b> Kit:'
-  - '%selected_kit%'
-  - '&b> Cage:'
-  - '%selected_cage%'
-  - '&b> Trail:'
-  - '%selected_trail%'
+  - '&2Ekwipunek'
+  - '&aZestaw: &f%selected_kit%'
+  - '&aKlatka: &f%selected_cage%'
+  - '&aEfekt: %selected_trail%'
   - '&6&m-----------'
 Signs:
   Title: '&3[SW]'
