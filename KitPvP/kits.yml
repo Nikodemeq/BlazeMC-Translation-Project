@@ -124,6 +124,28 @@ Kits:
     - '&7Posiada dodatkowy miecz, ktory'
     - '&7zabija za pierwszym uderzeniem.'
     - '&7Ostroznie! Miecz ma tylko 1 uzycie!'
+  Asasyn Zabójca:
+    Enabled: true
+    Require-Permission: false
+    Item: GOLD_SWORD
+    Price: 2600
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : dye:RED'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'DIAMOND_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'GOLD_SWORD:32 : 1 : enchant:DAMAGE_ALL:999'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&7Posiada dodatkowy miecz, ktory'
+    - '&7zabija za pierwszym uderzeniem.'
+    - '&7Ostroznie! Miecz ma tylko 1 uzycie!'
+    - ''
+    - '&a+ Miecz zabijający na hita!'
+    Upgraded-Version-Of: Asasyn
   Zombie:
     Enabled: true
     Require-Permission: false
