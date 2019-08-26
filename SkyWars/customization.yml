@@ -1,7 +1,7 @@
 # In death messages, you can add a new death detection message if you want to!
 # Here is a list of death causes https://hub.spigotmc.org/javadocs/spigot/org/bukkit/event/entity/EntityDamageEvent.DamageCause.html
 
-prefix: '&7[&6Skywars&7] '
+prefix: '&8[&6Skywars&8] '
 Messages:
   No-Permission: You dont have the permission to do this!
   Unknown-Command: Unknown command! use /sw for a list of commands
@@ -120,30 +120,30 @@ Lobby-Scoreboard:
   Content:
   - '&6&m-----------'
   - '&6Statystyki'
-  - '&eZabójstwa &f%kills%'
-  - '&eŚmierci: &f%deaths%'
-  - '&eMonety: &f%coins%'
-  - '&eWygrane: &f%wins%'
+  - '&eZabójstwa &7%kills%'
+  - '&eŚmierci: &7%deaths%'
+  - '&eMonety: &7%coins%'
+  - '&eWygrane: &7%wins%'
   - ' '
   - '&2Ekwipunek'
-  - '&aZestaw: &f%selected_kit%'
-  - '&aKlatka: &f%selected_cage%'
-  - '&aEfekt: %selected_trail%'
+  - '&aZestaw: &7%selected_kit%'
+  - '&aKlatka: &7%selected_cage%'
+  - '&aEfekt: &7%selected_trail%'
   - '&6&m-----------'
 Signs:
-  Title: '&3[SW]'
-  Leave: '&bleave'
-  Autojoin: '&bautojoin'
-  Join: '&bjoin'
+  Title: '&6&lSkyWars'
+  Leave: '&copusc'
+  Autojoin: '&aZagraj'
+  Join: '&fDolacz'
   Arena-Color: '4'
 States:
-  WAITING: '&aWaiting'
-  STARTING: '&eStarting'
-  INGAME: '&cIngame'
-  ENDING: '&dEnding'
-  ROLLBACKING: '&cRollbacking'
-  QUEUED: '&cQueued'
-  DISABLED: '&cDisabled'
+  WAITING: '&aOczekiwanie'
+  STARTING: '&eOdliczanie'
+  INGAME: '&cW trakcie'
+  ENDING: '&dZakonczenie'
+  ROLLBACKING: '&cPrzywracanie'
+  QUEUED: '&cW kolejce'
+  DISABLED: '&cPrzerwa Techniczna'
 Inventories:
   Profile: '&9Your profile'
   Stats: '&9Your Stats'
