@@ -732,7 +732,7 @@ Kits:
     Description:
     - '&7Uzyj, aby nadac komus'
     - '&7spowolnienie i oslepienie!'
-  UNO REVERSE:
+  Rozdzielacz:
     Enabled: true
     Require-Permission: false
     Item: BEACON
