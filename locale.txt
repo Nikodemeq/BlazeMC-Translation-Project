@@ -147,7 +147,7 @@ HTML - LAST_30_DAYS                             || OSTATNIE 30 DNI
 HTML - LAST_30_DAYS_TEXT                        || Ostatnie 30 dni
 HTML - LAST_7_DAYS                              || OSTATNIE 7 DNI
 HTML - LAST_CONNECTED                           || Last Connected
-HTML - LAST_PEAK                                || Last Peak
+HTML - LAST_PEAK                                || Ostatni Szczyt
 HTML - LAST_SEEN                                || LAST SEEN
 HTML - LAST_SEEN_TEXT                           || Last Seen
 HTML - LOADED_CHUNKS                            || Loaded Chunks
@@ -167,15 +167,15 @@ HTML - NAV_NETWORK_PLAYERS                      || Network Players
 HTML - NAV_ONLINE_ACTIVITY                      || Online Activity
 HTML - NAV_OVERVIEW                             || Overview
 HTML - NAV_PERFORMANCE                          || Performance
-HTML - NAV_PLAYERS                              || Players
-HTML - NAV_PLUGINS                              || Plugins
-HTML - NAV_SESSIONS                             || Sessions
-HTML - NAV_SEVER_HEALTH                         || Server Health
-HTML - NETWORK                                  || Network
-HTML - NETWORK_INFORMATION                      || NETWORK INFORMATION
-HTML - NEW                                      || NEW
-HTML - NEW_CALENDAR                             || New:
-HTML - NEW_PLAYERS_TEXT                         || New Players
+HTML - NAV_PLAYERS                              || Graczy
+HTML - NAV_PLUGINS                              || Pluginy
+HTML - NAV_SESSIONS                             || Sesje
+HTML - NAV_SEVER_HEALTH                         || Zdrowie Serwera
+HTML - NETWORK                                  || Siec
+HTML - NETWORK_INFORMATION                      || INFORMACJE SIECI
+HTML - NEW                                      || NOWI
+HTML - NEW_CALENDAR                             || Nowych:
+HTML - NEW_PLAYERS_TEXT                         || Nowi Gracze
 HTML - NEW_RETENTION                            || New Player Retention
 HTML - NEW_TEXT                                 || New
 HTML - NICKNAME                                 || Nickname
