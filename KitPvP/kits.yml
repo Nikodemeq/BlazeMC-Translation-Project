@@ -135,7 +135,7 @@ Kits:
       Leggings: 'LEATHER_LEGGINGS : 1 : dye:ORANGE'
       Boots: 'LEATHER_BOOTS : 1 : dye:ORANGE'
     Items:
-    - 'DIAMOND_SWORD : 1'
+    - 'SWORD_SWORD : 1'
     - 'GOLD_SWORD:32 : 1 : enchant:DAMAGE_ALL:999'
     Abilities: []
     Potion-Effects: []
