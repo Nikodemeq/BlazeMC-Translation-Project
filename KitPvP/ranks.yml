@@ -197,3 +197,53 @@ Ranks:
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 2000
     - kb kitunlocker give %player% 2
+  Elita Serwera I:
+    Required-Exp: 13000
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 2
+  Elita Serwera II:
+    Required-Exp: 14000
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 2
+  Elita Serwera III:
+    Required-Exp: 15000
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 2
+  Elita Serwera IV:
+    Required-Exp: 16000
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 2
+  Elita Serwera V:
+    Required-Exp: 17000
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 2
+  Elita Serwera VI:
+    Required-Exp: 18000
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 2
+  Elita Serwera VII:
+    Required-Exp: 19000
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 2
+  Elita Serwera VIII:
+    Required-Exp: 20000
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 2
+  Elita Serwera IX:
+    Required-Exp: 21000
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 2
+  Elita Serweraa X:
+    Required-Exp: 22000
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 2
