@@ -147,8 +147,53 @@ Ranks:
     Commands-Excuted-When-Rank-Reached:
     - kb coins add %player% 2000
     - kb kitunlocker give %player% 20
-  Globalny Master:
+  Globalny Master I:
     Required-Exp: 8000
     Commands-Excuted-When-Rank-Reached:
-    - kb coins remove %player% 50000
-    - kb kitunlocker give %player% 1
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 2
+  Globalny Master II:
+    Required-Exp: 8500
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 2
+  Globalny Master III:
+    Required-Exp: 9000
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 2
+  Globalny Master IV:
+    Required-Exp: 9500
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 2
+  Globalny Master V:
+    Required-Exp: 10000
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 2
+  Globalny Master VI:
+    Required-Exp: 10500
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 2
+  Globalny Master VII:
+    Required-Exp: 11000
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 2
+  Globalny Master VIII:
+    Required-Exp: 11500
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 2
+  Globalny Master XI:
+    Required-Exp: 12000
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 2
+  Globalny Master X:
+    Required-Exp: 125000
+    Commands-Excuted-When-Rank-Reached:
+    - kb coins add %player% 2000
+    - kb kitunlocker give %player% 2
