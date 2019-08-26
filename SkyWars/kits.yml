@@ -21,7 +21,7 @@ Kits:
     - 'FLINT_AND_STEEL : 1'
     - 'LAVA_BUCKET : 2'
     description:
-    - '&7Set everyone on fire and'
+    - '&7Set @everyone on fire and'
     - '&7watch them burn while'
     - '&7you laugh and swim in lava'
   Hunter:
