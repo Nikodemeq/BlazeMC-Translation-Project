@@ -1010,7 +1010,7 @@ Kits:
     Price: 10000
     Armor:
       Helmet: 'DIAMOND_HELMET : 1 enchant:PROTECTION:10'
-      Chestplate: 'GOLD_CHESTPLATE : 1 enchant:PROTECTION:10'
+      Chestplate: 'DIAMOND_CHESTPLATE : 1 enchant:PROTECTION:10'
       Leggings: 'DIAMOND_LEGGINGS : 1 : enchant:PROTECTION:10'
       Boots: 'DIAMOND_BOOTS : 1 : enchant:FATHER_FALLING:10'
     Items:
@@ -1018,6 +1018,6 @@ Kits:
     Abilities: []
     Potion-Effects:
     - 'FIRE_RESISTANCE : 999999 : 2'
-    - 'REGENERATION : 999999 : 1'
+    - 'REGENERATION : 999999 : 2'
     Description:
     - '&4&lNajlepsza klasa na serwerze zrobiona przez rusekh!'
