@@ -189,8 +189,31 @@ Kits:
     Abilities: []
     Potion-Effects:
     - 'HEALTH_BOOST : 999999 : 5'
+    - 'REGENERATION : 999999 : 4'
     Description:
     - '&7Posiadasz dodatkowe paski zycia!'
+  Zombie+:
+    Enabled: true
+    Require-Permission: false
+    Item: SKULL_ITEM:2
+    Price: 1000
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : dye:GREEN : enchant:PROTECTION_ENVIRONMENTAL:1'
+      Chestplate: 'IRON_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:1'
+      Leggings: 'CHAINMAIL_LEGGINGS : 1 : enchant:PROTECTION_ENVIRONMENTAL:1'
+      Boots: 'LEATHER_BOOTS : 1 : dye:GREEN : enchant:PROTECTION_ENVIRONMENTAL:1'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:2'
+    Abilities: []
+    Potion-Effects:
+    - 'HEALTH_BOOST : 999999 : 5'
+    - 'REGENERATION : 999999 : 4'
+    Description:
+    - '&7Posiadasz dodatkowe paski zycia!'
+    - ''
+    - '&a+ Sharpness II na mieczu'
+    - '&a+ Protection I do zbroi'
+    Upgraded-Version-Of: Zombie
   Kangur:
     Enabled: true
     Require-Permission: false
@@ -877,7 +900,7 @@ Kits:
     Enabled: true
     Require-Permission: false
     Item: DIAMOND_SWORD
-    Price: 2000
+    Price: 3000
     Armor:
       Helmet: 'IRON_HELMET : 1'
       Chestplate: 'IRON_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:2'
@@ -897,14 +920,14 @@ Kits:
     Enabled: true
     Require-Permission: false
     Item: DIAMOND_SWORD
-    Price: 3500
+    Price: 5000
     Armor:
       Helmet: 'DIAMOND_HELMET : 1'
       Chestplate: 'IRON_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:2'
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'DIAMOND_BOOTS : 1'
     Items:
-    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:3'
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:2'
     Abilities: []
     Potion-Effects: []
     Description:
@@ -914,6 +937,51 @@ Kits:
     - '&a+ Diamentowe Buty'
     - '&a+ Diamentowy Helm'
     Upgraded-Version-Of: Pvp+++
+  PvP Elita:
+    Enabled: true
+    Require-Permission: false
+    Item: DIAMOND_SWORD
+    Price: 40000
+    Armor:
+      Helmet: 'DIAMOND_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:2'
+      Leggings: 'DIAMOND_LEGGINGS : 1'
+      Boots: 'DIAMOND_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:2'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&7Twój pierwszy zestaw, otrzymany w prezencie!'
+    - '&a+ Sharpness 3 do miecza'
+    - '&a+ Protection 3 do napierśnika'
+    - '&a+ Diamentowe Buty'
+    - '&a+ Diamentowy Helm'
+    - '&a+ Diamentowe Spodnie'
+    Upgraded-Version-Of: PvP Master
+  PvP Elita Globalna:
+    Enabled: true
+    Require-Permission: false
+    Item: DIAMOND_SWORD
+    Price: 55000
+    Armor:
+      Helmet: 'DIAMOND_HELMET : 1'
+      Chestplate: 'DIAMOND_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:1'
+      Leggings: 'DIAMOND_LEGGINGS : 1'
+      Boots: 'DIAMOND_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:2'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&7Twój pierwszy zestaw, otrzymany w prezencie!'
+    - '&a+ Sharpness 3 do miecza'
+    - '&a+ Protection 3 do napierśnika'
+    - '&a+ Diamentowe Buty'
+    - '&a+ Diamentowy Helm'
+    - '&a+ Diamentowe Spodnie'
+    - '&a+ Diamentowa Klata'
+    Upgraded-Version-Of: PvP Elita
   Lucznik+:
     Enabled: true
     Require-Permission: false
@@ -999,17 +1067,17 @@ Kits:
     Enabled: true
     Require-Permission: false
     Item: DIAMOND_CHESTPLATE
-    Price: 10000
+    Price: 5000
     Armor:
       Helmet: 'DIAMOND_HELMET : 1'
       Chestplate: 'DIAMOND_CHESTPLATE : 1'
       Leggings: 'DIAMOND_LEGGINGS : 1'
       Boots: 'DIAMOND_BOOTS : 1'
     Items:
-    - 'DIAMOND_SWORD : 1'
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:2'
     Abilities: []
     Potion-Effects:
-    - 'SLOW : 999999 : 2'
+    - 'SLOW : 999999 : 1'
     Description:
     - '&7Zelazny miecz, lecz'
     - '&7ciezka diamentowa zbroja,'
