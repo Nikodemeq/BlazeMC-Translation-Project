@@ -61,7 +61,7 @@ Messages:
   Kit-Receive: Otrzymałeś swój &a%kit% &7kit przedmiotów!
   Game-Cancel: Gra została anulowana, ponieważ przekroczyła limit czasu!
   Chests-Refill: Skrzynie zostały napełnione!
-  Arena-Borders-Leave: '&cNie możesz opuścić granic areny!'
+  Arena-Borders-Leave: '&cNie spierdalaj za arene!'
   Arena-Borders-Outside: '&cJesteś poza granicami areny!'
   Arena-Finish: '&aGratulację! &7wygrałeś arenę!'
   Arena-Finish-Prize: Otrzymałeś &d%Monety% &7Monety dla zwycięzcy!
@@ -83,7 +83,7 @@ Messages:
   Player-Movement-Disabled: Nie ruszaj się za &d%seconds% &7sekund!
   Arrow-Hit: '&e%player% &7jest teraz włączony &c%health% %heart%&e!'
   Item-Owned: '&cTen przedmiot został już zakupiony!'
-  Reload-Kick: Plugin został ponownie załadowany! Z tego powodu zostałeś wyrzucony.
+  Reload-Kick: Plugin został ponownie załadowany! Z tego powodu zostałeś wypierdolony w czasoprzestrzeń.
 Death-Messages:
   FALL: '&e%player% &7Padł na śmierć!'
   ENTITY_ATTACK: '&e%player% &7Został zabity przez potwora!'
@@ -99,10 +99,10 @@ Death-Messages:
   PLAYER:
     SUICIDE: '&e%player% &7Zabił się!'
     OTHER:
-    - '&c%player% &eZostał zabity przeż &a%killer%&e!'
-    - '&c%player% &został brutalnie zabity przez &a%killer%&e!'
-    - '&c%player% &eBroń nie mogła się oprzeć &a%killer%&e!'
-    - '&a%killer% &epodał pomocną broń &c%player% &ezginął!'
+    - '&c%player% &eZostał zabity przez &a%killer%&e!'
+    - '&c%player% &Został wyczyszczony przez &a%killer%&e!'
+    - '&c%player% &eNie umiał się obronić przed &a%killer%&e!'
+    - '&a%killer% &eWywalił &c%player% &ew czasoprzestrzeń!'
     - '&a%killer% &eNie mógł się oprzeć zabiciu &c%player%&e!'
 Scoreboard:
   Title: '&6&lSKYWARS'
