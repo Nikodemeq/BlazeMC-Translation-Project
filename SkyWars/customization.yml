@@ -24,12 +24,12 @@ Messages:
   Invalid-Item: Nieprawidłowy przedmiot!
   Not-Enough-Coins: Nie masz wystarczająco monet, aby to zrobić!
   Not-Enough-Space: Nie masz wystarczająco dużo miejsca w ekwipunku, aby to zrobić!
-  Item-Purchase: &asuccessfully &7Kupiłeś przedmiot!
+  Item-Purchase: '&aBrawo! &7Kupiłeś przedmiot!'
   Item-Select: 'You have selected the item: &a%item%'
   Cooldown: Musisz poczekać &d%seconds% &7sekund by to zrobić ponownie!
   Unknown-Player: Nie można znaleźć tego gracza!
   No-Available-Items: Brak dostępnych przedmiotów do odblokowania!
-  Mystery-Box-Item-Unlock: '&aCongratulations! &7Odblokowałeś przedmiot: %item%'
+  Mystery-Box-Item-Unlock: '&aBrawo! &7Odblokowałeś przedmiot: %item%'
   Party-New-Leader: '&e%player% &7Jest nowym liderem party!'
   Party-Unknown-Player: Nie można znaleźć tego gracza w twoim party!
   Party-Self-Invite: Nie możesz zaprosić, siebie!
@@ -165,7 +165,8 @@ Inventories:
 Items:
   Quit: 'MAGMA_CREAM : name:&cQuit : lore:&7Click By wyjść z gry!'
   Play: 'DIAMOND_AXE : name:&6Play : lore:&7Click By dołączyć do gry!'
-  Shop: 'EMERALD : name:&aShop : lore:&7Click By kupić przedmiot!'               Profile: 'SKULL_ITEM:3 : name:&bProfile : lore:&7Kliknij, żeby wyświetlić profil!'
+  Shop: 'EMERALD : name:&aShop : lore:&7Click By kupić przedmiot!'
+  Profile: 'SKULL_ITEM:3 : name:&bProfile : lore:&7Kliknij, żeby wyświetlić profil!'
   Inventory: 'CHEST : name:&bEkwipunek'
   Achievements: 'ENDER_CHEST : name:&dOsiągnięcia'
   Stats: 'PAPER : name:&aStatystyki'
