@@ -1137,3 +1137,24 @@ Kits:
     - ''
     - '&a+ Teraz jest rzeczywiscie najlepsza'
     Upgraded-Version-Of: rusekh
+  rusekh++++++++++++++++++:
+    Enabled: true
+    Require-Permission: false
+    Item: BEDROCK
+    Price: 1000000
+    Armor:
+      Helmet: 'IRON_HELMET : 1 : enchant:PROTECTION_ENVIRONMENTAL:10'
+      Chestplate: 'DIAMOND_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:10'
+      Leggings: 'DIAMOND_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:10'
+      Boots: 'IRON_BOOTS : 1 : enchant:PROTECTION_ENVIRONMENTAL:10'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:8'
+    Abilities: []
+    Potion-Effects:
+    - 'FIRE_RESISTANCE : 999999 : 2'
+    - 'REGENERATION : 999999 : 2'
+    Description:
+    - '&7Najlepsza klasa na serwerze zrobiona przez rusekh!'
+    - ''
+    - '&a+ Teraz serio 100% scam 0% legit jest najlepsza!'
+    Upgraded-Version-Of: rusekh elita swiatowa++++  
