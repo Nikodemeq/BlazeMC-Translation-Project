@@ -1125,7 +1125,7 @@ Kits:
     Armor:
       Helmet: 'IRON_HELMET : 1 : enchant:PROTECTION_ENVIRONMENTAL:1'
       Chestplate: 'DIAMOND_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:1'
-      Leggings: 'DIAMOND_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:1'
+      Leggings: 'DIAMOND_LEGGINGS : 1 : enchant:PROTECTION_ENVIRONMENTAL:1'
       Boots: 'IRON_BOOTS : 1 : enchant:PROTECTION_ENVIRONMENTAL:1'
     Items:
     - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:6'
@@ -1145,7 +1145,7 @@ Kits:
     Armor:
       Helmet: 'IRON_HELMET : 1 : enchant:PROTECTION_ENVIRONMENTAL:10'
       Chestplate: 'DIAMOND_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:10'
-      Leggings: 'DIAMOND_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:10'
+      Leggings: 'DIAMOND_LEGGINGS : 1 : enchant:PROTECTION_ENVIRONMENTAL:10'
       Boots: 'IRON_BOOTS : 1 : enchant:PROTECTION_ENVIRONMENTAL:10'
     Items:
     - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:8'
