@@ -23,46 +23,11 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:1'
     Abilities: []
     Potion-Effects: []
     Description:
-      - '&bTwój pierwszy zestaw, otrzymany w prezencie!'
+    - '&7Twój pierwszy zestaw, otrzymany w prezencie!'
   Lucznik:
     Enabled: true
     Require-Permission: false
@@ -74,47 +39,14 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'BOW : 1 : enchant:ARROW_DAMAGE:1'
-      - 'ARROW : 64'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'BOW : 1 : enchant:ARROW_DAMAGE:1'
+    - 'ARROW : 64'
     Abilities: []
     Potion-Effects: []
     Description:
-      - '&bTen zestaw posiada lekki miecz,'
-      - '&boraz mocny łuk i strzały!'
+    - '&7Ten zestaw posiada lekki miecz,'
+    - '&7oraz mocny łuk i strzały!'
   Ninja:
     Enabled: true
     Require-Permission: false
@@ -126,49 +58,14 @@ Kits:
       Leggings: 'CHAINMAIL_LEGGINGS : 1'
       Boots: 'DIAMOND_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
     Abilities: []
     Potion-Effects:
-      - 'SPEED : 999999 : 2'
+    - 'SPEED : 999999 : 2'
     Description:
-      - '&bDiamentowy miecz,'
-      - '&boraz lekka zbroja.'
-      - '&bNinja otrzymuje super szybkosc II!'
+    - '&7Diamentowy miecz,'
+    - '&7oraz lekka zbroja.'
+    - '&7Ninja otrzymuje super szybkosc II!'
   Czolg:
     Enabled: true
     Require-Permission: false
@@ -180,49 +77,14 @@ Kits:
       Leggings: 'DIAMOND_LEGGINGS : 1'
       Boots: 'DIAMOND_BOOTS : 1'
     Items:
-      - 'IRON_SWORD : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'IRON_SWORD : 1'
     Abilities: []
     Potion-Effects:
-      - 'SLOW : 999999 : 2'
+    - 'SLOW : 999999 : 2'
     Description:
-      - '&bZelazny miecz, lecz'
-      - '&bciezka diamentowa zbroja,'
-      - '&bsprawia ze jestes wolniejszy!'
+    - '&7Zelazny miecz, lecz'
+    - '&7ciezka diamentowa zbroja,'
+    - '&7sprawia ze jestes wolniejszy!'
   Piroman:
     Enabled: true
     Require-Permission: false
@@ -234,48 +96,65 @@ Kits:
       Leggings: 'LEATHER_LEGGINGS : 1 : enchant:PROTECTION_FIRE:5'
       Boots: 'IRON_BOOTS : 1 : enchant:PROTECTION_FIRE:5'
     Items:
-      - 'IRON_SWORD : 1 : enchant:FIRE_ASPECT:1'
-      - 'BOW : 1 : enchant:ARROW_FIRE:1'
-      - 'ARROW : 64'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'IRON_SWORD : 1 : enchant:FIRE_ASPECT:1'
+    - 'BOW : 1 : enchant:ARROW_FIRE:1'
+    - 'ARROW : 64'
     Abilities: []
     Potion-Effects: []
     Description:
-      - '&bMiecz, oraz luk,'
-      - '&bpodpalajace przeciwnikóW!'
-      - '&bZbroja czyni cie odpornym na ogien.'
+    - '&7Miecz, oraz luk,'
+    - '&7podpalajace przeciwnikóW!'
+    - '&7Zbroja czyni cie odpornym na ogien.'
+  Piroman+:
+    Enabled: true
+    Require-Permission: false
+    Item: FLINT_AND_STEEL
+    Price: 500
+    Armor:
+      Helmet: 'DIAMOND_HELMET : 1 : enchant:PROTECTION_FIRE:5'
+      Chestplate: 'IRON_CHESTPLATE : 1 : enchant:PROTECTION_FIRE:5'
+      Leggings: 'DIAMOND_LEGGINGS : 1 : enchant:PROTECTION_FIRE:5'
+      Boots: 'IRON_BOOTS : 1 : enchant:PROTECTION_FIRE:5'
+    Items:
+    - 'IRON_SWORD : 1 : enchant:FIRE_ASPECT:1'
+    - 'BOW : 1 : enchant:ARROW_FIRE:1'
+    - 'ARROW : 64'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&7Miecz, oraz luk,'
+    - '&7podpalajace przeciwnikóW!'
+    - '&7Zbroja czyni cie odpornym na ogien.'
+    - ''
+    - '&a+ Diamentowy Helm'
+    - '&a+ Diamentowe Spodnie'
+    Upgraded-Version-Of: Piroman
+  Piroman++:
+    Enabled: true
+    Require-Permission: false
+    Item: FLINT_AND_STEEL
+    Price: 500
+    Armor:
+      Helmet: 'DIAMOND_HELMET : 1 : enchant:PROTECTION_FIRE:5 : enchant:PROTECTION_ENVIRONMENTAL:2'
+      Chestplate: 'IRON_CHESTPLATE : 1 : enchant:PROTECTION_FIRE:5 : enchant:PROTECTION_ENVIRONMENTAL:2'
+      Leggings: 'DIAMOND_LEGGINGS : 1 : enchant:PROTECTION_FIRE:5 : enchant:PROTECTION_ENVIRONMENTAL:2'
+      Boots: 'IRON_BOOTS : 1 : enchant:PROTECTION_FIRE:5 : enchant:PROTECTION_ENVIRONMENTAL:2'
+    Items:
+    - 'IRON_SWORD : 1 : enchant:FIRE_ASPECT:1'
+    - 'BOW : 1 : enchant:ARROW_FIRE:1 : enchant:ARROW_DAMAGE:3'
+    - 'ARROW : 64'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&7Miecz, oraz luk,'
+    - '&7podpalajace przeciwnikóW!'
+    - '&7Zbroja czyni cie odpornym na ogien.'
+    - ''
+    - '&a+ Diamentowy Helm'
+    - '&a+ Diamentowe Spodnie'
+    - '&a+ Protection II do całej zbroi'
+    - '&a+ Moc III do łuku'
+    Upgraded-Version-Of: Piroman+
   Asasyn:
     Enabled: true
     Require-Permission: false
@@ -287,48 +166,14 @@ Kits:
       Leggings: 'LEATHER_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'GOLD_SWORD:32 : 1 : enchant:DAMAGE_ALL:22'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'GOLD_SWORD:32 : 1 : enchant:DAMAGE_ALL:22'
     Abilities: []
     Potion-Effects: []
     Description:
-      - '&bPosiada dodatkowy miecz, ktory'
-      - '&bzabija za pierwszym uderzeniem.'
-      - '&bOstroznie! Miecz ma tylko 1 uzycie!'
+    - '&7Posiada dodatkowy miecz, ktory'
+    - '&7zabija za pierwszym uderzeniem.'
+    - '&7Ostroznie! Miecz ma tylko 1 uzycie!'
   Zombie:
     Enabled: true
     Require-Permission: false
@@ -340,47 +185,35 @@ Kits:
       Leggings: 'CHAINMAIL_LEGGINGS : 1'
       Boots: 'LEATHER_BOOTS : 1 : dye:GREEN'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
     Abilities: []
     Potion-Effects:
-      - 'HEALTH_BOOST : 999999 : 5'
+    - 'HEALTH_BOOST : 999999 : 5'
+    - 'REGENERATION : 999999 : 4'
     Description:
-      - '&bPosiadasz dodatkowe paski zycia!'
+    - '&7Posiadasz dodatkowe paski zycia!'
+  Zombie+:
+    Enabled: true
+    Require-Permission: false
+    Item: SKULL_ITEM:2
+    Price: 1000
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : dye:GREEN : enchant:PROTECTION_ENVIRONMENTAL:1'
+      Chestplate: 'IRON_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:1'
+      Leggings: 'CHAINMAIL_LEGGINGS : 1 : enchant:PROTECTION_ENVIRONMENTAL:1'
+      Boots: 'LEATHER_BOOTS : 1 : dye:GREEN : enchant:PROTECTION_ENVIRONMENTAL:1'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:2'
+    Abilities: []
+    Potion-Effects:
+    - 'HEALTH_BOOST : 999999 : 5'
+    - 'REGENERATION : 999999 : 4'
+    Description:
+    - '&7Posiadasz dodatkowe paski zycia!'
+    - ''
+    - '&a+ Sharpness II na mieczu'
+    - '&a+ Protection I do zbroi'
+    Upgraded-Version-Of: Zombie
   Kangur:
     Enabled: true
     Require-Permission: false
@@ -392,51 +225,17 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'DIAMOND_BOOTS : 1 : enchant:PROTECTION_FALL:5'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'FIREWORK : 1 : name:&cRakieta Wystrzalu'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'FIREWORK : 1 : name:&cRakieta Wystrzalu'
     Abilities:
-      - Kangaroo
+    - Kangaroo
     Potion-Effects: []
     Description:
-      - '&bSpecjalna rakieta,'
-      - '&bktóra wystrzeli cie w'
-      - '&bkierunku którym patrzysz!'
-      - '&bCiekawostka: Trzymajac shift,'
-      - '&bzostaniesz wystrzelony do przodu!'
+    - '&7Specjalna rakieta,'
+    - '&7która wystrzeli cie w'
+    - '&7kierunku którym patrzysz!'
+    - '&7Ciekawostka: Trzymajac shift,'
+    - '&7zostaniesz wystrzelony do przodu!'
   Hades:
     Enabled: true
     Require-Permission: false
@@ -448,48 +247,14 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'LEATHER_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'BONE : 1 : name:&cKosc Hadesa'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'BONE : 1 : name:&cKosc Hadesa'
     Abilities:
-      - Hades
+    - Hades
     Potion-Effects: []
     Description:
-      - '&bPrzywolaj psy, które'
-      - '&bpomoga ci w walce!'
+    - '&7Przywolaj psy, które'
+    - '&7pomoga ci w walce!'
   Zmieniacz:
     Enabled: true
     Require-Permission: false
@@ -501,48 +266,14 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'SNOW_BALL : 16 : name:&cZamiana!'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'SNOW_BALL : 16 : name:&cZamiana!'
     Abilities:
-      - Switcher
+    - Switcher
     Potion-Effects: []
     Description:
-      - '&bRrzucaj sniezką która,'
-      - '&bzamieni twoja lokalizacje z innym graczem!'
+    - '&7Rrzucaj sniezką która,'
+    - '&7zamieni twoja lokalizacje z innym graczem!'
   Thor:
     Enabled: true
     Require-Permission: false
@@ -554,48 +285,14 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'WOOD_AXE : 1 : name:&cMłot thora!'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'WOOD_AXE : 1 : name:&cMłot thora!'
     Abilities:
-      - Thor
+    - Thor
     Potion-Effects: []
     Description:
-      - '&bOtrzymal młot którym,'
-      - '&bmozesz przywolac pioruny na przeciwnika!'
+    - '&7Otrzymal młot którym,'
+    - '&7mozesz przywolac pioruny na przeciwnika!'
   Skoczek:
     Enabled: true
     Require-Permission: false
@@ -607,50 +304,15 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:1'
     Abilities:
-      - Stomper
+    - Stomper
     Potion-Effects: []
     Description:
-      - '&bSkocz na kogos z wysokosci,'
-      - '&bAby zadac mu obrazenia!'
-      - '&bIm wyzej skoczysz, tym wiecej'
-      - '&bobrazen zadajesz!'
+    - '&7Skocz na kogos z wysokosci,'
+    - '&7Aby zadac mu obrazenia!'
+    - '&7Im wyzej skoczysz, tym wiecej'
+    - '&7obrazen zadajesz!'
   Duch:
     Enabled: true
     Require-Permission: false
@@ -662,49 +324,15 @@ Kits:
       Leggings: ''
       Boots: ''
     Items:
-      - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:1'
-      - ''
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:5'
+    - ''
     Abilities: []
     Potion-Effects:
-      - 'INVISIBILITY : 999999 : 1'
+    - 'INVISIBILITY : 999999 : 1'
     Description:
-      - '&bJestes niewidzialny!'
-      - '&bNie posiadasz zbroi,'
-      - '&bmusisz atakowac z ukrycia!'
+    - '&7Jestes niewidzialny!'
+    - '&7Nie posiadasz zbroi,'
+    - '&7musisz atakowac z ukrycia!'
   Gornik:
     Enabled: true
     Require-Permission: false
@@ -716,51 +344,16 @@ Kits:
       Leggings: 'LEATHER_LEGGINGS : 1 : dye:YELLOW'
       Boots: 'LEATHER_BOOTS : 1 : dye:YELLOW'
     Items:
-      - 'STONE_SWORD : 1 : enchant:DURABILITY:3'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'STONE_SWORD : 1 : enchant:DURABILITY:3'
     Abilities: []
     Potion-Effects:
-      - 'INCREASE_DAMAGE : 999999 : 1'
-      - 'SPEED : 999999 : 1'
-      - 'NIGHT_VISION : 999999 : 1'
+    - 'INCREASE_DAMAGE : 999999 : 1'
+    - 'SPEED : 999999 : 1'
+    - 'NIGHT_VISION : 999999 : 1'
     Description:
-      - '&bPosiadasz dodatkowe efekty!'
-      - '&bTakie jak: Sila I,'
-      - 'oraz szybkosc!'
+    - '&7Posiadasz dodatkowe efekty!'
+    - '&7Takie jak: Sila I,'
+    - '&7oraz szybkosc!'
   Spiderman:
     Enabled: true
     Require-Permission: false
@@ -772,48 +365,14 @@ Kits:
       Leggings: 'DIAMOND_LEGGINGS : 1'
       Boots: 'DIAMOND_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'WEB : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'WEB : 1'
     Abilities:
-      - Spiderman
+    - Spiderman
     Potion-Effects: []
     Description:
-      - '&bUzyj umiejetnosci, aby'
-      - '&brzucic pajeczyny na kogos!'
+    - '&7Uzyj umiejetnosci, aby'
+    - '&7rzucic pajeczyny na kogos!'
   Wiezien:
     Enabled: true
     Require-Permission: false
@@ -825,102 +384,35 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'DISPENSER : 1 : name:&4Rzuc aby uwiezic!'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'DISPENSER : 1 : name:&4Rzuc aby uwiezic!'
     Abilities:
-      - Prisoner
+    - Prisoner
     Potion-Effects: []
     Description:
-      - '&bUzyj umiejetnosci,'
-      - '&baby zamknac kogos w wiezieniu...'
-      - '&bz lawą w srodku!'
+    - '&7Uzyj umiejetnosci,'
+    - '&7aby zamknac kogos w wiezieniu...'
+    - '&7z lawą w srodku!'
   Alpinista:
     Enabled: true
     Require-Permission: false
     Item: TRIPWIRE_HOOK
     Price: 350
     Armor:
-      Helmet: 'LEATHER_HELMET : 1 : dye:YELLOW'
+      Helmet: 'IRON_HELMET : 1 : dye:YELLOW'
       Chestplate: 'CHAINMAIL_CHESTPLATE : 1'
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'BOW : 1 : enchant:ARROW_INFINITE:1'
-      - 'ARROW : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'BOW : 1 : enchant:ARROW_INFINITE:1'
+    - 'ARROW : 1'
     Abilities:
-      - Climber
+    - Climber
     Potion-Effects: []
     Description:
-      - '&bUzyj magicznego luku, aby'
-      - '&bprzywolac kurcazka!'
+    - '&7Uzyj magicznego luku, aby'
+    - '&7przywolac kurczaka!'
   Smok:
     Enabled: true
     Require-Permission: false
@@ -932,49 +424,39 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'LEATHER_BOOTS : 1 : dye:RED'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'FIREBALL : 1 : name:&cMoc ognia!'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'FIREBALL : 1 : name:&cMoc ognia!'
     Abilities:
-      - Dragon
+    - Dragon
     Potion-Effects:
-      - 'FIRE_RESISTANCE : 999999 : 1'
+    - 'FIRE_RESISTANCE : 999999 : 1'
     Description:
-      - '&bMozesz podpalac innych!'
-      - '&bJestes tez odporny na ogien!'
+    - '&7Mozesz podpalac innych!'
+    - '&7Jestes tez odporny na ogien!'
+  Smok+:
+    Enabled: true
+    Require-Permission: false
+    Item: FIREBALL
+    Price: 1000
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1 : dye:RED'
+      Chestplate: 'DIAMOND_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:2'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'LEATHER_BOOTS : 1 : dye:RED'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:1'
+    - 'FIREBALL : 1 : name:&cMoc ognia!'
+    Abilities:
+    - Dragon
+    Potion-Effects:
+    - 'FIRE_RESISTANCE : 999999 : 1'
+    Description:
+    - '&7Mozesz podpalac innych!'
+    - '&7Jestes tez odporny na ogien!'
+    - ''
+    - '&a+ Sharpness I do miecza'
+    - '&a+ Protection I do klaty'
+    Upgraded-Version-Of: Smok
   Creeper:
     Enabled: true
     Require-Permission: false
@@ -986,49 +468,35 @@ Kits:
       Leggings: 'LEATHER_LEGGINGS : 1 : dye:RED'
       Boots: 'LEATHER_BOOTS : 1 : dye:RED'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'REDSTONE_TORCH_ON : 1 : name:&cCreeper, aw man!'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'REDSTONE_TORCH_ON : 1 : name:&cCreeper, aw man!'
     Abilities:
-      - Suicidal
+    - Suicidal
     Potion-Effects:
-      - 'SPEED : 999999 : 1'
+    - 'SPEED : 999999 : 1'
     Description:
-      - '&bUzyj pochodni aby'
-      - '&bWysadzic siebie i innych!'
+    - '&7Uzyj pochodni aby'
+    - '&7Wysadzic siebie i innych!'
+  Naladowany Creeper:
+    Enabled: true
+    Require-Permission: false
+    Item: TNT
+    Price: 250
+    Armor:
+      Helmet: ''
+      Chestplate: 'LEATHER_CHESTPLATE : 1 : dye:RED'
+      Leggings: ''
+      Boots: ''
+    Items:
+    - 'REDSTONE_TORCH_ON : 1 : name:&cCreeper, aw man!'
+    Abilities:
+    - Suicidal
+    Potion-Effects:
+    - 'SPEED : 999999 : 3'
+    Description:
+    - '&7Uzyj pochodni aby'
+    - '&7Wysadzic siebie i innych!'
+    Upgraded-Version-Of: Creeper
   Fantom:
     Enabled: true
     Require-Permission: false
@@ -1040,48 +508,14 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'BOOK : 1 : name:&cLatanie!!'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'BOOK : 1 : name:&cLatanie!!'
     Abilities:
-      - Phantom
+    - Phantom
     Potion-Effects: []
     Description:
-      - '&bPosiadasz umiejetnosc latania!'
-      - '&bUwazaj, masz tylko 5 sekund!'
+    - '&7Posiadasz umiejetnosc latania!'
+    - '&7Uwazaj, masz tylko 5 sekund!'
   Timelord:
     Enabled: true
     Require-Permission: false
@@ -1093,50 +527,16 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'LEATHER_BOOTS : 1 : dye:BLACK'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'WATCH : 1 : name:&cMaszyna Czasu!'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'WATCH : 1 : name:&cMaszyna Czasu!'
     Abilities:
-      - Timelord
+    - Timelord
     Potion-Effects: []
     Description:
-      - '&bZatrzymaj czas!'
-      - '&bW ten sposób zamrozisz graczy'
-      - '&bdookola ciebie!'
-      - '&bPoczuj sie jak Thanos (?)'
+    - '&7Zatrzymaj czas!'
+    - '&7W ten sposób zamrozisz graczy'
+    - '&7dookola ciebie!'
+    - '&7Poczuj sie jak Thanos (?)'
   Rybak:
     Enabled: true
     Require-Permission: false
@@ -1148,49 +548,15 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'LEATHER_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:1'
-      - 'FISHING_ROD : 1 : enchant:DURABILITY:2'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:1'
+    - 'FISHING_ROD : 1 : enchant:DURABILITY:2'
     Abilities:
-      - Fisherman
+    - Fisherman
     Potion-Effects: []
     Description:
-      - '&bMarzyles zeby zostac wedkarzem?'
-      - '&bZamiast lowic ryby, bedziesz'
-      - '&blowil i przyciagal graczy! (XD)'
+    - '&7Marzyles zeby zostac wedkarzem?'
+    - '&7Zamiast lowic ryby, bedziesz'
+    - '&7lowil i przyciagal graczy! (XD)'
   Budowniczy:
     Enabled: true
     Require-Permission: false
@@ -1202,49 +568,38 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'BRICK : 1 : name:&cZbuduj Pokój'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'BRICK : 1 : name:&cZbuduj Pokój'
     Abilities:
-      - Burrower
+    - Burrower
     Potion-Effects: []
     Description:
-      - '&bMozesz szybko zbudowac pokój dookola ciebie'
-      - '&bw powietrzu, aby byc bezpiecznym,'
-      - '&bi zregenerowac zycie!'
+    - '&7Mozesz szybko zbudowac pokój dookola ciebie'
+    - '&7w powietrzu, aby byc bezpiecznym,'
+    - '&7i zregenerowac zycie!'
+  Budowniczy+:
+    Enabled: true
+    Require-Permission: false
+    Item: BRICK
+    Price: 550
+    Armor:
+      Helmet: 'DIAMOND_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'DIAMOND_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'BRICK : 1 : name:&cZbuduj Pokój'
+    Abilities:
+    - Burrower
+    Potion-Effects: []
+    Description:
+    - '&7Mozesz szybko zbudowac pokój dookola ciebie'
+    - '&7w powietrzu, aby byc bezpiecznym,'
+    - '&7i zregenerowac zycie!'
+    - '&7'
+    - '&a+ Diamentowy Helm + Buty'
+    Upgraded-Version-Of: Budowniczy
   Zen:
     Enabled: true
     Require-Permission: false
@@ -1256,48 +611,14 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'SLIME_BALL : 1 : name:&cTeleportacja!'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'SLIME_BALL : 1 : name:&cTeleportacja!'
     Abilities:
-      - Zen
+    - Zen
     Potion-Effects: []
     Description:
-      - '&bPrzeteleportuj sie do'
-      - '&bnajblizszego gracza!'
+    - '&7Przeteleportuj sie do'
+    - '&7najblizszego gracza!'
   Wiking:
     Enabled: true
     Require-Permission: false
@@ -1309,47 +630,12 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_AXE : 1 : enchant:DAMAGE_ALL:1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_AXE : 1 : enchant:DAMAGE_ALL:1'
     Abilities: []
     Potion-Effects: []
     Description:
-      - '&bKlasyczny zestaw,'
-      - '&bz mocną siekierą zamiast miecza.'
+    - '&7Klasyczny zestaw,'
+    - '&7z mocną siekierą zamiast miecza.'
   Zmija:
     Enabled: true
     Require-Permission: false
@@ -1361,48 +647,13 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
     Abilities:
-      - Viper
+    - Viper
     Potion-Effects: []
     Description:
-      - '&bPosiadasz szanse, ze twoj atak'
-      - '&bzatruje przeciwnika!'
+    - '&7Posiadasz szanse, ze twoj atak'
+    - '&7zatruje przeciwnika!'
   Mnich:
     Enabled: true
     Require-Permission: false
@@ -1414,49 +665,15 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'BLAZE_ROD : 1 : name:&cUzyj na graczu!'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'BLAZE_ROD : 1 : name:&cUzyj na graczu!'
     Abilities:
-      - Monk
+    - Monk
     Potion-Effects: []
     Description:
-      - '&bUzyj mocy która zamieni'
-      - '&bprzedmiot który trzyma przeciwnik'
-      - '&bna zupelnie losową!'
+    - '&7Uzyj mocy która zamieni'
+    - '&7przedmiot który trzyma przeciwnik'
+    - '&7na zupelnie losową!'
   Wampir:
     Enabled: true
     Require-Permission: false
@@ -1468,51 +685,17 @@ Kits:
       Leggings: 'LEATHER_LEGGINGS : 1 : dye:RED'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:1'
-      - 'REDSTONE : 1 : name:&cKliknij aby aktywowac'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:1'
+    - 'REDSTONE : 1 : name:&cKliknij aby aktywowac'
     Abilities:
-      - Dracula
+    - Dracula
     Potion-Effects: []
     Description:
-      - '&bUzyj mocy, aby przejac'
-      - '&befekty mikstur przeciwnika!'
-      - '&bDziala tylko na kilka sekund!'
+    - '&7Uzyj mocy, aby przejac'
+    - '&7efekty mikstur przeciwnika!'
+    - '&7Dziala tylko na kilka sekund!'
   Hulk:
-    Enabled: true
+    Enabled: false
     Require-Permission: false
     Item: PISTON_STICKY_BASE
     Price: 900
@@ -1522,99 +705,30 @@ Kits:
       Leggings: 'CHAINMAIL_LEGGINGS : 1'
       Boots: 'LEATHER_BOOTS : 1 : dye:GREEN'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'PISTON_STICKY_BASE : 1 : name:&cBum!'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'PISTON_STICKY_BASE : 1 : name:&cBum!'
     Abilities:
-      - Hulk
+    - Hulk
     Potion-Effects: []
     Description:
-      - '&bPokaz swoją wscieklosc!!'
-      - '&bWyrzucaj bloki i graczy w powietrze!'
+    - '&7Pokaz swoją wscieklosc!!'
+    - '&7Wyrzucaj bloki i graczy w powietrze!'
   Kaktus:
     Enabled: true
     Require-Permission: false
     Item: CACTUS
     Price: 700
     Armor:
-      Helmet: 'IRON_HELMET : 1 : enchant:THORNS:2'
-      Chestplate: 'IRON_CHESTPLATE : 1 : enchant:THORNS:2'
-      Leggings: 'LEATHER_LEGGINGS : 1 : enchant:THORNS:2'
-      Boots: 'LEATHER_BOOTS : 1 : enchant:THORNS:2'
+      Helmet: 'IRON_HELMET : 1 : enchant:THORNS:5'
+      Chestplate: 'IRON_CHESTPLATE : 1 : enchant:THORNS:5'
+      Leggings: 'DIAMOND_LEGGINGS : 1 : enchant:THORNS:5'
+      Boots: 'DIAMOND_BOOTS : 1 : enchant:THORNS:5'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:3'
     Abilities: []
     Potion-Effects: []
     Description:
-      - '&bTwoja zbroja zadaje innym obrazenia!'
+    - '&7Twoja zbroja zadaje innym obrazenia!'
   Jezdziec:
     Enabled: true
     Require-Permission: false
@@ -1626,47 +740,13 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'DIAMOND_BARDING : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'DIAMOND_BARDING : 1'
     Abilities:
-      - Rider
+    - Rider
     Potion-Effects: []
     Description:
-      - '&bMozesz jezdzic na koniu!'
+    - '&7Mozesz jezdzic na koniu!'
   Przywolywacz:
     Enabled: true
     Require-Permission: false
@@ -1678,48 +758,14 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'IRON_BLOCK : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'IRON_BLOCK : 1'
     Abilities:
-      - Summoner
+    - Summoner
     Potion-Effects: []
     Description:
-      - '&bPrzywolaj zelaznego golema,'
-      - '&bktóry atakuje kazdego!'
+    - '&7Przywolaj zelaznego golema,'
+    - '&7który atakuje kazdego!'
   Kucharz:
     Enabled: true
     Require-Permission: false
@@ -1731,47 +777,13 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'CHEST : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'CHEST : 1'
     Abilities:
-      - Souper
+    - Souper
     Potion-Effects: []
     Description:
-      - '&bWypelnij swój ekwipunek zupkami!'
+    - '&7Wypelnij swój ekwipunek zupkami!'
   Zmora:
     Enabled: true
     Require-Permission: false
@@ -1783,48 +795,14 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'GOLD_HOE : 1 : name:&5Spowolnij!'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'GOLD_HOE : 1 : name:&5Spowolnij!'
     Abilities:
-      - Bane
+    - Bane
     Potion-Effects: []
     Description:
-      - '&bUzyj, aby nadac komus'
-      - '&bspowolnienie i oslepienie!'
+    - '&7Uzyj, aby nadac komus'
+    - '&7spowolnienie i oslepienie!'
   Rozdzielacz:
     Enabled: true
     Require-Permission: false
@@ -1836,47 +814,13 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'CHAINMAIL_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'BEACON : 1 : name:&4Zamiana'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'BEACON : 1 : name:&4UNO REVERSE CARD'
     Abilities:
-      - Sunder
+    - Sunder
     Potion-Effects: []
     Description:
-      - '&bPodmien swoje zycie z kims innym!'
+    - '&7Podmien swoje zycie z kims innym!'
   Centaur:
     Enabled: true
     Require-Permission: false
@@ -1888,47 +832,13 @@ Kits:
       Leggings: 'DIAMOND_LEGGINGS : 1'
       Boots: 'CHAINMAIL_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'SULPHUR : 1 : name:&cAtak!'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'SULPHUR : 1 : name:&cAtak!'
     Abilities:
-      - Centaur
+    - Centaur
     Potion-Effects: []
     Description:
-      - '&bZadaj ogromne obrazenia!'
+    - '&7Zadaj ogromne obrazenia!'
   Oslepiacz:
     Enabled: true
     Require-Permission: false
@@ -1940,48 +850,15 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1 : enchant:PROTECTION_EXPLOSIONS:1'
       Boots: 'DIAMOND_BOOTS : 1 : enchant:PROTECTION_EXPLOSIONS:1'
     Items:
-      - 'DIAMOND_SWORD : 1'
-      - 'BOW : 1 : enchant:ARROW_INFINITE:1 : name:&6Oslepiacz!'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'ARROW : 1'
+    - 'DIAMOND_SWORD : 1'
+    - 'BOW : 1 : enchant:ARROW_INFINITE:1 : name:&6Oslepiacz!'
+    - 'ARROW : 1'
     Abilities:
-      - Blinker
+    - Blinker
     Potion-Effects: []
     Description:
-      - '&bTeleportuj gracza do twoich strzal'
-      - '&boraz go wysadź!'
+    - '&7Teleportuj gracza do twoich strzal'
+    - '&7oraz go wysadź!'
   Pvp+:
     Enabled: true
     Require-Permission: false
@@ -1993,47 +870,12 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:2'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:2'
     Abilities: []
     Potion-Effects: []
     Description:
-      - '&bTwój pierwszy zestaw, otrzymany w prezencie!'
-      - '&a+ Sharpness 2 do miecza'
+    - '&7Twój pierwszy zestaw, otrzymany w prezencie!'
+    - '&a+ Sharpness 2 do miecza'
     Upgraded-Version-Of: Pvp
   Pvp++:
     Enabled: true
@@ -2046,46 +888,273 @@ Kits:
       Leggings: 'IRON_LEGGINGS : 1'
       Boots: 'IRON_BOOTS : 1'
     Items:
-      - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:2'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
-      - 'MUSHROOM_SOUP : 1'
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:2'
     Abilities: []
     Potion-Effects: []
     Description:
-      - '&bTwój pierwszy zestaw, otrzymany w prezencie!'
-      - '&a+ Sharpness 2 do miecza'
-      - '&a+ Protection 2 do napierśnika'
+    - '&7Twój pierwszy zestaw, otrzymany w prezencie!'
+    - '&a+ Sharpness 2 do miecza'
+    - '&a+ Protection 2 do napierśnika'
     Upgraded-Version-Of: Pvp+
+  Pvp+++:
+    Enabled: true
+    Require-Permission: false
+    Item: DIAMOND_SWORD
+    Price: 3000
+    Armor:
+      Helmet: 'IRON_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:2'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'DIAMOND_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:3'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&7Twój pierwszy zestaw, otrzymany w prezencie!'
+    - '&a+ Sharpness 3 do miecza'
+    - '&a+ Protection 3 do napierśnika'
+    - '&a+ Diamentowe Buty'
+    Upgraded-Version-Of: Pvp++
+  PvP Master:
+    Enabled: true
+    Require-Permission: false
+    Item: DIAMOND_SWORD
+    Price: 5000
+    Armor:
+      Helmet: 'DIAMOND_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:2'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'DIAMOND_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:2'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&7Twój pierwszy zestaw, otrzymany w prezencie!'
+    - '&a+ Sharpness 3 do miecza'
+    - '&a+ Protection 3 do napierśnika'
+    - '&a+ Diamentowe Buty'
+    - '&a+ Diamentowy Helm'
+    Upgraded-Version-Of: Pvp+++
+  PvP Elita:
+    Enabled: true
+    Require-Permission: false
+    Item: DIAMOND_SWORD
+    Price: 40000
+    Armor:
+      Helmet: 'DIAMOND_HELMET : 1'
+      Chestplate: 'IRON_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:2'
+      Leggings: 'DIAMOND_LEGGINGS : 1'
+      Boots: 'DIAMOND_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:2'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&7Twój pierwszy zestaw, otrzymany w prezencie!'
+    - '&a+ Sharpness 3 do miecza'
+    - '&a+ Protection 3 do napierśnika'
+    - '&a+ Diamentowe Buty'
+    - '&a+ Diamentowy Helm'
+    - '&a+ Diamentowe Spodnie'
+    Upgraded-Version-Of: PvP Master
+  PvP Elita Globalna:
+    Enabled: true
+    Require-Permission: false
+    Item: DIAMOND_SWORD
+    Price: 55000
+    Armor:
+      Helmet: 'DIAMOND_HELMET : 1'
+      Chestplate: 'DIAMOND_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:1'
+      Leggings: 'DIAMOND_LEGGINGS : 1'
+      Boots: 'DIAMOND_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:2'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&7Twój pierwszy zestaw, otrzymany w prezencie!'
+    - '&a+ Sharpness 3 do miecza'
+    - '&a+ Protection 3 do napierśnika'
+    - '&a+ Diamentowe Buty'
+    - '&a+ Diamentowy Helm'
+    - '&a+ Diamentowe Spodnie'
+    - '&a+ Diamentowa Klata'
+    Upgraded-Version-Of: PvP Elita
+  Lucznik+:
+    Enabled: true
+    Require-Permission: false
+    Item: BOW
+    Price: 1000
+    Armor:
+      Helmet: 'LEATHER_HELMET : 1'
+      Chestplate: 'LEATHER_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:2'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'BOW : 1 : enchant:ARROW_DAMAGE:2'
+    - 'ARROW : 100'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&7Ten zestaw posiada lekki miecz,'
+    - '&7oraz mocny łuk i strzały!'
+    Upgraded-Version-Of: Lucznik
+  Lucznik++:
+    Enabled: true
+    Require-Permission: false
+    Item: BOW
+    Price: 2500
+    Armor:
+      Helmet: 'DIAMOND_HELMET : 1'
+      Chestplate: 'LEATHER_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:3'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'IRON_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    - 'BOW : 1 : enchant:ARROW_DAMAGE:3'
+    - 'ARROW : 100'
+    Abilities: []
+    Potion-Effects: []
+    Description:
+    - '&cDrugi poziom ulepszania klasy Lucznik,'
+    - '&aPosiada dodatkowo &6Diamentowy helm :o oraz ulepszenie klaty na ochrone 3
+      + Ulepszenie luku na moc 3 '
+    Upgraded-Version-Of: Lucznik+
+  Ninja+:
+    Enabled: true
+    Require-Permission: false
+    Item: NETHER_STAR
+    Price: 1500
+    Armor:
+      Helmet: 'IRON_HELMET : 1'
+      Chestplate: 'CHAINMAIL_CHESTPLATE : 1'
+      Leggings: 'CHAINMAIL_LEGGINGS : 1'
+      Boots: 'DIAMOND_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    Abilities: []
+    Potion-Effects:
+    - 'SPEED : 999999 : 2'
+    Description:
+    - '&7Diamentowy miecz,'
+    - '&7oraz lekka zbroja.'
+    - '&7Lekkkie Ulepszenie Pancerzu w tej wersji!'
+    Upgraded-Version-Of: Ninja
+  Ninja++:
+    Enabled: true
+    Require-Permission: false
+    Item: NETHER_STAR
+    Price: 8500
+    Armor:
+      Helmet: 'IRON_HELMET : 1'
+      Chestplate: 'DIAMOND_CHESTPLATE : 1'
+      Leggings: 'IRON_LEGGINGS : 1'
+      Boots: 'DIAMOND_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1'
+    Abilities: []
+    Potion-Effects:
+    - 'SPEED : 999999 : 3'
+    Description:
+    - '&7DIAMENTOWY MIECZYK,'
+    - '&7Szybkosc trzy.'
+    - '&7Lekkkie Ulepszenie Pancerzu w tej wersji!'
+    Upgraded-Version-Of: Ninja++
+  Czolg+:
+    Enabled: true
+    Require-Permission: false
+    Item: DIAMOND_CHESTPLATE
+    Price: 5000
+    Armor:
+      Helmet: 'DIAMOND_HELMET : 1'
+      Chestplate: 'DIAMOND_CHESTPLATE : 1'
+      Leggings: 'DIAMOND_LEGGINGS : 1'
+      Boots: 'DIAMOND_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:2'
+    Abilities: []
+    Potion-Effects:
+    - 'SLOW : 999999 : 1'
+    Description:
+    - '&7Zelazny miecz, lecz'
+    - '&7ciezka diamentowa zbroja,'
+    - '&7sprawia ze jestes wolniejszy!'
+    Upgraded-Version-Of: Czolg
+  Palma:
+    Enabled: true
+    Require-Permission: false
+    Item: SAPLING:3
+    Price: 1500
+    Armor:
+      Helmet: 'DIAMOND_HELMET : 1'
+      Chestplate: 'GOLD_CHESTPLATE : 1'
+      Leggings: 'DIAMOND_LEGGINGS : 1'
+      Boots: 'DIAMOND_BOOTS : 1'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:2'
+    Abilities: []
+    Potion-Effects:
+    - 'SLOW : 999999 : 2'
+    Description:
+    - '&a&lNajlepsza klasa na serwerze'
+  rusekh:
+    Enabled: true
+    Require-Permission: false
+    Item: BEDROCK
+    Price: 5000
+    Armor:
+      Helmet: ''
+      Chestplate: 'DIAMOND_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:1'
+      Leggings: ''
+      Boots: ''
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:8'
+    Abilities: []
+    Potion-Effects:
+    - 'FIRE_RESISTANCE : 999999 : 2'
+    Description:
+    - '&7Najlepsza klasa na serwerze zrobiona przez rusekh!'
+  rusekh elita swiatowa++++:
+    Enabled: true
+    Require-Permission: false
+    Item: BEDROCK
+    Price: 7000
+    Armor:
+      Helmet: 'IRON_HELMET : 1 : enchant:PROTECTION_ENVIRONMENTAL:1'
+      Chestplate: 'DIAMOND_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:1'
+      Leggings: 'DIAMOND_LEGGINGS : 1 : enchant:PROTECTION_ENVIRONMENTAL:1'
+      Boots: 'IRON_BOOTS : 1 : enchant:PROTECTION_ENVIRONMENTAL:1'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:6'
+    Abilities: []
+    Potion-Effects:
+    - 'FIRE_RESISTANCE : 999999 : 2'
+    Description:
+    - '&7Najlepsza klasa na serwerze zrobiona przez rusekh!'
+    - ''
+    - '&a+ Teraz jest rzeczywiscie najlepsza'
+    Upgraded-Version-Of: rusekh
+  rusekh++++++++++++++++++:
+    Enabled: true
+    Require-Permission: false
+    Item: BEDROCK
+    Price: 1000000
+    Armor:
+      Helmet: 'IRON_HELMET : 1 : enchant:PROTECTION_ENVIRONMENTAL:10'
+      Chestplate: 'DIAMOND_CHESTPLATE : 1 : enchant:PROTECTION_ENVIRONMENTAL:10'
+      Leggings: 'DIAMOND_LEGGINGS : 1 : enchant:PROTECTION_ENVIRONMENTAL:10'
+      Boots: 'IRON_BOOTS : 1 : enchant:PROTECTION_ENVIRONMENTAL:10'
+    Items:
+    - 'DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:8'
+    Abilities: []
+    Potion-Effects:
+    - 'FIRE_RESISTANCE : 999999 : 2'
+    - 'REGENERATION : 999999 : 2'
+    Description:
+    - '&7Najlepsza klasa na serwerze zrobiona przez rusekh!'
+    - ''
+    - '&a+ Teraz serio 100% scam 0% legit jest najlepsza!'
+    Upgraded-Version-Of: rusekh elita swiatowa++++  
