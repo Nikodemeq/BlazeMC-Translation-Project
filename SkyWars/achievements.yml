@@ -1,99 +1,99 @@
 Achievements:
   kills:
     '10':
-      description: Get 10 kills!
-      prize-description: Earn 100 coins!
+      description: Zabij 10 wrogów!
+      prize-description: Nagroda 100 monet!
       executed-command: sw coins add %player% 100
     '30':
-      description: Get 30 kills!
-      prize-description: Earn 300 coins!
+      description: Zabij 30 wrogów!
+      prize-description: Nagroda 300 monet!
       executed-command: sw coins add %player% 300
     '50':
-      description: Get 50 kills!
-      prize-description: Earn 500 coins!
+      description: Zabij 50 wrogów!
+      prize-description: Nagroda 500 monet!
       executed-command: sw coins add %player% 500
     '100':
-      description: Get 100 kills!
-      prize-description: Earn 1000 coins!
+      description: Zabij 100 wrogów!
+      prize-description: Nagroda 1000 monet!
       executed-command: sw coins add %player% 1000
     '150':
-      description: Get 150 kills!
-      prize-description: Earn 1500 coins!
+      description: Zabij 150 wrogów!
+      prize-description: Nagroda 1500 monet!
       executed-command: sw coins add %player% 1500
     '200':
-      description: Get 200 kills!
-      prize-description: Earn 2000 coins!
+      description: Zabij 200 wrogów!
+      prize-description: Nagroda 2000 monet!
       executed-command: sw coins add %player% 2000
     '500':
-      description: Get 500 kills!
-      prize-description: Earn 5000 coins!
+      description: Zabij 500 wrogów!
+      prize-description: Nagroda 5000 monet!
       executed-command: sw coins add %player% 5000
     '1000':
-      description: Get 1000 kills!
-      prize-description: Earn 10000 coins!
+      description: Zabij 10000 wrogów!
+      prize-description: Nagroda 10000 monet!
       executed-command: sw coins add %player% 10000
   wins:
     '1':
-      description: Wygraj 1 game(s)!
-      prize-description: Earn 100 coins!
+      description: Wygraj 1 grę!
+      prize-description: Nagroda 100 monet!
       executed-command: sw coins add %player% 100
     '5':
-      description: Wygraj 5 game(s)!
-      prize-description: Earn 500 coins!
+      description: Wygraj 5 Gier !
+      prize-description: Nagroda 500 monet!
       executed-command: sw coins add %player% 500
     '10':
-      description: Wygraj 10 game(s)!
-      prize-description: Earn 1000 coins!
+      description: Wygraj 10 gier !
+      prize-description: Nagroda 1000 monet!
       executed-command: sw coins add %player% 1000
     '20':
-      description: Wygraj 20 game(s)!
-      prize-description: Earn 2000 coins!
+      description: Wygraj 20 gier!
+      prize-description: Nagroda 2000 monet!
       executed-command: sw coins add %player% 2000
     '50':
-      description: Wygraj 50 game(s)!
-      prize-description: Earn 5000 coins!
+      description: Wygraj 50 gier !
+      prize-description: Nagroda 5000 monet!
       executed-command: sw coins add %player% 5000
     '100':
-      description: Wygraj 100 game(s)!
-      prize-description: Earn 10000 coins!
+      description: Wygraj 100 gier!
+      prize-description: Nagroda 10000 monet!
       executed-command: sw coins add %player% 10000
   projectiles_launched:
     '50':
-      description: Launch 50 strzal!
-      prize-description: Earn 50 coins!
+      description: Wystrzel 50 strzal!
+      prize-description: Nagroda 50 monet!
       executed-command: sw coins add %player% 50
     '100':
-      description: Launch 100 strzal!
-      prize-description: Earn 100 coins!
+      description: Wystrzel 100 strzal!
+      prize-description: Nagroda 100 monet !
       executed-command: sw coins add %player% 100
     '500':
-      description: Launch 500 strzal!
-      prize-description: Earn 500 coins!
+      description: Wystrzel 500 strzal!
+      prize-description: Nagroda 500 monet!
       executed-command: sw coins add %player% 500
     '1000':
-      description: Launch 1000 strzal!
-      prize-description: Earn 1000 coins!
+      description: Wystrzel 1000 strzal!
+      prize-description: Nagroda 1000 monet !
       executed-command: sw coins add %player% 1000
     '3000':
-      description: Launch 3000 strzal!
-      prize-description: Earn 3000 coins!
+      description: Wystrzel 3000 strzal!
+      prize-description: Nagroda 3000 monet!
       executed-command: sw coins add %player% 3000
   projectiles_hit:
     '25':
       description: Wystrzel 25 strzal!
-      prize-description: Earn 50 coins!
+      prize-description: Nagroda 50 monet!
       executed-command: sw coins add %player% 50
     '50':
       description: Wystrzel 50 strzal!
-      prize-description: Earn 100 coins!
+      prize-description: Nagroda 100 monet!
       executed-command: sw coins add %player% 100
     '100':
       description: Wystrzel 100 strzal!
-      prize-description: Earn 200 coins!
+      prize-description: Nagroda 200 monet!
       executed-command: sw coins add %player% 200
     '250':
       description: Wystrzel 250 strzal!
-      prize-description: Earn 500 coins!
+      prize-description: Nagroda 500 monet!
       executed-command: sw coins add %player% 500
     '500':
       description: Wystrzel 500 strzal!
@@ -105,119 +105,119 @@ Achievements:
       executed-command: sw coins add %player% 2000
   player_rank:
     '5':
-      description: Reach rank 5!
-      prize-description: Earn 500 coins!
+      description: Zdobądź 5 lvl!
+      prize-description: Nagroda 500 monet!
       executed-command: sw coins add %player% 500
     '10':
-      description: Reach rank 10!
-      prize-description: Earn 1000 coins!
+      description: Zdobądź 10 lvl!
+      prize-description: Nagroda 1000 Monet !
       executed-command: sw coins add %player% 1000
     '15':
-      description: Reach rank 15!
-      prize-description: Earn 1500 coins!
+      description: Zdobądź 15 lvl!
+      prize-description: Nagroda 1500 Monet!
       executed-command: sw coins add %player% 1500
     '20':
-      description: Reach rank 20!
-      prize-description: Earn 2000 coins!
+      description: Zdobądź 20 lvl!
+      prize-description: Nagroda 2000 Monet !
       executed-command: sw coins add %player% 2000
     '25':
-      description: Reach rank 25!
-      prize-description: Earn 2500 coins!
+      description: Zdobądź 25 lvl!
+      prize-description: Nagroda 2500 monet !
       executed-command: sw coins add %player% 2500
     '30':
-      description: Reach rank 30!
-      prize-description: Earn 3000 coins!
+      description: Zdobądź 30 lvl!
+      prize-description: Nagroda 3000 monet!
       executed-command: sw coins add %player% 3000
   blocks_placed:
     '50':
-      description: Place 50 block(s)!
-      prize-description: Earn 50 coins!
+      description: Postaw 50 bloków!
+      prize-description: Nagroda 50 Monet!
       executed-command: sw coins add %player% 50
     '200':
-      description: Place 200 block(s)!
-      prize-description: Earn 200 coins!
+      description: Postaw 200 bloków !
+      prize-description: Nagroda 200 Monet!
       executed-command: sw coins add %player% 200
     '400':
-      description: Place 400 block(s)!
-      prize-description: Earn 400 coins!
+      description: Postaw 400 bloków !
+      prize-description: Nagroda 400 Monet !
       executed-command: sw coins add %player% 400
     '1000':
-      description: Place 1000 block(s)!
-      prize-description: Earn 1000 coins!
+      description: Postaw 1000 bloków !
+      prize-description: Nagroda 1000 Monet !
       executed-command: sw coins add %player% 1000
     '2000':
-      description: Place 2000 block(s)!
-      prize-description: Earn 2000 coins!
+      description: Postaw 2000 bloków !
+      prize-description: Nagroda 2000 Monet !
       executed-command: sw coins add %player% 2000
   blocks_broken:
     '50':
-      description: Break 50 block(s)!
+      description: Zniszcz 50 bloków!
       prize-description: Earn 50 coins!
       executed-command: sw coins add %player% 50
     '200':
-      description: Break 200 block(s)!
+      description: Zniszcz 200 bloków !
       prize-description: Earn 200 coins!
       executed-command: sw coins add %player% 200
     '400':
-      description: Break 400 block(s)!
-      prize-description: Earn 400 coins!
+      description: Zniszcz 400 bloków !
+      prize-description: Nagroda 400 Monet !
       executed-command: sw coins add %player% 400
     '1000':
-      description: Break 1000 block(s)!
+      description: Zniszcz 1000 bloków !
       prize-description: Earn 1000 coins!
       executed-command: sw coins add %player% 1000
     '2000':
-      description: Break 2000 block(s)!
-      prize-description: Earn 2000 coins!
+      description: Zniszcz 2000 bloków !
+      prize-description: Nagroda 2000 Monet !
       executed-command: sw coins add %player% 2000
   items_enchanted:
     '1':
-      description: Enchant 1 item(s)!
-      prize-description: Earn 100 coins!
+      description: Zaklęto 1 przedmiot!
+      prize-description: Nagroda 100 monet!
       executed-command: sw coins add %player% 100
     '10':
-      description: Enchant 10 item(s)!
-      prize-description: Earn 1000 coins!
+      description: Zaklęto 10 przedmiotów!
+      prize-description: Nagroda 1000 Monet!
       executed-command: sw coins add %player% 1000
     '50':
-      description: Enchant 50 item(s)!
-      prize-description: Earn 5000 coins!
+      description: Zaklęto 50 przedmiotów!
+      prize-description: Nagroda 5000 monet !
       executed-command: sw coins add %player% 5000
     '100':
-      description: Enchant 100 item(s)!
-      prize-description: Earn 10000 coins!
+      description: Zaklęto 100 przedmiotów!
+      prize-description: Nagroda 10000 monet!
       executed-command: sw coins add %player% 10000
   items_crafted:
     '5':
-      description: Craft 5 item(s)!
-      prize-description: Earn 50 coins!
+      description: Stwórz 5 przedmiotów!
+      prize-description: Nagroda 50 Monet!
       executed-command: sw coins add %player% 50
     '20':
-      description: Craft 20 item(s)!
-      prize-description: Earn 200 coins!
+      description: Stwórz 20 przedmiotów!
+      prize-description: Nagroda 200 Monet!
       executed-command: sw coins add %player% 200
     '50':
-      description: Craft 50 item(s)!
-      prize-description: Earn 500 coins!
+      description: Stwórz 50 przedmiotów!
+      prize-description: Nagroda 500 Monet!
       executed-command: sw coins add %player% 500
     '100':
-      description: Craft 100 item(s)!
-      prize-description: Earn 1000 coins!
+      description: Stwórz 100 przedmiotów!
+      prize-description: Nagroda 1000 Monet!
       executed-command: sw coins add %player% 1000
   fishes_caught:
     '1':
-      description: Catch 1 fish(es)!
-      prize-description: Earn 250 coins!
+      description: Złów 1 rybę!
+      prize-description: Nagroda 250 Monet!
       executed-command: sw coins add %player% 250
     '5':
-      description: Catch 5 fish(es)!
-      prize-description: Earn 1250 coins!
+      description: Złów 5 ryb!
+      prize-description: Nagroda 1250 Monet!
       executed-command: sw coins add %player% 1250
     '10':
-      description: Catch 10 fish(es)!
-      prize-description: Earn 2500 coins!
+      description: Złów 10 ryb!
+      prize-description: Nagroda 2500 Monet!
       executed-command: sw coins add %player% 2500
     '20':
-      description: Catch 20 fish(es)!
-      prize-description: Earn 5000 coins!
+      description: Złów 20 ryb !
+      prize-description: Nagroda 5000 Monet!
       executed-command: sw coins add %player% 5000

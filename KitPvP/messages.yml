@@ -54,7 +54,7 @@ Messages:
   Player-Kill: Zadales &6%percentage%% &7obrazen &e%player% &7i otrzymales &b%coins% &7Monet!
   Player-Death-Message: Zostales zabity przez &a%killer%&7!
   Player-Suicide-Message: Zabiles sam siebie XD!
-  Player-Stat-Modification-Through-Command: Zmieniono statystyke %stat% -> %amount%!
+  Player-Stat-Modification-Through-Command: Zmieniono statystyke &6%stat% &7-> &6%amount%!
   Join-Denied: Nie mozesz nic trzymac!
   Already-Unlocked-All-Kits: Wow, juz wszystko odblokowales!
   Player-Open-KitUnlocker: Rozpoczeto otwieranie!
@@ -65,8 +65,8 @@ Messages:
   Cant-Use-Commands: Tej komendy nie mozesz tutaj uzyc!
   Cant-Use-Character: Nie mozesz uzyc znaku &d%&7!
   Player-Rank-Up: '&aRanga w Górę! &7Awansowales do &b%rank%'
-  Player-Rank-Up-Public-Message: '&a%player% &7has ranked up to a &b%rank%'
-  Player-Derank-Public-Message: '&a%player% &7has been deranked to &c%rank%'
+  Player-Rank-Up-Public-Message: '&a%player% &7awansowal do &b%rank%'
+  Player-Derank-Public-Message: '&a%player% &7zostal zderankowany do &c%rank%'
   Player-Use-Ability: Uzyles umiejetnosci!
   Still-On-Cooldown: Poczekaj &d%time% &7sekund aby tego uzyc!
   Use-Ability-Deny: Nie mozesz uzyc umiejetnosci na komus kto nie wybral zestawu!
@@ -74,9 +74,9 @@ Messages:
   Must-Have-Selected-Kit: Nie wybrales zestawu!
   Player-Reset-Kit: Anulowales zestaw &d%kit%
   Player-Get-Killstreak-Self-Message: '&aKillstreak! &d%kills% &7zabójstw!'
-  Player-Get-Killstreak-Announcement: '&b%player% &7posiada setre &d%kills% &7zabójstw!'
+  Player-Get-Killstreak-Announcement: '&b%player% &7posiada serie &d%kills% &7zabójstw!'
   Phantom-Fly-Time-Left: Za &d%seconds% &7skonczy sie twoja moc latania!
-  Phantom-Not-Hacking: '&d%player%''s &7aktywowal moc latania!'
+  Phantom-Not-Hacking: '&d%player% &7aktywowal moc latania!'
   Burrower-No-Space: Nie ma miejsca nad toba!
   Zen-No-Players-Found: Nie ma w poblizu graczy!
   Dracula-Suck-Warning: '&cDracula zabrala twoje efekty! Dostaniesz je za &e%seconds% &csekund!'
