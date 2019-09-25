@@ -1,0 +1,204 @@
+General:
+  Races:
+    Enabled: 'true'
+    Effects: 'true'
+    Default-Rights: '10'
+  Holos: 'true'
+  Guild-Create-Disabled-Worlds: world_nether,minigames
+  Placeholders-Support: 'false'
+  Emblem-Placeholder-Variables: 'false'
+  Notifier-In-Chat: 'true'
+  Claim-Disabled-Worlds: world_nether,minigames
+  Donate-With-GUI: 'true'
+  Send-Guild-Chat-To-Ops: 'true'
+  PVP-With-Guild-Members: 'false'
+  Select-Type-Menu-On-Join: 'true'
+  Building-Upgrade-Minutes:
+    Townhall: '60'
+    Barrack: '30'
+    Storage: '10'
+    Alchemy: '120'
+  Building-Multiple-Time-With-Level: 'true'
+  Refund-Gold-On-Unclaim: 'true'
+  Break-Only-Claimed-Areas: 'false'
+  Break-Only-Claimed-Areas-Disabled-Worlds: world_nether,minigames
+  Place-Only-Claimed-Areas: 'false'
+  Place-Only-Claimed-Areas-Disabled-Worlds: world_nether,minigames
+  Claim-Building-Zone: 'true'
+  Min-Barrack-Level-To-War: '2'
+  Worker-Time: '10'
+  Allowed-Chars: $-=-^-q-w-e-r-t-y-u-i-o-p-g-a-s-d-f-g-h-j-k-l-z-x-c-v-b-n-m-1-2-3-4-5-6-7-8-9-0-Q-W-E-R-T-Y-U-I-O-P-G-A-S-D-F-G-H-J-K-L-Z-X-C-V-B-N-M-а-б-в-г-д-е-ё-ж-з-и-й-к-л-м-н-о-п-р-с-т-у-ф-х-ц-ч-ш-щ-ь-ы-ъ-э-ю-я-А-Б-В-Г-Д-Е-Ё-Ж-З-И-Й-К-Л-М-Н-О-П-Р-С-Т-У-Ф-Х-Ц-Ч-Ш-Щ-Ь-Ы-Ъ-Э-Ю-Я
+  WorldGuard-Support: 'true'
+  Schematics: 'true'
+  Claims: 'true'
+  Homes: 'true'
+  Claim-Protection:
+    Damage-Protection: 'true'
+    Chest-Furnace-EnchTable-Workbench: 'true'
+    Door-Lever-Button: 'true'
+    Block-Break: 'true'
+    Block-Place: 'true'
+  Friend-Max-Count: '28'
+  Ally-Cooldown: '15'
+  Join-Guild-Cooldown-Minute: '60'
+  Race-Change-Cooldown-Minute: '10'
+  Teleport-Time: '7'
+  Invite-Time: '30'
+  Show-Claims-Time: '10'
+  Tournament-Win-Points: '50'
+  Executable-Commands:
+    On-Guild-Create: '*'
+    On-Guild-Disband: '*'
+    On-Create-Building: '*'
+    On-Guild-Join: '*'
+    On-Guild-Leave: '*'
+    On-Claim: '*'
+    On-Unclaim: '*'
+    On-Death: '*'
+    On-Win-War: '*'
+    Run-Command-On-War-Start-As-Player: '*'
+    Run-Command-On-War-End-As-Player: '*'
+    Barrack-Level-1-Commands:
+      '1': '*'
+    Barrack-Level-2-Commands:
+      '1': '*'
+    Barrack-Level-3-Commands:
+      '1': '*'
+    Barrack-Level-4-Commands:
+      '1': '*'
+    Barrack-Level-5-Commands:
+      '1': '*'
+Guild-Management:
+  Adjacent-Chunks-Only: 'false'
+  Capture-Land-From-Guilds: 'false'
+  Player-Stats-Show-Location: 'true'
+  Start-With-Claim: 'true'
+  Teleport-To-Claims: 'true'
+  Emblem-Editing-GUI: 'true'
+  Upgrade-Townhall-Increase-Max-Member: '4'
+  Upgrade-Townhall-Increase-Max-Claim-Limit: '10'
+  Upgrade-Storage-Increase-Limit: '500'
+  Required-Gold-To-Create: '0'
+  Min-Name-Length: '4'
+  Max-Name-Length: '16'
+  Start-MaxSlot: '4'
+  Start-MaxClaim: '10'
+  Claim-Gold-Cost: '150'
+  Death-Penalty-Gold: '5'
+  Buildings:
+    Townhall-Upgrade:
+      Wood: '500'
+      Stone: '400'
+      Iron: '200'
+      Gold: '100'
+      Diamond: '25'
+      Wool: '10'
+    Barrack-Upgrade:
+      Wood: '500'
+      Stone: '500'
+      Iron: '500'
+      Gold: '400'
+      Diamond: '100'
+      Wool: '50'
+    Storage-Upgrade:
+      Wood: '200'
+      Stone: '100'
+      Iron: '50'
+      Gold: '25'
+      Diamond: '10'
+      Wool: '5'
+    Alchemy-Upgrade:
+      Wood: '500'
+      Stone: '500'
+      Iron: '400'
+      Gold: '300'
+      Diamond: '500'
+      Wool: '100'
+    Alchemy-Costs:
+      Effect-1:
+        Level-1: '100'
+        Level-2: '200'
+        Level-3: '500'
+      Effect-2:
+        Level-1: '30'
+        Level-2: '50'
+        Level-3: '70'
+      Effect-3:
+        Level-1: '20'
+        Level-2: '40'
+        Level-3: '60'
+      Effect-4:
+        Level-1: '100'
+        Level-2: '200'
+        Level-3: '400'
+    Placing-Blocks: 'true'
+    Breaking-Blocks: 'true'
+  Division-1-Points: '100'
+  Division-2-Points: '250'
+  Division-3-Points: '350'
+  Division-4-Points: '450'
+  Division-5-Points: '550'
+  Resources:
+    Wood:
+      Start-Amount: '10'
+      Start-Max: '1000'
+    Stone:
+      Start-Amount: '10'
+      Start-Max: '1000'
+    Iron:
+      Start-Amount: '2'
+      Start-Max: '750'
+    Gold:
+      Start-Amount: '1'
+      Start-Max: '500'
+    Diamond:
+      Start-Amount: '0'
+      Start-Max: '500'
+    Wool:
+      Start-Amount: '20'
+      Start-Max: '100'
+Ranks:
+  Newbie:
+    Menu-Number: '2'
+    Name: §8Newbie
+    Icon-NBT: '{SkullOwner:{Id:"57c315e4-3a59-416d-81f2-c4e2279910ac",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTFkMmQ1MzI2M2U2MjRlNzU0MjRlZjMzZWQ2OTZkMThlNWNiOTQ2ZmVmZjZhZjgxZDY1YTYxNTQyNDgyMzY0In19fQ=="}]}}}'
+    Level: '1'
+    Permissions: Donate
+  Member:
+    Menu-Number: '3'
+    Name: §7Member §f★
+    Icon-NBT: '{SkullOwner:{Id:"9e146e23-e657-4c86-9570-d09767a3c3c9",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjdmYTk0NDc4M2E0YzMyYjFhZGI5NzY4NzllMGM0ZjJhZGNmN2JkYWMzNTY4ZTFkZjdiZmIzZmUwOGE0NTVhIn19fQ=="}]}}}'
+    Level: '2'
+    Permissions: Donate,Break,Place,Vault
+  Captain:
+    Menu-Number: '4'
+    Name: §dCaptain §5★★§d
+    Icon-NBT: '{SkullOwner:{Id:"41f93be6-6c77-4970-a0c1-9121ab73ebdf",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGNhNGY5NGQ1ZjMyYjMxYzlmZmMyNjY4NDZkNmY1ZmFhNWJlZjRlMGEwZDk5NDIxZDNhY2IxOGZmOWQxN2EifX19"}]}}}'
+    Level: '3'
+    Permissions: Upgrade,Alchemy,Vault,Sethome,Claim,Emblem,Motd,Donate,Break,Place
+  General:
+    Menu-Number: '5'
+    Name: §aGeneral §2★★★§a
+    Icon-NBT: '{SkullOwner:{Id:"7c705fbd-0e97-4116-bbd5-ef840d36e09f",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODJkYmQwNmY5YzkyN2RiNmM3OWZjOWY1ZWYyMzk3YWIwNjU0MTkxMzY0ZDBmNWM4OWY5MjRlNWVkOGQzYWYifX19"}]}}}'
+    Level: '4'
+    Permissions: Upgrade,Alchemy,Vault,Kick,Rank,Condition,Sethome,Claim,Emblem,Motd,Invite,Ally,War,Donate,Break,Place
+  Leader:
+    Menu-Number: '6'
+    Name: §bLeader §3★★★★§b
+    Icon-NBT: '{SkullOwner:{Id:"511bf194-c0ed-4a39-8201-d4da6a03e855",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDNjYjI3OWZkMDYxZjQ2MjFlZTc1NGE0YWU3ZWEyZDllODFlOTVjYWU1Yzk1OWYzOWY0MmIzM2U5YWIzMTEifX19"}]}}}'
+    Level: '5'
+    Permissions: Disband,Upgrade,Alchemy,Vault,Kick,Rank,Condition,Sethome,Claim,Emblem,Motd,Invite,Ally,War,Donate,Break,Place
+War:
+  Scoreboard: 'true'
+  Command-Whitelist: msg,tell
+  Shield-Day-Duration-On-Loss: '5'
+  Use-Own-Inventory: 'false'
+  Tournament-Cooldown: '150'
+  Minimum-Member: '1'
+  Game-Time: '5'
+  Invite-Time: '10'
+  Start-Cooldown: '15'
+  Points-Add-Each-Win: '15'
+  Points-Remove-Each-Loss: '10'
+  Game-Per-Kill-Stars: '5'
+  Game-Finish-Stars: '100'
