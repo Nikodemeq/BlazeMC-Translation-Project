@@ -1,69 +1,64 @@
 Messages:
   Prefix: §6§lGILDIE §6➥§7
-  Char_Error: §7The text contains inappropriate characters.
-  WorldGuard_Error: §7There is under protection by WorldGuard.
-  Chunk_Error: §7There is another guild here.
-  Dont_Have_Gold_To_Create: §7You do not have enough gold ingot in your inventory
-    to create the guild. You must have §e{NUMBER}§7.
-  Created_Guild: §e{PLAYER}§7, created §b{GUILD} §7guild.
-  Land_Error: §7Your position is not safe.
-  Guild_Name_Length: §7This guild name is too long or too short.
-  That_Guild_Exists: §7There is such a guild.
-  Enter_Guild_Name: §7Enter the guild name.
-  You_Have_Guild: §7You already have a guild.
-  Remove_Confirm: §7Are you sure you want to delete the guild? If you sure, use this
-    command again.
-  Guild_Removed: §7The guild has been deleted.
-  No_Permission: §7You do not have permission for this.
-  You_Dont_Have_Guild: §7You do not have a guild.
-  You_Arent_Leader: §7You're not the leader of the guild.
-  Guild_Remove_Broadcast: §c{GUILD} §7has been disbanded.
-  Option_Disabled: §7This feature is disabled.
-  No_Rank: §7Your guild rank is not enough.
-  You_Dont_Have_This_Chunk: §7Your guild hasn't this chunk.
-  Done_Set_Home: §7The guild home is set.
-  Teleporting_Message: §7You will be teleported in §e{TIME} §7seconds.
-  Teleport_Cancel: §7The teleporting was canceled because you moved.
-  Teleport_Done: §7You are teleported successfully.
-  Already_Teleport: §7You are already teleporting right now.
-  Teleport_Starting: §7The teleporting has started, please do not move.
+  Char_Error: §7Twój tekst zawiera niepoprawne znaki.
+  WorldGuard_Error: §7W tym miejscu nie mozesz zająć terenu.
+  Chunk_Error: §7Tutaj już jest zajęty teren.
+  Dont_Have_Gold_To_Create: §7Masz zbyt mało złota aby założyć gildię. Potrzebujesz ich §e{NUMBER}§7.
+  Created_Guild: §e{PLAYER}§7, stworzył gildię §b{GUILD}§7.
+  Land_Error: §7Twoja lokalizacja nie jest bezpieczna.
+  Guild_Name_Length: §7Ta nazwa jest za dluga lub zbyt krótka.
+  That_Guild_Exists: §7Taka gildia już istnieje.
+  Enter_Guild_Name: §7Podaj nazwę.
+  You_Have_Guild: §7Już posiadasz gildię.
+  Remove_Confirm: §7Czy napewno chcesz skasować gildię? Aby potwierdzic uzyj komendy jescze raz.
+  Guild_Removed: §7Pomyślnie usunięto.
+  No_Permission: §7Nie posiadasz permisji.
+  You_Dont_Have_Guild: §7Nie posiadasz gildi.
+  You_Arent_Leader: §7Nie jesteś liderem gildii.
+  Guild_Remove_Broadcast: §c{GUILD} §7została rozwiązana.
+  Option_Disabled: §7Ta opcja została wyłączona.
+  No_Rank: §7Twoja pozycja w gildi jest zbyt niska.
+  You_Dont_Have_This_Chunk: §7Twoja gildia nie zajęła tego terenu.
+  Done_Set_Home: §7Ustawiono bazę gildii.
+  Teleporting_Message: §7Teleportacja nastąpi za §e{TIME} §7sekund.
+  Teleport_Cancel: §7Anulowano teleportację, poruszyłeś się.
+  Teleport_Done: §7Przeteleportowano poprawnie.
+  Already_Teleport: §7Teleportacja juz trwa.
+  Teleport_Starting: §7Rozpoczęto proces teleportacji, nie ruszaj się.
   GUIPrefix: §8§l» §8
-  Guild_Management: Guild Management
+  Guild_Management: Menu Zarządzania
   Manage_Panel_2: '§6ID:'
-  Guild_Info: §6Guild Information
-  Guild_Info_Lore: '||§7Click to see the guild information.'
-  Guild_Store: §6Guild Storage
-  Guild_Store_Lore: '||§7Click to open guild storage.'
-  Claimed_Lands: §6Claimed Lands
-  Claimed_Lands_Lore: '||§7Click to see claims of your guild.'
-  Guild_Alchemy: §6Guild Alchemy
-  Guild_Alchemy_Lore: '||§7Click here to open alchemy menu.'
-  Check_Players: §6Player List
-  Check_Players_Lore: '||§7Click here to see the list of guild players.'
-  Guild_Buildings: §6Guild Buildings
-  Guild_Buildings_Lore: '||§7Click to see guild buildings.'
-  Guild_Info_Header: Guild Information
-  Guild_Info_1: §6Guild ID
-  Guild_Info_1_Lore: '||§eName:||§f{NAME}||||§eEmblem:||§f{EMBLEM}||||§eCurrent Leader:||§f{LEADER}'
-  Guild_Info_2: §6Guild Foundation
-  Guild_Info_2_Lore: '||§eDate Of Foundation:||§f{TIME}||||§eCreator:||§f{CREATOR}'
-  Guild_Info_3: §6Guild Status
-  Guild_Info_3_Lore: '||§eWar;||§7 → Kills: §f{KILLS}||§7 → Deaths: §f{DEATHS}||||§eGuild
-    Division:||§f{LEVEL}||||§eGuild Points:||§f{POINTS} ✪||||§eNumber of Players:||§f{PLAYERS}/{MAX}||||§eClaimed
-    Land:||§f{CLAIMED}'
-  Kick_Error_No_Guild: §7This player is not in the guild.
-  Kick_Error_No_Rank: §7Your guild rank is not enough to kick this player.
-  Kicked_Player: §c{KICKED}§7 kicked from your guild by §e{PLAYER}§7.
-  You_Kicked: §7You were kicked out from guild.
-  No_Kick_Yourself: §7You can't kick yourself.
-  Claim_Error: §7You already have this land.
-  No_Claim_Level: §7The guild that owns this land's division is greater than your
-    guild's division.
-  Attacking_You: §c{ATTACKER}§7 took your land at §e{LAND}§7.
-  Attacked_Chunk: §7Your guild took a land at §e{LAND} §7belongs §c{OWN}§7.
-  Chunk_Claimed: §7You claimed a land at §e{LAND}§7.
-  Chunk_Error_You: §7This land is not yours.
-  Chunk_Unclaimed: §7You unclaimed a land at §e{LAND}§7.
+  Guild_Info: §6Podstawowe Informacje
+  Guild_Info_Lore: '||§7Kliknij aby zobaczyc informacje gildii.'
+  Guild_Store: §6Magazyn Gildii
+  Guild_Store_Lore: '||§7Kliknij aby otworzyć magazyn.'
+  Claimed_Lands: §6Zajęte Ziemie
+  Claimed_Lands_Lore: '||§7Kliknij aby zobaczyć zajęte ziemie.'
+  Guild_Alchemy: §6Alchemia
+  Guild_Alchemy_Lore: '||§7Kliknij aby otworzyć menu alchemii.'
+  Check_Players: §6Członkowie
+  Check_Players_Lore: '||§7Kliknij aby zarządzać członkami gildii.'
+  Guild_Buildings: §6Budowle
+  Guild_Buildings_Lore: '||§7Kliknij aby zobaczyć budowle gildii.'
+  Guild_Info_Header: Informacje O Gildii
+  Guild_Info_1: §6ID Gildii
+  Guild_Info_1_Lore: '||§eNazwa:||§f{NAME}||||§eGodło:||§f{EMBLEM}||||§eObecny Lider:||§f{LEADER}'
+  Guild_Info_2: §6Założenie Gildii
+  Guild_Info_2_Lore: '||§eData założenia:||§f{TIME}||||§eZałożyciel:||§f{CREATOR}'
+  Guild_Info_3: §6Status Gildii
+  Guild_Info_3_Lore: '||§eWojna:||§7 → Zabójstwa: §f{KILLS}||§7 → Śmierci: §f{DEATHS}||||§eDywizja:||§f{LEVEL}||||§ePunkty:||§f{POINTS} ✪||||§eLiczba członków:||§f{PLAYERS}/{MAX}||||§eZajęte ziemie:||§f{CLAIMED}'
+  Kick_Error_No_Guild: §7Gracz nie jest w gildii.
+  Kick_Error_No_Rank: §7Twoja pozycja jest zbyt niska aby wyrzucić tego gracza.
+  Kicked_Player: §c{KICKED}§7 został wygnany z twojej gildii przez §e{PLAYER}§7.
+  You_Kicked: §7Zostałeś wygnany ze swojej gildii.
+  No_Kick_Yourself: §7Hmmm... Chciałbyś wyrzucić samego siebie, panie?
+  Claim_Error: §7Już posiadasz te ziemie.
+  No_Claim_Level: §7Gildia która posiada te ziemie, ma wyższą dywizję niż twoja gildia.
+  Attacking_You: §c{ATTACKER}§7 zajął twoje ziemie! Pozycja zajętej ziemi to §e{LAND}§7.
+  Attacked_Chunk: §7Twoja gildia przejęła ziemie §e{LAND} §7należące do §c{OWN}§7.
+  Chunk_Claimed: §7Zająłeś ziemie znajdujące się na §e{LAND}§7.
+  Chunk_Error_You: §7Ta ziemia nie należy do ciebie.
+  Chunk_Unclaimed: §7Porzuciłeś ziemie na §e{LAND}§7.
   Romen_Num_1: I
   Romen_Num_2: II
   Romen_Num_3: III
@@ -72,8 +67,8 @@ Messages:
   Romen_Num_6: VI
   Romen_Num_7: VII
   Romen_Num_8: IIX
-  Store_GUI: Guild Storage
-  Store_Status: '§7Available: §f{NUMBER}'
+  Store_GUI: Magazyn Gildii
+  Store_Status: '§7Dostępne: §f{NUMBER}'
   Help_Pages_1::Line_1: §e/guilds help §8- §7Opens help page.
   Help_Pages_1::Line_2: §e/guilds create <guild name> §8- §7Creates a guild.
   Help_Pages_1::Line_3: §e/guilds remove §8- §7Delete the current guild.
@@ -99,45 +94,41 @@ Messages:
   Help_Pages_3::Line_7: §e/guilds invites §8- §7Enable/Disable guild invites.
   Help_Pages_3::Line_8: §e/guilds chat §8- §7Enable/Disable guild chat.
   Next_Page: §8§m--------§r §7Use §6/sg help {NEXT} §7to see next page. §8§m-------
-  Invite_Player_Name: §7Enter the player name to be invited.
-  Cant_Invite_Yourself: §7You can't invite yourself.
-  Player_Closed_Invites: §7This player disabled invites.
-  Player_Has_Guild: §7This player has a guild.
-  Your_Guild_Is_Full: §7Your guild is full. You can upgrade Townhall for more player
-    slot.
-  Invite_Wait: §7You have to wait §e{TIME} §7to invite someone.
-  This_Guild_Is_Full: §7This guild is full.
-  Invite_Send: §7The guild invitation has sent to the player.
-  Invite_GUI: Invitation Card
-  InviteC_Accept: §6Accept and join to §e{GUILD}§6.
-  InviteC_Reject: §cReject and close the menu.
-  You_Reject: §7You reject the guild invitation.
-  You_Joined_Guild: §7You joined to the §e{GUILD} §7guild.
-  Player_Joined_Guild: §6{PLAYER} §7joined to the §e{GUILD} §7guild.
-  Disabled_Invites: §7You've disabled invitation cards.
-  Enabled_Invites: §7You've enabled invitation cards.
-  Enter_An_Integer: §7Enter an integer.
-  No_Storage: §7No storage for §f{NUMBER} {RESOURCE}§r§7. §7You can upgrade storage
-    to do this.
-  Player_Donated: '{RANK} {PLAYER}§7, donated §f{NUMBER} {RESOURCE}§r §7to guild storage.'
-  Donations_0: §7Donations must be greater than zero.
-  Leader_Leave: §7You're leader, leader can't leave from guild. You can disband the
-    guild using §e/g disband§7.
-  Player_Leave: '{RANK} {PLAYER}§7, left the guild.'
-  You_Leave: §7You've left from §c{GUILD}§7.
-  Language_Select: '§7Language selected: §a{LANG}'
-  Unknown_Command: Unknown command.
-  Locale_Error: Could not connect to web data for locale file.
-  Guild_Error_Upgrade: §7You are not in this guild any more.
-  Limit_Buildings: §7You've reached max level for this building.
-  Buildings_Broadcast_1: '§7Guild capacity increased: §a+{NUM}'
-  Buildings_Broadcast_2: §7Your guild will begin the wars with {ITEM}§7.
-  Buildings_Broadcast_3: '§7Guild storage increased: §a+500'
-  Buildings_Broadcast_4: §7Your guild can use next level of alchemy now.
-  Showing_Claims: §7You can see all of your guild claims now.  If you don't want to
-    see these you can re-join to the server.
-  No_Claims: §7Your guilds has no claims.
-  Show_Claim_Wait: §7You have to wait §e{TIME} §7to show all claims.
+  Invite_Player_Name: §7Wprowadź nazwę gracza.
+  Cant_Invite_Yourself: §7Nie możesz zaprosić samego siebie.
+  Player_Closed_Invites: §7Ta gildia ma zamknięte zaproszenia.
+  Player_Has_Guild: §7Ten gracz juz ma gildię.
+  Your_Guild_Is_Full: §7Twoja gildia jest pełna. Ulepsz ratusz aby przyjąć więcej członków.
+  Invite_Wait: §7Musisz poczekać §e{TIME} §7przed zaproszeniem.
+  This_Guild_Is_Full: §7Ta gildia jest pełna.
+  Invite_Send: §7Zaproszenie wysłane.
+  Invite_GUI: Otrzymano Zaproszenie
+  InviteC_Accept: §6Akceptuj dołączenie do gildii §e{GUILD}§6.
+  InviteC_Reject: §cOdrzuć zaproszenie.
+  You_Reject: §7Odrzucono zaproszenie.
+  You_Joined_Guild: §7Dołączono do gildii §e{GUILD}§7.
+  Player_Joined_Guild: §6{PLAYER} §7dołączył do gildii §e{GUILD}§7.
+  Disabled_Invites: §7Wyłączono karty zaproszeniowe.
+  Enabled_Invites: §7Włączono kary zaproszeniowe.
+  Enter_An_Integer: §7Podaj poprawną liczbę.
+  No_Storage: §7Brak miejsca dla §f{NUMBER} {RESOURCE}§r§7. §7Należy ulepszyć magazyn gildyjny.
+  Player_Donated: '{RANK} {PLAYER}§7, wpłacił §f{NUMBER} {RESOURCE}§r §7do magazynu gildyjnego.'
+  Donations_0: §7Donacja wynosi 0?
+  Leader_Leave: §7Jako lider, nie możesz opuścić gildii. Aby ją skasować, użyj §e/g disband§7.
+  Player_Leave: '{RANK} {PLAYER}§7, opuścił gildię.'
+  You_Leave: §7Opusczono gildię §c{GUILD}§7.
+  Language_Select: '§7Wybrano język: §a{LANG}'
+  Unknown_Command: Nie ma takiej komendy.
+  Locale_Error: Błąd z połączeniem.
+  Guild_Error_Upgrade: §7Nie należysz do tej gildii.
+  Limit_Buildings: §7Osiągnąłeś maksymalny poziom budowli.
+  Buildings_Broadcast_1: '§7Zwiększono miejsce w gildii: §a+{NUM}'
+  Buildings_Broadcast_2: §7Do ekwipunku wojennego, dodano {ITEM}§7.
+  Buildings_Broadcast_3: '§7Zwiększono objętość magazynu: §a+500'
+  Buildings_Broadcast_4: §7Twoja gildia może teraz używać wyższego poziomu mikstur.
+  Showing_Claims: §7Włączono wyświetlanie zajętych ziem. Jeśli nie chcesz ich widzieć, wyjdź z serwera i wejdź ponownie.
+  No_Claims: §7Ta gildia nie ma zajętych ziem.
+  Show_Claim_Wait: §7Poczekaj §e{TIME} §7przed pokazaniem ziemi.
   Status_Online: §aOnline
   Status_Offline: §cOffline
   Rank_Yourself: §7You cannot change your rank.
