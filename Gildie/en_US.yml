@@ -69,31 +69,31 @@ Messages:
   Romen_Num_8: IIX
   Store_GUI: Magazyn Gildii
   Store_Status: '§7Dostępne: §f{NUMBER}'
-  Help_Pages_1::Line_1: §e/guilds help §8- §7Opens help page.
-  Help_Pages_1::Line_2: §e/guilds create <guild name> §8- §7Creates a guild.
-  Help_Pages_1::Line_3: §e/guilds remove §8- §7Delete the current guild.
-  Help_Pages_1::Line_4: §e/guilds emblem §8- §7Make the guild emblem.
-  Help_Pages_1::Line_5: §e/guilds info §8- §7Shows the guild statistics.
-  Help_Pages_1::Line_6: §e/guilds leave §8- §7Leave your guild.
-  Help_Pages_1::Line_7: §e/guilds storage §8- §7Shows the guild storage.
-  Help_Pages_1::Line_8: §e/guilds claimname <name> §8- §7Set name of claim where you
+  Help_Pages_1::Line_1: §e/g help §8- §7Opens help page.
+  Help_Pages_1::Line_2: §e/g create <guild name> §8- §7Creates a guild.
+  Help_Pages_1::Line_3: §e/g remove §8- §7Delete the current guild.
+  Help_Pages_1::Line_4: §e/g emblem §8- §7Make the guild emblem.
+  Help_Pages_1::Line_5: §e/g info §8- §7Shows the guild statistics.
+  Help_Pages_1::Line_6: §e/g leave §8- §7Leave your guild.
+  Help_Pages_1::Line_7: §e/g storage §8- §7Shows the guild storage.
+  Help_Pages_1::Line_8: §e/g claimname <name> §8- §7Set name of claim where you
     at.
-  Help_Pages_2::Line_1: §e/guilds leader §8- §7Provites a player to leader rank.
-  Help_Pages_2::Line_2: §e/guilds invite <player> §8- §7Invites a player to guild.
-  Help_Pages_2::Line_3: §e/guilds claim §8- §7Claims where you are.
-  Help_Pages_2::Line_4: §e/guilds unclaim §8- §7Unclaims where you are.
-  Help_Pages_2::Line_5: §e/guilds rank §8- §7Changes players rank.
-  Help_Pages_2::Line_6: §e/guilds reload §8- §7Reloads plugin.
-  Help_Pages_2::Line_7: §e/guilds home §8- §7Teleports to your guild's home.
-  Help_Pages_3::Line_1: §e/guilds sethome §8- §7Sets your guild home.
-  Help_Pages_3::Line_2: §e/guilds war §8- §7War with another guilds.
-  Help_Pages_3::Line_3: §e/guilds version §8- §7Shows plugin's version.
-  Help_Pages_3::Line_4: §e/guilds buildings §8- §7Shows guild buildings.
-  Help_Pages_3::Line_5: §e/guilds showclaims §8- §7Shows guild's all claims.
-  Help_Pages_3::Line_6: §e/guilds alchemy §8- §7Shows your guild alchemy.
-  Help_Pages_3::Line_7: §e/guilds invites §8- §7Enable/Disable guild invites.
-  Help_Pages_3::Line_8: §e/guilds chat §8- §7Enable/Disable guild chat.
-  Next_Page: §8§m--------§r §7Use §6/sg help {NEXT} §7to see next page. §8§m-------
+  Help_Pages_2::Line_1: §e/g leader §8- §7Provites a player to leader rank.
+  Help_Pages_2::Line_2: §e/g invite <player> §8- §7Invites a player to guild.
+  Help_Pages_2::Line_3: §e/g claim §8- §7Claims where you are.
+  Help_Pages_2::Line_4: §e/g unclaim §8- §7Unclaims where you are.
+  Help_Pages_2::Line_5: §e/g rank §8- §7Changes players rank.
+  Help_Pages_2::Line_6: §e/g reload §8- §7Reloads plugin.
+  Help_Pages_2::Line_7: §e/g home §8- §7Teleports to your guild's home.
+  Help_Pages_3::Line_1: §e/g sethome §8- §7Sets your guild home.
+  Help_Pages_3::Line_2: §e/g war §8- §7War with another guilds.
+  Help_Pages_3::Line_3: §e/g version §8- §7Shows plugin's version.
+  Help_Pages_3::Line_4: §e/g buildings §8- §7Shows guild buildings.
+  Help_Pages_3::Line_5: §e/g showclaims §8- §7Shows guild's all claims.
+  Help_Pages_3::Line_6: §e/g alchemy §8- §7Shows your guild alchemy.
+  Help_Pages_3::Line_7: §e/g invites §8- §7Enable/Disable guild invites.
+  Help_Pages_3::Line_8: §e/g chat §8- §7Enable/Disable guild chat.
+  Next_Page: §8§m--------§r §7Wpisz §6/sg help {NEXT} §7aby zobaczyć kolejną stronę. §8§m-------
   Invite_Player_Name: §7Wprowadź nazwę gracza.
   Cant_Invite_Yourself: §7Nie możesz zaprosić samego siebie.
   Player_Closed_Invites: §7Ta gildia ma zamknięte zaproszenia.
@@ -129,253 +129,236 @@ Messages:
   Showing_Claims: §7Włączono wyświetlanie zajętych ziem. Jeśli nie chcesz ich widzieć, wyjdź z serwera i wejdź ponownie.
   No_Claims: §7Ta gildia nie ma zajętych ziem.
   Show_Claim_Wait: §7Poczekaj §e{TIME} §7przed pokazaniem ziemi.
-  Status_Online: §aOnline
-  Status_Offline: §cOffline
-  Rank_Yourself: §7You cannot change your rank.
-  Rank_Not_Enough: §7Your rank is not enough for this action.
-  Player_Info_No_Guild: '||§7Player doesn''t have a guild.'
-  Player_Stats: Player Stats
-  Player_Info_Name_1: '§6Guild Information:'
-  Player_Info_Name_2: '§6Player Information:'
-  Player_Info_Name_3: '§6Other Information:'
-  No_Guild_Like_This: §7No guild was found in this name.
-  No_Player_Like_This: §7No player was found in this name.
-  Guild_Emblem_GUI: §6Guild Emblem
-  Guild_Emblem_Lore: '||§7Click to make guild emblem.'
-  Rank_Changed: §7Your rank has been changed to {RANK}§7.
-  Ranked_Player: §7{OLDRANKCHANGEP} {CHANGEP}§7's rank has been changed to {NEWRANKCHANGEP}
-    §7by {RANKPLAYER} {PLAYER}§7.
-  Rank_Wrong: §7You can only choose low-ranking ranks than your ranks.
-  You_Cant_Action: §7You can't change anything on §e{BUILD} §7zone.
-  Owned_By: §7This chunk is owned by §e{GUILD}§7 guild. You can't change anything.
-  Reloading_1: §7All files are reloading...
-  Reloading_2: §7All files are reloaded.
-  Emblem_Saved: §7Guild emblem has been saved.
-  Select_Color: §7You didn't select the color.
-  Select_Code: §7You didn't select the box.
-  Guild_Emblem_Changed: §7Your guild's emblem has been changed by §e{PLAYER}§7.
-  Create_Guild_Disabled_World: §7You can't create guild in your world.
-  Back_Header: §6Back
-  Menu_Alchemy_GUI: Guild Alchemy
-  Text_Feature: '§eFeature:'
-  Text_Price: '§ePrice:'
-  Text_Buy: §eClick here to buy this feature.
-  Alchemy_Menu_Lore_1: §8 → §7It gives 15 minutes strength to all guild members.
-  Alchemy_Menu_Lore_2: §8 → §7It summons horse for all guild members
-  Alchemy_Menu_Lore_3: §8 → §7It gives 15 minutes speed to all guild members.
-  Alchemy_Menu_Lore_4: §8 → §7It gives 15 minutes resistance to all guild members.
-  Alchemy_Type_1_Name_1: §6Level I Strength
-  Alchemy_Type_1_Name_2: §6Level II Strength
-  Alchemy_Type_1_Name_3: §6Level III Strength
-  Alchemy_Type_2_Name_1: §6Unarmed Horse
-  Alchemy_Type_2_Name_2: §6Iron Armored Horse
-  Alchemy_Type_2_Name_3: §6Diamond Armored Horse
-  Alchemy_Type_3_Name_1: §6Level I Speed
-  Alchemy_Type_3_Name_2: §6Level II Speed
-  Alchemy_Type_3_Name_3: §6Level III Speed
-  Alchemy_Type_4_Name_1: §6Level I Resistance
-  Alchemy_Type_4_Name_2: §6Level II Resistance
-  Alchemy_Type_4_Name_3: §6Level III Resistance
-  Bought_Alchemy_Guild: §e{GUILD} §7guild, bought §6{TYPE} §7from guild alchemy.
-  Bought_Alchemy_Own: §7{RANK} {PLAYER}§7, bought §6{TYPE} §7from guild alchemy.
+  Status_Online: §aAktywny
+  Status_Offline: §cNieaktywny
+  Rank_Yourself: §7Nie możesz zmienić swojej pozycji.
+  Rank_Not_Enough: §7Posiadasz zbyt niską pozycję gildii.
+  Player_Info_No_Guild: '||§7Gracz nie posiada gildii.'
+  Player_Stats: Statystyki
+  Player_Info_Name_1: '§6Gildia:'
+  Player_Info_Name_2: '§6Informacje gracza:'
+  Player_Info_Name_3: '§6Pozostałe:'
+  No_Guild_Like_This: §7Nie znaleziono takiej gildii.
+  No_Player_Like_This: §7Nie ma takiego gracza.
+  Guild_Emblem_GUI: §6Godło Gildii
+  Guild_Emblem_Lore: '||§7Kliknij aby ustawić godło.'
+  Rank_Changed: §7Twoja pozycja to teraz {RANK}§7.
+  Ranked_Player: §7{OLDRANKCHANGEP} {CHANGEP}§7 otrzymał pozycję {NEWRANKCHANGEP}
+    §7przez {RANKPLAYER} {PLAYER}§7.
+  Rank_Wrong: §7Możesz wybrać tylko pozycję niższą od swojej.
+  You_Cant_Action: §7Nie możesz tego zrobić w strefie §e{BUILD}§7.
+  Owned_By: §7Ta ziemia należy do §e{GUILD}§7. Nie możesz tego zrobić.
+  Reloading_1: §7Przeladowywanie...
+  Reloading_2: §7Zakonczono pomyślnie.
+  Emblem_Saved: §7Zapisano nowe godło.
+  Select_Color: §7Nie wybrałeś koloru.
+  Select_Code: §7Nie wybrałeś kwadratu.
+  Guild_Emblem_Changed: §7Godło gildii zostało zaaktualizowane przez §e{PLAYER}§7.
+  Create_Guild_Disabled_World: §7Tutaj nie możesz zakładać gildii, ale możesz przejąć ziemię dla swojej gildii.
+  Back_Header: §6Powrót
+  Menu_Alchemy_GUI: Alchemia
+  Text_Feature: '§eFunkcja:'
+  Text_Price: '§eCena:'
+  Text_Buy: §eKliknij aby zakupić tę opcję.
+  Alchemy_Menu_Lore_1: §8 → §7Daje 15 minut siły wszystkim członkom gildii.
+  Alchemy_Menu_Lore_2: §8 → §7Przywołuje konia dla wszystkich członków gildii
+  Alchemy_Menu_Lore_3: §8 → §7Daje 15 minut prędkości wszystkim członkom gildii.
+  Alchemy_Menu_Lore_4: §8 → §7Daje 15 minut odporności wszystkim członkom gildii.
+  Alchemy_Type_1_Name_1: §6Poziom I Siły
+  Alchemy_Type_1_Name_2: §6Poziom II Siły
+  Alchemy_Type_1_Name_3: §6Poziom III Siły
+  Alchemy_Type_2_Name_1: §6Nieuzbrojony koń
+  Alchemy_Type_2_Name_2: §6Koń z żelaznym pancerzem.
+  Alchemy_Type_2_Name_3: §6Koń z diamentowym pancerzem
+  Alchemy_Type_3_Name_1: §6Poziom I Szybkość
+  Alchemy_Type_3_Name_2: §6Poziom II Szybkość
+  Alchemy_Type_3_Name_3: §6Poziom III Szybkość
+  Alchemy_Type_4_Name_1: §6Poziom I Odporność
+  Alchemy_Type_4_Name_2: §6Poziom II Odporność
+  Alchemy_Type_4_Name_3: §6Poziom III Odporność
+  Bought_Alchemy_Guild: §7Gildia §e{GUILD}§7, zakupiła §6{TYPE} §7w Alchemii.
+  Bought_Alchemy_Own: §7{RANK} {PLAYER}§7, zakupił §6{TYPE} §7z alchemii.
   Barrack_Upgrade_Item_1: §7leather set
   Barrack_Upgrade_Item_2: §egolden set
   Barrack_Upgrade_Item_3: §8chain set
   Barrack_Upgrade_Item_4: §firon set
   Barrack_Upgrade_Item_5: §bdiamond set
-  Menu_War_GUI: Guild Wars
-  Menu_War_Name_1: §6Search Guild To Fight
-  Menu_War_Lore_1: §7Click here to find guild to fight.
-  Menu_War_Name_2: §6War Statistics
-  Menu_War_Name_3: §6Top Guilds
-  Menu_War_Lore_3: §7Click here to see top guilds.
-  Disabled_Chat: §7You disabled guild chat mode. Your messages can see by all players.
-  Enabled_Chat: §7You enabled guild chat mode. Your messages can see by only guild
-    members.
-  Guild_Chat: §7[GC]
+  Menu_War_GUI: Wojny Gildii
+  Menu_War_Name_1: §6Znajdź gildię do walki
+  Menu_War_Lore_1: §7Kliknij aby znaleść gildię.
+  Menu_War_Name_2: §6Statystyki Wojny
+  Menu_War_Name_3: §6Topowe Gildie
+  Menu_War_Lore_3: §7Kliknij aby zobaczyć rankingi.
+  Disabled_Chat: §7Wyłączono chat gildii, teraz jesteś na kanale globalnym.
+  Enabled_Chat: §7Włączono chat gildii, teraz twoje wiadomości są tylko gildyjne.
+  Guild_Chat: §7[CHAT GILDII]
   Number_Online: §8(§a{PLAYER} §7online§8)
-  Claimed_Land: Claimed Land
-  Claimed_Land_Lore: '||§7Location: §f{LOC}||||§eClick to teleport to this claim.'
-  ClaimName_Usage: §7Use §e/sg claimname <name> §7for edit name of where you at chunk.
-  ClaimName_Changed: §7Name of claim located at §e{LOC} §7changed to §6{NAME} §7by
+  Claimed_Land: Zajęta Ziemia
+  Claimed_Land_Lore: '||§7Lokalizacja: §f{LOC}||||§eKliknij aby się przeteleportować.'
+  ClaimName_Usage: §7Uzyj §e/sg claimname <name> §7aby zmienić nazwę ziemi na której się znajdujesz.
+  ClaimName_Changed: §7Nazwa ziemi znajdująca się na §e{LOC} §7została zmieniona na §6{NAME} §7przez
     §9{BY}§7.
-  Arena_Created: '§7Arena created: §e{ARENA}'
-  Arena_Exists: §7There is already an arena in this name.
-  Enter_Arena_Name: §7Enter the arena name.
-  No_Arena: §7There is no such arena.
-  Arena_Removed: '§7Arena removed: §e{ARENA}'
-  Enter_Setspawn_Type: §7You must enter team type. (1 or 2)
-  Setspawn_Done: §eTeam-{TYPE}§7's spawnpoint of §a{ARENA} §7has been set.
-  Lobby_Done: §7The lobby has been set to where you at. Players will teleported here
-    after game end.
-  Restart_Kick_restart: §7You were kicked because this arena has been restarted.
-  Restart_Kick_error: §7You were kicked because this arena has been bugged.
-  Restart_Kick_time: §7You were kicked because this arena has been ended.
-  Enemy_War_Minimum: §7This guild has §e{ONLINE} §7online member(s). (Minimum is {MINIMUM})
-  You_War_Minimum: §7You have §e{ONLINE} §7online member(s). (Minimum is {MINIMUM})
-  Enemy_Guild_In_War: §7This guild is in the war.
-  Your_Guild_In_War: §7Your guild is in the war.
-  Cannot_War_Yourself: §7You can't make war with yourself.
-  War_Invite_Send: §7Your guild sent a war invitation to §c{GUILD} §7guild.
-  War_Other_Reject: §9{GUILD} §7rejected your war invitation.
-  War_You_Reject: §7You rejected §9{GUILD}§7's war invitation.
-  No_Available_Arena: §7No available arena found.
-  War_Starting_Timer: §9{GUILD1} §7vs. §c{GUILD2} §7will be started in §e{SECONDS}
-    §7second(s).
-  War_Started: §7The war of §9{GUILD1} §7vs. §c{GUILD2} §7is started. Good luck warriors!
-  War_End_Timer: §7War will be ended in §e{MINUTES} §7minute(s).
-  Game_Finished_Time: §7Time is over, no one won.
-  No_Command_War: §7You can't use commands while you're in war.
-  War_Win: §7The war of §9{GUILD1} §7vs. §c{GUILD2} §7has ended. §9{GUILD1} §7won
-    the war.
-  New_Division: §7Your guild's division has changed to §r{NEWDIVISION} §7from §r{OLDDIVISION}§7.
-  War_Points_Add: §7Your guild won the war against §c{GUILD} §7and gained §a+{POINTS}
+  Arena_Created: '§7Arena stworzona: §e{ARENA}'
+  Arena_Exists: §7Taka arena istnieje.
+  Enter_Arena_Name: §7Podaj nazwę areny.
+  No_Arena: §7Nie ma takiej areny.
+  Arena_Removed: '§7Arena usunięta: §e{ARENA}'
+  Enter_Setspawn_Type: §7Wybierz numer drużyny. (1 lub 2)
+  Setspawn_Done: §eDrużyna-{TYPE}§7 miejsce spawnu dla §a{ARENA} §7ustawiony.
+  Lobby_Done: §7Lobby zostało ustawione, tutaj gracze zostaną przeniesieni po zakończeniu.
+  Restart_Kick_restart: §7Zostałeś wyrzucony, arena ma restart.
+  Restart_Kick_error: §7Zostałeś wyrzucony z powodu błędu areny.
+  Restart_Kick_time: §7Arena zakończona, zostałeś wyrzucony.
+  Enemy_War_Minimum: §7Ta gildia ma §e{ONLINE} §7członków online. (Minimum to {MINIMUM})
+  You_War_Minimum: §7Posiadasz §e{ONLINE} §7członków online. (Minimum to {MINIMUM})
+  Enemy_Guild_In_War: §7Ta gildia nie jest w wojnie.
+  Your_Guild_In_War: §7Twoja gildia nie jest w wojnie.
+  Cannot_War_Yourself: §7Chcesz walczyć ze samym sobą? Hmmmm...
+  War_Invite_Send: §7Wysłano wypowiedzenie wojny do §c{GUILD}§7, poczekaj na ich decyzjkę.
+  War_Other_Reject: §9{GUILD} §7odrzucili twoje wypowiedzenie wojny.
+  War_You_Reject: §7Odrzucono wypowiedzenie walki od §9{GUILD}§7.
+  No_Available_Arena: §7Nie ma dostępnych aren do bitwy.
+  War_Starting_Timer: §9{GUILD1} §7vs. §c{GUILD2} §7rozpocznie się za §e{SECONDS}
+    §7sekund.
+  War_Started: §7Wojna gildii §9{GUILD1} §7vs. §c{GUILD2} §7rozpoczęta. Szczęścia, wojownicy!
+  War_End_Timer: §7Wojna zakończy się za §e{MINUTES} §7minut.
+  Game_Finished_Time: §7Koniec czasu, nikt nie wygrał.
+  No_Command_War: §7Komendy nie są dozwolone w walce.
+  War_Win: §7Wojna gildii §9{GUILD1} §7vs. §c{GUILD2} §7zakończona. §9{GUILD1} §7wygrywa wojnę.
+  New_Division: §7Dywizja gildii zmieniona na §r{NEWDIVISION} §7z §r{OLDDIVISION}§7.
+  War_Points_Add: §7Twoja gildia wygrała wojnę z §c{GUILD} §7i otrzymała §a+{POINTS}
     ✪§7.
-  War_Points_Lose: §7Your guild lose the war against §9{GUILD} §7and lost §c-{POINTS}
+  War_Points_Lose: §7Twoja gildia przegrała wojnę z §9{GUILD} §7i straciła §c-{POINTS}
     ✪§7.
-  Arena_Debug: §7Arena §a{ARENA} §7has restarted.
-  No_Arena_Found: §7No arena found.
-  Arena_Guilds: '§7Arena Guilds: §f'
-  Arena_TimeLeft: '§7Time Left: §f'
-  Status_Text_0: §a§lWAITING
-  Status_Text_1: §e§lINGAME
-  Status_Text_2: §c§lCLOSED
-  Status_Text_3: §4§lRESTARTING
+  Arena_Debug: §7Arena §a{ARENA} §7zrestartowana.
+  No_Arena_Found: §7Nie znaleziono areny.
+  Arena_Guilds: '§7Arena gildii: §f'
+  Arena_TimeLeft: '§7Czas Pozostały: §f'
+  Status_Text_0: §a§lOCZEKIWANIE
+  Status_Text_1: §e§lW GRZE
+  Status_Text_2: §c§lZAMKNIĘTA
+  Status_Text_3: §4§lRESTARTOWANIE
   RankStar_Leader: '§b✯ '
   RankStar_General: '§a⚝ '
   RankStar_Captain: '§d★ '
   RankStar_Member: ''
-  Claim_Limit: §7You can't claim more.
-  Death_Broadcast: §3[{VGUILD}] §9{VICTIM}§7 killed by §6[{AGUILD}] §e{ATTACKER} §4[-{GOLD}
-    Gold]
-  Death_Gold_Gain: Your guild gain §e+{GOLD} Gold §7because §7{RANK} {PLAYER}§7 killed
-    someone.
-  Death_Gold_Loss: Your guild loss §4-{GOLD} Gold §7because §7{RANK} {PLAYER}§7 died
-    by someone.
-  Buildings_Broadcast_TNT: §7TNTs won't explode in your claimed lands.
-  Click_To_Teleport: §7Click here to teleport.
-  Click_To_Select_Color: §fClick me to select this as your dye.
-  Click_To_Dye_Here: Click me to dye here.
-  Save_Emblem_Lore: §fClick me to save and apply emblem.
-  Reset_Emblem_Lore: §fClick me to clear your draft.
-  Use_Emblem_Lore: §fClick me to edit emblem of your guild.
-  Wilderness_Text: §2§l§nWilderness§r §2§l⚘
-  Wilderness_Msg_1: §7§oI love nature...
-  Wilderness_Msg_2: §7§oI feel like free...
-  Wilderness_Msg_3: §7§oI am a free man and I need my freedom.
-  Wilderness_Msg_4: §7§oThe secret to happiness is nature.
-  Home_Text: §a§l§nHome§r §a§l⌂
+  Claim_Limit: §7Więcej nie możesz zająć. Zostaw trochę ziem dla innych gildii.
+  Death_Broadcast: §3[{VGUILD}] §9{VICTIM}§7 został zabity przez §6[{AGUILD}] §e{ATTACKER} §4[-{GOLD}
+    Złota]
+  Death_Gold_Gain: Gildia zdobywa §e+{GOLD} Złota §7gdyż §7{RANK} {PLAYER}§7 dokonał zabójstwa.
+  Death_Gold_Loss: Gildia traci §4-{GOLD} Złota §7gdyż §7{RANK} {PLAYER}§7 umarł.
+  Buildings_Broadcast_TNT: §7TNT nie wybucha na zajętych ziemiach.
+  Click_To_Teleport: §7Kliknij aby się przeteleportować.
+  Click_To_Select_Color: §fKliknij aby ustawić kolor.
+  Click_To_Dye_Here: Kliknij aby pokolorować tutaj.
+  Save_Emblem_Lore: §fKliknij i zapisz godło.
+  Reset_Emblem_Lore: §fKliknij aby zresetować szkic.
+  Use_Emblem_Lore: §fKlknij aby zmienić godło.
+  Wilderness_Text: §2§l§nPustkowie§r §2§l⚘
+  Wilderness_Msg_1: §7§oUwielbiam naturę...
+  Wilderness_Msg_2: §7§oCzuję się wolny...
+  Wilderness_Msg_3: §7§oTutaj może być niebezpiecznie.
+  Wilderness_Msg_4: §7§oSekretem szczęścia jest natura.
+  Home_Text: §a§l§nDom§r §a§l⌂
   Home_Msg_1: §7§oHome sweet home...
-  Home_Msg_2: §7§oNothing is better than going home.
-  Home_Msg_3: §7You found what you need and return home.
-  Home_Msg_4: §7A man's house is his castle.
+  Home_Msg_2: §7§oNic nie jest lepsze niż dom.
+  Home_Msg_3: §7Znalazłeś czego potrzebowałeś i powróciłeś.
+  Home_Msg_4: §7W końcu w domu.
   Other_Guild_Text: §4§l§n{GUILD}§r §4§l☠
-  Other_Guild_Msg_1: §7§oBe careful.
-  Other_Guild_Msg_2: §7Shh, they can hear us.
-  Other_Guild_Msg_3: §7An another guild here.
-  Other_Guild_Msg_4: §7To the war!
-  Emblem_Menu: §0§l  » GUILD EMBLEM
+  Other_Guild_Msg_1: §7§oBądź ostrożny.
+  Other_Guild_Msg_2: §7Cśś, mogą być wszędzie.
+  Other_Guild_Msg_3: §7Kolejna gildia tutaj.
+  Other_Guild_Msg_4: §7Spokojnie i powoli...
+  Emblem_Menu: §0§l  » GODŁO GILDII
   Save_Emblem_Button: §2§l[§2✓§2§l]§r
   Reset_Emblem_Button: §4§l[§4✘§4§l]
   Use_Emblem_Button: §0§l[§0✎§0§l]
-  Player_No_Guild: §7This player does not have a guild.
-  Menu_Donate_GUI: Put Resources To Here
-  Enter_MOTD: §7Enter the message of the day.
-  MOTD_Changed: §7Message of the Day has changed by §a{BY}§7.
-  MOTD_Removed: §7Message of the Day has removed by §a{BY}§7.
+  Player_No_Guild: §7Ten gracz nie ma gildii.
+  Menu_Donate_GUI: Tutaj wrzuć swoje zasoby
+  Enter_MOTD: §7Wprowadź wiadomość dnia.
+  MOTD_Changed: §7Wiadomość dnia zmieniona przez §a{BY}§7.
+  MOTD_Removed: §7Wiadomość dnia usunięta przez §a{BY}§7.
   MOTD_Title: §f← §e§l§nMOTD§r §f→
   MOTD_SubTitle: §7§o{MESSAGE}
-  MOTD_ActionBar: §fMessage of the Day by §a{BY}§f. §f({DATE})
-  Enter_Region_Name: §7Enter the WorldGuard's region name.
-  No_Region: §7No WorldGuard region founded in this name.
-  Region_Allowed: §7You allowed §a{REGION} §7WorldGuard region to give access to create
-    guilds on region.
-  Region_Disallowed: §7You disallowed §c{REGION} §7WorldGuard region to give access
-    to create guilds on region.
-  Already_Ally: §7This guild is already your ally.
-  Wait_Ally: §7You need to wait §a{TIME} §7to add/remove ally.
-  Added_Ally: §a{GUILD} §7guild and §9{ALLY} §7guild are allies now.
-  Ally_GUI: Ally Invitation
-  Ally_InviteC_Accept: §6Accept and be ally with §e{GUILD}§6.
-  Ally_InviteC_Lore: '||§7Allies can''t attack each other.'
-  Ally_Other_Reject: §9{GUILD} §7rejected your ally invitation.
-  Ally_You_Reject: §7You rejected §9{GUILD}§7's ally invitation.
-  No_Ally: §7This guild is not in your ally list.
-  Removed_Ally: §a{GUILD} §7guild and §c{ENEMY} §7guild are no longer allies.
-  Cannot_War_Allies: §7You cannot fight with your allies guilds.
-  Cannot_Claim_Allies: §7This land owned by your guild ally. You can't claim this
-    land.
-  Allies_GUI: Allies List
-  Allies_Lore: '||§7Date: §e{DATE}||§7Added By: §e{BY}||||§7§oUse §c§o''/g enemy {GUILD}''
-    §7§oto remove.'
-  Ally_Yourself: §7You can't make alliance with yourself.
-  Help_Pages_4::Line_1: §e/guilds ally <guild> §8- §7Sets a guild to be your ally.
-  Help_Pages_4::Line_2: §e/guilds enemy <guild> §8- §7Remove a guild from your ally
-    list.
-  Help_Pages_4::Line_3: §e/guilds allies §8- §7Shows your guild's allies.
-  Tournaments_Name: Tournaments
+  MOTD_ActionBar: §fWiadomość dnia od §a{BY}§f. §f({DATE})
+  Enter_Region_Name: §7Wprowadź nazwę terenu administratora.
+  No_Region: §7Nie znaleziono terenu administratora.
+  Region_Allowed: §7Dozwolono tworzenie gildii w regionie §a{REGION}§7.
+  Region_Disallowed: §7Niedozwolono tworzenia gildii w regionie §a{REGION}§7..
+  Already_Ally: §7Ta gildia jest już w sojuszu.
+  Wait_Ally: §7Poczekaj §a{TIME} §7aby zmienić sojusze.
+  Added_Ally: §a{GUILD} §7oraz §9{ALLY} §7są teraz sojusznikami.
+  Ally_GUI: Zaproszenie do Sojuszu
+  Ally_InviteC_Accept: §6Zaakceptuj sojusz z §e{GUILD}§6.
+  Ally_InviteC_Lore: '||§7Sojusznicy nie mogą się atakować.'
+  Ally_Other_Reject: §9{GUILD} §7odrzucił prośbę o sojusz.
+  Ally_You_Reject: §7Odrzucono prośbę o sojusz z §9{GUILD}§7.
+  No_Ally: §7Ta gildia już nie jest sojusznikiem.
+  Removed_Ally: §a{GUILD} §7oraz §c{ENEMY} §7zerwali sojusz.
+  Cannot_War_Allies: §7Nie możesz walczyć z sojusznikiem.
+  Cannot_Claim_Allies: §7Ta ziemia należy do sojuszników, nie możesz jej okupować.
+  Allies_GUI: Lista Sojuszy
+  Allies_Lore: '||§7Dnia: §e{DATE}||§7Przez: §e{BY}||||§7§oUżyj §c§o''/g enemy {GUILD}''
+    §7§oaby zerwać sojusz.'
+  Ally_Yourself: §7Nie możesz być sojusznikiem samego siebie...
+  Help_Pages_4::Line_1: §e/g ally <guild> §8- §7Dodaj gildię do sojuszu.
+  Help_Pages_4::Line_2: §e/g enemy <guild> §8- §7Zerwij sojusz.
+  Help_Pages_4::Line_3: §e/g allies §8- §7Lista sojuszy.
+  Tournaments_Name: Turnieje
   Tournaments_Status_Off_Name: §4⚠
-  Tournaments_Status_Off_Lore: '||§7The Tournament is not active||§7at the moment
-    and try again later.'
-  Tournaments_In_Name: §6§nTournament Information
-  Tournaments_In_Lore: '||§7Waiting for an opponent...'
-  Tournaments_Opponent_Lore: '||§7Your opponent is §c{GUILD} §7guild.||§7You can check
-    stats of this||§7guild with §e/g info §7command.'
-  Tournaments_Join_Name: §6§nJoin the Tournament
-  Tournaments_Join_Lore: '||§7Click to join the Tournament.'
-  Tournaments_List: §6§nTournament Matches
-  Tournaments_Guild_List: §6§nTournament Guilds
-  Tournaments_List_Waiting: §7§o(waiting for guilds...)
-  Tournaments_Ingame_Lore: §8(§7§oin progress§8)
-  Tournaments_Waiting_Lore: §8(§7§owaiting§8)
+  Tournaments_Status_Off_Lore: '||§7Turniej nie jest aktywny||§7Sprawdź później.'
+  Tournaments_In_Name: §6§nInformacje o Turnieju
+  Tournaments_In_Lore: '||§7Oczekiwanie na przeciwnika...'
+  Tournaments_Opponent_Lore: '||§7Twój przeciwnik to §c{GUILD}§7.||§7Aby zobaczyć statystyki użyj||§7komendy §e/g info§7.'
+  Tournaments_Join_Name: §6§nDołącz do Turnieju
+  Tournaments_Join_Lore: '||§7Kliknij aby dołączyć do turnieju.'
+  Tournaments_List: §6§nMecze Turniejowe
+  Tournaments_Guild_List: §6§nTurniejowe gildie
+  Tournaments_List_Waiting: §7§o(oczekiwanie na gildie...)
+  Tournaments_Ingame_Lore: §8(§7§ow trakcie§8)
+  Tournaments_Waiting_Lore: §8(§7§ooczekiwanie§8)
   Tournaments_Won_Lore: §8(§f{G}§8)
-  Tournaments_Eliminated_Lore: '||§7The tournament has begun||§7and you can''t join
-    at the moment.||§7See you soon in a new Tournament.'
-  Tournaments_Already_Enabled: §7The tournament is already enabled.
-  Tournament_Joins_Closed: §7The tournament matches has been set. Check it with tournament
-    menu.
-  Your_Guild_Already_Tournament: §7Your guild is already in the Tournament.
-  Tournament_Not_Active: §7The tournament is not active at the moment.
-  Cant_Join_Closed: §7Your guild can't join the Tournament at the moment.
-  Guild_Joined_Tournament: §a{GUILD} §7has joined to tournament. §8[§e{ALL} joined§8]
-  Tournament_Not_Enough: §7Tournament has closed because there were not enough teams
-    to participate in the Tournament.
-  You_Cant_War_Tournament: §7Sorry, your guild can't war while tournament is active.
-  Tournaments_You_Won_Waiting: '||§7Your guild won a battle so.||§7you''re waiting
-    for new match.'
-  Guild_Removed_Tournament: §7Your guild has been removed from tournament due to 'guild
-    count must be double'
-  Tournament_Won_Broadcast: §a{GUILD} §7won the Tournament and gained §a+{POINTS}
-    ✪§7.
-  Locale_GUI_Name: Language Select
-  Click_Select_Locale: '||§7Click to select this locale.'
+  Tournaments_Eliminated_Lore: '||§7Turniej się rozpoczął||§7Nie możesz teraz dołączyć.||§7Poczekaj na następy turniej.'
+  Tournaments_Already_Enabled: §7Turniej już jest włączony.
+  Tournament_Joins_Closed: §7Mecze turniejowe ustawione. Możesz je sprawdzić w menu.
+  Your_Guild_Already_Tournament: §7Twoja gildia już jest w turnieju.
+  Tournament_Not_Active: §7Turniej jest nieaktywny.
+  Cant_Join_Closed: §7Twoja gildia nie może teraz dołączyć
+  Guild_Joined_Tournament: §a{GUILD} §7dołączyła do turnieju. §8[§e{ALL} dołączyło§8]
+  Tournament_Not_Enough: §7Turniej zakończony, gdyż zbyt mało osób brało udział.
+  You_Cant_War_Tournament: §7Twoja gildia nie może prowadzić wojny w trakcie turnieju.
+  Tournaments_You_Won_Waiting: '||§7TWoja gildia wygrała.||§7Poczekaj na kolejny mecz.'
+  Guild_Removed_Tournament: §7Twoja gildia została wyrzucona z turnieju, zbyt mało graczy.'
+  Tournament_Won_Broadcast: §a{GUILD} §7wygrała turniej i otrzymała §a+{POINTS} ✪§7.
+  Locale_GUI_Name: Wybór Języka
+  Click_Select_Locale: '||§7Kliknij aby wybrać język.'
   Locale_en_US: §6English
   Locale_es_ES: §6Español
   Locale_de_DE: §6Deutsch
   Locale_it_IT: §6Italiano
   Locale_ru_RU: §6Руска
   Locale_tr_TR: §6Türkçe
-  Allow_Or_Disallow: §7Use §a'/sgallow region allow <region>' §7to give access create
+  Allow_Or_Disallow: §7Użyj §a'/sgallow region allow <region>' §7to give access create
     guilds on region. For delete this use §c'/sgadmin region disallow <region>'§7.
     To check regions use §e'/sgadmin region list'§7.
   No_Region_Found: §7There are no regions allowed.
   Region_List: '          §a§nAllowed Region List'
-  Top_Guilds: Top Guilds
-  War_Top_GUI: §7Click to check top guilds list.
-  War_Death_0: §9{VICTIM} ({VGUILD}) §7has died and eliminated from war.
+  Top_Guilds: Ranking Gildii
+  War_Top_GUI: §7Kliknij aby zobaczyć topkę gildii.
+  War_Death_0: §9{VICTIM} ({VGUILD}) §7umarł i został wyeliminowany.
   Locale_zh_CN: §6中文
   Locale_vn_VN: §6Tiếng Việt
   Locale_fr_FR: §6Français
-  Divisions_0: §8Bronze
-  Divisions_1: §7Silver
-  Divisions_2: §eGold
-  Divisions_3: §dCrystal
-  Divisions_4: §bMaster
-  Divisions_5: §cChampionship
-  Menu_Allies_Name: §6Guild Allies
-  Menu_Allies_Lore: '||§7Click to check your guild''s allies.'
-  Guild_Home_Menu_Name: §6Guild Home
-  Guild_Home_Menu_Lore: '||§7Click to teleport your guild''s home.'
+  Divisions_0: §8Brąz
+  Divisions_1: §7Srebro
+  Divisions_2: §eZłoto
+  Divisions_3: §dKryształ
+  Divisions_4: §bMistrz
+  Divisions_5: §cLegendarny
+  Menu_Allies_Name: §6Sojusznicy
+  Menu_Allies_Lore: '||§7Kliknij aby zobaczyć sojuszników.'
+  Guild_Home_Menu_Name: §6Baza Gildii
+  Guild_Home_Menu_Lore: '||§7Kliknij aby się przeteleportować.'
   Tournament_Cooldown: §7Matches will be set in §e{SECOND} §7second(s). §7Your guild
     can join with '§e/g§7' command.
   You_Need_More_Resource: §7You need more §f{AMOUNT} §7of {RESOURCE}§r §7to do this.
@@ -385,13 +368,13 @@ Messages:
     ✪||§7 → Start Items: §f{ITEMS}||||§ePvP;||§7 → Kills: §f{KILLS}||§7 → Deaths:
     §f{DEATHS}'
   Claim_Name: §7§o(You can change this claim's name||§7§ousing §e/g claimname §7§ocommand.)
-  Resource_Wood: §6§nWood Resource
-  Resource_Stone: §7§nStone Resource
-  Resource_Iron: §f§nIron Resource
-  Resource_Gold: §e§nGold Resource
-  Resource_Diamond: §b§nDiamond Resource
-  Resource_Wool: §3§nWool Resource
-  Resource_Worker: §e§nWorker
+  Resource_Wood: §6§nDrewno
+  Resource_Stone: §7§nKamień
+  Resource_Iron: §f§nŻelazo
+  Resource_Gold: §e§nZłoto
+  Resource_Diamond: §b§nDiament
+  Resource_Wool: §3§nWełna
+  Resource_Worker: §e§nBudowniczy
   Resource_Unicode_Wood: ✚
   Resource_Unicode_Stone: ⚒
   Resource_Unicode_Iron: ℓ
@@ -498,7 +481,7 @@ Messages:
     to get better.
   Guild_Vault_ItemName: §6Guild Vault
   Guild_Vault_ItemLore: '||§7Click to open guild''s vault.'
-  Help_Pages_4::Line_4: §e/guilds vault §8- §7Opens your guild's vault.
+  Help_Pages_4::Line_4: §e/g vault §8- §7Opens your guild's vault.
   PageAPI_Header_0: Guilds List
   PageAPI_Header_1: Claims List
   PageAPI_Header_2: Guild Finder
