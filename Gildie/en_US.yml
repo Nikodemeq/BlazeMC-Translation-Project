@@ -422,192 +422,163 @@ Messages:
   Book_Build_Requires: '§8Wymagania:'
   Book_Required_Text: '§8Wymagane:§f '
   Book_Have_Text: '§8Posiadasz:§f '
-  Alchemy_Menu_Price_1: ' §8 → §7Level I: §f{AMOUNT1}|| §8 → §7Level II: §f{AMOUNT2}||
-    §8 → §7Level III: §f{AMOUNT3}'
-  Alchemy_Menu_Price_2: ' §8 → §7Unarmed Horse: §f{AMOUNT1}|| §8 → §7Iron Armored
-    Horse: §f{AMOUNT2}|| §8 → §7Diamond Armored Horse: §f{AMOUNT3}'
-  Alchemy_Menu_Price_3: ' §8 → §7Level I: §f{AMOUNT1}|| §8 → §7Level II: §f{AMOUNT2}||
-    §8 → §7Level III: §f{AMOUNT3}'
-  Alchemy_Menu_Price_4: ' §8 → §7Level I: §f{AMOUNT1}|| §8 → §7Level II: §f{AMOUNT2}||
-    §8 → §7Level III: §f{AMOUNT3}'
-  Build_Max: §7This building has reached last level.
-  Build_Started: '{RANK} {PLAYER} §7has started build construction for §e{BUILD} §7to
-    tier §e{LEVEL}§7. It will be done in §a{TIME}§7.'
-  Build_Wait: §7Upgrade will be completed in §e{TIME}§7.
-  You_Cant_Edit_Here: §7You can't change prepared things on §e{BUILD} §7zone. You
-    only can place/break blocks like chests, furnaces.
-  You_Cant_Build_Here: §7You can't make buildings on §e{BUILD} §7zone.
-  You_Cant_Alchemy: §7You can't use §9Alchemy§7 because you need to make §9Alchemy
-    §7to §6Level I§7.
-  Land_Protection: §7System will create a base so please select empty land.
-  Creation_Point: Creation Point
+  Alchemy_Menu_Price_1: ' §8 → §7Poziom I: §f{AMOUNT1}|| §8 → §7Poziom II: §f{AMOUNT2}||
+    §8 → §7Poziom III: §f{AMOUNT3}'
+  Alchemy_Menu_Price_2: ' §8 → §7Nieuzbrojony Koń: §f{AMOUNT1}|| §8 → §7Koń z żelaznym pancerzem: §f{AMOUNT2}|| §8 → §7Koń z diamentowym pancerzem: §f{AMOUNT3}'
+  Alchemy_Menu_Price_3: ' §8 → §7Poziom I: §f{AMOUNT1}|| §8 → §7Poziom II: §f{AMOUNT2}||
+    §8 → §7Poziom III: §f{AMOUNT3}'
+  Alchemy_Menu_Price_4: ' §8 → §7Poziom I: §f{AMOUNT1}|| §8 → §7Poziom II: §f{AMOUNT2}||
+    §8 → §7Poziom III: §f{AMOUNT3}'
+  Build_Max: §7Ta budowla ma maksymalny Poziom.
+  Build_Started: '{RANK} {PLAYER} §7rozpoczął budowowanie §e{BUILD} §7tieru §e{LEVEL}§7. Budowa zakończy się §a{TIME}§7.'
+  Build_Wait: §7Ulepszenie zostanie gotowe §e{TIME}§7.
+  You_Cant_Edit_Here: §7Nie możesz zmieniać przygotowanych rzeczy w strefie §e{BUILD}§7. Możesz tylko kłaść/niszczyć bloki takie jak skrzynki czy piecyki.
+  You_Cant_Build_Here: §7Nie możesz budować w strefie §e{BUILD}§7.
+  You_Cant_Alchemy: §7Nie możesz użyć §9Alchemii§7 ponieważ musisz stworzyć §9Alchemię §7na §6Poziom I§7.
+  Land_Protection: §7System utworzy bazę, proszę wybrać pusty teren.
+  Creation_Point: Punkt tworzenia
   Romen_Num_0: '0'
-  Building_Status_3: Max Level
-  Barrack_Upgrade_Item_0: No Items
-  Join_Status_Name_0: §c§lPrivate
-  Join_Status_Lore_0: §4§o'Only invited players can join to guild.'
-  Join_Status_Name_1: §a§lPublic
-  Join_Status_Lore_1: §2§o'People can join to guild without invite.'
-  ChangeJoinStatus_Lore: '||||§7Click here to change the condition.'
-  This_Guild_Is_Not_Public: §7This guild is not public, they must invite you.
-  Resource_Worker_Time_Ready: '||§7Worker is §aready §7to do buildings now.'
-  Resource_Worker_Time_Rest: '||§7Worker needs to rest for make new builds.||§c{TIME}
-    §7left to be ready...'
-  Worker_Rest: §7Worker needs to rest for §a{TIME} §7to make new buildings.
-  Resource_Give_Usage: '§7Usage: §e/sgadmin resource <guild> <resource> <add/remove/set>
+  Building_Status_3: Maks. Poziom
+  Barrack_Upgrade_Item_0: Brak itemów
+  Join_Status_Name_0: §c§lPrywatna
+  Join_Status_Lore_0: §4'Tylko zaproszeni gracze mogą dołączyć.'
+  Join_Status_Name_1: §a§lPubliczna
+  Join_Status_Lore_1: §2'Każdy może dołączyć, lecz nie otrzymuje żadnej pozycji.'
+  ChangeJoinStatus_Lore: '||||§7Kliknij aby zmienić status.'
+  This_Guild_Is_Not_Public: §7Ta gildia jest prywatna, muszą ci wysłać zaproszenie.
+  Resource_Worker_Time_Ready: '||§7Budowniczy jest §agotowy §7do budowy.'
+  Resource_Worker_Time_Rest: '||§7Budowniczy musi odpocząć.||§c{TIME}
+    §7czasu pozostało...'
+  Worker_Rest: §7Budowniczy musi odpocząć §a{TIME} §7aby budować.
+  Resource_Give_Usage: '§7Użycie: §e/sgadmin resource <guild> <resource> <add/remove/set>
     <amount>'
   Resource_Give_Admin: §7You added §a{NUMBER} §7to §f{GUILD}§7's {RESOURCE}§7.
   Resource_Remove_Admin: §7You removed §c{NUMBER} §7from §f{GUILD}§7's {RESOURCE}§7.
   Resource_Set_Admin: §7You set §f{GUILD}§7's {RESOURCE} §7to §a{NUMBER}§7.
   Disabled_ChatSpy: §7You've disabled guild chat spy.
   Enabled_ChatSpy: §7You've enabled guild chat spy.
-  Holo_Message_Claim: '§e§l- {GUILD} HAS CLAIMED HERE -;§7Claimer: §f{PLAYER};§7Total
-    Chunks: §f{CHUNKS};'
-  Holo_Message_Build: '§6§l- {BUILD} BUILDING AREA -;§7Owner Guild: §f{GUILD};§7Finish
-    Date: §f{DATE};'
-  Guild_Vault_Header: Guild Vault
-  You_Cant_Vault: §7You can't use §eGuild Vault§7 because you need to make §9Storage
-    §7to §6Level I§7.
-  Building_Desc_Townhall: Townhall increases your max-member and protects you from
-    TNT(s)
-  Building_Desc_Barrack: Barracks gives you better items at guild wars to you can
-    win wars easily.
-  Building_Desc_Storage: Storage holds resources of guild, you can upgrade if you
-    want more resource capacity.
-  Building_Desc_Alchemy: Alchemy gives you more effective powers to use, upgrade it
-    to get better.
-  Guild_Vault_ItemName: §6Guild Vault
-  Guild_Vault_ItemLore: '||§7Click to open guild''s vault.'
-  Help_Pages_4::Line_4: §e/g vault §8- §7Opens your guild's vault.
-  PageAPI_Header_0: Guilds List
-  PageAPI_Header_1: Claims List
-  PageAPI_Header_2: Guild Finder
-  PageAPI_Header_3: Guild Members
-  PageAPI_Header_4: Allies List
-  PageAPI_Header_5: Public Guilds
-  PageAPI_NoVariable_0: §c§nNo Guilds Found.
-  PageAPI_NoVariable_1: §c§nNo Claims Found.
-  PageAPI_NoVariable_2: §c§nNo Guilds Found To War.
-  PageAPI_NoVariable_3: §c§nNo Players Found.
-  PageAPI_NoVariable_4: §c§nNo Guild Allies Found.
-  PageAPI_NoVariable_5: §c§nNo Public Guilds Found To Join.
-  PageAPI_NextPage_Name: §aNext Page
-  PageAPI_PreviousPage_Name: §aPrevious Page
-  PageAPI_MainPage_Name: §aMain Page
-  Menu_PreviousMenu_Name: §cPrevious Menu
-  RankGUI_PermName_Disband: §f§nDisband Guild
-  RankGUI_PermName_Upgrade: §f§nUpgrade Guild Buildings
-  RankGUI_PermName_Alchemy: §f§nUse Guild Alchemy
-  RankGUI_PermName_Vault: §f§nUse Guild Vault
-  RankGUI_PermName_Kick: §f§nKick Guild Members
-  RankGUI_PermName_Rank: §f§nChange Guild Members Permissions
-  RankGUI_PermName_Condition: §f§nChange Join Condition
-  RankGUI_PermName_Sethome: §f§nSet Guild Home
-  RankGUI_PermName_Claim: §f§nClaim / Unclaim / Claim Names
-  RankGUI_PermName_Emblem: §f§nGuild Emblem
-  RankGUI_PermName_Motd: §f§nMessage Of The Day
-  RankGUI_PermName_Invite: §f§nInvite Players
-  RankGUI_PermName_Ally: §f§nAlly / Enemy
-  RankGUI_PermName_War: §f§nDeclare Guild War
-  RankGUI_PermName_Donate: §f§nDonate Resource To Guild
-  RankGUI_Header: Rank Settings
-  RankGUI_CurrentRank: '||§7Current Rank: §f{RANK}||||§7Player Permissions:||'
-  RankGUI_UsePresetRank: '||§7Click to use this pre-set rank.'
-  Member_Information_Kick: '||||§7§nLEFT-CLICK with SHIFT to...||  §fkick player from
-    guild.'
-  Member_Information_Rank: '||||§7§nLEFT-CLICK to...||  §fchange player''s rank.'
-  Tournament_Started_Broadcast: §7The guild tournament has enabled! Join with '§e/g§7'
-    command.
-  Donated_List_New: '§6 → Wood: §f{DWOOD}||§7 → Stone: §f{DSTONE}||§f → Iron: §f{DIRON}||§e
-    → Gold: §f{DGOLD}||§b → Diamond: §f{DDIAMOND}||§3 → Wool: §f{DWOOL}'
-  Placeholder_NoVariable_guild_name: No guild
+  Holo_Message_Claim: '§e§l- {GUILD} ZAJĘLI TUTAJ ZIEMIE -;§7Zajęta przez: §f{PLAYER};§7Ilość chunków: §f{CHUNKS};'
+  Holo_Message_Build: '§6§l- {BUILD} STREFA BUDOWLANA -;§7Gildia: §f{GUILD};§7Zakończenie: §f{DATE};'
+  Guild_Vault_Header: Skrytka Gildii
+  You_Cant_Vault: §7Nie możesz użyć §eSkrytki Gildii§7 dopóki nie zbudujesz §9Magazyn §7na §6Poziom I§7.
+  Building_Desc_Townhall: Ratusz zwiększa ilość wolnych miejsc, i chroni twoją gildię od wybuchów TNT
+  Building_Desc_Barrack: Koszary dają ci lepsze przedmioty podczas wojny.
+  Building_Desc_Storage: Magazyn przetrzymuje wszystkie zasoby gildii, ulepsz go jeśli chcesz pomieścić więcej.
+  Building_Desc_Alchemy: Alchemia daje bardziej efektywne moce do użycia, ulepsz ją aby mieć ich więcej.
+  Guild_Vault_ItemName: §6Skrytka Gildii
+  Guild_Vault_ItemLore: '||§7Klknij aby otworzyć skrytkę.'
+  Help_Pages_4::Line_4: §e/g vault §8- §7Otwiera skrytkę gildii.
+  PageAPI_Header_0: Lista Gildii
+  PageAPI_Header_1: Lista Ziemii
+  PageAPI_Header_2: Wyszukiwanie gildii
+  PageAPI_Header_3: Członkowie Gildii
+  PageAPI_Header_4: Lista Sojuszy
+  PageAPI_Header_5: Publiczne Gildie
+  PageAPI_NoVariable_0: §c§nNie znaleziono gildii.
+  PageAPI_NoVariable_1: §c§nNie znaleziono ziemii.
+  PageAPI_NoVariable_2: §c§nNie znaleziono gildii do wojny.
+  PageAPI_NoVariable_3: §c§nNie znaleziono graczy.
+  PageAPI_NoVariable_4: §c§nNie znaleziono sojuszy.
+  PageAPI_NoVariable_5: §c§nBrak publicznych gildii.
+  PageAPI_NextPage_Name: §aNastępna Strona
+  PageAPI_PreviousPage_Name: §aPoprzednia strona
+  PageAPI_MainPage_Name: §aStrona główna
+  Menu_PreviousMenu_Name: §cPoprzednie Menu
+  RankGUI_PermName_Disband: §f§nRozwiązanie Gildii
+  RankGUI_PermName_Upgrade: §f§nUlepszanie Budowli
+  RankGUI_PermName_Alchemy: §f§nUżywanie Alchemii
+  RankGUI_PermName_Vault: §f§nUżywanie skrytki gildii
+  RankGUI_PermName_Kick: §f§nWyrzucanie członków
+  RankGUI_PermName_Rank: §f§nZmienianie permisji
+  RankGUI_PermName_Condition: §f§nZmienianie statusu dołączania
+  RankGUI_PermName_Sethome: §f§nUstawianie bazy głównej
+  RankGUI_PermName_Claim: §f§nZajmowanie ziem, zmienianie ich nazw oraz porzucanie ich
+  RankGUI_PermName_Emblem: §f§nZmiania godła
+  RankGUI_PermName_Motd: §f§nZmiana wiadomości dnia
+  RankGUI_PermName_Invite: §f§nZapraszanie graczy
+  RankGUI_PermName_Ally: §f§nSojusze / Wrogowie
+  RankGUI_PermName_War: §f§nDeklarowanie Wojny
+  RankGUI_PermName_Donate: §f§nWpłacanie zasobów do magazynu
+  RankGUI_Header: Ustawienia Pozycji
+  RankGUI_CurrentRank: '||§7Obecna pozycja: §f{RANK}||||§7Uprawnienia:||'
+  RankGUI_UsePresetRank: '||§7Kliknij aby użyć tego szablonu.'
+  Member_Information_Kick: '||||§7§nLEWY-PRZYCISK oraz SHIFT...||  §fwyrzuca gracza z gildii.'
+  Member_Information_Rank: '||||§7§nLEWY-PRZYCISK aby...||  §fzmienić pozycję gracza.'
+  Tournament_Started_Broadcast: §7Turniej się rozpoczyna! Aby dołączyć, użyj komendy '§e/g§7'.
+  Donated_List_New: '§6 → Diamenty: §f{DDIAMOND}||§3 → Wełna: §f{DWOOL}'
+  Placeholder_NoVariable_guild_name: Brak gildii
   Placeholder_NoVariable_guild_rank: '?'
   Placeholder_NoVariable_guild_leader: '?'
   Placeholder_NoVariable_guild_division: '?'
-  Vault_Using: §7Vault is using by §a{PLAYER} §7right now.
-  Top_Calc_Time_Name: '§a§nTime Left to Refresh Top:'
+  Vault_Using: §7Skrytka jest używana przez §a{PLAYER} §7w tym momencie.
+  Top_Calc_Time_Name: '§a§nRankingi zostaną odświeżone za:'
   War_Death_1_New: §f{ATTACKER} ({AGUILD}) §c⚔ §f{VICTIM} ({VGUILD}) §7[+{POINTS}
     ☆]
   War_Points_New: '§9{AGUILD}: {APOINTS} ☆ §7vs. §c{VGUILD}: {VPOINTS} ☆'
   Score_Prefix_New: §6§l§nGILDIE
-  ScoreBrd_1_New: '§e⊙ Time: §f{TIME}'
+  ScoreBrd_1_New: '§e⊙ Czas: §f{TIME}'
   ScoreBrd_2_New: '§9➙ {GUILD1}:'
   ScoreBrd_3_New: §f{PLY1}/{MAX} ☆
   ScoreBrd_4_New: '§c➙ {GUILD2}:'
   ScoreBrd_5_New: §f{PLY2}/{MAX} ☆§f
-  Guild_Management_PlayerInfo_New: '||§eRank: §f{RANK}||§eRace: §f{RACE}||§eJoin Date:
-    §f{DATE}||§eWar;||§7 → Kills: §f{WARKILLS}||§7 → Deaths: §f{WARDEATHS}||§eDonated;||{DONATEINFO}||||§fClick
-    to see races menu.'
-  PlayerStats_1: '||§eGuild: §f{GUILD}||§eRank: §f{RANK}||§eRace: §f{RACE}||§eJoin
-    Date: §f{DATE}||§eWar;||§7 → Kills: §f{KILLS}||§7 → Deaths: §f{DEATHS}||||§eDonated
-    to this guild;||{DONATEINFO}'
-  PlayerStats_2: '||§ePlayer: §f{PLAYER}||§ePvP;||§7 → Kills: §f{KILLS}||§7 → Deaths:
-    §f{DEATHS}||§7 → KDA: §f{KDA}||§eDonated to all;||{DONATEINFO}'
-  PlayerStats_3: '||§eHealth: §f{HEALTH}/10||§eHunger: §f{HUNGER}/10||§eLocation:
+  Guild_Management_PlayerInfo_New: '||§ePozycja: §f{RANK}||§eRasa: §f{RACE}||§eDołączył:
+    §f{DATE}||§eWojna;||§7 → Zabójstwa: §f{WARKILLS}||§7 → Śmierci: §f{WARDEATHS}||§eWpłacono;||{DONATEINFO}||||§fKliknij aby otworzyć menu ras.'
+  PlayerStats_1: '||§eGildia: §f{GUILD}||§ePozycja: §f{RANK}||§eRasa: §f{RACE}||§eDołączył: §f{DATE}||§eWojna;||§7 → Zabójstwa: §f{KILLS}||§7 → Śmierci: §f{DEATHS}||||§eWpłacone zasoby;||{DONATEINFO}'
+  PlayerStats_2: '||§eGracz: §f{PLAYER}||§ePvP;||§7 → Zabójstwa: §f{KILLS}||§7 → Śmierci:
+    §f{DEATHS}||§7 → KDA: §f{KDA}||§eWpłacone zasoby;||{DONATEINFO}'
+  PlayerStats_3: '||§eZdrowie: §f{HEALTH}/10||§eGłód: §f{HUNGER}/10||§ePozycja:
     §f{LOCATION}'
-  PlayerStats_4: '||§7Player is not online.||§eLast Seen: §f{SEEN}'
-  RaceSelectGUI_Header: Select A Race
-  RaceSelectGUI_Select: '||||§fClick here to select this race.'
-  RaceSelectGUI_Select_2: '||||§fClick here to change your race.'
-  RaceSelectGUI_Features: '§aRace Effects:'
-  RaceSelectGUI_Features_0: '||§7You won''t able to use||§7effects of your race.||||§fClick
-    here to take powers.'
-  RaceSelectGUI_Features_1: '||§7You are currently using||§7effects of your race.||||§fClick
-    here to disable powers.'
-  RaceSelectGUI_Features_2: '||§7You must select a race||§7to use effects of race.'
-  RaceSelectGUI_Info: '§aInformation:'
-  RaceSelectGUI_Info_1: '§7Your Race: §f{RACE}||§7Rights to change: §f{NUM}||||§7You
-    can''t create or join||§7guild without a race.'
-  Race_Left_No: §7You can't change your race anymore.
-  Race_Selected: §7Gods accepted §a{PLAYER}§7's request and made him §r{RACE}§7.
-  Select_Race: §7You need to select a race to do this. §6(/g race)
-  MemberInformation_Lore: '§e(Seen: §f{SEEN}§e)||||§eRank: §f{RANK}||§eRace: §f{RACE}||§eJoin
-    Date: §f{DATE}||§eWar;||§7 → Kills: §f{WARKILLS}||§7 → Deaths: §f{WARDEATHS}||§eDonated;||{DONATEINFO}||||§7§nRIGHT-CLICK
-    to...||  §fcheck player''s details.{CRANK}{CKICK}'
-  Race_Permission: §7You don't have permission to enable/disable effects of race.
-  Guild_Chat_Spy_Ops: GC SPY
-  Break_Claimed_Areas_Only: §7You only edit claimed zones by guilds.
-  You_Cant_War_2: §7You can't guild war because typed guild has to make §9Barrack
-    §7to §6Level I§7.
-  TimeSpanText_Year: yr
-  TimeSpanText_Month: mo
+  PlayerStats_4: '||§7Gracz jest Offline.||§eOstatnio widziany: §f{SEEN}'
+  RaceSelectGUI_Header: Wybierz swoją rasę
+  RaceSelectGUI_Select: '||||§eKliknij aby wybrać tę rasę.'
+  RaceSelectGUI_Select_2: '||||§eKliknij aby zmienić swoją rasę.'
+  RaceSelectGUI_Features: '§aEfekty rasy:'
+  RaceSelectGUI_Features_0: '||§7Nie będziesz mógł użyć||§7efektów swojej rasy.||||§fKliknij tutaj, aby otrzymać moce.'
+  RaceSelectGUI_Features_1: '||§7Obecnie używasz||§7efektów swojej rasy.||||§fKliknij aby wyłączyć moce.'
+  RaceSelectGUI_Features_2: '||§7Musisz wybrać rasę||§7aby używać efektów.'
+  RaceSelectGUI_Info: '§aInformacje:'
+  RaceSelectGUI_Info_1: '§7Twoja rasa: §f{RACE}||§7Możliwości zmiany: §f{NUM}||||§7Bez rasy nie można||§7dołączać do gildii.'
+  Race_Left_No: §7Wykorzystałeś swoje możliwości zmiany.
+  Race_Selected: §7Gracz §a{PLAYER}§7 wybrał rasę: §r{RACE}§7.
+  Select_Race: §7Musisz wybrać rasę. §6(/g race)
+  MemberInformation_Lore: '§e(Widziany ostatnio: §f{SEEN}§e)||||§ePozycja: §f{RANK}||§eRasa: §f{RACE}||§eDołączył: §f{DATE}||§eWojna;||§7 → Zabójstwa: §f{WARKILLS}||§7 → Śmierci: §f{WARDEATHS}||§eWpłacone;||{DONATEINFO}||||§7§nKliknij PRAWYM aby...||  §fsprawdzić informację.{CRANK}{CKICK}'
+  Race_Permission: §7Nie posiadasz uprawnień.
+  Guild_Chat_Spy_Ops: SPY
+  Break_Claimed_Areas_Only: §7Możesz edytować ziemie tylko należące do gildii.
+  You_Cant_War_2: §7Nie możesz uczestniczyć w wojnie, musisz ulepszyć §9Koszary §7na §6Poziom I§7.
+  TimeSpanText_Year: rok
+  TimeSpanText_Month: mies
   TimeSpanText_Day: d
-  TimeSpanText_Hour: hr
+  TimeSpanText_Hour: godz
   TimeSpanText_Minute: min
   TimeSpanText_Second: s
-  Enemy_War_Shield_New: §7This guild has shield for instant guild war. Their war shield
-    expires in §c{EXPIRE}§7.
-  War_Invite_Send_2_New: §7Good luck warriors! Your guild starts a guild war with
-    §c{GUILD} §7guild.
-  War_Invite_Send_3_New: §7Prepare right now! §c{GUILD} §7starts a guild war with
-    you.
-  War_Shield_Enable_Name: §aWar Shield Enabled
-  War_Shield_Enable_Lore: '||§7You lose a war and gain a §9war||§9shield §7for instant
-    guild wars.||||§7Other guilds can not declare war to you||§7while you have §9war
-    shield §7enabled.||||§9War Shield §7expires in §c{TIME}§7.'
-  War_Shield_Disable_Name: §cNo War Shield
-  War_Shield_Disable_Lore: '||§7You don''t have a §9war shield§7.||§7So any guild
-    can declare a war to you.||§7If you lose you will gain a §9war shield§7.'
-  Click_To_Info_New2: '||§7Leader: §f{LEADER}||§7Last Active: §f{LAST}||§7War Points:
-    §f{POINTS} ✪||§7War Wins: §f{WINS}||§7Division: §f{LEVEL}||§7Members: §f{PLAYERS}/{MAX}||§7Claimed:
-    §f{CLAIMED}||||{EMBLEM}||||§eClick to get more information.'
-  Click_To_War_New: '||§7Leader: §f{LEADER}||§7War Points: §f{POINTS} ✪||§7Division:
-    §f{LEVEL}||||{EMBLEM}||||§eClick to war with this guild.'
-  Click_To_Join: '||§7Leader: §f{LEADER}||§7War Points: §f{POINTS} ✪||§7Division:
-    §f{LEVEL}||||{EMBLEM}||||§eClick to join to this guild.'
-  RankGUI_PermName_Break: §f§nBreak Blocks at Guild Claimed Lands
-  RankGUI_PermName_Place: §f§nPlace Blocks at Guild Claimed Lands
-  Click_To_Join_New2: '||§7Leader: §f{LEADER}||§7Last Active: §f{LAST}||§7War Points:
-    §f{POINTS} ✪||§7War Wins: §f{WINS}||§7Division: §f{LEVEL}||§7Members: §f{PLAYERS}/{MAX}||§7Claimed:
-    §f{CLAIMED}||||{EMBLEM}||||§eClick to join this guild.'
+  Enemy_War_Shield_New: §7Ta gildia ma tarczę wojenną, wygasa ona §c{EXPIRE}§7.
+  War_Invite_Send_2_New: §7Powodzenia wojownicy! Twoja gildia rozpoczyna wojnę z gildią
+    §c{GUILD}§7.
+  War_Invite_Send_3_New: §7Przygotuj się już teraz! §c{GUILD} §7rozpoczyna wojnę z tobą.
+  War_Shield_Enable_Name: §aAktywna Tarcza Wojenna
+  War_Shield_Enable_Lore: '||§7Twoja gildia posiada||§9Tarczę Wojenną §7z powodu przegrania wojny, lub założenia gildii.||||§7Inne gildie nie mogą wypowiadać wojny||§7kiedy posiadasz §9Tarczę Wojenną§7.||||§9Tarcza Wojenna §7wygaśnie: §c{TIME}§7.'
+  War_Shield_Disable_Name: §cBrak Tarczy Wojennej
+  War_Shield_Disable_Lore: '||§7Nie posiadasz §9Tarczy Wojennej§7.||§7Każda gildia może wypowiedzieć ci wojnę.||§7Jeśli przegrasz wojnę, otrzymasz §9Tarczę Wojenną§7.'
+  Click_To_Info_New2: '||§7Lider: §f{LEADER}||§7Ostatnio aktywny: §f{LAST}||§7Punkty Gildyjne:
+    §f{POINTS} ✪||§7Wygrane Wojny: §f{WINS}||§7Dywizja: §f{LEVEL}||§7Członkowie: §f{PLAYERS}/{MAX}||§7Zajęte ziemie:
+    §f{CLAIMED}||||{EMBLEM}||||§eKliknij aby zobaczyć informację.'
+  Click_To_War_New: '||§7Lider: §f{LEADER}||§7Punkty Wojenne: §f{POINTS} ✪||§7Dywizja:
+    §f{LEVEL}||||{EMBLEM}||||§eKliknij aby wypowiedzieć wojnę.'
+  Click_To_Join: '||§7Lider: §f{LEADER}||§7Punkty Wojny: §f{POINTS} ✪||§7Dywizja:
+    §f{LEVEL}||||{EMBLEM}||||§eKliknij aby dołączyć do gildii.'
+  RankGUI_PermName_Break: §f§nNisczenie bloków na Zajętych Ziemiach
+  RankGUI_PermName_Place: §f§nStawianie bloków na Zajętych Ziemiach
+  Click_To_Join_New2: '||§7Lider: §f{LEADER}||§7Ostatnio aktywny: §f{LAST}||§7Punkty Wojenne:
+    §f{POINTS} ✪||§7Wygrane Wojny: §f{WINS}||§7Dywizja: §f{LEVEL}||§7Członkowie: §f{PLAYERS}/{MAX}||§7Zajęte Ziemie:
+    §f{CLAIMED}||||{EMBLEM}||||§eKliknij aby dołączyć.'
   War_Death_2_New: §c☠ §f{VICTIM} ({VGUILD}) §7[+{POINTS} ☆]
-  War_Death_3: §a♜ §a§lMATCH POINT!§r §a♜
-  War_Start_1: §2♜§r §2§l§nGUILD WARS§r §2♜
-  War_Left: §c{PLAYER} ({PLAYERGUILD}) §7left from war.
-  War_Shield_GUI_Lore_1: §a(War Shield Enabled)
-  War_Shield_GUI_Lore_2: §c(No War Shield)
-  You_Cant_War_New: §7You can't guild war because you need to make §9Barrack §7to
-    §6Level {LEVEL}§7.
+  War_Death_3: §a♜ §a§lPUNKT MECZOWY!§r §a♜
+  War_Start_1: §2♜§r §2§l§nWOJNY GILDII§r §2♜
+  War_Left: §c{PLAYER} ({PLAYERGUILD}) §7opuścił wojnę.
+  War_Shield_GUI_Lore_1: §a(Aktywna Tarcza Wojenna)
+  War_Shield_GUI_Lore_2: §c(Brak Tarczy Wojennej)
+  You_Cant_War_New: §7Nie możesz walczyć, musisz ulepszyć §9Koszary §7na §6Poziom {LEVEL}§7.
   No_Guild_Perm: §7You can't do this with your permissions.
   WarShield_Give_Usage: '§7Usage: §e/sgadmin warshield <guild name> <days (number)>§7,
     example: §6/sgadmin warshield Spigot 3'
