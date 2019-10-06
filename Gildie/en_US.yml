@@ -539,7 +539,7 @@ Messages:
   RaceSelectGUI_Info: '§aInformacje:'
   RaceSelectGUI_Info_1: '§7Twoja rasa: §f{RACE}||§7Możliwości zmiany: §f{NUM}||||§7Bez rasy nie można||§7dołączać do gildii.'
   Race_Left_No: §7Wykorzystałeś swoje możliwości zmiany.
-  Race_Selected: §7Gracz §a{PLAYER}§7 wybrał rasę: §r{RACE}§7.
+  Race_Selected: '§7Gracz §a{PLAYER}§7 wybrał rasę: §r{RACE}§7.'
   Select_Race: §7Musisz wybrać rasę. §6(/g race)
   MemberInformation_Lore: '§e(Widziany ostatnio: §f{SEEN}§e)||||§ePozycja: §f{RANK}||§eRasa: §f{RACE}||§eDołączył: §f{DATE}||§eWojna;||§7 → Zabójstwa: §f{WARKILLS}||§7 → Śmierci: §f{WARDEATHS}||§eWpłacone;||{DONATEINFO}||||§7§nKliknij PRAWYM aby...||  §fsprawdzić informację.{CRANK}{CKICK}'
   Race_Permission: §7Nie posiadasz uprawnień.
