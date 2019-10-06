@@ -359,15 +359,13 @@ Messages:
   Menu_Allies_Lore: '||§7Kliknij aby zobaczyć sojuszników.'
   Guild_Home_Menu_Name: §6Baza Gildii
   Guild_Home_Menu_Lore: '||§7Kliknij aby się przeteleportować.'
-  Tournament_Cooldown: §7Matches will be set in §e{SECOND} §7second(s). §7Your guild
-    can join with '§e/g§7' command.
-  You_Need_More_Resource: §7You need more §f{AMOUNT} §7of {RESOURCE}§r §7to do this.
-  Enemy_Leader_Not_Online: §7Right now, no one has the permission of answer the invite
-    in this guild.
-  Menu_War_Lore_New: '§eGuild;||§7 → Division: §f{LEVEL}||§7 → Points: §f{POINTS}
-    ✪||§7 → Start Items: §f{ITEMS}||||§ePvP;||§7 → Kills: §f{KILLS}||§7 → Deaths:
+  Tournament_Cooldown: §7Mecze zostaną ustalone za §e{SECOND} §7sekund(y). §7Twoja gildia może dołączyć komendą '§e/g§7'.
+  You_Need_More_Resource: §7Potrzebujesz jeszcze §f{AMOUNT} §7sztuk {RESOURCE}§r §7aby to zrobić.
+  Enemy_Leader_Not_Online: §7Lider tej gildii nie jest online.
+  Menu_War_Lore_New: '§eGildia:||§7 → Dywizja: §f{LEVEL}||§7 → Punkty: §f{POINTS}
+    ✪||§7 → Przedmioty początkowe: §f{ITEMS}||||§eWalka:||§7 → Zabójstwa: §f{KILLS}||§7 → Śmierci:
     §f{DEATHS}'
-  Claim_Name: §7§o(You can change this claim's name||§7§ousing §e/g claimname §7§ocommand.)
+  Claim_Name: §7§o(Możesz zmienić nazwę tej ziemi||§7§oużywając §e/g claimname §7§o.)
   Resource_Wood: §6§nDrewno
   Resource_Stone: §7§nKamień
   Resource_Iron: §f§nŻelazo
@@ -389,42 +387,41 @@ Messages:
   Resource_Color_Diamond: §b
   Resource_Color_Wool: §3
   Resource_Color_Worker: §e
-  Resource_Donate_Lore: §7Click to donate resources.
-  Resource_Donate_Usage: §7You can donate resources using §e/g donate <wood/stone/iron/gold/diamond/wool>
-    <number>§7.
-  No_Item_Resouce: §7You don't have §c{NUMBER} §7of this resource to donate.
-  SYNC_Done: §7SYNC for §a{FILE} §7file is done.
-  SYNC_Enter_File_Type: §7Enter the file to sync. (/sg sync <config/locale>)
-  Buildings_GUI: Guild Buildings
-  Buildings_Name_Townhall: §6Townhall
-  Buildings_Name_Barrack: §6Barrack
-  Buildings_Name_Storage: §6Storage
-  Buildings_Name_Alchemy: §6Alchemy
-  Building_Status_0: Ready to upgrade
-  Building_Status_1: Upgrading...
-  Building_Status_2: Waiting complete action...
-  Buildings_Lore: '||§eBuilding Level: §f{LEVEL}||§eStatus: §f{STATUS}||{TIMESHOW}||||§7Click
-    to see information page.'
-  Buildings_Time_Remaining: '||§eTime remaining: §f{TIME}'
-  Allies_4_Lore: '||§7Date: §e{DATE}||§7Added By: §e{BY}||||§7§oUse §c§o''/g enemy
-    {GUILD}'' §7§oto remove.'
+  Resource_Donate_Lore: §7Kliknij aby wpłacić.
+  Resource_Donate_Usage: §7Możesz wpłacać surowce przez §e/g donate <wood/stone/iron/gold/diamond/wool>
+    <ilość>§7.
+  No_Item_Resouce: §7Nie posiadasz §c{NUMBER} §7sztuk tego surowca.
+  SYNC_Done: §7Synchronizacja dla §a{FILE} §7pliku, została zakończona.
+  SYNC_Enter_File_Type: §7Podaj nazwę pliku. (/sg sync <config/locale>)
+  Buildings_GUI: Budowle Gildyjne
+  Buildings_Name_Townhall: §6Ratusz
+  Buildings_Name_Barrack: §6Koszary
+  Buildings_Name_Storage: §6Magazyn
+  Buildings_Name_Alchemy: §6Alchemia
+  Building_Status_0: Gotowe do ulepszenia
+  Building_Status_1: Trwa budowanie...
+  Building_Status_2: Oczekiwanie na potwierdzenie...
+  Buildings_Lore: '||§ePoziom budowli: §f{LEVEL}||§eStatus: §f{STATUS}||{TIMESHOW}||||§7Kliknij aby sprawdzić informację.'
+  Buildings_Time_Remaining: '||§ePozostały czas: §f{TIME}'
+  Allies_4_Lore: '||§7Data: §e{DATE}||§7Przez: §e{BY}||||§7§oUżyj §c§o''/g enemy
+    {GUILD}'' §7§aby skasować.'
   Upgrade_Emblem_Button: §a§l【▲】
   Quit_Emblem_Button: §4§l【⏎】
   Timer_Emblem_Button: §c§l【⌛】
   Done_Emblem_Button: §2§l【✔】
   Max_Emblem_Button: §0§l【✕】
-  Upgrade_Emblem_Lore: §fClick to upgrade this building.
-  Quit_Emblem_Lore: §fClick to return to menu.
-  Done_Emblem_Lore: §fClick to complete upgrade of building.
-  Enter_Building_Type: §7Enter building's name. (Townhall/Barrack/Storage/Alchemy)
-  Header_Build_Book: '§8§l  » Building Info:'
-  Book_Build_Name: '§8Build Name: §0'
-  Book_Build_Level: '§8Build Tier: §0'
-  Building_Upgrade: §7{RANK} {PLAYER}§7, upgraded {BUILD} §7to level §e{NUMBER}§7.
-  Building_Upgrade_Guild: §a{GUILD}§7, upgraded {BUILD} §7to level §e{NUMBER}§7.
-  Book_Build_Requires: '§8Build Requirements:'
-  Book_Required_Text: '§8Required:§f '
-  Book_Have_Text: '§8You Have:§f '
+  Upgrade_Emblem_Lore: §fKliknij aby ulepszyć tę budowlę.
+  Quit_Emblem_Lore: §fKliknij aby powrócić do menu.
+  Done_Emblem_Lore: §fKliknij aby potwiedzić zakończenie budowli.
+  Enter_Building_Type: §7Podaj nazwę budowli. (Townhall/Barrack/Storage/Alchemy)
+  Header_Build_Book: '§8§l  » Informacje o budowli:'
+  Book_Build_Name: '§8Nazwa: §0'
+  Book_Build_Level: '§8Tier: §0'
+  Building_Upgrade: §7{RANK} {PLAYER}§7, ulepszył {BUILD} §7do poziomu §e{NUMBER}§7.
+  Building_Upgrade_Guild: §a{GUILD}§7, właśnie ulepszyli {BUILD} §7do poziomu §e{NUMBER}§7.
+  Book_Build_Requires: '§8Wymagania:'
+  Book_Required_Text: '§8Wymagane:§f '
+  Book_Have_Text: '§8Posiadasz:§f '
   Alchemy_Menu_Price_1: ' §8 → §7Level I: §f{AMOUNT1}|| §8 → §7Level II: §f{AMOUNT2}||
     §8 → §7Level III: §f{AMOUNT3}'
   Alchemy_Menu_Price_2: ' §8 → §7Unarmed Horse: §f{AMOUNT1}|| §8 → §7Iron Armored
