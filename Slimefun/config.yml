@@ -18,7 +18,7 @@ options:
   print-out-loading: false
   print-out-github-data-retrieving: false
   enable-armor-effects: true
-  prefix: '&a&lSlimefun &7>'
+  prefix: '&a&lSLIMEFUN &a➥&7'
   auto-save-delay-in-minutes: 10
   show-vanilla-recipes-in-guide: true
   allow-free-creative-research: true
@@ -38,41 +38,41 @@ items:
   coolers: true
   backpacks: true
 research-ranks:
-- Chicken
-- Cow
-- Spider
-- Villager
-- Beginner
-- Clumsy Student
-- Unskilled Student
-- Incompetent Student
+- Kurczak
+- Krowa
+- Pająk
+- Wieśniak
+- Początkujący
+- Niezdarny student
+- Niewykwalifikowany student
+- Niekompetentny student
 - Student
-- Clumsy Apprentice
-- Apprentice
-- Skilled Apprentice
-- Upcoming Mage
-- Excellent Mage
-- Young Magician
-- Incompetent Magician
-- Common Magician
-- Magician
-- Proficient Magician
-- Skilled Magician
-- Accustomed Magician
-- Great Magician
-- Clumsy Wizard
+- Niezdarny uczeń
+- Uczeń
+- Wykwalifikowany uczeń
+- Nadchodzący Mag
+- Doskonały mag
+- Młody Magik
+- Niekompetentny Mag
+- Wspólny mag
+- Maga
+- Biegły mag
+- Wykwalifikowany mag
+- Przyzwyczajony magik
+- Wielki Mag
+- Niezdarny czarodziej
 - Wizard
 - Common Wizard
 - Skilled Wizard
-- Great Wizard
-- Impressive Wizard
-- Young Master
-- Clumsy Master
-- Upcoming Master
-- Competent Master
-- Master
-- Skilled Master
-- Excellent Master
-- Great Master
-- Proficient Master
-- The chosen One
+- Wielki czarodziej
+- Imponujący kreator
+- Młody mistrz
+- Niezdarny Mistrz
+- Nadchodzący Mistrz
+- Kompetentny Mistrz
+- Mistrz
+- Wykwalifikowany Mistrz
+- Doskonały Mistrz
+- Wielki mistrz
+- Biegły Mistrz
+- Wybraniec
