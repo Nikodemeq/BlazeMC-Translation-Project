@@ -579,18 +579,18 @@ Messages:
   War_Shield_GUI_Lore_1: §a(Aktywna Tarcza Wojenna)
   War_Shield_GUI_Lore_2: §c(Brak Tarczy Wojennej)
   You_Cant_War_New: §7Nie możesz walczyć, musisz ulepszyć §9Koszary §7na §6Poziom {LEVEL}§7.
-  No_Guild_Perm: §7You can't do this with your permissions.
-  WarShield_Give_Usage: '§7Usage: §e/sgadmin warshield <guild name> <days (number)>§7,
+  No_Guild_Perm: §7Nie posiadasz uprawnień aby to zrobić.
+  WarShield_Give_Usage: '§7Użycie: §e/sgadmin warshield <guild name> <days (number)>§7,
     example: §6/sgadmin warshield Spigot 3'
   WarShield_Set_Admin: §7You added §a{NUMBER} §7days of war protection to §b{GUILD}.
-  Land_Protection_2: §7Ground must be fully solid. (16x16)
+  Land_Protection_2: §7Podłoga musi być w pełni solidna. (16x16)
   Sent_Ally_Request: §7You sent an ally request to §e{GUILD}§7.
-  PageAPI_Header_21: 'Sort: No Shield'
-  PageAPI_Header_22: 'Sort: Online'
-  PageAPI_Header_23: 'Sort: All'
-  PageAPI_NoVariable_21: §c§nNo Guilds Without War Shield Found.
-  PageAPI_NoVariable_22: §c§nNo Online Guilds Found.
-  Attack_GuildMembers: §cYou can't attack your guildmates!
+  PageAPI_Header_21: 'Sortowanie: Brak Tarczy'
+  PageAPI_Header_22: 'Sortowanie: Online'
+  PageAPI_Header_23: 'Sortowanie: Wszystkie'
+  PageAPI_NoVariable_21: §c§nNie znaleziono gildii bez tarczy.
+  PageAPI_NoVariable_22: §c§nNie znaleziono gildii online.
+  Attack_GuildMembers: §cNie możesz atakować sojuszników!
   Wipe_Confirm: §7Are you sure to wipe §4{GUILDS} guilds §7inactive for §c{NUMBER}
     days§7? If you sure, use this command again.
   Wipe_Error: §7You can't wipe guilds under §c3 days §7inactivity
@@ -598,40 +598,37 @@ Messages:
   Wipe_NoData: §7No guild found inactive for this day long.
   Wipe_Done: §7Guild wipe is done, §a{TOTAL} §7inactive guilds wiped.
   Wipe_Usage: '§aUsage: §7/g wipe <inactive days count>'
-  Language_Selecting: §7Selecting this language, please wait...
-  RaceInfo_Name_0: §fNo Race
-  No_Perm_Race: §7You don't have permission to be this race.
-  Friends_MenuItemName: §6Your Friends
-  Friends_MenuItemLore: '||§7Click to see your friends.'
-  FriendsInvitedPlayer: §7You sent a friend request to the player.
-  FriendsInviteJSON: §9{PLAYER} §7has sent a friend request to you.
-  FriendsYouHaveReachedMax: §7You have reached max friends limit.
-  FriendsNotInvited: §7This player didn't send a friend request to you.
-  FriendAdded: §a{PLAYER} §7has accepted your friend request.
-  FriendAddedYou: §7You accepted §a{PLAYER}§7's friend request.
-  FriendReject: §c{PLAYER} §7has rejected your friend request.
-  FriendRejectYou: §7You rejected §c{PLAYER}§7's friend request.
-  FriendJSONText: '                §a§l[ACCEPT §a✓§a§l]§r'
-  FriendJSONText2: '                    §c§l[REJECT §c✘§c§l]'
-  FriendClosedRequests: §7This player has closed invitations.
-  PlayerIsNotOnline: §7This player is not online now.
-  FriendsYouAlready: §7You are already friends.
-  FriendsNo: §7You are not friends with this player.
-  FriendRemoved: §7You are not friends with §c{PLAYER} §7now.
-  EnterPlayerName: §7Please enter the player's name
-  NoYourself: §7You can't do this to yourself.
-  PageAPI_Header_6: Your Friends
-  PageAPI_NoVariable_6: §c§nYou don't have any friends.
-  Click_To_Friend: '||§7Status: §f{STATUS}||§7Guild: §f{GUILD}||§7First Add: §f{FIRST}||§7Last
-    Login: §f{LASTLOGIN}||||§7§nRIGHT-CLICK to...||  §fcheck friend''s stats.{GLORE}||||§7§nLEFT-CLICK
-    with SHIFT to...||  §fremove friend from list.'
-  Click_To_InviteGuild: '||||§7§nRIGHT-CLICK with SHIFT to...||  §finvite friend to
-    your guild.'
-  GuildSelectGUI_Header: Select A Way
-  GuildSelectGUIName_1: §6Join A Guild
-  GuildSelectGUIName_2: §6Get Help About Guilds
-  GuildSelectGUILore_1: '||§7Click to join one of public guilds.'
-  GuildSelectGUILore_2: '||§7Click to get help about creating guild.'
+  Language_Selecting: §7Ustawianie...
+  RaceInfo_Name_0: §fBrak Rasy
+  No_Perm_Race: §7Wystąpił dziwny błąd, skontaktuj się z właścicielem.
+  Friends_MenuItemName: §6Twoi Znajomi
+  Friends_MenuItemLore: '||§7Kliknij aby zobaczyć znajomych.'
+  FriendsInvitedPlayer: §7Wysłano zaproszenie.
+  FriendsInviteJSON: §9{PLAYER} §7wysłał ci zaproszenie do znajomych.
+  FriendsYouHaveReachedMax: §7Osiągnąłeś limit znajomych. Jeśli uważasz że to zbyt mało, skontaktuj się z administracją.
+  FriendsNotInvited: §7Ten gracz nie wysłał ci zaproszenia.
+  FriendAdded: §a{PLAYER} §7zaakceptował twoje zaproszenie do znajomych.
+  FriendAddedYou: §7Zaakceptowałeś zaproszenie §a{PLAYER}§7.
+  FriendReject: §c{PLAYER} §7odrzucił twoje zaproszenie.
+  FriendRejectYou: §7Odrzucono zaproszenie §c{PLAYER}§7.
+  FriendJSONText: '                §a§l[AKCEPTUJ §a✓§a§l]§r'
+  FriendJSONText2: '                    §c§l[ODRZUĆ §c✘§c§l]'
+  FriendClosedRequests: §7Ten gracz wyłączył zaproszenia.
+  PlayerIsNotOnline: §7Ten gracz nie jest online.
+  FriendsYouAlready: §7Już jesteście znajomymi.
+  FriendsNo: §7Nie jesteście znajomymi.
+  FriendRemoved: §7Już nie jesteś znajomym z §c{PLAYER}§7.
+  EnterPlayerName: §7Podaj nick
+  NoYourself: §7Smutno :(.
+  PageAPI_Header_6: Twoi Znajomi
+  PageAPI_NoVariable_6: §c§nCóż... nie masz znajomych... to takie smutne :c
+  Click_To_Friend: '||§7Status: §f{STATUS}||§7Gildia: §f{GUILD}||§7Dodano: §f{FIRST}||§7Ostatnio Widziany: §f{LASTLOGIN}||||§7§nKliknij PRAWYM aby...||  §fsprawdzić jego statystyki.{GLORE}||||§7§nKliknij LEWY + SHIFT aby...||  §fskasować znajomego.'
+  Click_To_InviteGuild: '||||§7§nKliknij PRAWY + SHIFT aby...||  §fzaprosić go do swojej gildii.'
+  GuildSelectGUI_Header: Wybierz swoją ścieżkę
+  GuildSelectGUIName_1: §6Dołącz do Gildii
+  GuildSelectGUIName_2: §6Załóż własną gildię
+  GuildSelectGUILore_1: '||§7Kliknij aby dołączyć do jednej z publicznych gildii.'
+  GuildSelectGUILore_2: '||§7Kliknij aby otrzymać pomoc i listę komend gildyjnych.'
   WarShield_SetRemove_Admin: §7You removed §c{NUMBER} §7days of war protection to
     §b{GUILD}.
   Resource_Fill_Admin: §7You filled §b{GUILD} §7guild's all resources.
@@ -639,46 +636,42 @@ Messages:
   Instant_Build_Must_Start: §7This guild must start building construction first.
   Instant_Build_Okay: §7Done! This guild can finish the building construction now
     without waiting.
-  Friends_Make_Some_Friends: '||§f§o/friends add <player> §7§oto add friends.'
-  Connected_Chunks: §7Your claims must be connected with each other.
-  Tournament_Disabled: §7The Guild Tournament has been disabled.
+  Friends_Make_Some_Friends: '||§f§o/friends add <player> §7§ododawanie znajomego.'
+  Connected_Chunks: §7Twoje ziemie muszą się łączyć ze sobą.
+  Tournament_Disabled: §7Turniej wyłączony.
   RaceRightsAdmin_1: '§7Usage: §e/sgadmin setracerights <player> <number>'
   RaceRightsAdmin_2: §7You set §a{PLAYER}§7's race change rights to §e{NUMBER}§7.
-  Done_Set_Location: '{RANK} {PLAYER} §7has changed location of §e{BUILD} §7building.'
-  Buildings_Locations_Lore: '||§eBuilding Level: §f{LEVEL}||§eStatus: §f{STATUS}||||§7Click
-    to define location of||§7this building as your position.'
-  Building_Location_Max_1: §7You need to build this building before changing location
-    of it.
-  Building_Location_Header: Change Locations
-  GuildJoin_Wait: §7You have to wait §e{TIME} §7to join a new guild.
-  GuildRankHelper_1: §7⇧ Pre-set Ranks
-  GuildRankHelper_2: §7⇩ Permissions
-  RankGUI_ChangePermission_1: '||§7Click to add this permission.'
-  RankGUI_ChangePermission_2: '||§7Click to remove this permission.'
-  PageAPI_Header_51: 'Sort: Online'
-  PageAPI_NoVariable_51: §c§nNo Online Public Guilds Found.
+  Done_Set_Location: '{RANK} {PLAYER} §7zmienił lokalizację budynku §e{BUILD}§7.'
+  Buildings_Locations_Lore: '||§ePoziom: §f{LEVEL}||§eStatus: §f{STATUS}||||§7Kliknij aby przenieść budynek||§7na twoją lokalizację.'
+  Building_Location_Max_1: §7Musisz najpierw to zbudować.
+  Building_Location_Header: Zmień Lokalizację
+  GuildJoin_Wait: §7Poczekaj §e{TIME} §7przed dołączeniem do kolejnej gildii.
+  GuildRankHelper_1: §7⇧ Szablony Pozycji
+  GuildRankHelper_2: §7⇩ Uprawnienia
+  RankGUI_ChangePermission_1: '||§7Kliknij aby dodać uprawnienie.'
+  RankGUI_ChangePermission_2: '||§7Kliknij aby skasować uprawnienie.'
+  PageAPI_Header_51: 'Sortowanie: Online'
+  PageAPI_NoVariable_51: §c§nNie znaleziono publicznych gildii online.
   BuildAdminToggle_1: §7The staff team §ccannot §7build/break in claimed zones now.
   BuildAdminToggle_2: §7The staff team §acan §7build/break in claimed zones now.
   You_ForceJoined_Guild: §7You force joined to the §e{GUILD} §7guild. You have all
     leader permissions.
-  WaitToRaceAgain: §7You need to wait §c{TIME} §7to change your race again.
-  You_ResetClaim_Guild: §7You have deleted §6{NUMBER}§7 claims of §e{GUILD} §7guild.
-    {GOLD}
-  You_ResetClaim_Guild_2: §e+{GOLD} §7Gold resource has been added.
-  No_Guild_Invite: §7This guild didn't invite you.
-  Guild_Invite_Time_Expired: §7The invitation time is expired. They need to invite
-    you again.
-  InviteBook_Header: '   §0§l§nGuild Invitation'
+  WaitToRaceAgain: §7Poczekaj §c{TIME} §7przed zmianą rasy.
+  You_ResetClaim_Guild: §7Usunąłeś §6{NUMBER}§7 ziem §e{GUILD}§7. {GOLD}
+  You_ResetClaim_Guild_2: §e+{GOLD} §7Złota dodano.
+  No_Guild_Invite: §7Ta gildia nie zaprosiła cię.
+  Guild_Invite_Time_Expired: §7Zaproszenie od gildii wygasło.
+  InviteBook_Header: '   §0§l§nZaproszenie Do Gildii'
   InviteBook_Text1: '  §8✉ → §0'
-  InviteBook_Subtext1: §6{GUILD} §7guild sent you a join invitation.
-  InviteBook_Subtext2: §7They have §f{MEMBERS}/{MAX} §7members.
-  InviteBook_Subtext3: §eClick to get more information.
+  InviteBook_Subtext1: §6{GUILD} §7wysłali ci zaproszenie.
+  InviteBook_Subtext2: §7Członkowie gildii: §f{MEMBERS}/{MAX}§7.
+  InviteBook_Subtext3: §eKliknij aby dowiedzieć się więcej.
   InviteBook_Logo_Accept: §2§l[§2✔§2§l]§r
   InviteBook_Logo_Reject: §4§l[§4✘§4§l]
   InviteBook_Logo_Invites: §0§l[§0✂§0§l]
-  InviteBook_LogoText_Accept: §7Click to §2accept §7this invitation.
-  InviteBook_LogoText_Reject: §7Click to §creject §7this invitation.
-  InviteBook_LogoText_Invites: §7Click to §4disable §7all invitations.
-  Top_Refresh_Okay: §7You have refreshed top guilds.
-  Click_To_RefreshTop: '||||§eClick to refresh top board.'
-  Buildings_Broadcast_5: '§7Max claim limit increased: §a+{NUM}'
+  InviteBook_LogoText_Accept: §7Kliknij aby §2zaakceptować §7zaproszenie.
+  InviteBook_LogoText_Reject: §7Kliknij aby §codrzucić §7zaproszenie.
+  InviteBook_LogoText_Invites: §7Kliknij aby §4wyłączyć §7zaproszenia.
+  Top_Refresh_Okay: §7Odświeżono topkę.
+  Click_To_RefreshTop: '||||§eKliknij aby odświezyć rankingi.'
+  Buildings_Broadcast_5: '§7Zwiększono limit ziem: §a+{NUM}'
