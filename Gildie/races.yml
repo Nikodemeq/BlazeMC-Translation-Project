@@ -18,8 +18,7 @@ Races:
       '3': jump boost/1
     Item-NBT: '{SkullOwner:{Id:"57f168c2-9779-4e1b-a0ea-d443986b96ec",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzYxN2M0NTUyZDcyMjQ1OThmZWQ0ODBkMmUzN2M2NDU3MjI3OGVjY2FmNzY3NGZhMzUxY2VhMDFiMWZjZGYzOCJ9fX0="}]}}}'
     Name: §6Człowiek
-    Lore: §aStrenght §8& §cMining Fatigue §8& §2Jump Boost||||§7Humans are powerful
-      at fights||§7but their attacks are slow.
+    Lore: §aSiła §8& §cPowolne Kopanie §8& §2Zwiększony Skok||||§7Ludzie są potężni w walce||§7lecz słabo radzą sobie w podziemiach.
   Dwarf:
     Menu-Number: '12'
     Permissions:
@@ -30,8 +29,7 @@ Races:
       '2': weakness/1
     Item-NBT: '{SkullOwner:{Id:"6f827755-6c97-4108-bc90-5fd6dfd2de95",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzIxNmEwYTU3ZjE2NWM3ZTZkYmM3MjJmNTI5NmZhNWI5N2M1YzJjNGJjYjg3MWE3YjJjYTFjNDY0YWI4ZGY2NCJ9fX0="}]}}}'
     Name: §2Krasnolud
-    Lore: §aHaste §8& §cWeakness||||§7Dwarfs are good at mining||§7but they don't
-      know defense.
+    Lore: §aSzybkie Kopanie (Haste) §8& §cOsłabienie||||§7Krasnoludy świetnie radzą sobie w kopalniach||§7lecz nie znają się na walce.
   Elf:
     Menu-Number: '14'
     Permissions:
@@ -42,8 +40,7 @@ Races:
       '2': weakness/1
     Item-NBT: '{SkullOwner:{Id:"104ad4cf-96e7-4413-8df7-7e96ec85e8a4",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTNmZjE4OWFhODdhNzM4MWNiMjk1Y2Q5ZTJjNDE0OTNkYjQ0YmExNTg5ZDYwZWU5ODc4NDRiZDg2NzJlY2Y3In19fQ=="}]}}}'
     Name: §dElf
-    Lore: §a§aSpeed §8& §cWeakness||||§7Elfs are fast but they||§7need to be careful
-      at fights.
+    Lore: §aSzybkość §8& §cOsłabienie||||§7Elfy są bardzo szybkie||§7lecz nie znają się na walce.
   Orc:
     Menu-Number: '16'
     Permissions:
@@ -54,5 +51,4 @@ Races:
       '2': slowness/1
     Item-NBT: '{SkullOwner:{Id:"392a9e5b-eeda-48d5-8ea0-e2d116462d90",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODU4NmY2ZDMzMzlhYTVlZjA1OTI1MjgzNjUwNjU5ZmY3YzU1YmQyZWYyMzBmNWU4ZjcwYmVhYWFlYjE2YSJ9fX0="}]}}}'
     Name: §4Ork
-    Lore: §aResistance §8& §cSlowness||||§7Orcs are like castle, they||§7are defensive
-      and little bit slow.
+    Lore: §aOdporność §8& §cSpowolnienie||||§7Orkowie są bardzo odporni na ataki||§7lecz z tego powodu są powolni.
