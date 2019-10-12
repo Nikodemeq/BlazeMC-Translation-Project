@@ -69,30 +69,27 @@ Messages:
   Romen_Num_8: IIX
   Store_GUI: Magazyn Gildii
   Store_Status: '§7Dostępne: §f{NUMBER}'
-  Help_Pages_1::Line_1: §e/g help §8- §7Opens help page.
-  Help_Pages_1::Line_2: §e/g create <guild name> §8- §7Creates a guild.
-  Help_Pages_1::Line_3: §e/g remove §8- §7Delete the current guild.
-  Help_Pages_1::Line_4: §e/g emblem §8- §7Make the guild emblem.
-  Help_Pages_1::Line_5: §e/g info §8- §7Shows the guild statistics.
-  Help_Pages_1::Line_6: §e/g leave §8- §7Leave your guild.
-  Help_Pages_1::Line_7: §e/g storage §8- §7Shows the guild storage.
-  Help_Pages_1::Line_8: §e/g claimname <name> §8- §7Set name of claim where you
-    at.
-  Help_Pages_2::Line_1: §e/g leader §8- §7Provites a player to leader rank.
-  Help_Pages_2::Line_2: §e/g invite <player> §8- §7Invites a player to guild.
-  Help_Pages_2::Line_3: §e/g claim §8- §7Claims where you are.
-  Help_Pages_2::Line_4: §e/g unclaim §8- §7Unclaims where you are.
-  Help_Pages_2::Line_5: §e/g rank §8- §7Changes players rank.
-  Help_Pages_2::Line_6: §e/g reload §8- §7Reloads plugin.
-  Help_Pages_2::Line_7: §e/g home §8- §7Teleports to your guild's home.
-  Help_Pages_3::Line_1: §e/g sethome §8- §7Sets your guild home.
-  Help_Pages_3::Line_2: §e/g war §8- §7War with another guilds.
-  Help_Pages_3::Line_3: §e/g version §8- §7Shows plugin's version.
-  Help_Pages_3::Line_4: §e/g buildings §8- §7Shows guild buildings.
-  Help_Pages_3::Line_5: §e/g showclaims §8- §7Shows guild's all claims.
-  Help_Pages_3::Line_6: §e/g alchemy §8- §7Shows your guild alchemy.
-  Help_Pages_3::Line_7: §e/g invites §8- §7Enable/Disable guild invites.
-  Help_Pages_3::Line_8: §e/g chat §8- §7Enable/Disable guild chat.
+  Help_Pages_1::Line_1: §e/g help §8- §7Lista komend.
+  Help_Pages_1::Line_2: §e/g create <guild name> §8- §7Tworzenie gildii.
+  Help_Pages_1::Line_3: §e/g remove §8- §7Rozwiązanie gildii.
+  Help_Pages_1::Line_4: §e/g emblem §8- §7Tworzenie godła.
+  Help_Pages_1::Line_5: §e/g info §8- §7Informacje o gildii.
+  Help_Pages_1::Line_6: §e/g leave §8- §7Opuszczanie gildii.
+  Help_Pages_1::Line_7: §e/g storage §8- §7Otwiera magazyn gildii.
+  Help_Pages_1::Line_8: §e/g claimname <name> §8- §7Ustaw nazwę ziemii.
+  Help_Pages_2::Line_1: §e/g leader §8- §7Nadawanie lidera.
+  Help_Pages_2::Line_2: §e/g invite <player> §8- §7Zapraszanie gracza do gildii.
+  Help_Pages_2::Line_3: §e/g claim §8- §7Zajmuje ziemie, na chunku na którym stoisz.
+  Help_Pages_2::Line_4: §e/g unclaim §8- §7Porzuca ziemie na której się znajdujesz.
+  Help_Pages_2::Line_5: §e/g rank §8- §7Zmiana pozycji członka gildii.
+  Help_Pages_2::Line_6: §e/g home §8- §7Teleportacja do bazy gildii.
+  Help_Pages_3::Line_1: §e/g sethome §8- §7Ustawianie bazy gildii.
+  Help_Pages_3::Line_2: §e/g war §8- §7Wojny gildii!
+  Help_Pages_3::Line_3: §e/g buildings §8- §7Budynki gildii.
+  Help_Pages_3::Line_4: §e/g showclaims §8- §7Wyświetla obramowanie wokół zajętych ziem, oraz wyświetla hologram informacyjny.
+  Help_Pages_3::Line_5: §e/g alchemy §8- §7Otwieranie menu alchemii.
+  Help_Pages_3::Line_6: §e/g invites §8- §7Włącz/wyłącz zaproszenia
+  Help_Pages_3::Line_7: §e/g chat §8- §7Włącz/wyłącz chat tylko dla gildii.
   Next_Page: §8§m--------§r §7Wpisz §6/g help {NEXT} §7aby zobaczyć kolejną stronę. §8§m-------
   Invite_Player_Name: §7Wprowadź nazwę gracza.
   Cant_Invite_Yourself: §7Nie możesz zaprosić samego siebie.
