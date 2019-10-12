@@ -664,7 +664,7 @@ Messages:
   InviteBook_Header: '   §0§l§nZaproszenie Do Gildii'
   InviteBook_Text1: '  §8✉ → §0'
   InviteBook_Subtext1: §6{GUILD} §7wysłali ci zaproszenie.
-  InviteBook_Subtext2: §7Członkowie gildii: §f{MEMBERS}/{MAX}§7.
+  InviteBook_Subtext2: '§7Członkowie gildii: §f{MEMBERS}/{MAX}§7.'
   InviteBook_Subtext3: §eKliknij aby dowiedzieć się więcej.
   InviteBook_Logo_Accept: §2§l[§2✔§2§l]§r
   InviteBook_Logo_Reject: §4§l[§4✘§4§l]
