@@ -93,7 +93,7 @@ Messages:
   Help_Pages_3::Line_6: §e/g alchemy §8- §7Shows your guild alchemy.
   Help_Pages_3::Line_7: §e/g invites §8- §7Enable/Disable guild invites.
   Help_Pages_3::Line_8: §e/g chat §8- §7Enable/Disable guild chat.
-  Next_Page: §8§m--------§r §7Wpisz §6/sg help {NEXT} §7aby zobaczyć kolejną stronę. §8§m-------
+  Next_Page: §8§m--------§r §7Wpisz §6/g help {NEXT} §7aby zobaczyć kolejną stronę. §8§m-------
   Invite_Player_Name: §7Wprowadź nazwę gracza.
   Cant_Invite_Yourself: §7Nie możesz zaprosić samego siebie.
   Player_Closed_Invites: §7Ta gildia ma zamknięte zaproszenia.
@@ -457,8 +457,8 @@ Messages:
   Resource_Set_Admin: §7You set §f{GUILD}§7's {RESOURCE} §7to §a{NUMBER}§7.
   Disabled_ChatSpy: §7You've disabled guild chat spy.
   Enabled_ChatSpy: §7You've enabled guild chat spy.
-  Holo_Message_Claim: '§e§l- {GUILD} ZAJĘLI TUTAJ ZIEMIE -;§7Zajęta przez: §f{PLAYER};§7Ilość chunków: §f{CHUNKS};'
-  Holo_Message_Build: '§6§l- {BUILD} STREFA BUDOWLANA -;§7Gildia: §f{GUILD};§7Zakończenie: §f{DATE};'
+  Holo_Message_Claim: '§e§l- ZIEMIA ZAJĘTA PRZEZ: {GUILD} -;§7Zajęta przez: §f{PLAYER};§7Ilość chunków: §f{CHUNKS};'
+  Holo_Message_Build: '§6§l- STREFA BUDOWLANA: {BUILD} STREFA BUDOWLANA -;§7Gildia: §f{GUILD};§7Zakończenie: §f{DATE};'
   Guild_Vault_Header: Skrytka Gildii
   You_Cant_Vault: §7Nie możesz użyć §eSkrytki Gildii§7 dopóki nie zbudujesz §9Magazyn §7na §6Poziom I§7.
   Building_Desc_Townhall: Ratusz zwiększa ilość wolnych miejsc, i chroni twoją gildię od wybuchów TNT
