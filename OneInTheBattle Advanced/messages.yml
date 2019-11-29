@@ -1,0 +1,198 @@
+prefix: '&3&lRPG &8➠ &7'
+party-prefix: '&3&lRPG &8➠ &7'
+signs-prefix: '&8[&3&lRPG&8]'
+Messages:
+  Leave-Game: Wyszedles z gry!
+  Unknown-Command: Co ty odpierdalasz
+  No-Lobby-Found: Ten tryb wystartuje wkrótce!
+  Already-In-Game: Juz jestes w grze!
+  Not-In-Game: Musisz byc w grze!
+  Coins-Increase: Zdobyles monety &a(+%coins%)!
+  Coins-Decrease: Wydales monety &c(%coins%)!
+  Modifier-Change: Twój modyfikator to teraz &d%modifier%!
+  Stats-Reset: Reset!
+  Receive-Item: Zdobyles nowy przedmiot!
+  Receive-Perk: Zdobyles nowa umiejetnosc!
+  Receive-Case: '&aGratulacje! &7zdobyles skrzynie! (&b%amount%&7x &d%case%&7)!'
+  Party-Create-Deny: Juz jestes w party!
+  Party-Create-Party-Exists: Juz istnieje takie party!
+  Party-Create-Success: Zalozyles nowe party! (&b%party%&7)
+  No-Party: Musisz miec party!
+  Must-Be-Leader: Musisz byc liderem party!
+  No-Player-Found: Nie ma takiego gracza.
+  Player-Already-Invited: Juz go zaprosiles!
+  Player-Already-In-Party: Ten gracz juz jest w party!
+  Already-In-Party: Juz posiadasz party!
+  No-Party-Found: Nie ma takiego party!
+  Not-Invited: Nie jestes zaproszony do party!
+  Cant-Leave-Party: Jako lider, nie mozesz opuscic party, musisz je usunac!
+  Party-Unknown-Command: Nie ma takiej komendy
+  Party-Chat-Enable: Wlaczyles chat &aparty
+  Party-Chat-Disable: Wylaczyles chat &cparty
+  Party-Disband: Party zostalo usuniete!
+  Party-Invite-Send: Zostales zaproszony do ekipy &d%leader%&7! Uzyj /rpg party join
+    &a%party% &7aby dolaczyc!
+  Party-Invite-Send-Expiration-Warn: Zaproszenie wygasnie za 30 sekund!
+  Party-Invite-Expire: Zaproszenie wygaslO!
+  Party-Player-Leave: Opusciles Party!
+  Party-Player-Leave-Broadcast: '&b%player% &7dolaczyl do party'
+  Party-Player-Join-Broadcast: '&b%player% &7opuscil party!'
+  Party-Player-Invited-Notification: '&d%leader% &7zaprosil &b%player% &7do party!'
+  Party-Player-Not-In-Party: Gracz &b%player% &7nie jest w party!
+  Party-Player-Kick-Broadcast: Lider wyrzucil z party &e%player%
+  Join-Game: Dolaczono do lobby RPG!
+  Command-Usage: 'Uzycie: /&arpg %cmd% %usage%'
+  No-Permission: Oj chyba ktos nie jest adminem
+  Reload-Kick: Reset RPG, Wyrzucono do lobby!
+  No-Lobby-Kick: Zostaniesz wyrzucony do lobby z powodu braku wolnej gry!
+  Case-Unlock: '&aGratulacje! &7Odblokowales nowy przedmiot, sprawdz go w magazynie!'
+  Case-Unlock-Fail: '&cBlad! &7Twój magzyn jest pelny, nie zdobyles nic!'
+  Map-Join: '&7Dolaczyles do mapy &d%map%&7!'
+  Map-Join-Deny: Nie mozesz tu dolaczyc
+  Grace-End-Reminder: PVP zostanie wlaczone za &c%seconds% &7sekund!
+  Grace-Over: Niesmiertelnosc sie skonczyla! &cWALCZ!
+  Tournament-End-Reminder: Turniej zakonczy sie za &c%seconds% &7sekund!
+  Challenge-End-Reminder: Challenge zakonczy sie za &c%seconds% &7sekund!
+  Cooldown: Poczekaj jeszcze &d%seconds% &7sekund.
+  Rankup: '&aGratulacje! Awansowales na poziom &d%rank%'
+  Full-Inventory: '&cBlad! &7Pelny ekwipunek!'
+  Purchase-Error: '&cBlad! &7Blad przy wczytywaniu danych karty kredytowej!'
+  Not-Enough-Coins: '&cBlad! &7Nie stac cie na ten zakup!'
+  Purchase-Success: Zakupiles &d%item% &7za &b%cost% &7monet!
+  Already-In-Queue: Juz jestes w tej kolejce!
+  Queue-Join-Error: Nie mozesz dolaczyc do kolejki, zbyt malo wolnych map!
+  Queue-Join: Zostales &adodany &7do kolejki!
+  Challenge-Queue-Remove: Zostales &cwyrzucony &7z kolejki!
+  Tournament-Queue-Remove: Zostales &cwyrzucony &7z kolejki!
+  No-Tournament-Maps: Mapy turniejowe nie sa jeszcze gotowe
+  Tournament-Join-Error: Nie mozesz dolaczyc, turniej juz trwa
+  Tournament-Countdown: Turniej rozpocznie się za &b%seconds% &7sekund!
+  Tournament-Countdown-Cancel: Turniej anulowany, zbyt malo graczy!
+  Trade-Complete: Zakonczono wymiane!
+  Trade-Cancel: Wymiana zostala &canulowana.
+  Trade-Error: Brak wolnyc slotow.
+  Lives-Remaining: Zostalo ci &c%lives% &7zyc!
+  Challenge-Begin: Challenge rozpoczety!
+  Player-Win-Challenge: '&aWygrales challenge!'
+  Player-Win-Challenge-Broadcast: '&6%winners% &7wygral(i) przeciwko &e%losers%!'
+  Blue-Team-Join: Jestes w druzynie &9BLUE&7!
+  Red-Team-Join: Jestes w druzynie &cRED&7!
+  Challenge-Player-Eliminated: '%player% &7zostal wyeliminowany! &d(%teamsize%/%maxteamsize%)'
+  Challenge-Cancel: Challenge anulowany
+  Tournament-Start: Turniej rozpoczety! Wybrana mapa to &b%map%&7.
+  Tournament-Cancel: Turniej zostal anulowany
+  Tournament-Player-Eliminated: '&e%player% &7Zostal wyeliminowany! Zostalo &b%players%
+    &7graczy!'
+  Player-Win-Tournament: '&aGratulacje! &7Udalo ci się wygrac turniej!'
+  Player-Win-Tournament-Broadcast: '&6%player% &bwygrał turniej!'
+  Zombies-Wave-Countdown: Fala &d#%wave% &7rozpocznie się za &b%seconds% &7sekund!
+  Zombie-Wave-Begin: 'Fala &d#%wave% &7rozpoczęta! Zombie: &b%zombiesAmount% &7Zdrowie/Obrazenia:
+    &c%zombiesHealth%HP / %zombiesDamage%DMG'
+  Zombies-Game-Countdown-Broadcast: '&b%warning% &cAPOKALIPSA NADCHODZI &b%warning%
+    &7Arena apokalipsy &e%map% &7za chwilę się rozpocznie! Dołącz aby pomóc zwalczyć
+    zarazę i wygrać niesamowite przedmioty!'
+  Zombies-Game-Countdown: Gra rozpocznie się za &b%seconds% &7sekund!
+  Zombies-Game-Begin: Gra rozpoczęta!
+  Player-Win-Zombies: '&aZakonczyles finalna fale!'
+  Player-Win-Zombies-Broadcast: '&6%players% &7zakonczyli &cFINALNA FALE &7w trybie
+    apokalipsy! &aGratulacje'
+  Zombies-Game-Cancel: Gra zakonczona!
+  Zombies-Player-Join: Dolaczyles do mapy &d%map% &7(Apokalipsa).
+  Zombies-Player-Join-Broadcast: '&e%player% &7dolaczyl do gry! &d(%currentPlayers%/%maxPlayers%&7)'
+  Zombies-Wave-Survive: Przetrwales do fali &d%wave%&7!
+  Zombies-Wave-New-Record: Osiagnales nowy rekord &d%wave%&7 przetrwanych fal!
+  Zombies-Player-Eliminated: '&e%player% &7zostal wyeliminowany! &b%players% &7graczy
+    wciaz zyje!'
+  Zombies-Player-Leave-Lobby: '&e%player% &7wyszedl z gry! &d(%currentPlayers%/%maxPlayers%&7)'
+  Kill-Message: Zdobyto &b%coins% &7monet oraz &e%exp% &7expa
+  Sign-Use-Deny: Nie masz pustych ronk XD!
+  Trade-Invite-Send: Zaproszono do wymiany &e%player%
+  Trade-Invite-Receive: '&e%player% &7zaprosil cie do wymiany! Kliknij na niego prawym,
+    trzymajac w rece nozyce (Wymiana)'
+  Trade-Accept-Message: Zaakceptowales zaproszenie gracza &e%player% &7do wymiany!
+  Trade-Accept-Message-Receive: '&e%player% &7zaakceptowal twoje zaproszenie do wymiany!'
+  Player-Equip-Item: Wyekwipowales &d%item%
+  Light-Level-Increase: Twój poziom swietlny &awzrósł (+%light%)!
+  Light-Level-Decrease: Twój poziom swietlny &czmniejszył się (%light%)!
+  Remove-Perk: Wylaczyles umiejetnosc!
+  Player-Sell-Item: 'Sprzedales &d%item% &7za &b%price% &7monet! Stan konta: &a(%coins%)'
+  Command-Block: W grze nie mozesz uzywac komend!
+  Scavenge-Ability: '&aOtrzymales bonusowa strzale &7(Ulepszenie Scavenge)!'
+  Looter-Ability: '&bOtrzymales %coins% monet za zabójstwo &7(Ulepszenie Looter)!'
+  Player-Move: Poruszyles sie!
+  Player-Movement-Disabled: Nie ruszaj się przez &d%seconds% &7sekund!
+  Player-Light-Not-In-Range: '&cTwój poziom świetlny jest zbyt niski na tę mapę!'
+Death-Messages:
+  Suicide: '&c%player% &7umarl na smierc!'
+  Fall: '&c%player% &7zlamal noge!'
+  Monster: '&c%player% &7zostal zarażony przez zombie!'
+  Lava: '&c%player% &7plywal w lawie!'
+  Fire: '&c%player% &7zmienil sie w węgiel!'
+  Explosion: '&c%player% &7wysadzil sie w powietrze!'
+  Unknown: '&c%player% &7zostal zabity przez &d&k||&0&lHEROBRINE&d&k||!'
+  Kill:
+  - '&c%player%%playerLight% &ezostal zabity przez &a%killer%%killerLight%&e!'
+  - '&c%player%%playerLight% &enie mogl sie rownac z zabójcą &a%killer%%killerLight%&e!'
+  - '&a%killer%%killerLight% &ezabił gracza &c%player%%playerLight% &edeath!'
+  - '&a%killer%%killerLight% &ewtrącił do otchłani gracza &c%player%%playerLight%&e!'
+Items:
+  Quit: 'INK_SACK:1 : name:&cPowrót do Lobby &7(Kliknij Prawym) : lore:&7Grasz na
+    EPICMC.GA!'
+  Play: 'COMPASS : name:&eZagraj &7(Kliknij Prawym) : lore:&7Grasz na EPICMC.GA!'
+  Shop: 'EMERALD : name:&aSklep &7(Kliknij Prawym) : lore:&7Grasz na EPICMC.GA!'
+  Profile: 'NAME_TAG : name:&6Profil &7(Kliknij Prawym): lore:&7Grasz na EPICMC.GA!'
+  Back: 'EYE_OF_ENDER : name:&cPowrót &7(Kliknij Prawym)'
+  Trade: 'SHEARS : name:&dWymiana &7(Kliknij prawym na gracza)'
+  Confirm: 'STAINED_GLASS:5 : name:&aPotwierdz &7(Kliknij Prawym)'
+  Cancel: 'STAINED_GLASS:14 : name:&cAnuluj &7(Kliknij Prawym)'
+  Stats: 'PAPER : name:&7» &6Statystyki &7(Kliknij Prawym)'
+  Inventory: 'CHEST : name:&7» &eMagazyn &7(Kliknij Prawym)'
+  Loadout: 'BOW : name:&7» &cZestaw Bojowy &7(Kliknij Prawym)'
+  Achievements: 'ENDER_CHEST : name:&7» &dOsiagniecia &7(Kliknij Prawym)'
+Scoreboard-Content:
+  OITB: '&c%heart% &e&l&nEPICMC.GA &c%heart%'
+  Kills-Deaths: Zabójstwa/Śmierci
+  Coins: Monety
+  Accuracy: Dokladnosc
+  Exp-Rank: Exp/Poziom
+  Light-Level: Poziom Swietlny
+  Next-Rank: Brakujacy Exp
+  Map: Mapa
+  Grace: Niesmiertelnosc
+  Players: Graczy
+  Time: Czas
+  Team-1: Druzyna 1
+  Team-2: Druzyna 2
+  Wave: Fala
+  Freemode: FFA PvP
+  Tournament: Turniej
+  Challenge: Challenge
+  Zombies: Apokalipsa
+  Party: Ekipa
+Signs:
+  Join: '&bZagraj'
+  Players: 'Graczy:'
+  Leave: '&cOpusc'
+Tags:
+  Tier: Tier
+  Tiers: Tiery
+  Rarity: Rzadkosc
+  Defence: Ochrona
+  Contains: Zawiera
+  Attack: Obrazenia
+  Kills: Zabójstwa
+  Deaths: Smierci
+  KDR: KDR
+  Coins: Monety
+  Shots-Fired: Wystrzelone
+  Hits: Uderzenia
+  Accuracy: Dokladnosc
+  Challenge-Wins: Wygrane Challenge
+  Tournament-Wins: Wygrane Turnieje
+  Modifier: Modyfikator
+  Exp: Exp
+  Rank: Poziom
+  Play-Time: Czas Gry
+  Light: Swiatlo
+  Zombies-Killed: Zabite Zombie
+  Highest-Zombies-Round: Rekord Fali
